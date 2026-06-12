@@ -1,7 +1,21 @@
 {
   "news": [
     {
-      "id": 0,
+      "id": "3355a47c4da060e941171391a4ba1ba9",
+      "title": "Jeff Bezos\u2019s Prometheus raises $12B to build",
+      "description": "Jeff Bezos's Prometheus raises $12B to build an &#8216;artificial general engineer' for the physical world . Bezos says productivity gains will lead to 'labor scarcity' in a world where demand for human workers outpaces supply . At $41 billion, Prometheus is one of the most richly valued AI startups ever funded . Bezos knows something about labor at scale: Amazon employs more than 1.5 million people worldwide .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208733347.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-12T01:04:38+00:00"
+    },
+    {
+      "id": "32f44ef46f2c22167eea07b0c358c992",
       "title": "SpaceX officially prices shares at $135",
       "description": "SpaceX officially prices shares at $135 in the largest IPO ever . Elon Musk's space and AI conglomerate officially confirmed that it has raised $75 billion from the sale of its shares to its underwriters . At this price, the deal looks set to make Musk the world's first trillionaire . The company, officially known as Space Exploration Technologies Corp., will trade under the SPCX ticker symbol on the Nasdaq stock exchange Friday .",
       "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/spacex-falcon-9.jpeg?resize=1200,675",
@@ -12,14 +26,54 @@
         "Hardware",
         "Security",
         "Startup"
-      ]
+      ],
+      "pubDate": "2026-06-11T20:33:10+00:00"
     },
     {
-      "id": 1,
-      "title": "SpaceX SPV investors won\u2019t know their true holdings",
-      "description": "SpaceX SPV investors won't know their true holdings until post-IPO lock-ups lift . Some backers in lower-tier vehicles might find they own fewer shares than they think or, in rare cases, that they may not receive any shares at all . SpaceX will be the first major test of the legitimacy of multi-layer SPV structures . The structural ownership of these structures has become so convoluted that even the best-intentioned SPV sponsors may end up misleading their investors .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
-      "fullArticleLink": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "id": "c412502308ffa6bf2ff10c08b13a91d2",
+      "title": "Is It a Super El Ni\u00f1o Year? It",
+      "description": "The National Oceanic and Atmospheric Administration declared that the semiannual climate phenomenon has officially begun . El Ni\u00f1o is like the engine of a car: Fire it up and the atmosphere gets moving . NOAA gives this year\u2019s El Ni\u00f1o a 63 percent chance of exceeding the 3.6-degree F threshold, which would qualify it as a \u2018super El Ni\u00f1o\u2019 Climate models are bullish that it could surpass that threshold by a wide margin .",
+      "imageUrl": "https://media.wired.com/photos/6a2af97dda940e53ac8bec54/191:100/w_1280,c_limit/SSTA_1stweekJune2026.jpg",
+      "fullArticleLink": "https://www.wired.com/story/super-el-nino-turns-worlds-weather-upside-down/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-06-11T19:24:46+00:00"
+    },
+    {
+      "id": "5a6dcabc3b04ca95c59216bb8b62b93d",
+      "title": "Mexican World Cup Stadiums have FIFA\u2019s Environmental Certifications",
+      "description": "FIFA maintained the requirement that the venues must have LEED environmental certifications . FIFA also requires that they use natural grass, which is water-intensive to maintain . The BBVA stadium in Monterrey and the Akron stadium in Guadalajara, having been built in the last 15 years, were conceived under more modern parameters and already met some requirements . For a stadium like Azteca in Mexico City, which opened in 1966, this involved major transformations .",
+      "imageUrl": "https://media.wired.com/photos/6a22cb4e9167b4c1218b5603/191:100/w_1280,c_limit/estadiocdmx.jpg",
+      "fullArticleLink": "https://www.wired.com/story/how-mexican-world-cup-stadiums-achieved-fifas-environmental-certifications/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-06-11T10:00:00+00:00"
+    },
+    {
+      "id": "e670024b9a32e878ab282337aaddf6f9",
+      "title": "Railway secures $100 million to challenge AWS",
+      "description": "Railway, a San Francisco-based cloud platform, has raised $100 million in a Series B funding round . The investment values Railway as one of the most significant infrastructure startups to emerge during the AI boom . The company claims its platform delivers deployments in under one second \u2014 fast enough to keep pace with AI-generated code . Customers report a tenfold increase in developer velocity and up to 65 percent cost savings compared to traditional cloud providers .",
+      "imageUrl": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&q=30",
+      "fullArticleLink": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-01-22T14:00:00+00:00"
+    },
+    {
+      "id": 0,
+      "title": "XAI fired engineer who raised alarms about Grok",
+      "description": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims . Devin Kim claims he was fired for raising concerns about AI safety . Kim was concerned about the possibility that Grok could foment discrimination and spread information about weapons of mass destruction . Kim's focus on AI safety predates his time at Scale AI, where he led a project that produced training data for AI to train systems to detect harmful content and comply with governance policies .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
       "type": "news",
       "categories": [
         "LLM",
@@ -28,11 +82,25 @@
       ]
     },
     {
+      "id": 1,
+      "title": "Amazon borrows $17.5B from banks as AI spending",
+      "description": "Amazon has signed a deal to borrow some $17.5 billion from a number of financial lenders . The banks behind the loan reportedly include Citigroup, JPMorgan Chase, Wells Fargo, HSBC, and BofA Securities . The deal has been characterized as a delayed draw term loan, meaning Amazon can draw down the funds on its own timeline rather than taking the full sum upfront . The loan comes just two days after it was reported that Amazon would raise $14 billion in a Canadian bond sale .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ]
+    },
+    {
       "id": 2,
-      "title": "Is It a Super El Ni\u00f1o Year? It",
-      "description": "The National Oceanic and Atmospheric Administration declared that the semiannual climate phenomenon has officially begun . El Ni\u00f1o is like the engine of a car: Fire it up and the atmosphere gets moving . NOAA gives this year\u2019s El Ni\u00f1o a 63 percent chance of exceeding the 3.6-degree F threshold, which would qualify it as a \u2018super El Ni\u00f1o\u2019 Climate models are bullish that it could surpass that threshold by a wide margin .",
-      "imageUrl": "https://media.wired.com/photos/6a2af97dda940e53ac8bec54/191:100/w_1280,c_limit/SSTA_1stweekJune2026.jpg",
-      "fullArticleLink": "https://www.wired.com/story/super-el-nino-turns-worlds-weather-upside-down/",
+      "title": "China Opens World\u2019s First Wind-Powered Underwater Data Center",
+      "description": "China has become the first country in the world to operate an underwater data center powered by wind . With an initial capacity of 24 megawatts, the facility is submerged at a depth of 10 meters in the Lin-gang Special Zone, within the China Pilot Free Trade Zone in Shanghai . This location allows seawater to be used as a natural cooling system, reducing the proportion of energy used to cool the infrastructure to less than 10 percent .",
+      "imageUrl": "https://media.wired.com/photos/68fab92565a13f02607aecfa/191:100/w_1280,c_limit/Screenshot%202025-10-23%20at%2011.33.04%E2%80%AFa.m..png",
+      "fullArticleLink": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
       "type": "news",
       "categories": [
         "Security"
@@ -40,10 +108,10 @@
     },
     {
       "id": 3,
-      "title": "Mexican World Cup Stadiums have FIFA\u2019s Environmental Certifications",
-      "description": "FIFA maintained the requirement that the venues must have LEED environmental certifications . FIFA also requires that they use natural grass, which is water-intensive to maintain . The BBVA stadium in Monterrey and the Akron stadium in Guadalajara, having been built in the last 15 years, were conceived under more modern parameters and already met some requirements . For a stadium like Azteca in Mexico City, which opened in 1966, this involved major transformations .",
-      "imageUrl": "https://media.wired.com/photos/6a22cb4e9167b4c1218b5603/191:100/w_1280,c_limit/estadiocdmx.jpg",
-      "fullArticleLink": "https://www.wired.com/story/how-mexican-world-cup-stadiums-achieved-fifas-environmental-certifications/",
+      "title": "There\u2019s Finally Video of a Great White Shark",
+      "description": "A diver recently documented his encounter with a great white shark in the Strait of Sicily . The footage shows a huge adult male specimen of Carcharodon carcharias, a native species that is now considered critically endangered . The species is increasingly endangered by human activities, particularly accidental capture in fishing operations, illegal fishing, habitat loss and the decline of its natural prey . Every documented sighting in the Mediterranean represents a valuable opportunity for scientific research and conservation strategies .",
+      "imageUrl": "https://media.wired.com/photos/6a28747ac51bd4a5da3f371b/191:100/w_1280,c_limit/173002118",
+      "fullArticleLink": "https://www.wired.com/story/great-white-shark-mediterranean-sea-sighting-endangered/",
       "type": "news",
       "categories": [
         "Security"
