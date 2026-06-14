@@ -1,33 +1,65 @@
 {
   "news": [
     {
-      "id": "fc12c862cec55a4d905c773de7d1b965",
-      "title": "Anthropic suspends access to new models, suspending access",
-      "description": "Anthropic suspends access to its newest AI models following U.S. government directive . Decision reignited debate over whether India can afford to rely on technologies built and controlled elsewhere . Anthropic has disputed the government's characterization and argued the action should not have been taken . For some, the episode is a wake-up call on technological dependence . For others, it is a reminder that access to increasingly critical AI systems can be shaped by geopolitical decisions beyond India's control .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "id": "8d525d5147b2ebcd96b87a43779864b4",
+      "title": "C3 AI agents will automate predictive maintenance",
+      "description": "Shell will use agents from C3 AI to shift from anomaly detection to fully-automated predictive maintenance . The global energy giant is building on their current use of the C3 . Reliability Suite already keeps tabs on more than 30,000 crucial pieces of equipment across upstream and downstream operations . Shell now intends to lean on C3 to lean towards automated maintenance, says C3. AI News . The post: How C3 agents will automate predictive maintenance for Shell .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/c3-ai-agents-automate-predictive-maintenance-shell-asset-management-energy-enterprise-workflow-automation.jpeg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/",
       "type": "news",
       "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
+        "General AI"
       ],
-      "pubDate": "2026-06-14T03:00:00+00:00"
+      "pubDate": "2026-06-14T08:35:53.673539Z"
     },
     {
-      "id": "2149290c64f5550b3e223a6ef57e986f",
-      "title": "KPMG pulls report on AI usage due",
-      "description": "Professional services firm KPMG pulls report on AI usage due to apparent hallucinations . GPTZero identified a number of inaccuracies in the report, which was published in October 2025 . UBS, the UK's National Health Service, Swiss Federal Railways, and Transport for London all told the FT the report\u2019s claims about their AI usage were either untrue or misleading . EY withdrew a report on loyalty rewards programs that appeared to include fake footnotes and AI hallucinations .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2276519058.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "id": "aba8d77b9057aabc6134eb482a00ceec",
+      "title": "Weis Markets adds Instacart AI-powered shopping carts",
+      "description": "Weis Markets is adding Instacart\u2019s AI-powered shopping carts, Caper Carts, to select stores in Pennsylvania . Smart carts bring digital coupons, loyalty features, and repeat-purchase recommendations into the grocery aisle . The smart carts include cameras, certified scales, location systems, and a touchscreen . Weis markets will deploy the smart carts, which include cameras and certified scales and location systems .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Weis-Markets-adds-Instacart-AI-powered-shopping-carts-to-stores-scaled-e1780904938998.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/",
       "type": "news",
       "categories": [
-        "LLM",
-        "Security",
-        "Startup"
+        "General AI"
       ],
-      "pubDate": "2026-06-13T20:42:31+00:00"
+      "pubDate": "2026-06-14T08:35:40.491709Z"
+    },
+    {
+      "id": "6162e3e8ff88b019dcd4bd64b0fea7ec",
+      "title": "Aviva deploys AI to stop \u00a3230M in sophisticated",
+      "description": "Aviva has uncovered a record \u00a3230 million in insurance fraud claims and is using AI tools to counter the growing problem . The battleground has changed, and culprits are also coming armed with a new generation of tools . We're now in an environment where AI is being used not just to defend against fraud, but also defend against the fraud, says AI News editor-at-a-professionals . Aviva deploys AI to stop \u00a3230M in sophisticated insurance fraud, he says .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/aviva-insurance-ai-fraud-risk-management-enterprise-detection-computer-vision.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-14T08:35:27.879345Z"
+    },
+    {
+      "id": "ead7191c3456a0db85e352167b522b0f",
+      "title": "Autonomous AI Data Loss in DevOps: Building Efficient",
+      "description": "Autonomous AI agents are altering the speed at which software is shipped . Unfortunately, they are also shrinking the time it takes for a mistake to become a catastrophe . The threat no longer comes just from external ransomware or malicious insiders . It comes from authorized, internal tools, according to the author of the book . The book is published on Amazon.com/Artificial\u00a0AI News. For more information on the book, visit Amazon.co.uk .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Autonomous-AI-Data-Loss-1024x517.png",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-06-14T08:35:15.623370Z"
+    },
+    {
+      "id": "17cd68da6c86abfbcc1e33d30cda0b59",
+      "title": "How to sign PDFs easily online",
+      "description": "Signing PDFs has become an important task for businesses and individuals alike . The ability to quickly and securely sign PDFs online is essential . Fortunately, with the rise of online PDF signers, signing PDFs is now easier . Click here to learn more about how to sign your PDFs easily online with a PDF signer . Do you know how to do this? Share it with us on Facebook or contact us at iReport.",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/PDF-signer-1024x517.png",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-14T08:35:03.926729Z"
     },
     {
       "id": "0308281aa0fca48522ed64aae729d11b",
@@ -44,18 +76,6 @@
       "pubDate": "2026-06-13T19:11:41+00:00"
     },
     {
-      "id": "650b446f025938a6fa78abd49d41b886",
-      "title": "New AI model called \"Count Anything\" does exactly",
-      "description": "\"Count Anything\" is intended to be the first AI model capable of counting objects in any type of image, from crowds to cell samples under a microscope . In a comparative test, it cuts the error rate in half compared to previous systems . However, the approach still struggles with extremely dense objects and ambiguous terms . The new AI model still struggles to count objects in very dense images and ambiguous words like \"count anything\"",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/count-anything-generated-image-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/new-ai-model-called-count-anything-does-exactly-what-it-says-and-thats-harder-than-it-sounds/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-13T17:00:19+00:00"
-    },
-    {
       "id": "748265de56e10a9f7fbc5dc812f0083d",
       "title": "OpenAI faces investigation from state attorneys general",
       "description": "A coalition of state attorneys general has reportedly opened an investigation into OpenAI . The company was served with a subpoena from New York\u2019s attorney general on Friday . The subpoena sought documents related to a broad range of topics including advertising, user engagement and retention, model sycophancy, handling of consumer data and health data, and treatment of minors and seniors . A spokesperson told the WSJ that OpenAI is cooperating with the investigation .",
@@ -68,91 +88,6 @@
         "Startup"
       ],
       "pubDate": "2026-06-13T16:47:18+00:00"
-    },
-    {
-      "id": "31416d9b79ca6fa0b8b0d555b98e871b",
-      "title": "Microsoft CEO Satya Nadella admits he's a token-maxer",
-      "description": "Microsoft CEO Satya Nadella is warning against \"token-maxing,\" throwing the most powerful AI models at every problem . Frontier models shouldn't be wasted on everyday tasks, he says . The marginal cost of productivity gains has to match the token cost . Still, he admits, \"I'm like a token-maxer too. So it is addictive.\" Nadell admits he&#039;s a token maxer, too: &quot; It &#038;s addictive.\"",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/microsoft_logo.png",
-      "fullArticleLink": "https://the-decoder.com/microsoft-ceo-satya-nadella-admits-hes-a-token-maxer-too-its-addictive/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-13T13:03:49+00:00"
-    },
-    {
-      "id": "e7e4e218f10ebb91f73139037977a49b",
-      "title": "Google Research's Gemini-SQL2 tops text-to-SQL benchmarks",
-      "description": "Google Research's Gemini-SQL2 turns natural language into executable queries . Built on Gemini 3.1 Pro, it tops the BIRD benchmark at 80.04 percent accuracy . Google says the technology could improve natural language features across its data services . Google Research: Technology could be used to improve data-driven services across the world . Back to Mail Online home . Back To the page you came from: http://www.mailonline.co.uk/newsquiz.com/storystory .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/02/google_gemini_logo_wall.png",
-      "fullArticleLink": "https://the-decoder.com/google-researchs-gemini-sql2-tops-text-to-sql-benchmarks-by-a-wide-margin/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-13T12:32:11+00:00"
-    },
-    {
-      "id": "e21c28b8f90408cdfd7ddab1118c796e",
-      "title": "Microsoft's SkillOpt boosts GPT-5.5 by using nothing but",
-      "description": "A simple Markdown file is enough to boost GPT-5.5 by about 23 points on procedural tasks . The same file transfers across models and agent environments like Codex and Claude Code . Microsoft and three Chinese universities have developed SkillOpt, a method that optimizes instruction documents for AI agents using principles from traditional model training . The method was developed by Microsoft, three universities and is available in the U.S.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/skillopt-markdown-neural-training-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-13T12:20:39+00:00"
-    },
-    {
-      "id": "80b00f5d2de24d8fa502a6e708d3aa4b",
-      "title": "Claude Fable 5 outpaces GPT-5.5 by 13 points",
-      "description": "Anthropic's Claude Fable 5 hits 88 percent accuracy on the hardest FrontierMath tier . Opus 4.5 sat below 10 percent in early 2026 . OpenAI's GPT-5.5 reaches about 75 percent on the same tier . The pace of improvement in AI math keeps accelerating, Anthropic says . Anthropic: \"Claude Fable\" 5 outpaces GPT 5 by 13 points on FrontierMath&#039;s toughest problems .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/12/ai_in_science_math.jpeg",
-      "fullArticleLink": "https://the-decoder.com/claude-fable-5-outpaces-gpt-5-5-by-13-points-on-frontiermaths-toughest-problems/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-13T10:16:26+00:00"
-    },
-    {
-      "id": "9543c785d8662ad55bf9b46b62d0e264",
-      "title": "Meta shifts from \"tokenmaxxing\" to token managing",
-      "description": "An internal memo to 6,000 employees reveals Meta is heading toward billions in AI costs from internal use alone . Starting in 2027, budgets, allocations, and a central dashboard called \"AI Gateway\" will govern token consumption . CTO Andrew Bosworth put it bluntly: \"All motion is not progress and token usage alone is not a measure of impact of any kind\" The memo was sent to employees by Meta .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/meta_ai_logo-2.png",
-      "fullArticleLink": "https://the-decoder.com/meta-shifts-from-tokenmaxxing-to-token-managing-as-internal-ai-costs-reportedly-hit-billions/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-13T09:49:28+00:00"
-    },
-    {
-      "id": "77a6de37e8d9cb49f3929a41594e029a",
-      "title": "Kimi K2.7 Code undercuts GPT-5.5 and Claude",
-      "description": "Moonshot AI has released Kimi K2.7 Code, an open-weights model with one trillion parameters built for programming . It still trails GPT-5.5 and Claude Opus 4.8 in coding benchmarks but costs a fraction of the price . The key question isn't whether it's the best model, but whether the extra runs you get for the same budget make up for the gap in quality .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/kimi_logo.png",
-      "fullArticleLink": "https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-13T08:38:41+00:00"
-    },
-    {
-      "id": "5f2fe3a2ac39038dc7e25d13fd8343d2",
-      "title": "US government forces Anthropic to disable Claude Fable",
-      "description": "Anthropic is complying but pushing back publicly: the vulnerabilities are minor and exist in competing models like GPT-5.5, the company says . Anthropic warns the move could set a precedent that halts all frontier deployments . The company spent months hyping the cybersecurity risks of its own Mythos class, Anthropic says, in an ironic turn after the company hyped the security risks of the company's own MythOS class .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/fable_5_us_prison.png",
-      "fullArticleLink": "https://the-decoder.com/us-government-forces-anthropic-to-disable-claude-fable-5-and-mythos-5-for-all-customers-worldwide/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-06-13T07:40:44+00:00"
     },
     {
       "id": "debd8a7ac5d0b12fcc2fa108c827194f",
