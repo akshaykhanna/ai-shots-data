@@ -1,30 +1,6 @@
 {
   "news": [
     {
-      "id": "83c240956e5e21cbc42862c4ceaa8b6b",
-      "title": "Scout from M\u2019Soft is the agentic Autopilot that",
-      "description": "Microsoft has announced the wider testing of its new Autopilot feature . Autopilots are described as a new category of agents that can work autonomously on a user's behalf . Microsoft says each autopilot has its own identity, and so multiple agents can work across M365 . Microsoft has also announced that Scout Scout from M'Soft is the agentic Autooperator that works across the company's M365 platform .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/microsofts-scout-autopilot-hero_x1440.webp",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/",
-      "type": "news",
-      "categories": [
-        "Robotics"
-      ],
-      "pubDate": "2026-06-15T04:25:22.154972Z"
-    },
-    {
-      "id": "add6bf56e17286d31bf33e03987c78d8",
-      "title": "Meta Business Agent drives AI-powered conversational commerce",
-      "description": "Meta has launched Business Agent to automate conversational commerce workflows inside messaging applications . The software allows global retail brands to execute transactions and field support tickets without human intervention . Deploying this architecture places agentic AI directly at the core of social commerce . Meta integrated these workflows natively into Instagram, Messenger, and soon WhatsApp . It will be available on iOS and Android devices in the next few months for the first time .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/meta-business-agent-ai-conversational-commerce-marketing-crm-sales-retail-strategy-enterprise-customer-support.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-15T04:25:12.037589Z"
-    },
-    {
       "id": "7fff4a7e479d44932fcfde39e636849f",
       "title": "McDonald\u2019s tests Google-backed AI drive-thru ordering system",
       "description": "McDonald\u2019s is testing a new AI system that can take drive-thru orders and support restaurant operations . The system, called ArchIQ and nicknamed \u2018Archy,\u201d was introduced during the company\u2019\ufffds Worldwide convention . It is being tested at five McDonald's locations in the United States, though the company has not named the restaurants involved in testing the system . The company hasn't released the names of those restaurants involved .",
@@ -34,7 +10,7 @@
       "categories": [
         "General AI"
       ],
-      "pubDate": "2026-06-15T04:25:01.148617Z"
+      "pubDate": "2026-06-15T12:25:00.288587Z"
     },
     {
       "id": "820a457e9e2393238a68268de07a7c9f",
@@ -46,7 +22,7 @@
       "categories": [
         "General AI"
       ],
-      "pubDate": "2026-06-15T04:24:50.491372Z"
+      "pubDate": "2026-06-15T12:24:49.373767Z"
     },
     {
       "id": "cf4bdee75a70db3531f2a8327f5812d2",
@@ -58,7 +34,32 @@
       "categories": [
         "General AI"
       ],
-      "pubDate": "2026-06-15T04:24:39.787925Z"
+      "pubDate": "2026-06-15T12:24:38.280022Z"
+    },
+    {
+      "id": "8be4f81cae1a08d5219af03d060b0e32",
+      "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+      "description": "Visa has linked its payment infrastructure to ChatGPT, enabling AI agents to recommend retail products and execute financial transactions . The deployment removes human intervention from the final stages of the retail funnel . Autonomous agents will now process user prompts, evaluate merchant catalogues, and complete the checkout process using Visa\u2019s payment rails at any supporting merchant . Visa's payment rails can be used by any supporting merchants at any of them .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/visa-chatgpt-integration-payments-retail-agentic-ai-ecommerce-agents-fintech-openai-enterprise-finance.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-06-15T12:24:27.379651Z"
+    },
+    {
+      "id": "f6c89e3e9a5cb44ed885bd015f0a16ce",
+      "title": "Coinbase for Agents: Automating portfolio trading",
+      "description": "Coinbase for Agents connects AI to financial execution channels to automate trading and payments directly from user portfolios . Large language models process vast quantities of data but lack direct integration with active financial portfolios . Individuals frequently employ these models to evaluate market developments or research investment opportunities . These software tools possess the capacity for complex software tools that can be complex and difficult to work with complex software . The post: Automating portfolio trading with AI appeared in AI News.",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/coinbase-for-agents-ai-payments-fintech-finance-trading-agentic-x402-mcp-crypto.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-15T12:24:16.848806Z"
     },
     {
       "id": "8d525d5147b2ebcd96b87a43779864b4",
