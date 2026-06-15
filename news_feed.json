@@ -1,6 +1,66 @@
 {
   "news": [
     {
+      "id": "83c240956e5e21cbc42862c4ceaa8b6b",
+      "title": "Scout from M\u2019Soft is the agentic Autopilot that",
+      "description": "Microsoft has announced the wider testing of its new Autopilot feature . Autopilots are described as a new category of agents that can work autonomously on a user's behalf . Microsoft says each autopilot has its own identity, and so multiple agents can work across M365 . Microsoft has also announced that Scout Scout from M'Soft is the agentic Autooperator that works across the company's M365 platform .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/microsofts-scout-autopilot-hero_x1440.webp",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-06-15T04:25:22.154972Z"
+    },
+    {
+      "id": "add6bf56e17286d31bf33e03987c78d8",
+      "title": "Meta Business Agent drives AI-powered conversational commerce",
+      "description": "Meta has launched Business Agent to automate conversational commerce workflows inside messaging applications . The software allows global retail brands to execute transactions and field support tickets without human intervention . Deploying this architecture places agentic AI directly at the core of social commerce . Meta integrated these workflows natively into Instagram, Messenger, and soon WhatsApp . It will be available on iOS and Android devices in the next few months for the first time .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/meta-business-agent-ai-conversational-commerce-marketing-crm-sales-retail-strategy-enterprise-customer-support.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-15T04:25:12.037589Z"
+    },
+    {
+      "id": "7fff4a7e479d44932fcfde39e636849f",
+      "title": "McDonald\u2019s tests Google-backed AI drive-thru ordering system",
+      "description": "McDonald\u2019s is testing a new AI system that can take drive-thru orders and support restaurant operations . The system, called ArchIQ and nicknamed \u2018Archy,\u201d was introduced during the company\u2019\ufffds Worldwide convention . It is being tested at five McDonald's locations in the United States, though the company has not named the restaurants involved in testing the system . The company hasn't released the names of those restaurants involved .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/McDonalds-tests-Google-backed-AI-drive-thru-ordering-system-scaled-e1781062736760.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-15T04:25:01.148617Z"
+    },
+    {
+      "id": "820a457e9e2393238a68268de07a7c9f",
+      "title": "Siri AI arrives with Google inside, and much",
+      "description": "Apple's Stacey Ford, vice president of OS Program Management, was talking about Spotlight at WWDC 2026 . \"We've all had that moment where you search for something you know is there, but it just won't show up,\" she said . Siri AI arrives with Google inside, and much of the world is locked out . Apple's Spotlight will launch on Monday at Apple Park, the thing that wouldn't happen .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Apple-Siri-AI-Spotlight-integration-260608_big.jpg.large_2x.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-15T04:24:50.491372Z"
+    },
+    {
+      "id": "cf4bdee75a70db3531f2a8327f5812d2",
+      "title": "Xebia: Why AI agents fail without the right",
+      "description": "Agentic AI scales on data strength, as Niels Zeilemaker, global CTO at Xebia, explains . \u201cIf you don\u2019t think about that, you can [AI agents] fail without the right data foundation,\u201d he says . \u2018If you\u2019re adding AI agents to accelerate its processes, you have to start at the foundation \u2013 and that means making your data available for AI consumption .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/fabio-oyXis2kALVg-unsplash.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-15T04:24:39.787925Z"
+    },
+    {
       "id": "8d525d5147b2ebcd96b87a43779864b4",
       "title": "C3 AI agents will automate predictive maintenance",
       "description": "Shell will use agents from C3 AI to shift from anomaly detection to fully-automated predictive maintenance . The global energy giant is building on their current use of the C3 . Reliability Suite already keeps tabs on more than 30,000 crucial pieces of equipment across upstream and downstream operations . Shell now intends to lean on C3 to lean towards automated maintenance, says C3. AI News . The post: How C3 agents will automate predictive maintenance for Shell .",
