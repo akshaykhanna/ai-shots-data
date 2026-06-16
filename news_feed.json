@@ -10,7 +10,7 @@
       "categories": [
         "General AI"
       ],
-      "pubDate": "2026-06-16T11:21:26.236066Z"
+      "pubDate": "2026-06-16T17:02:42.128726Z"
     },
     {
       "id": "1369feb16cb16e0a0207065c5a7581b9",
@@ -22,7 +22,7 @@
       "categories": [
         "Security"
       ],
-      "pubDate": "2026-06-16T11:21:14.156978Z"
+      "pubDate": "2026-06-16T17:02:31.700472Z"
     },
     {
       "id": "9ed262fa17a21ceace3190e3e97830de",
@@ -34,7 +34,19 @@
       "categories": [
         "General AI"
       ],
-      "pubDate": "2026-06-16T11:21:02.659987Z"
+      "pubDate": "2026-06-16T17:02:21.957567Z"
+    },
+    {
+      "id": "49d2fad0ab4d65dddc3115cd5fa47e17",
+      "title": "Insurers pivot AI strategy toward core risk underwriting",
+      "description": "Insurers are embedding AI technologies into workflows that directly influence underwriting discipline and capital allocation . AI investments by insurers are now expected to generate tangible business value beyond mere efficiency . Insurers pivot AI strategy toward core risk underwriting, says Christian Preece, Insurance Director at Evident, in the 2026 Evident AI Index . He says: \u201cFor years, insurers have competed on AI ambition,\u201d",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/insurers-underwriting-ai-risk-insurance-claims-research-report-finance-study-fintech-governance.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-16T17:02:10.760496Z"
     },
     {
       "id": "02ecd5d7c5acfc2b3b60a89d34cb414a",
@@ -46,21 +58,7 @@
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-16T11:20:46.578975Z"
-    },
-    {
-      "id": "89124697cfe6f224975b31284addfdc7",
-      "title": "DeepSeek takes outside money for the first time",
-      "description": "Chinese AI startup DeepSeek has raised more than 50 billion yuan - about $7.4 billion . Tencent and battery maker CATL are among the biggest outside backers . Investors had to put their money into a limited partnership managed by CEO Liang Wenfeng . Investors have no voting rights and face a five-year lock-up period . The only exception is China's state-backed AI investment fund, which invested directly .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/08/deepseek_logo_wahle_Matrix.png",
-      "fullArticleLink": "https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Startup"
-      ],
-      "pubDate": "2026-06-16T11:20:30.996204Z"
+      "pubDate": "2026-06-16T17:01:56.755898Z"
     },
     {
       "id": "169871f0fda561890b695ca62de9703d",
