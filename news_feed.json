@@ -1,6 +1,75 @@
 {
   "news": [
     {
+      "id": "169871f0fda561890b695ca62de9703d",
+      "title": "Pok\u00e9mon Go data helped train AI now linked",
+      "description": "Developer Niantic added in-game incentives for Pok\u00e9mon Go players to scan real-world locations with their smartphones . Millions of users then scanned streets, buildings, parks, and trees, generating billions of visual mapping data points . That technology is now being combined with a US defense contractor's software for GPS-free navigation . The system is immune to GPS jamming and spoofing, which is already being used in the wars in Ukraine and Iran to throw off kamikaze drones .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/Niantic-Spatial-Vantor.png",
+      "fullArticleLink": "https://the-decoder.com/pokemon-go-data-helped-train-ai-now-linked-to-military-drones/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-06-16T04:14:53.986399Z"
+    },
+    {
+      "id": "e7f8879499de04eb7e5f3969a22fc771",
+      "title": "Nvidia joins AI debt boom with $20 billion",
+      "description": "Nvidia wants to raise at least $20 billion through its first bond sale since 2021 . The chipmaker is offering bonds in seven tranches with maturities ranging from two to 30 years . The longest tranche carries a spread of about 0.9 percentage points above U.S. Treasuries . JPMorgan Chase, Morgan Stanley, and Goldman Sachs are among the banks managing the sale . Nvidia's last bond sale was in June 2021, when it raised $5 billion .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+      "fullArticleLink": "https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-06-16T04:14:40.206777Z"
+    },
+    {
+      "id": "f95e9ea6585a4215aa2362f6581ba77d",
+      "title": "Anthropic may be asking Anthropic the impossible",
+      "description": "Government officials appear to be accusing Anthropic of disregarding Trump's cyber directive and releasing Fable 5 without explicit approval . Anthropic's CEO Dario Amodei said back in 2023 that \"a jailbreak could be life or death\" Security experts and tech industry executives have published an open letter to Trade Secretary Lutnick and National Cyber Director Cairncross calling for export controls on Fable and Mythos to be lifted .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/white_house_claude-1.png",
+      "fullArticleLink": "https://the-decoder.com/the-us-government-may-be-asking-anthropic-the-impossible-by-demanding-unhackable-llms/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-06-16T04:14:22.764506Z"
+    },
+    {
+      "id": "2c6e5bbca2bc30ce63346a1a25bbc93b",
+      "title": "The AI Hype Index: AI gets booed",
+      "description": "The AI Hype Index: AI gets booed in graduation season . Reese Witherspoon has warned women to embrace it or be replaced by it . The long-awaited V4 is more efficient and a win for Chinese chipmakers. The new T-Mobile phone plan takes a nuclear approach to online safety. We\u2019re having trouble saving your preferences. Try refreshing this page and updating them one more time. If you continue to get this message, reach out at customer-service@technologyreview.com with a list of newsletters you\u2019d like to receive.",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MJ26-Thumb.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-06-16T04:14:05.146676Z"
+    },
+    {
+      "id": "f706a3b8d9c573702a3ba9d2074692f1",
+      "title": "How the Pope\u2019s Magnifica Humanitas offers a template",
+      "description": "Pope Leo XIV\u2019s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: \u201cTechnology is never neutral\u201d Magnifica Humanitas (\u201cMagnificent Humanity\u201d) is a clarion call to all people to act with courage and solidarity . Despite a lack of regulation, we still have the ability to steer artificial intelligence in ways that can benefit our common humanity .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AP26148386379363.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-06-16T04:13:48.948194Z"
+    },
+    {
       "id": "6e70753003b0d4a7fc3b662ff8f2be49",
       "title": "Anthropic's export controls sparked a global AI sovereignty",
       "description": "Anthropic export controls turned an abstract policy fear into a live one last week . US government directive took the company's two most powerful AI models offline as of June 13, 2026 . Anthropic's own foreign-born employees were briefly taken offline for users everywhere, including, briefly, Anthropic . The move set off alarm bells across Europe and Canada about who really controls the AI industry . The AI off switch sparked a global AI sovereignty scramble .",
