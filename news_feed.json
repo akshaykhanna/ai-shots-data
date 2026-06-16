@@ -1,6 +1,68 @@
 {
   "news": [
     {
+      "id": "f9df3bd9a4f992a2222280c65022b67c",
+      "title": "How AI-Powered CMS Platforms are Transforming Enterprise Content",
+      "description": "How AI-Powered CMS Platforms are Transforming Enterprise Content Operations? How do you get the right content, in the right format, to the right channel? The answer was usually a combination of manual processes, siloed systems, and large coordination teams that grew historically . The post: How AI powered CMS platforms are transforming enterprise content operations? Read more from the AI News blog here: http://://://www.AINews.com/AINews/ .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/AI-CMS-platform-1024x517.png",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-16T11:21:26.236066Z"
+    },
+    {
+      "id": "1369feb16cb16e0a0207065c5a7581b9",
+      "title": "AI Red Teaming Explained: What it",
+      "description": "With AI adoption accelerating, testing systems under adversarial conditions has become increasingly important . It enables organisations to identify vulnerabilities before deployment and strengthen overall system safety . Explore what AI red teaming is, why it matters and the leading companies offering AI red . teaming tests artificial artificial artificial systems under . adversarial . conditions and why it is important to test systems under the conditions of an AI system under adversary conditions . It is a tool that can be used to test and test systems before deployment .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/AI-Red-Teaming.png",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-06-16T11:21:14.156978Z"
+    },
+    {
+      "id": "9ed262fa17a21ceace3190e3e97830de",
+      "title": "EU publishes its AI content labelling playbook ahead",
+      "description": "EU publishes its AI content labelling playbook ahead of the AI Act's August deadline . The voluntary Code of Practice is meant to help companies meet transparency rules that become law across the bloc on August 2 onwards . The European Commission released the final Code on 10 June, setting out practical steps for businesses that build and use generative AI to mark their content . The EU has now published the final code of Practice, which is voluntary .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/09/Resham-Kotecha-Open-Data-Institute_How-the-EU-can-lead-in-AI-scaled-e1756964222915.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-16T11:21:02.659987Z"
+    },
+    {
+      "id": "02ecd5d7c5acfc2b3b60a89d34cb414a",
+      "title": "OpenAI burned through $34 billion last year",
+      "description": "OpenAI spent $34 billion in the past year, according to independent journalist Ed Zitron . About $19 billion went to research and development, while $6 billion was spent on sales and marketing . By year's end, monthly revenue hit $2 billion, up from $1 billion per quarter at the end of 2024 . OpenAI is preparing an IPO that could value the company at more than $1 trillion .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/openai_audio-1.png",
+      "fullArticleLink": "https://the-decoder.com/openai-burned-through-34-billion-last-year/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-16T11:20:46.578975Z"
+    },
+    {
+      "id": "89124697cfe6f224975b31284addfdc7",
+      "title": "DeepSeek takes outside money for the first time",
+      "description": "Chinese AI startup DeepSeek has raised more than 50 billion yuan - about $7.4 billion . Tencent and battery maker CATL are among the biggest outside backers . Investors had to put their money into a limited partnership managed by CEO Liang Wenfeng . Investors have no voting rights and face a five-year lock-up period . The only exception is China's state-backed AI investment fund, which invested directly .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/08/deepseek_logo_wahle_Matrix.png",
+      "fullArticleLink": "https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-06-16T11:20:30.996204Z"
+    },
+    {
       "id": "169871f0fda561890b695ca62de9703d",
       "title": "Pok\u00e9mon Go data helped train AI now linked",
       "description": "Developer Niantic added in-game incentives for Pok\u00e9mon Go players to scan real-world locations with their smartphones . Millions of users then scanned streets, buildings, parks, and trees, generating billions of visual mapping data points . That technology is now being combined with a US defense contractor's software for GPS-free navigation . The system is immune to GPS jamming and spoofing, which is already being used in the wars in Ukraine and Iran to throw off kamikaze drones .",
