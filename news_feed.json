@@ -10,12 +10,12 @@
       "categories": [
         "General AI"
       ],
-      "pubDate": "2026-06-17T11:06:20.374474Z"
+      "pubDate": "2026-06-17T15:41:20.128128Z"
     },
     {
       "id": "89124697cfe6f224975b31284addfdc7",
       "title": "DeepSeek takes outside money for the first time",
-      "description": "Chinese AI startup DeepSeek has raised more than 50 billion yuan - about $7.4 billion . The company's valuation now tops $50 billion . Tencent and battery maker CATL are among the biggest outside backers . Investors had to put their money into a limited partnership managed by CEO Liang Wenfeng, not directly into the company . The only exception is China's state-backed AI investment fund, which invested directly .",
+      "description": "Chinese AI startup DeepSeek has raised more than 50 billion yuan - about $7.4 billion . The company's valuation now tops $50 billion . Tencent and battery maker CATL are among the biggest outside backers . Investors had to put their money into a limited partnership managed by CEO Liang Wenfeng . The deal structure is unusual, investors have no voting rights and face a five-year lock-up period .",
       "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/08/deepseek_logo_wahle_Matrix.png",
       "fullArticleLink": "https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation/",
       "type": "news",
@@ -24,19 +24,19 @@
         "Hardware",
         "Startup"
       ],
-      "pubDate": "2026-06-17T11:06:03.333322Z"
+      "pubDate": "2026-06-17T15:41:04.165459Z"
     },
     {
       "id": "f8d891724f1919a2e4b7e10b7aad84e6",
       "title": "Anthropic backs off unpopular billing overhaul as price",
-      "description": "Anthropic had planned to separate Agent SDK and third-party app usage from subscription limits . The company says it's working to better align the plan with actual usage patterns . The original plan would have stopped the Agent SDK, the claude -p command, and apps from drawing on regular subscription limits starting June 15, 2026 . The US government just ordered Anthropic to shut off global access to Fable 5 and Mythos 5 for non-US citizens .",
+      "description": "Anthropic planned to separate Agent SDK and third-party app usage from subscription limits . The original plan would have stopped the Agent SDK, the claude -p command, and apps from drawing on regular subscription limits starting June 15 . Anthropic has paused the billing overhaul it had announced for June 15, 2026 . For now, \"Nothing changes for now,\" Anthropic says . The company says it's working to better align the plan with actual usage patterns .",
       "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_logo_wall-1.png",
       "fullArticleLink": "https://the-decoder.com/anthropic-backs-off-unpopular-billing-overhaul-as-price-war-with-openai-looms/",
       "type": "news",
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-17T11:05:46.746151Z"
+      "pubDate": "2026-06-17T15:40:47.956558Z"
     },
     {
       "id": "01183e0faf80721e839b8e92c50bf733",
@@ -50,12 +50,12 @@
         "Hardware",
         "Startup"
       ],
-      "pubDate": "2026-06-17T11:05:30.777172Z"
+      "pubDate": "2026-06-17T15:40:32.756192Z"
     },
     {
       "id": "72b2b4b59adb6e2780a3cc484ae130ce",
       "title": "SpaceX bets $60 billion on Cursor to catch",
-      "description": "Elon Musk's SpaceX is buying AI coding startup Anysphere, the company behind the AI coding assistant Cursor . The deal is meant to help the struggling xAI division catch up with Anthropic and OpenAI . Cursor has relied mainly on models from OpenAI and Anthropic but is working on its own models . The acquisition gives Cursor access to SpaceX's massive chip stockpile . In return, the deal should help xAI in the AI talent war .",
+      "description": "Elon Musk's SpaceX is buying AI coding startup Anysphere for $60 billion . The deal is meant to help the struggling xAI division catch up with Anthropic and OpenAI . Cursor is one of the fastest-growing software startups, with more than 3,000 customers paying at least $100,000 a year for the software . SpaceX confirmed on X that it's training a new AI model with Cursor .",
       "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/cursors-xai-spacex.png",
       "fullArticleLink": "https://the-decoder.com/spacex-bets-60-billion-on-cursor-to-catch-openai-and-anthropic/",
       "type": "news",
@@ -64,7 +64,7 @@
         "Hardware",
         "Startup"
       ],
-      "pubDate": "2026-06-17T11:05:13.010165Z"
+      "pubDate": "2026-06-17T15:40:16.099360Z"
     },
     {
       "id": "f9df3bd9a4f992a2222280c65022b67c",
