@@ -1,6 +1,70 @@
 {
   "news": [
     {
+      "id": "04ab97535b8cd1b797c52227b5c90956",
+      "title": "Berlin court rules Google's AI Overviews are just",
+      "description": "Berlin court rules Google's AI-generated summaries are just a \"new search result format\" A perfume company had sued because AI search displayed its brand names alongside cheaper knockoffs and linked to their websites . The ruling partly contradicts a recent Munich decision that held Google directly liable for false AI responses, though the two cases are quite different . Google has no \"decisive influence\" over the content, the court rules .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/03/justitia_legal_law_generated_in_neural_network.png",
+      "fullArticleLink": "https://the-decoder.com/berlin-court-rules-googles-ai-overviews-are-just-a-new-search-format-not-original-content/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-17T20:22:58.733451Z"
+    },
+    {
+      "id": "15059a461358b21f1738e5e70050bafe",
+      "title": "Microsoft's Copilot Cowork moves to usage-based billing",
+      "description": "Microsoft is weighing a fine-tuned version of Deepseek V4 as a cheaper model option for Copilot Cowork . The company is also switching to usage-based billing, since Copilot head Charles Lamanna says flat-rate pricing isn't sustainable . The move fits a broader pattern in the industry, with Microsoft weighing a similar move . Microsoft may tap DeepSeek V4 for a cheaper version of the service .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_logo_plain.png",
+      "fullArticleLink": "https://the-decoder.com/microsofts-copilot-cowork-moves-to-usage-based-billing-and-may-tap-deepseek/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-17T20:22:47.681266Z"
+    },
+    {
+      "id": "95d4b3fe2f8dc9be62fa7608fd9f0e78",
+      "title": "Hyperscalers may soon be unable to fund their",
+      "description": "Microsoft, Amazon, Alphabet, Meta, and Oracle are growing their AI infrastructure spending by about 70 percent a year . While operating cash flow is only rising at 23 percent . If the trend holds, spending could overtake cash flow as early as Q3 2026 . Several of these companies are already tapping outside funding, Epoch AI analysis says . Hyperscalers may soon be unable to fund their AI buildout from cash flow alone .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/01/sever_room_stargate_infrastructure_example-1200x673.png",
+      "fullArticleLink": "https://the-decoder.com/hyperscalers-may-soon-be-unable-to-fund-their-ai-buildout-from-cash-flow-alone/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-06-17T20:22:36.838049Z"
+    },
+    {
+      "id": "b03f8cd58c33fe9087c68cb4271bf8e3",
+      "title": "OpenAI researchers want to predict how often",
+      "description": "OpenAI researchers propose a way to predict how often a new AI model will make mistakes after release . The new approach uses real conversations that users had with a previous model . It could fill gaps left by standard safety testing, which is based on what real users actually type . The approach was tested on four models using roughly 1.3 million conversations from August 2025 through March 2026 . The simulation correctly predicted whether a problem would increase or decrease 92 percent of the time .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/openai_chatgpt.png",
+      "fullArticleLink": "https://the-decoder.com/openai-researchers-want-to-predict-how-often-ai-models-will-fail-before-launch/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-06-17T20:22:20.022567Z"
+    },
+    {
+      "id": "04f0a1e646d7f60e303963eda43f12d7",
+      "title": "Nvidia research shows robots that train themselves through",
+      "description": "Researchers from Nvidia, Carnegie Mellon University, and UC Berkeley are using AI coding agents to teach robots dexterous grasping in the real world . A fleet of eight robots hit up to 99 percent success on demanding tasks like sorting pins into a box and cutting a cable tie with a cutter . A breakthrough discovered at one station spreads across the entire fleet . On the Push-T test, going from one to eight agents cut the time to full success from about five hours to two .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/Nvidia-ENPIRE-title-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/nvidia-research-shows-robots-that-train-themselves-through-ai-coding-agents/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-06-17T20:22:02.990861Z"
+    },
+    {
       "id": "f159d0a58e6df65af912e8450130c4ea",
       "title": "Google Cloud generative AI automates council planning operations",
       "description": "Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations . Public sector administration handles vast volumes of unstructured data that delay infrastructure development . The UK central government established a target to construct 1.5 million new homes by 2029 . Local planning authorities encounter administrative backlogs caused by dense paperwork, delaying infrastructure development, delaying development of new homes and infrastructure . The post: Google Cloud Generative AI automates council planning .",
