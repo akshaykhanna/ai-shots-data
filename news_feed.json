@@ -1,6 +1,18 @@
 {
   "news": [
     {
+      "id": "f159d0a58e6df65af912e8450130c4ea",
+      "title": "Google Cloud generative AI automates council planning operations",
+      "description": "Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations . Public sector administration handles vast volumes of unstructured data that delay infrastructure development . The UK central government established a target to construct 1.5 million new homes by 2029 . Local planning authorities encounter administrative backlogs caused by dense paperwork, delaying infrastructure development, delaying development of new homes and infrastructure . The post: Google Cloud Generative AI automates council planning .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/google-cloud-generative-ai-gemini-uk-government-public-sector-council-services-planning-automation-operations.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-17T11:06:20.374474Z"
+    },
+    {
       "id": "89124697cfe6f224975b31284addfdc7",
       "title": "DeepSeek takes outside money for the first time",
       "description": "Chinese AI startup DeepSeek has raised more than 50 billion yuan - about $7.4 billion . The company's valuation now tops $50 billion . Tencent and battery maker CATL are among the biggest outside backers . Investors had to put their money into a limited partnership managed by CEO Liang Wenfeng, not directly into the company . The only exception is China's state-backed AI investment fund, which invested directly .",
@@ -12,7 +24,7 @@
         "Hardware",
         "Startup"
       ],
-      "pubDate": "2026-06-17T04:16:28.412653Z"
+      "pubDate": "2026-06-17T11:06:03.333322Z"
     },
     {
       "id": "f8d891724f1919a2e4b7e10b7aad84e6",
@@ -24,7 +36,7 @@
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-17T04:16:12.016800Z"
+      "pubDate": "2026-06-17T11:05:46.746151Z"
     },
     {
       "id": "01183e0faf80721e839b8e92c50bf733",
@@ -38,7 +50,7 @@
         "Hardware",
         "Startup"
       ],
-      "pubDate": "2026-06-17T04:15:55.531796Z"
+      "pubDate": "2026-06-17T11:05:30.777172Z"
     },
     {
       "id": "72b2b4b59adb6e2780a3cc484ae130ce",
@@ -52,19 +64,7 @@
         "Hardware",
         "Startup"
       ],
-      "pubDate": "2026-06-17T04:15:37.976972Z"
-    },
-    {
-      "id": "04ab97535b8cd1b797c52227b5c90956",
-      "title": "Berlin court rules Google's AI Overviews are just",
-      "description": "Berlin court rules Google's AI-generated summaries are just a \"new search result format\" A perfume company had sued because AI search displayed its brand names alongside cheaper knockoffs and linked to their websites . The ruling partly contradicts a recent Munich decision that held Google directly liable for false AI responses, though the two cases are quite different . Google has no \"decisive influence\" over the content, the court rules .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/03/justitia_legal_law_generated_in_neural_network.png",
-      "fullArticleLink": "https://the-decoder.com/berlin-court-rules-googles-ai-overviews-are-just-a-new-search-format-not-original-content/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-17T04:15:25.610103Z"
+      "pubDate": "2026-06-17T11:05:13.010165Z"
     },
     {
       "id": "f9df3bd9a4f992a2222280c65022b67c",
