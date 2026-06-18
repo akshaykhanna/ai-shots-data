@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "id": "5b4c58f4f7e0f19e56e94574c272bce3",
+      "title": "Microsoft sells OpenAI models in China but Anthropic",
+      "description": "Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country's largest internet companies . OpenAI and Anthropic keep their own models out of the market on intellectual-property and misuse grounds . The arrangement hands Microsoft a position no other American AI vendor holds: The arrangement, detailed this week by&#160;Bloomberg, was reported by &#8230;Bloomberg . Microsoft: \"No other American firm has a position like this in China\"",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/dima-solomin-nM3243N4sSY-unsplash-scaled.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-18T10:31:56.392691Z"
+    },
+    {
+      "id": "5202b2cad0efe8f11a37d2f684643463",
+      "title": "HSBC expands AI banking partnership with Google Cloud",
+      "description": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations . Announced at Google Cloud Summit London 2026, agreement covers work in wealth management, financial crime risk management, and internal decision support . HSBC will work with the Google Cloud and Google DeepMind engineering teams on AI . The partnership will also focus on developing and deploying AI tools across the company's global operations.",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/HSBC-expands-AI-banking-partnership-with-Google-Cloud-e1781758426514.png",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-18T10:31:45.640235Z"
+    },
+    {
       "id": "c290f1e13d7d7420b82c1f4cfcb6e05b",
       "title": "Zhipu AI's GLM-5.2 closes in on closed-source",
       "description": "Chinese AI lab Zhipu AI releases GLM-5.2 with stable 1-million-token context under MIT license . On FrontierSWE, a benchmark for hours-long coding tasks, the open-source model trails Anthropic's Claude Opus 4.8 by just one percentage point . On reasoning, it still falls well behind closed-source rivals in coding marathons, but still falls behind them . This summary highlights key aspects",
@@ -10,7 +34,7 @@
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-18T04:06:29.657405Z"
+      "pubDate": "2026-06-18T10:31:31.587174Z"
     },
     {
       "id": "3ad073d8cb028ad261802848bd07fffb",
@@ -23,7 +47,7 @@
         "Hardware",
         "Startup"
       ],
-      "pubDate": "2026-06-18T04:06:18.912994Z"
+      "pubDate": "2026-06-18T10:31:19.495632Z"
     },
     {
       "id": "663ba7d15d1554cba50c2eb42439a53d",
@@ -35,37 +59,7 @@
       "categories": [
         "General AI"
       ],
-      "pubDate": "2026-06-18T04:06:06.745367Z"
-    },
-    {
-      "id": "e0ba9cd4bb87397dcb5903bf4fc8545b",
-      "title": "How small businesses can leverage AI to help",
-      "description": "MIT Technology Review's limited-run newsletter examining how to apply LLMs across industries . Sam Finnegan-Dehn works in fundraising for a charity, but moonlights as a math and philosophy tutor for university students . He says AI has taken on a secretarial role across all of his digital notebooks, where he jots down reminders about his clients\u2019 progress and new readings to keep himself up-to-date . He describes using AI as kind of like having a second memory that helps him connect ideas he\u2019s written down in various places .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/4729b751-06a4-3828-9bb4-1983e460947d.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-18T04:05:46.699985Z"
-    },
-    {
-      "id": "7c39f76db0bd9a6b2329604c6b1828d7",
-      "title": "Rehumanizing global health care with agentic AI",
-      "description": "As health-care providers face staff shortages, AI agents are automating complex administrative tasks and even clinical decisions so humans can focus more on patient care . The World Health Organization has warned that current shortfalls will increase to 11 million workers by 2030 . More than two-thirds (68%) have already adopted AI agents into their workforce, according to KPMG . The technology is being deployed to automate complex back-office processes, collaborate with medical teams, and even triage patients .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-2_-V1.png?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-06-18T04:05:29.567005Z"
+      "pubDate": "2026-06-18T10:31:06.095071Z"
     },
     {
       "id": "04ab97535b8cd1b797c52227b5c90956",
