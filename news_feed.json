@@ -10,7 +10,7 @@
       "categories": [
         "General AI"
       ],
-      "pubDate": "2026-06-19T10:36:36.488174Z"
+      "pubDate": "2026-06-19T15:27:45.188019Z"
     },
     {
       "id": "1280df0338d6357d92dbf517cd09327d",
@@ -22,7 +22,7 @@
       "categories": [
         "Security"
       ],
-      "pubDate": "2026-06-19T10:36:25.352534Z"
+      "pubDate": "2026-06-19T15:27:33.315329Z"
     },
     {
       "id": "46de4974e986b75f6c2da9bf47d7d1f3",
@@ -35,7 +35,7 @@
         "LLM",
         "Security"
       ],
-      "pubDate": "2026-06-19T10:36:12.314198Z"
+      "pubDate": "2026-06-19T15:27:19.912786Z"
     },
     {
       "id": "211492e36f97a8714fff2b6868ac26ab",
@@ -47,19 +47,19 @@
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-19T10:35:58.253436Z"
+      "pubDate": "2026-06-19T15:27:05.326991Z"
     },
     {
       "id": "9a77d061e1f070456d0e9c7da82b9365",
       "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI",
-      "description": "OpenAI has upgraded ChatGPT's healthcare capabilities with the GPT-5.5 Instant model . The updated model matches the performance of the most expensive Thinking models on machine-based health tests like HealthBench and HealthBench Professional . The rate of incorrect health statements has dropped by 71 percent over the past two months . The model is available to all free users, though with usage limits . More than 230 million people use chatGPT weekly for health-related questions .",
+      "description": "OpenAI has upgraded ChatGPT's healthcare capabilities with the GPT-5.5 Instant model . The updated model matches the performance of the most expensive Thinking models on machine-based health tests like HealthBench and HealthBench Professional . The rate of incorrect health statements has dropped by 71 percent over the past two months, according to OpenAI . More than 230 million people use ChatGpt weekly for health-related questions, things like understanding lab results and prepping for doctor appointments .",
       "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/openai_chatgpt.png",
       "fullArticleLink": "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/",
       "type": "news",
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-19T10:35:43.782177Z"
+      "pubDate": "2026-06-19T15:26:50.774136Z"
     },
     {
       "id": "32d55aeeaa5f2d80008b832ab3f85cb1",
