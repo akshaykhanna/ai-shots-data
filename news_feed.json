@@ -1,6 +1,67 @@
 {
   "news": [
     {
+      "id": "27a5d8c50a7afab4a2d9847553609d7f",
+      "title": "AI systems rival doctors in Nature studies, but",
+      "description": "Two new studies published in Nature show that specialized AI systems diagnose diseases and make treatment decisions as well as physicians in simulated patient cases . Both systems run on base models that are already outdated . One result suggests the tech won&#039;t age well well, but one result suggests that tech won't age well, says The Decoder . The decryptionist says AI systems rival doctors in new Nature studies, but the tech isn't going to age well .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/chatgpt_health.png",
+      "fullArticleLink": "https://the-decoder.com/ai-systems-rival-doctors-in-new-nature-studies-but-one-result-suggests-the-tech-wont-age-well/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-19T04:26:12.452677Z"
+    },
+    {
+      "id": "1280df0338d6357d92dbf517cd09327d",
+      "title": "Google Deepmind treats its own AI agents like",
+      "description": "Google Deepmind treats its own AI agents as potential insider threats . The company's new \"AI Control Roadmap\" ties security measures to measurable AI capabilities . Analysis of one million coding tasks shows most problems stem from overzealous agents, not malicious intent . Deepmind warns the window for global security standards is closing fast, warning that global standards are closing fast . It says most problems are caused by rogue AI agents with office keys .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/deepmind_agent_framework.png",
+      "fullArticleLink": "https://the-decoder.com/google-deepmind-treats-its-own-ai-agents-like-rogue-employees-with-office-keys/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-06-19T04:26:01.297658Z"
+    },
+    {
+      "id": "46de4974e986b75f6c2da9bf47d7d1f3",
+      "title": "Alleged China ties at SK Telecom alarmed US",
+      "description": "Anthropic shut down its AI models Claude Mythos and Fable 5 . South Korean telecom giant SK Telecom had access to Mythos through Anthropic's partner program Project Glasswing . US officials grew alarmed over what they saw as SK Telecom's alleged ties to China . Amazon and five other companies reportedly triggered the government crackdown on Anthropic . The two incidents caused the White House to lose confidence in Anthropic and force both models offline .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/fable_5_logo-scaled.webp",
+      "fullArticleLink": "https://the-decoder.com/alleged-china-ties-at-sk-telecom-alarmed-us-officials-and-triggered-anthropic-crisis/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-06-19T04:25:48.528596Z"
+    },
+    {
+      "id": "211492e36f97a8714fff2b6868ac26ab",
+      "title": "Anthropic brings Artifacts to Claude Code, letting teams",
+      "description": "Claude Code now supports artifacts, a feature already familiar from the Claude chat chat . It lets you turn results of a Claude Code session into interactive web pages and share them with your team . Anthropic says use cases range from PR walkthroughs and incident timelines to license audits and architecture overviews . The pages are generated from the full session context: code, connected tools, and chat history . When something changes, the page updates automatically at the same URL, complete with version history .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/claude_code_artifcats-scaled.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-brings-artifacts-to-claude-code-letting-teams-share-live-pages-from-coding-sessions/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-19T04:25:34.752869Z"
+    },
+    {
+      "id": "9a77d061e1f070456d0e9c7da82b9365",
+      "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI",
+      "description": "OpenAI has upgraded ChatGPT's healthcare capabilities with the GPT-5.5 Instant model . The updated model matches the performance of the most expensive Thinking models on machine-based health tests like HealthBench and HealthBench Professional . The rate of incorrect health statements has dropped by 71 percent over the past two months . The model is available to all free users, though with usage limits . More than 230 million people use chatGPT weekly for health-related questions .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/openai_chatgpt.png",
+      "fullArticleLink": "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-19T04:25:20.557875Z"
+    },
+    {
       "id": "32d55aeeaa5f2d80008b832ab3f85cb1",
       "title": "Computer vision deployments drive retail productivity gains",
       "description": "Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins . This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry billions . A study authored by Coresight Research \u2013 in partnership with technology providers Simbe and RELEX Solutions \u2013 calculates the exact cost of the deployment of the vision vision to retail stores . The study was published in conjunction with the release of AI News .",
