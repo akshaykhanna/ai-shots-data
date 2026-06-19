@@ -1,6 +1,66 @@
 {
   "news": [
     {
+      "id": "b5ec7ba74474209dcb963fd4900bd140",
+      "title": "E2e-assure introduces Cumulo, the U.K.\u2019",
+      "description": "e2e-assure introduces Cumulo, the U.K.\u2019s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments . Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur . Cumulo is designed to help organisations defend their IT/OT environments .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Picture1.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-19T20:01:10.776364Z"
+    },
+    {
+      "id": "0d45745f806e555d423a9d70c77a2fa1",
+      "title": "SAP and Google Cloud deploy agentic commerce architecture",
+      "description": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale . SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026 . However, the same data reveals fewer than two in five companies share customer data across customer experience (37%) or CRM (39%) SAP research shows fewer than 2 in 5 companies share data across CRM or customer experience .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/sap-google-cloud-agentic-ai-commerce-architecture-machine-learning-customer-experience-retail.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-19T20:01:00.327220Z"
+    },
+    {
+      "id": "91b6eadbe50d5f0bb232df4a5ed4e23a",
+      "title": "Website \"In the Weights\" shows whether AI models",
+      "description": "Two former OpenAI employees have built a website called \"In the Weights\" that reveals which people AI models can recall purely from their training data . Mozart, Shakespeare, and Taylor Swift topped the list . A strength score of up to 996 shows how deeply a person is embedded in a person's memory . A score of 996 is a strength score, with Mozart and Shakespeare topping the list of people with a 996 score .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/are_you_in_the_weights.png",
+      "fullArticleLink": "https://the-decoder.com/website-in-the-weights-shows-whether-ai-models-know-who-you-are/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-19T20:00:47.055929Z"
+    },
+    {
+      "id": "e3431affeb06f0bbd583aa9b599ed66c",
+      "title": "Google appeals ruling that made it directly liable",
+      "description": "Germany's Munich Regional Court held the company directly liable for inaccurate AI search results . The AI had falsely linked two Munich-based publishers to fraud schemes . Google calls them \"minor errors,\" but the court saw it differently . Google is appealing the ruling by Germany's regional court . The court saw them as 'minor mistakes' but Google called them \"Minor errors\" Google appeals ruling that made it directly liable .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/google_ai_overviews_illustration.png",
+      "fullArticleLink": "https://the-decoder.com/google-appeals-ruling-that-made-it-directly-liable-for-ai-generated-search-overview-content/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-19T20:00:36.013426Z"
+    },
+    {
+      "id": "436228b74b08bfd5bb9206eb20da1bcb",
+      "title": "OpenAI researchers show small doses of \"beneficial trait\"",
+      "description": "OpenAI researchers show that reinforcement learning on desired behavioral traits like truthfulness and corrigibility works across domains . Training on health data also improved deception detection, and the model scored better on 44 out of 53 benchmarks . The approach differs from Anthropic's constitution-based method, which is similar to Anthropic\u2019s Constitution-based approach, which uses constitution to train AI models on constitution and constitutionality, researchers say .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/openai_chatgpt_colors.png",
+      "fullArticleLink": "https://the-decoder.com/openai-researchers-show-small-doses-of-beneficial-trait-training-make-ai-models-broadly-safer-and-harder-to-manipulate/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-19T20:00:24.433125Z"
+    },
+    {
       "id": "27a5d8c50a7afab4a2d9847553609d7f",
       "title": "AI systems rival doctors in Nature studies, but",
       "description": "Two new studies published in Nature show that specialized AI systems diagnose diseases and make treatment decisions as well as physicians in simulated patient cases . Both systems run on base models that are already outdated . One result suggests the tech won&#039;t age well well, but one result suggests that tech won't age well, says The Decoder . The decryptionist says AI systems rival doctors in new Nature studies, but the tech isn't going to age well .",
