@@ -1,6 +1,66 @@
 {
   "news": [
     {
+      "id": "42489ef89b2ccf2a5d06618fc3bb37e6",
+      "title": "OpenAI tripled revenue to $5.7 billion in Q1",
+      "description": "In the first quarter of 2026, OpenAI pulled in $5.7 billion in revenue and burned through about $3.7 million . Stock-based compensation alone ate up over $2.3 billion . With $73 billion in reserves, the AI giant doesn't need fresh capital right now . Anthropic could change that fast, but a price war with Anthropic is a big threat to OpenAI .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/openai_dark_pattern.png",
+      "fullArticleLink": "https://the-decoder.com/openai-tripled-revenue-to-5-7-billion-in-q1-but-burned-through-3-7-billion-to-get-there/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-20T19:35:00.919856Z"
+    },
+    {
+      "id": "6df05f2d0592a5b207403f2e899da7a6",
+      "title": "ChatGPT keeps creeping toward becoming your AI personal",
+      "description": "OpenAI is upgrading ChatGPT's scheduling feature . A new \"Scheduled\" page in the sidebar puts all active tasks in one place, letting users view, pause, edit, or delete them . Research tasks search the web and connected apps, sending alerts only when something actually changes . The previous \"Pulse\" feature is being retired, and the previous 'Pulse' feature is also being retired .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-20T19:34:48.653275Z"
+    },
+    {
+      "id": "538ed8b32c4d37302f88a29d432a5f9e",
+      "title": "Data2Story turns a CSV file into a verified",
+      "description": "\"Data Journalist Agent\" turns a CSV file into a verified interactive article with graphics, web research, and verifiable source links for 93 percent of all statements . In a reader study, 74 percent preferred the agent's output over the human original . But against elaborately crafted long-form reports, the agent managed a tie with 74 percent of readers preferring the human output . The Data2Story is the latest in a series of AI-powered newsrooms that work like a newsroom .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/data-journalist-agent-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/data2story-turns-a-csv-file-into-a-verified-interactive-news-article-using-seven-ai-agents/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-06-20T19:34:35.931030Z"
+    },
+    {
+      "id": "43a6d0afc41f6739d8ad0a605471bd9e",
+      "title": "NYU finance professor Damodaran warns an AI crash",
+      "description": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble . The industry is building massive amounts of debt-financed physical infrastructure rather than lightweight software . The actual business model is to replace entire jobs, with unclear consequences for society, he says . Even if AI succeeds, he sees a problem with replacing entire jobs with unclear implications for society .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/ai_bear_stock_crash-2.png",
+      "fullArticleLink": "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-20T19:34:23.602531Z"
+    },
+    {
+      "id": "aef6909dccd2b37a7283b748a7664aa6",
+      "title": "OpenAI's Codex can now watch you work once",
+      "description": "OpenAI has released the \"Record &#038; Replay\" feature for its Codex app on macOS . Users demonstrate a workflow once, Codex converts it into a reusable \"skill,\" and then repeats it on its own . The feature isn't available in the EU, the UK, or Switzerland, or the U.S. It's not available yet in the UK or Switzerland . The Codex app can now watch you work once and repeat the task forever .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/openai_mouse_cursor.png",
+      "fullArticleLink": "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-20T19:34:11.402288Z"
+    },
+    {
       "id": "c8f6815d37f00a58a980ce2255f2f868",
       "title": "New benchmark exposes how badly AI struggles",
       "description": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks . Claude Fable 5, hits the highest pass rate but still nails all criteria on just 3% of tasks. Per-task costs span more than 800x, from about $0.04 for DeepSeek V4 Flash to over $31 . Weaker models choke on basic execution as they miss relevant files or spit out unusable results. Stronger models fail more quietly, as they hit the obvious requirements but miss details .",
