@@ -3,14 +3,14 @@
     {
       "id": "c8f6815d37f00a58a980ce2255f2f868",
       "title": "New benchmark exposes how badly AI struggles",
-      "description": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks . Claude Fable 5, hits the highest pass rate but still nails all criteria on just 3% of tasks. Per-task costs span more than 800x, from about $0.04 for DeepSeek V4 Flash to over $31 . Weaker models choke on basic execution as they miss relevant files or spit out unusable results. Stronger models fail more quietly .",
+      "description": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks . Claude Fable 5, hits the highest pass rate but still nails all criteria on just 3% of tasks. Per-task costs span more than 800x, from about $0.04 for DeepSeek V4 Flash to over $31 . Weaker models choke on basic execution as they miss relevant files or spit out unusable results. Stronger models fail more quietly, as they hit the obvious requirements but miss details .",
       "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/no-persistence-because-of-ai-sidebar-nano-banana-pro-scaled.jpg",
       "fullArticleLink": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/",
       "type": "news",
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-20T09:04:55.205920Z"
+      "pubDate": "2026-06-20T14:12:21.852428Z"
     },
     {
       "id": "925374f4f70a92391ff75fd75493cddd",
@@ -22,7 +22,7 @@
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-20T09:04:37.699160Z"
+      "pubDate": "2026-06-20T14:12:04.214672Z"
     },
     {
       "id": "25981c9277c6cad47a99967607669fa3",
@@ -34,7 +34,7 @@
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-20T09:04:24.472242Z"
+      "pubDate": "2026-06-20T14:11:51.539194Z"
     },
     {
       "id": "27cb8b17763028776370cf1539181c24",
@@ -46,7 +46,7 @@
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-20T09:04:12.921409Z"
+      "pubDate": "2026-06-20T14:11:39.646601Z"
     },
     {
       "id": "49850f69397c34087dd1e3658414c3e8",
@@ -58,7 +58,7 @@
       "categories": [
         "General AI"
       ],
-      "pubDate": "2026-06-20T09:04:01.555956Z"
+      "pubDate": "2026-06-20T14:11:27.324337Z"
     },
     {
       "id": "b5ec7ba74474209dcb963fd4900bd140",
