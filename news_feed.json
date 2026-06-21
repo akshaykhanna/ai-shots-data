@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "id": "b12a0de7e7af83a75cd7279b7e0d0293",
+      "title": "EU doesn't really know what a deepfake",
+      "description": "Eurocommerce, the trade association behind Amazon, H&#038;M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules . Zalando alone says 90 percent of the marketing content on its platform is already AI generated . The EU doesn't really know what a deepfake is, and that\u2019s becoming a problem for retail, says Eurocommerce . This summary highlights",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/eu_ai_flag-1.png",
+      "fullArticleLink": "https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-21T09:58:20.277378Z"
+    },
+    {
+      "id": "c21fe39ca8a7900d9ed8259c855c4812",
+      "title": "AWS says AI agents lack business context",
+      "description": "AWS says AI agents lack business context and security, launches two services to patch the gaps . Continuum automatically detects, prioritizes, and fixes code vulnerabilities . Context builds a knowledge graph from corporate data to give AI agents the business context they need . Both tackle the same problem: agents that write code fast but get things wrong too often . AWS: AI agents are writing code fast, but getting things wrong often .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/12/aws_agents_midjourney.png",
+      "fullArticleLink": "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-06-21T09:58:08.707841Z"
+    },
+    {
+      "id": "dbdc51beea251c61c1e3bcf0caa7f5de",
+      "title": "Sam Altman says a generation of researchers held",
+      "description": "Sam Altman says a whole generation of researchers slowed the field by underestimating what scaling could do . He cited OpenAI's recent disproof of a mathematical conjecture as evidence . Altman: \"A generation of AI researchers held AI back by underestimates what scaling can do\" He says OpenAI disproofs of a mathematician conjecture as proof of its ability to scale AI systems with LLM scaling at a cost of $1.5 billion .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_ceo_sam_altman_at_stanford_talk-1.png",
+      "fullArticleLink": "https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-21T09:57:57.121809Z"
+    },
+    {
+      "id": "e0ba9cd4bb87397dcb5903bf4fc8545b",
+      "title": "How small businesses can leverage AI to help",
+      "description": "MIT Technology Review's limited-run newsletter examining how to apply LLMs across industries . Sam Finnegan-Dehn works in fundraising for a charity, but moonlights as a math and philosophy tutor for university students . He says AI has taken on a secretarial role across all of his digital notebooks, where he jots down reminders about his clients\u2019 progress and new readings to keep himself up-to-date . He describes using AI as kind of like having a second memory that helps him connect ideas he\u2019s written down in various places .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/4729b751-06a4-3828-9bb4-1983e460947d.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-21T09:57:35.928282Z"
+    },
+    {
+      "id": "7c39f76db0bd9a6b2329604c6b1828d7",
+      "title": "Rehumanizing global health care with agentic AI",
+      "description": "As health-care providers face staff shortages, AI agents are automating complex administrative tasks and even clinical decisions so humans can focus more on patient care . The World Health Organization has warned that current shortfalls will increase to 11 million workers by 2030 . More than two-thirds (68%) have already adopted AI agents into their workforce, according to KPMG . The technology is being deployed to automate complex back-office processes, collaborate with medical teams, and even triage patients .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-2_-V1.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-06-21T09:57:19.741008Z"
+    },
+    {
       "id": "42489ef89b2ccf2a5d06618fc3bb37e6",
       "title": "OpenAI tripled revenue to $5.7 billion in Q1",
       "description": "In the first quarter of 2026, OpenAI pulled in $5.7 billion in revenue and burned through about $3.7 million . Stock-based compensation alone ate up over $2.3 billion . With $73 billion in reserves, the AI giant doesn't need fresh capital right now . Anthropic could change that fast, but a price war with Anthropic is a big threat to OpenAI .",
