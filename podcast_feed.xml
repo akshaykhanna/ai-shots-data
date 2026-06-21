@@ -10,18 +10,18 @@
     <description>Daily automated 5-minute summaries of the top 10 latest artificial intelligence news, machine learning breakthroughs, and startup fundings.</description>
     <itunes:owner>
       <itunes:name>AI Shots Team</itunes:name>
-      <itunes:email>akshaykhanna93@gmail.com</itunes:email>
+      <itunes:email>your-email@example.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/podcast_cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>AI Shots Daily Briefing - June 20, 2026</title>
+      <title>AI Shots Daily Briefing - June 21, 2026</title>
       <itunes:author>AI Shots</itunes:author>
-      <description>Here is your daily AI Shots briefing. Today's top stories: Alleged China ties at SK Telecom alarmed US. XAI fired engineer who raised alarms about Grok. Amazon borrows $17.5B from banks as AI spending. Google just redesigned the search box. New benchmark exposes how badly AI struggles. More people get news from AI chatbots, but. Amazon drops its OpenAI drama film after signing. Google Deepmind loses another top AI researcher. Website &quot;In the Weights&quot; shows whether AI models. OpenAI researchers show small doses of &quot;beneficial trait&quot;.</description>
-      <enclosure url="https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260620.mp3" length="2151504" type="audio/mpeg"/>
+      <description>Here is your daily AI Shots briefing. Today's top stories: XAI fired engineer who raised alarms about Grok. Amazon borrows $17.5B from banks as AI spending. Google just redesigned the search box. New benchmark exposes how badly AI struggles. More people get news from AI chatbots, but. Amazon drops its OpenAI drama film after signing. Google Deepmind loses another top AI researcher. China Opens World’s First Wind-Powered Underwater Data Center. There’s Finally Video of a Great White Shark. Alleged China ties at SK Telecom alarmed US.</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260620.mp3" length="2187216" type="audio/mpeg"/>
       <guid isPermaLink="false">briefing_20260620</guid>
-      <pubDate>Sat, 20 Jun 2026 14:25:51 +0000</pubDate>
+      <pubDate>Sun, 21 Jun 2026 00:00:20 +0000</pubDate>
       <itunes:duration>00:05:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
