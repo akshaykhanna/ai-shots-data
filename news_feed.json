@@ -1,6 +1,74 @@
 {
   "news": [
     {
+      "id": "2db85e0cafc40e148623e16befd95289",
+      "title": "Anthropic and Micron want to co-design AI memory",
+      "description": "Micron is investing in Anthropic's Series H round and getting a multi-year deal to supply memory for Claude's infrastructure . Anthropic co-founder Tom Brown calls memory critical to training and running Claude . Critics say circular deals like this are inflating a bubble . Micron's stock has surged more than tenfold in a single year in the last 12 months . The company says it wants to co-design AI memory architecture .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/micron_logo.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-and-micron-want-to-co-design-ai-memory-architecture/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-22T20:54:54.636447Z"
+    },
+    {
+      "id": "5fae2363ce38e3b6210dd5ab0f42db5e",
+      "title": "Google makes Interactions API the default interface",
+      "description": "Google Deepmind has made the Interactions API the default interface for Gemini models and agents . It replaces the old generateContent API and uses a simplified Schema with typed steps instead of role-based structures . New agent features will only ship through this API going forward . The API will be used to ship new features to Gemini agents and Gemini models going forward, such as text-driven models and text-based agents .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
+      "fullArticleLink": "https://the-decoder.com/google-makes-interactions-api-the-default-interface-for-gemini-models-and-agents/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-22T20:54:42.662107Z"
+    },
+    {
+      "id": "5a0f8f20efd8f70df4463004a2be0f18",
+      "title": "Five things you need to know",
+      "description": "At SXSW London, Will Douglas Heaven laid out how he\u2019s thinking about AI in 2026 . Heaven: Generative AI tools have already become mundane, used by millions to automate everyday office tasks . There is almost no data to say either way what kind of effect this technology will have on employment and the economy overall . AI is also being used in warfare in new and worrying ways, including giving advice, not just analysis .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/5-things-a.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-06-22T20:54:24.013075Z"
+    },
+    {
+      "id": "25761d5880ff6ebdde94be0752c26fa4",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "description": "To optimize AI\u2019s potential within a hybrid workforce, leaders need to adapt workplace strategies\u2014re-evaluating roles, skills, and culture . As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce . As AI agents assume ownership of more complex and integral tasks, the distribution of roles and responsibilities within an organization will undergo significant change .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-3-_-V2-1.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-06-22T20:54:07.287934Z"
+    },
+    {
+      "id": "5fa3405179d5d881ff141378321e64ee",
+      "title": "Google DeepMind is worried about what happens when",
+      "description": "Google DeepMind is worried about what happens when millions of AI agents start to interact . The firm is calling for more scientists to study the risks of multi-agent systems . The concern is that as more and more AI agents get deployed and begin working together, we could hit a tipping point where imagined scenarios become real . The company has teamed up with several other organizations to announce a $10 million funding pot for research .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/corralling-agents.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-22T20:53:49.282716Z"
+    },
+    {
       "id": "15ef7d1be15d56c86f06d72db2dd0125",
       "title": "Sakana AI Fugu multi-agent models are designed",
       "description": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments . Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs . Sakana's Fugu is a response to these concentration risks by creating an orchestration language model that calls upon a pool of varied models . The post: Mitigating vendor lock-in with Fugu multi-agents models .",
