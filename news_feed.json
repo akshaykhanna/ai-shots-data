@@ -1,6 +1,78 @@
 {
   "news": [
     {
+      "id": "7c39f76db0bd9a6b2329604c6b1828d7",
+      "title": "Rehumanizing global health care with agentic AI",
+      "description": "As health-care providers face staff shortages, AI agents are automating complex administrative tasks and even clinical decisions so humans can focus more on patient care . The World Health Organization has warned that current shortfalls will increase to 11 million workers by 2030 . More than two-thirds (68%) have already adopted AI agents into their workforce, according to KPMG . The technology is being deployed to automate complex back-office processes, collaborate with medical teams, and even triage patients .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-2_-V1.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-06-22T04:19:02.737992Z"
+    },
+    {
+      "id": "ce50fb25a5f89feeb1dc6e0280eac6b4",
+      "title": "How courts are coping with a flood",
+      "description": "A new study examined 4.5 million federal civil cases from 2005 to 2026, the share of lawsuits brought by self-represented people increased from 11% in 2022 to 16.8% in 2025 . Judges are starting to question what kinds of rights and responsibilities large language models should bear as they stand in for lawyers . While AI appears to be expanding access to justice, it doesn\u2019t seem to be improving people\u2019s chances of winning .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/court-room.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-06-22T04:18:46.436604Z"
+    },
+    {
+      "id": "94d4f7da1b037c03dd469fbcf9da14aa",
+      "title": "Meta hack shows there\u2019s more to AI security",
+      "description": "Hackers used Meta\u2019s AI customer support agent to steal Instagram accounts . Hackers asked the agent to link the accounts to email addresses that they controlled, and the agent complied . As companies offload more work to AI, these unsophisticated attacks could wreak their own havoc . As AI becomes more widely used, attackers are going to be more motivated to attack AI itself, says Neil Gong, professor of electrical and computer engineering at Duke University .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/hand-keys1.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-06-22T04:18:29.785948Z"
+    },
+    {
+      "id": "5a0f8f20efd8f70df4463004a2be0f18",
+      "title": "Five things you need to know",
+      "description": "At SXSW London, Will Douglas Heaven laid out how he\u2019s thinking about AI in 2026 . Heaven: Generative AI tools have already become mundane, used by millions to automate everyday office tasks . There is almost no data to say either way what kind of effect this technology will have on employment and the economy overall . AI is also being used in warfare in new and worrying ways, including giving advice, not just analysis .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/5-things-a.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-06-22T04:18:14.127002Z"
+    },
+    {
+      "id": "25761d5880ff6ebdde94be0752c26fa4",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "description": "To optimize AI\u2019s potential within a hybrid workforce, leaders need to adapt workplace strategies\u2014re-evaluating roles, skills, and culture . As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce . As AI agents assume ownership of more complex and integral tasks, the distribution of roles and responsibilities within an organization will undergo significant change .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-3-_-V2-1.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-06-22T04:17:58.339241Z"
+    },
+    {
       "id": "b12a0de7e7af83a75cd7279b7e0d0293",
       "title": "EU doesn't really know what a deepfake",
       "description": "Eurocommerce, the trade association behind Amazon, H&#038;M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules . Zalando alone says 90 percent of the marketing content on its platform is already AI generated . The EU doesn't really know what a deepfake is, and that\u2019s becoming a problem for retail, says Eurocommerce . This summary highlights",
