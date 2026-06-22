@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "id": "15ef7d1be15d56c86f06d72db2dd0125",
+      "title": "Sakana AI Fugu multi-agent models are designed",
+      "description": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments . Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs . Sakana's Fugu is a response to these concentration risks by creating an orchestration language model that calls upon a pool of varied models . The post: Mitigating vendor lock-in with Fugu multi-agents models .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/mitigating-vendor-lock-in-sakana-ai-fugu-ultra-models-agentic-orchestration-agents-business-vendors-strategy.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-22T17:03:09.512656Z"
+    },
+    {
+      "id": "a517560a71426bc8fd87c83899dc647b",
+      "title": "Vibecoding is becoming a deal-breaker test for software",
+      "description": "Bain &amp; Company is vibecoding replicas of their software to assess the competitive edge of acquisition targets . The firm says hundreds of rough prototypes have already been vibecoded as part of the firm's AI due diligence work . What started in 2023 as a job for a dedicated team of software engineers is now being used by rank-and-file consultants . The mock-ups are meant to show potential buyers how hard it would be to reproduce a target company's technology .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/Vibe-Coding-Moat-SaaS-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/vibecoding-is-becoming-a-deal-breaker-test-for-software-acquisitions/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-06-22T17:02:51.234430Z"
+    },
+    {
+      "id": "b48ab936c3e36c04138d5c7f52ed994c",
+      "title": "Five Eyes intelligence alliance says frontier AI models",
+      "description": "Five Eyes intelligence agencies urge leaders in business and politics to \"act now\" The agencies stress that cyber risk can \"no longer be treated as a purely technical issue,\" but is instead a \"core business risk and leadership responsibility\" The statement comes shortly after the Trump administration's decision to block \"foreign nationals\" from accessing Anthropic's AI models Fable 5 and Mythos 5 . US intelligence agencies had early access to the models; Anthropic employees are working together with the NSA .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/fable_5_logo-scaled.webp",
+      "fullArticleLink": "https://the-decoder.com/five-eyes-intelligence-alliance-says-frontier-ai-models-could-reshape-offensive-cyber-ops-in-months/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-06-22T17:02:36.498987Z"
+    },
+    {
+      "id": "c192cf33f8449ad6d7b3ee7c7f23d78a",
+      "title": "Google Deepmind and A24 team up",
+      "description": "Google Deepmind and film studio A24 are entering a long-term research partnership . A24 will test and help shape AI tools as part of their day-to-day work . Google is also investing roughly $75 million in A24, according to the Wall Street Journal . The announcement stays vague - both sides say they want to figure out together how AI can be useful in film production . There are no concrete products or results yet .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/05/gogole_veo3_example-e1748160731935-1200x722.png",
+      "fullArticleLink": "https://the-decoder.com/google-deepmind-and-a24-team-up-on-ai-filmmaking-research/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-22T17:02:22.783199Z"
+    },
+    {
+      "id": "32b7dd2664e9f1c0309b5300b5b833f9",
+      "title": "Getty Images strikes multi-year deal to put licensed",
+      "description": "Licensed images from Getty's catalog will now show up in ChatGPT's search and discovery features . Neither side disclosed financial terms or whether OpenAI will use Getty content to train future models . Getty's stock jumped about 200 percent in premarket trading after the announcement, Bloomberg reports . The company is also still waiting for approval of its $3.7 billion acquisition of Getty Images' $4.4 billion purchase of Shutterstock .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_glitchy_blip.png",
+      "fullArticleLink": "https://the-decoder.com/getty-images-strikes-multi-year-deal-to-put-licensed-photos-in-chatgpt-search/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-06-22T17:02:09.718397Z"
+    },
+    {
       "id": "3bf91a0f94da2324ccca1e69ba82cc83",
       "title": "L\u2019Or\u00e9al brings Maybelline virtual try-on to ChatG",
       "description": "L'Or\u00e9al has announced a collaboration with OpenAI that will bring Maybelline New York\u2019s virtual makeup try-on feature into ChatGPT . The partnership covers consumer-facing shopping tools, product discovery, advertising pilots, research, and internal content production . The collaboration also covers internal use of AI in research, formulation, content production, and research, among other uses of AI . The announcement was made at VivaTech 2026 .",
