@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "id": "3bf91a0f94da2324ccca1e69ba82cc83",
+      "title": "L\u2019Or\u00e9al brings Maybelline virtual try-on to ChatG",
+      "description": "L'Or\u00e9al has announced a collaboration with OpenAI that will bring Maybelline New York\u2019s virtual makeup try-on feature into ChatGPT . The partnership covers consumer-facing shopping tools, product discovery, advertising pilots, research, and internal content production . The collaboration also covers internal use of AI in research, formulation, content production, and research, among other uses of AI . The announcement was made at VivaTech 2026 .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/LOreal-brings-Maybelline-virtual-try-on-to-ChatGPT-scaled-e1782108007877.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-22T12:01:44.690116Z"
+    },
+    {
+      "id": "decfd507714d1c67dcd9e8524d97b089",
+      "title": "Sakana AI's Fugu orchestrates multiple LLMs to match",
+      "description": "Tokyo-based Sakana AI has unveiled Fugu, a multi-LLM orchestrator that looks and feels like a single model to the user . Sakana's Fugu is itself a language model, trained to call other LLMs from an agent pool, including copies of itself . Fugu's model pool is fully swappable, so the system can reroute to other models if one provider goes dark . Early users have put it to work on AI research, cybersecurity analysis, and patent and literature searches .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/fugu_llms-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-22T12:01:24.246955Z"
+    },
+    {
       "id": "7c39f76db0bd9a6b2329604c6b1828d7",
       "title": "Rehumanizing global health care with agentic AI",
       "description": "As health-care providers face staff shortages, AI agents are automating complex administrative tasks and even clinical decisions so humans can focus more on patient care . The World Health Organization has warned that current shortfalls will increase to 11 million workers by 2030 . More than two-thirds (68%) have already adopted AI agents into their workforce, according to KPMG . The technology is being deployed to automate complex back-office processes, collaborate with medical teams, and even triage patients .",
@@ -13,7 +39,7 @@
         "Hardware",
         "Security"
       ],
-      "pubDate": "2026-06-22T04:19:02.737992Z"
+      "pubDate": "2026-06-22T12:01:06.032044Z"
     },
     {
       "id": "ce50fb25a5f89feeb1dc6e0280eac6b4",
@@ -27,7 +53,7 @@
         "Hardware",
         "Security"
       ],
-      "pubDate": "2026-06-22T04:18:46.436604Z"
+      "pubDate": "2026-06-22T12:00:50.432003Z"
     },
     {
       "id": "94d4f7da1b037c03dd469fbcf9da14aa",
@@ -41,36 +67,7 @@
         "Hardware",
         "Security"
       ],
-      "pubDate": "2026-06-22T04:18:29.785948Z"
-    },
-    {
-      "id": "5a0f8f20efd8f70df4463004a2be0f18",
-      "title": "Five things you need to know",
-      "description": "At SXSW London, Will Douglas Heaven laid out how he\u2019s thinking about AI in 2026 . Heaven: Generative AI tools have already become mundane, used by millions to automate everyday office tasks . There is almost no data to say either way what kind of effect this technology will have on employment and the economy overall . AI is also being used in warfare in new and worrying ways, including giving advice, not just analysis .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/5-things-a.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-06-22T04:18:14.127002Z"
-    },
-    {
-      "id": "25761d5880ff6ebdde94be0752c26fa4",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "description": "To optimize AI\u2019s potential within a hybrid workforce, leaders need to adapt workplace strategies\u2014re-evaluating roles, skills, and culture . As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce . As AI agents assume ownership of more complex and integral tasks, the distribution of roles and responsibilities within an organization will undergo significant change .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-3-_-V2-1.png?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-06-22T04:17:58.339241Z"
+      "pubDate": "2026-06-22T12:00:34.599000Z"
     },
     {
       "id": "b12a0de7e7af83a75cd7279b7e0d0293",
