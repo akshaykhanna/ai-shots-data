@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>AI Shots Daily Briefing</title>
     <link>https://github.com/akshaykhanna/ai-shots-data</link>
@@ -10,11 +10,26 @@
     <description>Daily automated 5-minute summaries of the top 10 latest artificial intelligence news, machine learning breakthroughs, and startup fundings.</description>
     <itunes:owner>
       <itunes:name>AI Shots Team</itunes:name>
-      <itunes:email>your-email@example.com</itunes:email>
+      <itunes:email>akshaykhanna93@gmail.com</itunes:email>
     </itunes:owner>
+    <image>
+      <url>https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/podcast_cover.jpg</url>
+      <title>AI Shots Daily Briefing</title>
+      <link>https://github.com/akshaykhanna/ai-shots-data</link>
+    </image>
     <itunes:image href="https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/podcast_cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>AI Shots Daily Briefing - June 23, 2026</title>
+      <itunes:author>AI Shots</itunes:author>
+      <description>Here is your daily AI Shots briefing. Today's top stories: Vibecoding is becoming a deal-breaker test for software. Five Eyes intelligence alliance says frontier AI models. Getty Images strikes multi-year deal to put licensed. Sakana AI's Fugu orchestrates multiple LLMs to match. Rehumanizing global health care with agentic AI. How courts are coping with a flood. Meta hack shows there’s more to AI security. XAI fired engineer who raised alarms about Grok. Amazon borrows $17.5B from banks as AI spending. Google just redesigned the search box.</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260623.mp3" length="2177280" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing_20260623</guid>
+      <pubDate>Tue, 23 Jun 2026 00:01:03 +0000</pubDate>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>AI Shots Daily Briefing - June 21, 2026</title>
       <itunes:author>AI Shots</itunes:author>
