@@ -1,6 +1,18 @@
 {
   "news": [
     {
+      "id": "f57fafaddaf28e4fc5baa1020a1d278a",
+      "title": "Top spy agencies say AI cyber threats will",
+      "description": "Cybersecurity chiefs of the Five Eyes nations issued a rare intelligence briefing on June 22, 2026 . US, UK, Canada, Australia, and New Zealand issued the warning . The Five Eyes is the world's most powerful intelligence alliance . AI cyber threats are no longer a distant problem for corporate data centres, according to the report . Here\u2019s why, and how, these threats will impact you within months .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-06-23T14:58:59.016211Z"
+    },
+    {
       "id": "2db85e0cafc40e148623e16befd95289",
       "title": "Anthropic and Micron want to co-design AI memory",
       "description": "Micron is investing in Anthropic's Series H round and getting a multi-year deal to supply memory for Claude's infrastructure . Anthropic co-founder Tom Brown calls memory critical to training and running Claude . Critics say circular deals like this are inflating a bubble . Micron's stock has surged more than tenfold in a single year in the last 12 months . The company says it wants to co-design AI memory architecture .",
@@ -10,7 +22,7 @@
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-23T09:48:18.238187Z"
+      "pubDate": "2026-06-23T14:58:44.803843Z"
     },
     {
       "id": "5fae2363ce38e3b6210dd5ab0f42db5e",
@@ -22,51 +34,34 @@
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-23T09:48:06.559358Z"
+      "pubDate": "2026-06-23T14:58:33.164211Z"
     },
     {
-      "id": "5a0f8f20efd8f70df4463004a2be0f18",
-      "title": "Five things you need to know",
-      "description": "At SXSW London, Will Douglas Heaven laid out how he\u2019s thinking about AI in 2026 . Heaven: Generative AI tools have already become mundane, used by millions to automate everyday office tasks . There is almost no data to say either way what kind of effect this technology will have on employment and the economy overall . AI is also being used in warfare in new and worrying ways, including giving advice, not just analysis .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/5-things-a.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "id": "d7cae530e62c73715dba56f54f5192c4",
+      "title": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic",
+      "description": "The real bottleneck in cybersecurity has moved from finding flaws to patching them, OpenAI says . The updated Codex Security plugin scans code and analyzes code alongside a threat model, spots flaws, checks whether affected code is reachable, builds a targeted patch, and verifies the result . The full version of GPT-5.5-Cyber replaces an earlier preview that mostly aimed to cut unnecessary refusals in security workflows .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/openai_logo_orange.png",
+      "fullArticleLink": "https://the-decoder.com/openai-says-new-gpt-5-5-cyber-outperforms-anthropics-mythos-on-cybersecurity-benchmark/",
       "type": "news",
       "categories": [
         "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-06-23T09:47:47.610605Z"
-    },
-    {
-      "id": "25761d5880ff6ebdde94be0752c26fa4",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "description": "To optimize AI\u2019s potential within a hybrid workforce, leaders need to adapt workplace strategies\u2014re-evaluating roles, skills, and culture . As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce . As AI agents assume ownership of more complex and integral tasks, the distribution of roles and responsibilities within an organization will undergo significant change .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-3-_-V2-1.png?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-06-23T09:47:31.972886Z"
-    },
-    {
-      "id": "5fa3405179d5d881ff141378321e64ee",
-      "title": "Google DeepMind is worried about what happens when",
-      "description": "Google DeepMind is worried about what happens when millions of AI agents start to interact . The firm is calling for more scientists to study the risks of multi-agent systems . The concern is that as more and more AI agents get deployed and begin working together, we could hit a tipping point where imagined scenarios become real . The company has teamed up with several other organizations to announce a $10 million funding pot for research .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/corralling-agents.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
         "Security",
         "Startup"
       ],
-      "pubDate": "2026-06-23T09:47:15.036224Z"
+      "pubDate": "2026-06-23T14:58:15.004716Z"
+    },
+    {
+      "id": "18dc69215396b96ccf6fb7776c6c8d6e",
+      "title": "Cursor announces its own AI model, a new",
+      "description": "Cursor has shared new details about its first self-trained AI model . It's being trained from scratch - no open-source base like earlier Composer models . The model is on par with Opus and GPT in size, and uses ten to twenty times more compute than previous Cursor models . Cursor Mobile app lets users manage agents remotely, unblock stuck tasks, review or comment on agent-generated screenshots .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/08/cursor_AI_logo.png",
+      "fullArticleLink": "https://the-decoder.com/cursor-announces-its-own-ai-model-a-new-git-platform-and-a-mobile-app/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-06-23T14:58:00.505727Z"
     },
     {
       "id": "15ef7d1be15d56c86f06d72db2dd0125",
