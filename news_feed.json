@@ -1,6 +1,78 @@
 {
   "news": [
     {
+      "id": "18dc69215396b96ccf6fb7776c6c8d6e",
+      "title": "Cursor announces its own AI model, a new",
+      "description": "Cursor has shared new details about its first self-trained AI model . It's being trained from scratch - no open-source base like earlier Composer models . The model is on par with Opus and GPT in size, and uses ten to twenty times more compute than previous Cursor models . Cursor Mobile app lets users manage agents remotely, unblock stuck tasks, review or comment on agent-generated screenshots .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/08/cursor_AI_logo.png",
+      "fullArticleLink": "https://the-decoder.com/cursor-announces-its-own-ai-model-a-new-git-platform-and-a-mobile-app/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-06-24T03:43:04.772234Z"
+    },
+    {
+      "id": "7843eb37883726dac07232b69dae919b",
+      "title": "ByteDance's Seedance 2.5 breaks the 30-second barrier",
+      "description": "ByteDance introduced five new AI models at Volcano Engine's FORCE conference . The centerpiece is Seedance 2.5, a video model set to launch in early July . The new model generates single video clips up to 30 seconds long without any post-stitching, complete with scene changes and tempo shifts . It can process up to 50 additional inputs at once - reference images, audio, and more - useful for film scenes with multiple characters .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/02/seedance_20_demo_teaser.png",
+      "fullArticleLink": "https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-06-24T03:42:49.222052Z"
+    },
+    {
+      "id": "5a0f8f20efd8f70df4463004a2be0f18",
+      "title": "Five things you need to know",
+      "description": "At SXSW London, Will Douglas Heaven laid out how he\u2019s thinking about AI in 2026 . Heaven: Generative AI tools have already become mundane, used by millions to automate everyday office tasks . There is almost no data to say either way what kind of effect this technology will have on employment and the economy overall . AI is also being used in warfare in new and worrying ways, including giving advice, not just analysis .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/5-things-a.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-24T03:42:30.886529Z"
+    },
+    {
+      "id": "25761d5880ff6ebdde94be0752c26fa4",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "description": "To optimize AI\u2019s potential within a hybrid workforce, leaders need to adapt workplace strategies\u2014re-evaluating roles, skills, and culture . As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce . As AI agents assume ownership of more complex and integral tasks, the distribution of roles and responsibilities within an organization will undergo significant change .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-3-_-V2-1.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-24T03:42:14.602747Z"
+    },
+    {
+      "id": "5fa3405179d5d881ff141378321e64ee",
+      "title": "Google DeepMind is worried about what happens when",
+      "description": "Google DeepMind is worried about what happens when millions of AI agents start to interact . The firm is calling for more scientists to study the risks of multi-agent systems . The concern is that as more and more AI agents get deployed and begin working together, we could hit a tipping point where imagined scenarios become real . The company has teamed up with several other organizations to announce a $10 million funding pot for research .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/corralling-agents.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-24T03:41:57.445346Z"
+    },
+    {
       "id": "f57fafaddaf28e4fc5baa1020a1d278a",
       "title": "Top spy agencies say AI cyber threats will",
       "description": "Cybersecurity chiefs of the Five Eyes nations issued a rare intelligence briefing on June 22, 2026 . US, UK, Canada, Australia, and New Zealand issued the warning . The Five Eyes is the world's most powerful intelligence alliance . AI cyber threats are no longer a distant problem for corporate data centres, according to the report . Here\u2019s why, and how, these threats will impact you within months .",
