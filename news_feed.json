@@ -1,6 +1,18 @@
 {
   "news": [
     {
+      "id": "7a0ffc70bc3155374b9c754edb26b73f",
+      "title": "Anthropic drops \u2018workplace AI agents\u2019 directly inside Slack",
+      "description": "Anthropic has launched a beta version of its Claude Tag feature for Enterprise and Team tiers . Users pull the artificial intelligence model into active group threads by typing @Claude.&#160; The integration allows any team member in the channel to delegate a task, review a review of a task or submit a request to be reviewed by a member of the team . Anthropic's Claude Tag is available now on the Enterprise, Team tiers of Slack .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/301d5ee481a352435c048a9df7ce172b9617b05f-2400x1260-1.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-24T09:39:42.567810Z"
+    },
+    {
       "id": "18dc69215396b96ccf6fb7776c6c8d6e",
       "title": "Cursor announces its own AI model, a new",
       "description": "Cursor has shared new details about its first self-trained AI model . It's being trained from scratch - no open-source base like earlier Composer models . The model is on par with Opus and GPT in size, and uses ten to twenty times more compute than previous Cursor models . Cursor Mobile app lets users manage agents remotely, unblock stuck tasks, review or comment on agent-generated screenshots .",
@@ -11,7 +23,7 @@
         "LLM",
         "Startup"
       ],
-      "pubDate": "2026-06-24T03:43:04.772234Z"
+      "pubDate": "2026-06-24T09:39:26.485076Z"
     },
     {
       "id": "7843eb37883726dac07232b69dae919b",
@@ -24,53 +36,34 @@
         "LLM",
         "Startup"
       ],
-      "pubDate": "2026-06-24T03:42:49.222052Z"
+      "pubDate": "2026-06-24T09:39:11.424221Z"
     },
     {
-      "id": "5a0f8f20efd8f70df4463004a2be0f18",
-      "title": "Five things you need to know",
-      "description": "At SXSW London, Will Douglas Heaven laid out how he\u2019s thinking about AI in 2026 . Heaven: Generative AI tools have already become mundane, used by millions to automate everyday office tasks . There is almost no data to say either way what kind of effect this technology will have on employment and the economy overall . AI is also being used in warfare in new and worrying ways, including giving advice, not just analysis .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/5-things-a.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "id": "45620ca30717bacc1f52141394442be7",
+      "title": "Mistral's new OCR model beats competitors in 72",
+      "description": "Mistral AI has released OCR 4, a new model that reads text from documents like PDFs, Word files, and PowerPoint presentations . Unlike earlier versions, it doesn't just pull raw text but identifies where each element sits on the page and what role it plays . Block classification helps break documents into meaningful sections, useful for feeding them into search systems or letting AI agents process them . The model is available through the API, Mistral Studio, and Microsoft Foundry, costs $4 per 1,000 pages .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/mistral_ai-2.png",
+      "fullArticleLink": "https://the-decoder.com/mistrals-new-ocr-model-beats-competitors-in-72-percent-of-blind-test-cases-company-says/",
       "type": "news",
       "categories": [
         "LLM",
         "Hardware",
-        "Security",
         "Startup"
       ],
-      "pubDate": "2026-06-24T03:42:30.886529Z"
+      "pubDate": "2026-06-24T09:38:56.168213Z"
     },
     {
-      "id": "25761d5880ff6ebdde94be0752c26fa4",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "description": "To optimize AI\u2019s potential within a hybrid workforce, leaders need to adapt workplace strategies\u2014re-evaluating roles, skills, and culture . As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce . As AI agents assume ownership of more complex and integral tasks, the distribution of roles and responsibilities within an organization will undergo significant change .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-3-_-V2-1.png?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "id": "2ebfba452adf0feebdd2604d6eb8e16b",
+      "title": "Claude Tag embeds Anthropic's AI in Slack, already",
+      "description": "Anthropic has introduced Claude Tag to embed its AI directly into Slack . The tool already generates 65 percent of the code on Anthropic's product team, the company says . Admins grant the model access to selected channels and connect it to tools, data, and codebases . Anyone in the channel can tag @Claude and describe a task in plain language . The model breaks it into steps, works through them using available tools, and reports back in a Slack thread .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/Claude-Tag-title.webp",
+      "fullArticleLink": "https://the-decoder.com/claude-tag-embeds-anthropics-ai-in-slack-already-writes-65-percent-of-internal-code-company-says/",
       "type": "news",
       "categories": [
         "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
         "Startup"
       ],
-      "pubDate": "2026-06-24T03:42:14.602747Z"
-    },
-    {
-      "id": "5fa3405179d5d881ff141378321e64ee",
-      "title": "Google DeepMind is worried about what happens when",
-      "description": "Google DeepMind is worried about what happens when millions of AI agents start to interact . The firm is calling for more scientists to study the risks of multi-agent systems . The concern is that as more and more AI agents get deployed and begin working together, we could hit a tipping point where imagined scenarios become real . The company has teamed up with several other organizations to announce a $10 million funding pot for research .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/corralling-agents.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-24T03:41:57.445346Z"
+      "pubDate": "2026-06-24T09:38:39.166937Z"
     },
     {
       "id": "f57fafaddaf28e4fc5baa1020a1d278a",
