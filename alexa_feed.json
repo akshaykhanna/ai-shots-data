@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260623",
-    "updateDate": "2026-06-23T23:50:36.0Z",
+    "uid": "briefing_20260624",
+    "updateDate": "2026-06-25T00:00:05.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: OpenAI says new GPT-5.5-Cyber outperforms Anthropic, Vibecoding is becoming a deal-breaker test for software, Five Eyes intelligence alliance says frontier AI models, Getty Images strikes multi-year deal to put licensed, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Top spy agencies say AI cyber threats will, Omio scales travel product development using OpenAI models, Anthropic and Micron want to co-design AI memory",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260623.mp3"
+    "mainText": "Today's top stories: Cursor announces its own AI model, a new, ByteDance's Seedance 2.5 breaks the 30-second barrier, Mistral's new OCR model beats competitors in 72, Claude Tag embeds Anthropic's AI in Slack, already, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Anthropic drops \u2018workplace AI agents\u2019 directly inside Slack, China Opens World\u2019s First Wind-Powered Underwater Data Center, There\u2019s Finally Video of a Great White Shark",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260624.mp3"
   }
 ]
