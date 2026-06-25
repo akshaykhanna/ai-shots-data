@@ -1,6 +1,78 @@
 {
   "news": [
     {
+      "id": "a16efe29c379253e9d3c49449c12da0c",
+      "title": "Samsung opens ChatGPT Enterprise and Codex access after",
+      "description": "Samsung is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work . Deployment covers all Samsung employees in Korea and all Device eXperience employees worldwide . The DX division includes smartphones, consumer electronics, and home appliances . Samsung plans to use [AI] tools for non-tech and technical work, according to OpenAI . The deployment covers all .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Samsung-opens-ChatGPT-Enterprise-and-Codex-access-after-AI-restrictions-scaled-e1782272300821.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-25T03:41:06.290771Z"
+    },
+    {
+      "id": "913889f1ec07b23b83d36654db043b3c",
+      "title": "OpenAI says ChatGPT Instant now better understands what",
+      "description": "OpenAI is updating GPT-5.5 Instant, its most-used model in ChatGPT . The goal is better conversation quality, especially when users make decisions, seek advice, or compare options . The model now better identifies \"the underlying goal behind a question\" and carries context across multiple turns . Local business and shopping queries also improve . Responses overall should feel \"less templated and more intentionally designed\"",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-25T03:40:50.779096Z"
+    },
+    {
+      "id": "5a0f8f20efd8f70df4463004a2be0f18",
+      "title": "Five things you need to know",
+      "description": "At SXSW London, Will Douglas Heaven laid out how he\u2019s thinking about AI in 2026 . Heaven: Generative AI tools have already become mundane, used by millions to automate everyday office tasks . There is almost no data to say either way what kind of effect this technology will have on employment and the economy overall . AI is also being used in warfare in new and worrying ways, including giving advice, not just analysis .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/5-things-a.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-25T03:40:33.010480Z"
+    },
+    {
+      "id": "25761d5880ff6ebdde94be0752c26fa4",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "description": "To optimize AI\u2019s potential within a hybrid workforce, leaders need to adapt workplace strategies\u2014re-evaluating roles, skills, and culture . As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce . As AI agents assume ownership of more complex and integral tasks, the distribution of roles and responsibilities within an organization will undergo significant change .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-3-_-V2-1.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-25T03:40:17.326142Z"
+    },
+    {
+      "id": "5fa3405179d5d881ff141378321e64ee",
+      "title": "Google DeepMind is worried about what happens when",
+      "description": "Google DeepMind is worried about what happens when millions of AI agents start to interact . The firm is calling for more scientists to study the risks of multi-agent systems . The concern is that as more and more AI agents get deployed and begin working together, we could hit a tipping point where imagined scenarios become real . The company has teamed up with several other organizations to announce a $10 million funding pot for research .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/corralling-agents.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-25T03:40:00.272618Z"
+    },
+    {
       "id": "bb0c2a62376fad9fd2ae5216ef67aeb6",
       "title": "Pangram CEO says language models give themselves away",
       "description": "Pangram CEO Max Spero says language models give themselves away by making the same arguments . Human reasoning is far more diverse, he says, and that's what might give AI away . Language models may write cleaner prose than most humans, but ask one for 100 arguments on a topic and they'll all cluster together, he adds . The CEO says that human reasoning is more diverse than that of the language models .",
