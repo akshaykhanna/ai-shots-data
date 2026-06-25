@@ -11,7 +11,7 @@
         "LLM",
         "Hardware"
       ],
-      "pubDate": "2026-06-25T09:29:50.459325Z"
+      "pubDate": "2026-06-25T14:42:30.907468Z"
     },
     {
       "id": "1e85916676862251c213e88ed62411a3",
@@ -23,53 +23,48 @@
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-25T09:29:37.748106Z"
+      "pubDate": "2026-06-25T14:42:17.160841Z"
     },
     {
-      "id": "2e6677ef75d7b46a16b8f742baa82a96",
-      "title": "Why do South Koreans love AI so much?",
-      "description": "A majority of South Koreans use AI every day, either as a sort of personal assistant or to do tasks at work . Government agencies are deploying AI textbooks in schools and AI eldercare robots in welfare centers . South Koreans share a deep conviction that embracing technology is integral to modernizing the country and cementing its place in the global order . As South Korea rose from the ashes of the Korean War, technology lifted the nation from poverty into an economic powerhouse .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/AP26126222060508.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "id": "55168659e991bcb12cd06aced9e43078",
+      "title": "Google keeps losing top AI researchers to rivals",
+      "description": "Google appears to be hemorrhaging key AI researchers to competitors . Jonas Adler and Alexander Pritzel are planning to join Anthropic . The departures spooked investors and dragged down Alphabet's stock . Anthropic and OpenAI are both approaching IPOs and can offer employees lucrative equity packages . A SignalFire analysis found that Deepmind engineers switch to Anthropic eleven times more often than the other way around. Google Deepmind CEO Demis Hassabis says Google has the deepest research bench of any AI lab .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/01/deepmind_logo_wall-2.jpeg",
+      "fullArticleLink": "https://the-decoder.com/google-keeps-losing-top-ai-researchers-to-rivals/",
       "type": "news",
       "categories": [
         "LLM",
-        "Robotics",
-        "Hardware",
         "Security",
         "Startup"
       ],
-      "pubDate": "2026-06-25T09:29:19.056022Z"
+      "pubDate": "2026-06-25T14:42:02.370209Z"
     },
     {
-      "id": "8add01e4aff738028b7963e42b8d7731",
-      "title": "A startup claims it broke through a bottleneck",
-      "description": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim . It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade . The company has now shared more details about its new model, SubQ . SubQ is able to process up to 12 times as much text at once, allowing it to carry out a range of data-heavy tasks .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cheetah-speed2a.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "id": "baaac91b60829a68fe1fdf38c3512e8e",
+      "title": "Meta employees warn AI moderation rollout is too",
+      "description": "Meta has already replaced roughly half of all human moderation requests with large language models in 2025 . The shift is expected to save the company billions annually . The company disputes the cost argument and points to quality instead, saying the models make 13 percent fewer errors than humans when enforcing content policies . One insider says the models still remove or shadow-ban harmless content . The transition is already leading to layoffs, especially among external contractors, the Financial Times reports .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/01/instagram_ai_generated.jpeg",
+      "fullArticleLink": "https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast/",
       "type": "news",
       "categories": [
         "LLM",
-        "Hardware",
         "Security",
         "Startup"
       ],
-      "pubDate": "2026-06-25T09:29:02.489009Z"
+      "pubDate": "2026-06-25T14:41:48.165180Z"
     },
     {
-      "id": "e5321e5c15e444031cfa9a28606b10f4",
-      "title": "Anthropic\u2019s latest feud with the government continues",
-      "description": "Anthropic's latest feud with the government has raised new questions about AI safety and sovereignty . Anthropic revoked access to its AI models after the government placed export controls on them . It's possible that shutting off access to Anthropic\u2019s models will leave the country more vulnerable to cybersecurity attacks, not less . The French politician Bruno Retailleau described it as a \u201cwake-up call\u201d that should motivate Europe to build more AI .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/WH-v-Anthropic.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "id": "52aae94f237bb5354ff383aeef9d9d1d",
+      "title": "Authors Guild test finds some AI detectors perfectly",
+      "description": "Authors Guild tested five AI detectors on human-written texts . Pangram and Grammarly correctly identified all of them, while Sidekicker and ZeroGPT flagged human-writing articles as AI-generated . Guild warns of a paradox: professionally written texts look statistically similar to AI output because language models were trained on exactly that kind of writing . But the Guild also warns of the paradox: professional written texts .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/ai_text_detection.png",
+      "fullArticleLink": "https://the-decoder.com/authors-guild-test-finds-some-ai-detectors-perfectly-identify-human-writing-while-others-fail-on-every-single-text/",
       "type": "news",
       "categories": [
         "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
+        "Hardware"
       ],
-      "pubDate": "2026-06-25T09:28:46.176087Z"
+      "pubDate": "2026-06-25T14:41:35.576167Z"
     },
     {
       "id": "a16efe29c379253e9d3c49449c12da0c",
