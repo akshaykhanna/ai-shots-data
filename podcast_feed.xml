@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>AI Shots Daily Briefing - June 26, 2026</title>
+      <itunes:author>AI Shots</itunes:author>
+      <description>Here is your daily AI Shots briefing. Today's top stories: OpenAI's Jalapeño chip was created by an algorithm. Google keeps losing top AI researchers to rivals. Meta employees warn AI moderation rollout is too. Authors Guild test finds some AI detectors perfectly. Five things you need to know. Learning to lead in a hybrid human-AI enterprise. Google DeepMind is worried about what happens when. XAI fired engineer who raised alarms about Grok. Amazon borrows $17.5B from banks as AI spending. Google just redesigned the search box.</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260626.mp3" length="2208096" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing_20260626</guid>
+      <pubDate>Fri, 26 Jun 2026 00:05:02 +0000</pubDate>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AI Shots Daily Briefing - June 25, 2026</title>
       <itunes:author>AI Shots</itunes:author>
       <description>Here is your daily AI Shots briefing. Today's top stories: Cursor announces its own AI model, a new. ByteDance's Seedance 2.5 breaks the 30-second barrier. Mistral's new OCR model beats competitors in 72. Claude Tag embeds Anthropic's AI in Slack, already. XAI fired engineer who raised alarms about Grok. Amazon borrows $17.5B from banks as AI spending. Google just redesigned the search box. Anthropic drops ‘workplace AI agents’ directly inside Slack. China Opens World’s First Wind-Powered Underwater Data Center. There’s Finally Video of a Great White Shark.</description>

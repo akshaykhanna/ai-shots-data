@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260624",
-    "updateDate": "2026-06-25T00:00:05.0Z",
+    "uid": "briefing_20260626",
+    "updateDate": "2026-06-26T00:05:02.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: Cursor announces its own AI model, a new, ByteDance's Seedance 2.5 breaks the 30-second barrier, Mistral's new OCR model beats competitors in 72, Claude Tag embeds Anthropic's AI in Slack, already, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Anthropic drops \u2018workplace AI agents\u2019 directly inside Slack, China Opens World\u2019s First Wind-Powered Underwater Data Center, There\u2019s Finally Video of a Great White Shark",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260624.mp3"
+    "mainText": "Today's top stories: OpenAI's Jalape\u00f1o chip was created by an algorithm, Google keeps losing top AI researchers to rivals, Meta employees warn AI moderation rollout is too, Authors Guild test finds some AI detectors perfectly, Five things you need to know, Learning to lead in a hybrid human-AI enterprise, Google DeepMind is worried about what happens when, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260626.mp3"
   }
 ]
