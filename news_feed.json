@@ -1,6 +1,78 @@
 {
   "news": [
     {
+      "id": "6dc77e8742470beffe16ef07147eb5f5",
+      "title": "Grok AI is reportedly a porn platform now",
+      "description": "xAI is actively expanding Grok's image and video generation, filling a gap OpenAI, Anthropic, and Google won't touch . Two former xAI employees estimate that well over half of all Grok traffic goes to pornographic images, videos, roleplay chats, or other adult content . xAI knew but waited, only acting after regulatory pressure . Grok generated 10 billion images and 2 billion videos per month in Q1 2026 .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wall-2.png",
+      "fullArticleLink": "https://the-decoder.com/grok-ai-is-reportedly-a-porn-platform-now-with-over-half-its-traffic-tied-to-adult-content/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-26T03:48:37.680431Z"
+    },
+    {
+      "id": "550b8de210833596bc29443bd946486a",
+      "title": "Insurers turn to AI for catastrophe modeling, but",
+      "description": "Diffusion models generate tens of thousands of plausible weather events where historical data doesn't exist . Researchers warn about hallucinations and sales logic could get in the way . Better science can end up clashing with sales logic, even when the risk picture objectively looks worse . More precise models could theoretically let insurers cover regions like Bangladesh or Brazil that major modeling firms have skipped because of low asset values . Whether the new tools actually show up in premiums remains an open question .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/AI-natural-disaster-forecast-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-26T03:48:20.514168Z"
+    },
+    {
+      "id": "3f71f5a85453990b012428e142f90788",
+      "title": "Most major AI chatbots still lean left",
+      "description": "A Washington Post investigation shows that most major AI chatbots still skew left on political questions . OpenAI's GPT-5.5 gave exclusively left-leaning arguments 80 percent of the time . Musk's Grok, marketed as anti-woke, leaned left more often than not . The one outlier: Google's Gemini 3.1 Pro presented both sides 93 percent of time . The investigation was conducted by the Washington Post .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/political_bias_ai_chatbot.png",
+      "fullArticleLink": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-26T03:48:08.219553Z"
+    },
+    {
+      "id": "2e6677ef75d7b46a16b8f742baa82a96",
+      "title": "Why do South Koreans love AI so much?",
+      "description": "A majority of South Koreans use AI every day, either as a sort of personal assistant or to do tasks at work . Government agencies are deploying AI textbooks in schools and AI eldercare robots in welfare centers . South Koreans share a deep conviction that embracing technology is integral to modernizing the country and cementing its place in the global order . As South Korea rose from the ashes of the Korean War, technology lifted the nation from poverty into an economic powerhouse .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/AP26126222060508.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-26T03:47:49.391891Z"
+    },
+    {
+      "id": "8add01e4aff738028b7963e42b8d7731",
+      "title": "A startup claims it broke through a bottleneck",
+      "description": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim . It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade . The company has now shared more details about its new model, SubQ . SubQ is able to process up to 12 times as much text at once, allowing it to carry out a range of data-heavy tasks .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cheetah-speed2a.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-26T03:47:32.479948Z"
+    },
+    {
       "id": "beb8eaf07e313fc8082b8871fb9c2686",
       "title": "OpenAI's Jalape\u00f1o chip was created by an algorithm",
       "description": "OpenAI's financial trajectory hinges heavily on infrastructure costs . Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to mitigate the heavy capital expenditure associated with third-party hardware . Nvidia currently commands an estimated 75% profit margin on Nvidia, which currently commands a 75% profits margin on the chip . The Jalape\u00f1o chip was developed by Broadcom in partnership with OpenAI .",
