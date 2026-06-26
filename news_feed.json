@@ -13,7 +13,7 @@
         "Security",
         "Startup"
       ],
-      "pubDate": "2026-06-26T03:48:37.680431Z"
+      "pubDate": "2026-06-26T09:35:26.962004Z"
     },
     {
       "id": "550b8de210833596bc29443bd946486a",
@@ -27,7 +27,7 @@
         "Security",
         "Startup"
       ],
-      "pubDate": "2026-06-26T03:48:20.514168Z"
+      "pubDate": "2026-06-26T09:35:10.131516Z"
     },
     {
       "id": "3f71f5a85453990b012428e142f90788",
@@ -39,7 +39,19 @@
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-26T03:48:08.219553Z"
+      "pubDate": "2026-06-26T09:34:58.150987Z"
+    },
+    {
+      "id": "03029e56eb5c2069db94855e7a46922e",
+      "title": "OpenAI's GPT 5.6 rollout now requires US government",
+      "description": "OpenAI will initially make its new GPT-5.6 model available only to select partners, with access approved on a \"customer by customer\" basis . CEO Sam Altman says this isn't a \"preferred long term model\" After the forced takedown of Anthropic's Fable, AI labs are afraid of a de facto licensing regime for AI models . OpenAI CEO says it's not a long-term model .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/white_house_ai_firms.png",
+      "fullArticleLink": "https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-26T09:34:46.079321Z"
     },
     {
       "id": "2e6677ef75d7b46a16b8f742baa82a96",
@@ -55,22 +67,7 @@
         "Security",
         "Startup"
       ],
-      "pubDate": "2026-06-26T03:47:49.391891Z"
-    },
-    {
-      "id": "8add01e4aff738028b7963e42b8d7731",
-      "title": "A startup claims it broke through a bottleneck",
-      "description": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim . It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade . The company has now shared more details about its new model, SubQ . SubQ is able to process up to 12 times as much text at once, allowing it to carry out a range of data-heavy tasks .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cheetah-speed2a.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-26T03:47:32.479948Z"
+      "pubDate": "2026-06-26T09:34:27.964611Z"
     },
     {
       "id": "beb8eaf07e313fc8082b8871fb9c2686",
