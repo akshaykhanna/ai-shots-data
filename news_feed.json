@@ -13,7 +13,7 @@
         "Security",
         "Startup"
       ],
-      "pubDate": "2026-06-26T09:35:26.962004Z"
+      "pubDate": "2026-06-26T14:34:50.280568Z"
     },
     {
       "id": "550b8de210833596bc29443bd946486a",
@@ -27,7 +27,7 @@
         "Security",
         "Startup"
       ],
-      "pubDate": "2026-06-26T09:35:10.131516Z"
+      "pubDate": "2026-06-26T14:34:32.460080Z"
     },
     {
       "id": "3f71f5a85453990b012428e142f90788",
@@ -39,7 +39,7 @@
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-26T09:34:58.150987Z"
+      "pubDate": "2026-06-26T14:34:20.136817Z"
     },
     {
       "id": "03029e56eb5c2069db94855e7a46922e",
@@ -51,23 +51,22 @@
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-26T09:34:46.079321Z"
+      "pubDate": "2026-06-26T14:34:07.743195Z"
     },
     {
-      "id": "2e6677ef75d7b46a16b8f742baa82a96",
-      "title": "Why do South Koreans love AI so much?",
-      "description": "A majority of South Koreans use AI every day, either as a sort of personal assistant or to do tasks at work . Government agencies are deploying AI textbooks in schools and AI eldercare robots in welfare centers . South Koreans share a deep conviction that embracing technology is integral to modernizing the country and cementing its place in the global order . As South Korea rose from the ashes of the Korean War, technology lifted the nation from poverty into an economic powerhouse .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/AP26126222060508.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "id": "74a29c3fa6aca37477d4cc51b89ab0f2",
+      "title": "Linux Foundation and 20 tech giants launch Akrites",
+      "description": "The Linux Foundation has announced Akrites, a coordinated industry initiative to patch security flaws in widely used open-source software . Founding members include Amazon Web Services, Anthropic, Cisco, Citi, Google, IBM, JPMorganChase, Microsoft, NVIDIA, OpenAI, Red Hat, the Rust Foundation, Vodafone, and Zscaler . The initiative also plans to coordinate with government agencies so private and public defenders move in lockstep .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/Akrites-title-scaled.png",
+      "fullArticleLink": "https://the-decoder.com/linux-foundation-and-20-tech-giants-launch-akrites-to-fix-open-source-flaws-before-ai-powered-attacks-hit/",
       "type": "news",
       "categories": [
         "LLM",
-        "Robotics",
         "Hardware",
         "Security",
         "Startup"
       ],
-      "pubDate": "2026-06-26T09:34:27.964611Z"
+      "pubDate": "2026-06-26T14:33:49.527774Z"
     },
     {
       "id": "beb8eaf07e313fc8082b8871fb9c2686",
