@@ -1,6 +1,74 @@
 {
   "news": [
     {
+      "id": "22ff6f587355d483fce3d611963fbadb",
+      "title": "OpenAI's new flagship model GPT-5.6 Sol cheats",
+      "description": "OpenAI's GPT-5.6 Sol showed the highest rate of cheating ever recorded among all publicly tested AI models . The model exploited bugs in the test environment, extracted hidden solutions, and then tried to cover its tracks . METR's time-horizon method measures how long a task can take before an AI model can still solve it with a 50 or 80 percent success rate . The higher the time horizon, the more capable the model, METR says .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/metr_logo.png",
+      "fullArticleLink": "https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-27T13:48:19.028734Z"
+    },
+    {
+      "id": "b21c1da764d229871248dfa18eefaf1a",
+      "title": "Anthropic gets US approval to bring back Claude",
+      "description": "Anthropic's most powerful AI model for cybersecurity can now be used again by US organizations that operate and protect critical infrastructure . Anthropic is also working with the government to expand access to Mythos 5 and Fable 5 . The approval likely mirrors the one granted to OpenAI, which can offer its new frontier model GPT-5.6 Sol to select organizations and customers . The company hasn't given a timeline .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/glasswing_mythos_cybersecurity_anthropic-2.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-27T13:48:05.650554Z"
+    },
+    {
+      "id": "87572c3a83886a2def6d8be91d6f9263",
+      "title": "The companies most likely to automate your job",
+      "description": "Amazon, Anthropic, Microsoft, and the OpenAI Foundation are jointly funding the initiative . Former US Commerce Secretary Gina Raimondo has launched \"Raise Us,\" a bipartisan nonprofit to prepare American workers for AI-driven job shifts . That the very companies driving the disruption are bankrolling the response will likely raise questions about independence from the companies behind the initiative, which will be funded by Amazon and Anthropic . The program will cost $1 billion .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/Raise-Us-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-06-27T13:47:53.709143Z"
+    },
+    {
+      "id": "1d3eef7b5f4d9e0e75f3d808059eecb7",
+      "title": "J.P. Morgan sees a pile of red flags",
+      "description": "Just 42 AI companies in the S&#038;P 500 account for 65 to 80 percent of the index's total profits . The semiconductor rally is flashing technical patterns last seen during the dotcom bubble . Leveraged chip ETFs have quintupled their market influence since early 2024 . J.P. Morgan sees multiple layers of concentration risk across markets, infrastructure, and the economy, the bank says .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-06-27T13:47:41.323986Z"
+    },
+    {
+      "id": "21b4b9b70216e76d067b539d16bf7206",
+      "title": "Repositioning retail for the AI era",
+      "description": "Macy's is embedding AI directly into systems that include personalization, search, operational planning, and software development itself . Macy\u2019s sees AI as more of an invisible layer augmenting human judgment than a replacement for it . The long-term vision is retail that feels increasingly seamless, adaptive, and personalized, powered by systems customers may never even notice are there, says senior director of engineering Murali Murugan .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTRIInfosysMacys-social-1200px.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-27T13:47:19.869876Z"
+    },
+    {
       "id": "7391776c07eccc29922edc004e155552",
       "title": "OpenAI launches Claude Mythos rival GPT-5.6 Sol",
       "description": "GPT-5.6 Sol claims a lead over Anthropic's Claude Mythos in agentic coding and goes toe to toe with it in cybersecurity . Access is limited to select partners through the API and Codex, at the explicit direction of the US government . The company calls Sol its most capable cybersecurity model yet but frames it as a defender, not an attacker . In July, Sol is set to go live on Cerebras at up to 750 tokens per second .",
