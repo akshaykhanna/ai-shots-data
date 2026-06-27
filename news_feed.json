@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "id": "7391776c07eccc29922edc004e155552",
+      "title": "OpenAI's GPT-5.6 Sol launches to rival Claude Mythos",
+      "description": "GPT-5.6 Sol claims a lead over Anthropic's Claude Mythos in agentic coding and goes toe to toe with it in cybersecurity . Access is limited to select partners through the API and Codex, at the explicit direction of the US government . The company calls Sol its most capable cybersecurity model yet but frames it as a defender, not an attacker . In July, Sol is set to go live on Cerebras at up to 750 tokens per second .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_gpt56_sol.png",
+      "fullArticleLink": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-27T03:33:09.689708Z"
+    },
+    {
+      "id": "2e6677ef75d7b46a16b8f742baa82a96",
+      "title": "Why do South Koreans love AI so much?",
+      "description": "A majority of South Koreans use AI every day, either as a sort of personal assistant or to do tasks at work . Government agencies are deploying AI textbooks in schools and AI eldercare robots in welfare centers . South Koreans share a deep conviction that embracing technology is integral to modernizing the country and cementing its place in the global order . As South Korea rose from the ashes of the Korean War, technology lifted the nation from poverty into an economic powerhouse .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/AP26126222060508.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-27T03:32:51.673203Z"
+    },
+    {
+      "id": "8add01e4aff738028b7963e42b8d7731",
+      "title": "A startup claims it broke through a bottleneck",
+      "description": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim . It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade . The company has now shared more details about its new model, SubQ . SubQ is able to process up to 12 times as much text at once, allowing it to carry out a range of data-heavy tasks .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cheetah-speed2a.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-27T03:32:35.691277Z"
+    },
+    {
+      "id": "e5321e5c15e444031cfa9a28606b10f4",
+      "title": "Anthropic\u2019s latest feud with the government continues",
+      "description": "Anthropic's latest feud with the government has raised new questions about AI safety and sovereignty . Anthropic revoked access to its AI models after the government placed export controls on them . It's possible that shutting off access to Anthropic\u2019s models will leave the country more vulnerable to cybersecurity attacks, not less . The French politician Bruno Retailleau described it as a \u201cwake-up call\u201d that should motivate Europe to build more AI .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/WH-v-Anthropic.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-27T03:32:20.334860Z"
+    },
+    {
+      "id": "abc015d0b086d1c6c287212caad5ba37",
+      "title": "The emergence of the web data infrastructure layer",
+      "description": "As AI continues to advance, infrastructure must evolve to enable access and delivery of real-time information at scale . The web was not designed for the automated discovery and retrieval that new AI applications demand . The next frontier in AI may depend on a new web data infrastructure layer that can enable models to discover and map this ever-expanding digital realm . This layer must be able to navigate hundreds of millions of existing web domains and billions of new URLs created each week .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-27T03:32:05.696834Z"
+    },
+    {
       "id": "f7fedc0ec6cbfdd4536405b562258562",
       "title": "SAP aligns commerce data with commerce data",
       "description": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer . Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touchpoints . However, the actual infrastructure running inside these enterprises fails to support systematic execution at the required volume . Recommendation engines display generic product listings because of the lack of systematic execution, SAP says. Recommendation engine displays generic product listing because of this .",
