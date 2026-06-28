@@ -1,6 +1,67 @@
 {
   "news": [
     {
+      "id": "87572c3a83886a2def6d8be91d6f9263",
+      "title": "The companies most likely to automate your job",
+      "description": "Amazon, Anthropic, Microsoft, and the OpenAI Foundation are jointly funding the initiative . Former US Commerce Secretary Gina Raimondo has launched \"Raise Us,\" a bipartisan nonprofit to prepare American workers for AI-driven job shifts . That the very companies driving the disruption are bankrolling the response will likely raise questions about independence from the companies behind the initiative, which will be funded by Amazon and Anthropic . The program will cost $1 billion .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/Raise-Us-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-06-28T19:28:02.262204Z"
+    },
+    {
+      "id": "1d3eef7b5f4d9e0e75f3d808059eecb7",
+      "title": "J.P. Morgan sees a pile of red flags",
+      "description": "Just 42 AI companies in the S&#038;P 500 account for 65 to 80 percent of the index's total profits . The semiconductor rally is flashing technical patterns last seen during the dotcom bubble . Leveraged chip ETFs have quintupled their market influence since early 2024 . J.P. Morgan sees multiple layers of concentration risk across markets, infrastructure, and the economy, the bank says .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-06-28T19:27:49.333775Z"
+    },
+    {
+      "id": "4d8abeb593752865170d31129b198a5f",
+      "title": "Claude users say AI can already handle half",
+      "description": "Half of Claude users say AI can already handle 50 percent or more of their work tasks . In 12 months, 26 percent expect AI to cover 60 to 90 percent of work . Early-career workers worry the most, while the heaviest users are the most optimistic about their career prospects, Anthropic survey finds . The heaviest users in the survey are optimistic about the future of Claude's AI workable system . The survey of roughly 9,700 users was conducted by Anthropic .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/anthropic_office_work.png",
+      "fullArticleLink": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-28T19:27:35.803453Z"
+    },
+    {
+      "id": "96daab63a2b9667a66f812864ca1ecad",
+      "title": "Anthropic's Fable 5 could return within days",
+      "description": "Anthropic's AI model, Fable 5, could be available again within days . According to Axios, the Trump administration is close to lifting restrictions imposed on June 12 over safety concerns . The Pentagon and NSA still need to sign off with the Pentagon still deciding whether to lift restrictions . The model could return within days as Trump administration prepares to lift the restrictions imposed over safety fears, Axios reports . The report says the Pentagon and the NSA still must sign off .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/fable_5_logo-scaled.webp",
+      "fullArticleLink": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-06-28T19:27:22.806999Z"
+    },
+    {
+      "id": "25626d95659d7911f49073f3b8f129e6",
+      "title": "Chinese cybersecurity firm builds AI tools to rival",
+      "description": "360 founder Zhou Hongyi presents two AI security tools designed to compete with Anthropic's Mythos . Zhou admits Chinese models trail Western ones by 20 to 30 percent, but compares Mythos to \"cyber nuclear weapons\" and calls for China to build its own strategic deterrent . One of the tools has already flagged 3,432 vulnerabilities, according to Zhou, the founder of 360 360 founder of the firm's first AI security tool .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/china_vs_usa_ai_race.png",
+      "fullArticleLink": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-06-28T19:27:09.507242Z"
+    },
+    {
       "id": "b5ec7ba74474209dcb963fd4900bd140",
       "title": "E2e-assure introduces Cumulo, the U.K.\u2019",
       "description": "e2e-assure introduces Cumulo, the U.K.\u2019s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments . Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur . Cumulo is designed to help organisations defend their IT/OT environments .",
