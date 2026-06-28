@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "id": "25761d5880ff6ebdde94be0752c26fa4",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "description": "To optimize AI\u2019s potential within a hybrid workforce, leaders need to adapt workplace strategies\u2014re-evaluating roles, skills, and culture . As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce . As AI agents assume ownership of more complex and integral tasks, the distribution of roles and responsibilities within an organization will undergo significant change .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MIT-Abstract-Thumbnail-3-_-V2-1.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-28T08:58:08.388180Z"
+    },
+    {
+      "id": "5fa3405179d5d881ff141378321e64ee",
+      "title": "Google DeepMind is worried about what happens when",
+      "description": "Google DeepMind is worried about what happens when millions of AI agents start to interact . The firm is calling for more scientists to study the risks of multi-agent systems . The concern is that as more and more AI agents get deployed and begin working together, we could hit a tipping point where imagined scenarios become real . The company has teamed up with several other organizations to announce a $10 million funding pot for research .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/corralling-agents.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-28T08:57:50.980763Z"
+    },
+    {
+      "id": "2e6677ef75d7b46a16b8f742baa82a96",
+      "title": "Why do South Koreans love AI so much?",
+      "description": "A majority of South Koreans use AI every day, either as a sort of personal assistant or to do tasks at work . Government agencies are deploying AI textbooks in schools and AI eldercare robots in welfare centers . South Koreans share a deep conviction that embracing technology is integral to modernizing the country and cementing its place in the global order . As South Korea rose from the ashes of the Korean War, technology lifted the nation from poverty into an economic powerhouse .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/AP26126222060508.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-28T08:57:34.082717Z"
+    },
+    {
+      "id": "8add01e4aff738028b7963e42b8d7731",
+      "title": "A startup claims it broke through a bottleneck",
+      "description": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim . It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade . The company has now shared more details about its new model, SubQ . SubQ is able to process up to 12 times as much text at once, allowing it to carry out a range of data-heavy tasks .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cheetah-speed2a.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-28T08:57:17.089741Z"
+    },
+    {
+      "id": "e5321e5c15e444031cfa9a28606b10f4",
+      "title": "Anthropic\u2019s latest feud with the government continues",
+      "description": "Anthropic's latest feud with the government has raised new questions about AI safety and sovereignty . Anthropic revoked access to its AI models after the government placed export controls on them . It's possible that shutting off access to Anthropic\u2019s models will leave the country more vulnerable to cybersecurity attacks, not less . The French politician Bruno Retailleau described it as a \u201cwake-up call\u201d that should motivate Europe to build more AI .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/WH-v-Anthropic.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-28T08:57:00.367672Z"
+    },
+    {
       "id": "87572c3a83886a2def6d8be91d6f9263",
       "title": "The companies most likely to automate your job",
       "description": "Amazon, Anthropic, Microsoft, and the OpenAI Foundation are jointly funding the initiative . Former US Commerce Secretary Gina Raimondo has launched \"Raise Us,\" a bipartisan nonprofit to prepare American workers for AI-driven job shifts . That the very companies driving the disruption are bankrolling the response will likely raise questions about independence from the companies behind the initiative, which will be funded by Amazon and Anthropic . The program will cost $1 billion .",
