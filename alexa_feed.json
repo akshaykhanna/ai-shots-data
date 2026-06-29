@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260627",
-    "updateDate": "2026-06-27T23:55:56.0Z",
+    "uid": "briefing_20260629",
+    "updateDate": "2026-06-29T00:02:15.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: OpenAI launches Claude Mythos rival GPT-5.6 Sol, Why do South Koreans love AI so much?, A startup claims it broke through a bottleneck, Anthropic\u2019s latest feud with the government continues, The emergence of the web data infrastructure layer, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, China Opens World\u2019s First Wind-Powered Underwater Data Center, There\u2019s Finally Video of a Great White Shark",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260627.mp3"
+    "mainText": "Today's top stories: XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, L\u2019Or\u00e9al brings Maybelline virtual try-on to ChatG, Top spy agencies say AI cyber threats will, China Opens World\u2019s First Wind-Powered Underwater Data Center, There\u2019s Finally Video of a Great White Shark, Lindy ditched Claude entirely for Deepseek, saving millions, OpenAI launches Claude Mythos rival GPT-5.6 Sol, OpenAI's new flagship model GPT-5.6 Sol cheats",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260629.mp3"
   }
 ]
