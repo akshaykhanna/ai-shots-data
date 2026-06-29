@@ -1,9 +1,9 @@
 [
   {
     "uid": "briefing_20260629",
-    "updateDate": "2026-06-29T00:02:15.0Z",
+    "updateDate": "2026-06-29T23:55:40.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, L\u2019Or\u00e9al brings Maybelline virtual try-on to ChatG, Top spy agencies say AI cyber threats will, China Opens World\u2019s First Wind-Powered Underwater Data Center, There\u2019s Finally Video of a Great White Shark, Lindy ditched Claude entirely for Deepseek, saving millions, OpenAI launches Claude Mythos rival GPT-5.6 Sol, OpenAI's new flagship model GPT-5.6 Sol cheats",
+    "mainText": "Today's top stories: Claude Code runs GitHub repo's hidden malware without, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Only three AI models finished above starting capital, Samsung and SK Hynix plan $590 billion chip, Computer vision deployments drive retail productivity gains, Omio scales travel product development using OpenAI models, Anthropic drops \u2018workplace AI agents\u2019 directly inside Slack, Samsung opens ChatGPT Enterprise and Codex access after",
     "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260629.mp3"
   }
 ]
