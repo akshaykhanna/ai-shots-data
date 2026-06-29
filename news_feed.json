@@ -1,65 +1,64 @@
 {
   "news": [
     {
-      "id": "87572c3a83886a2def6d8be91d6f9263",
-      "title": "The companies most likely to automate your job",
-      "description": "Amazon, Anthropic, Microsoft, and the OpenAI Foundation are jointly funding the initiative . Former US Commerce Secretary Gina Raimondo has launched \"Raise Us,\" a bipartisan nonprofit to prepare American workers for AI-driven job shifts . That the very companies driving the disruption are bankrolling the response will likely raise questions about independence from the companies behind the initiative, which will be funded by Amazon and Anthropic . The program will cost $1 billion .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/Raise-Us-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/",
+      "id": "5202b2cad0efe8f11a37d2f684643463",
+      "title": "HSBC expands AI banking partnership with Google Cloud",
+      "description": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations . Announced at Google Cloud Summit London 2026, agreement covers work in wealth management, financial crime risk management, and internal decision support . HSBC will work with the Google Cloud and Google DeepMind engineering teams on AI . The partnership will also focus on developing and deploying AI tools across the company's global operations.",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/HSBC-expands-AI-banking-partnership-with-Google-Cloud-e1781758426514.png",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
       "type": "news",
       "categories": [
-        "LLM",
-        "Startup"
+        "General AI"
       ],
-      "pubDate": "2026-06-28T19:28:02.262204Z"
+      "pubDate": "2026-06-29T04:03:10.282724Z"
     },
     {
-      "id": "1d3eef7b5f4d9e0e75f3d808059eecb7",
-      "title": "J.P. Morgan sees a pile of red flags",
-      "description": "Just 42 AI companies in the S&#038;P 500 account for 65 to 80 percent of the index's total profits . The semiconductor rally is flashing technical patterns last seen during the dotcom bubble . Leveraged chip ETFs have quintupled their market influence since early 2024 . J.P. Morgan sees multiple layers of concentration risk across markets, infrastructure, and the economy, the bank says .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/",
+      "id": "32d55aeeaa5f2d80008b832ab3f85cb1",
+      "title": "Computer vision deployments drive retail productivity gains",
+      "description": "Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins . This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry billions . A study authored by Coresight Research \u2013 in partnership with technology providers Simbe and RELEX Solutions \u2013 calculates the exact cost of the deployment of the vision vision to retail stores . The study was published in conjunction with the release of AI News .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/computer-vision-deployments-physical-ai-retail-robotics-intelligence-inventory-control-automation-productivity.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
       "type": "news",
       "categories": [
         "Hardware"
       ],
-      "pubDate": "2026-06-28T19:27:49.333775Z"
+      "pubDate": "2026-06-29T04:02:59.443758Z"
     },
     {
-      "id": "4d8abeb593752865170d31129b198a5f",
-      "title": "Claude users say AI can already handle half",
-      "description": "Half of Claude users say AI can already handle 50 percent or more of their work tasks . In 12 months, 26 percent expect AI to cover 60 to 90 percent of work . Early-career workers worry the most, while the heaviest users are the most optimistic about their career prospects, Anthropic survey finds . The heaviest users in the survey are optimistic about the future of Claude's AI workable system . The survey of roughly 9,700 users was conducted by Anthropic .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/anthropic_office_work.png",
-      "fullArticleLink": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/",
+      "id": "426cbb80fb50a779d7b4debda2bd0f30",
+      "title": "Omio scales travel product development using OpenAI models",
+      "description": "Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces . The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries . Omio explicitly rejects the superficial addition of technology to outdated internal processes . The company\u2019s CTO, Tomas Vocetka, requires all internal functions to completely redesign . The post Omio scales travel products development using Open AI models appeared in AI News .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/omio-travel-transport-logistics-openai-codex-ai-software-development-commerce-artificial-intelligence-models.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
       "type": "news",
       "categories": [
         "LLM"
       ],
-      "pubDate": "2026-06-28T19:27:35.803453Z"
+      "pubDate": "2026-06-29T04:02:48.633567Z"
     },
     {
-      "id": "96daab63a2b9667a66f812864ca1ecad",
-      "title": "Anthropic's Fable 5 could return within days",
-      "description": "Anthropic's AI model, Fable 5, could be available again within days . According to Axios, the Trump administration is close to lifting restrictions imposed on June 12 over safety concerns . The Pentagon and NSA still need to sign off with the Pentagon still deciding whether to lift restrictions . The model could return within days as Trump administration prepares to lift the restrictions imposed over safety fears, Axios reports . The report says the Pentagon and the NSA still must sign off .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/fable_5_logo-scaled.webp",
-      "fullArticleLink": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/",
+      "id": "7a0ffc70bc3155374b9c754edb26b73f",
+      "title": "Anthropic drops \u2018workplace AI agents\u2019 directly inside Slack",
+      "description": "Anthropic has launched a beta version of its Claude Tag feature for Enterprise and Team tiers . Users pull the artificial intelligence model into active group threads by typing @Claude.&#160; The integration allows any team member in the channel to delegate a task, review a review of a task or submit a request to be reviewed by a member of the team . Anthropic's Claude Tag is available now on the Enterprise, Team tiers of Slack .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/301d5ee481a352435c048a9df7ce172b9617b05f-2400x1260-1.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
       "type": "news",
       "categories": [
-        "Security"
+        "LLM"
       ],
-      "pubDate": "2026-06-28T19:27:22.806999Z"
+      "pubDate": "2026-06-29T04:02:37.726349Z"
     },
     {
-      "id": "25626d95659d7911f49073f3b8f129e6",
-      "title": "Chinese cybersecurity firm builds AI tools to rival",
-      "description": "360 founder Zhou Hongyi presents two AI security tools designed to compete with Anthropic's Mythos . Zhou admits Chinese models trail Western ones by 20 to 30 percent, but compares Mythos to \"cyber nuclear weapons\" and calls for China to build its own strategic deterrent . One of the tools has already flagged 3,432 vulnerabilities, according to Zhou, the founder of 360 360 founder of the firm's first AI security tool .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/china_vs_usa_ai_race.png",
-      "fullArticleLink": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/",
+      "id": "a16efe29c379253e9d3c49449c12da0c",
+      "title": "Samsung opens ChatGPT Enterprise and Codex access after",
+      "description": "Samsung is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work . Deployment covers all Samsung employees in Korea and all Device eXperience employees worldwide . The DX division includes smartphones, consumer electronics, and home appliances . Samsung plans to use [AI] tools for non-tech and technical work, according to OpenAI . The deployment covers all .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Samsung-opens-ChatGPT-Enterprise-and-Codex-access-after-AI-restrictions-scaled-e1782272300821.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
       "type": "news",
       "categories": [
-        "Security"
+        "LLM"
       ],
-      "pubDate": "2026-06-28T19:27:09.507242Z"
+      "pubDate": "2026-06-29T04:02:26.743465Z"
     },
     {
       "id": "b5ec7ba74474209dcb963fd4900bd140",
