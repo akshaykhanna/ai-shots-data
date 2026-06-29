@@ -1,65 +1,65 @@
 {
   "news": [
     {
-      "id": "beb8eaf07e313fc8082b8871fb9c2686",
-      "title": "OpenAI's Jalape\u00f1o chip was created by an algorithm",
-      "description": "OpenAI's financial trajectory hinges heavily on infrastructure costs . Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to mitigate the heavy capital expenditure associated with third-party hardware . Nvidia currently commands an estimated 75% profit margin on Nvidia, which currently commands a 75% profits margin on the chip . The Jalape\u00f1o chip was developed by Broadcom in partnership with OpenAI .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image.png-scaled.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+      "id": "8d3f58db581bd4110ca688792ba24e59",
+      "title": "Only three AI models finished above starting capital",
+      "description": "Researchers at Princeton University built CEO-Bench, a test where AI agents have to run a fictional software company for 500 simulated days . Most current models go broke, and a simple rule-based heuristic with no AI beats nearly all of them . Only three AI models finished above starting capital in a 500-day startup survival test . The test was created by Princeton University researchers at the University of Princeton University in New York .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/CEO-Bench-title.png",
+      "fullArticleLink": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-06-29T20:09:14.045128Z"
+    },
+    {
+      "id": "b2598f50af756966ac714059da8a072c",
+      "title": "Coinbase joins the rush to Chinese AI models",
+      "description": "Coinbase CEO Brian Armstrong is switching his company to Chinese AI models like GLM 5.2 and Kimi 2.7 . An automated routing system picks the best model for each request based on task and price, and better caching pushed the hit rate from 5 to 60 percent . The company has cut its AI spending in half even as token usage keeps climbing . It joins the rush to Chinese models as Western labs face a pricing stress test .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/tokenization-2-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-29T20:09:01.770005Z"
+    },
+    {
+      "id": "9ba2794fcfd0fc6c7df6ebb73756874e",
+      "title": "AI won't become a real coworker until it",
+      "description": "A survey paper by Tencent and several Chinese universities traces the path from chatbot to \"digital colleague\" AI systems won't become reliable coworkers until they finish entire tasks in persistent work environments . The key lies in combining persistent workspaces with reusable skills, the researchers argue . Tencent: AI won&#039;t become a real coworker until it stops answering and starts finishing tasks instead of just generating answers .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/ai-chatbot-digital-colleague-generated-image-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-29T20:08:50.075046Z"
+    },
+    {
+      "id": "d5d27736f51dfb4b219e3e81bcb20c33",
+      "title": "Samsung and SK Hynix plan $590 billion chip",
+      "description": "Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring . The two companies control nearly 80 percent of the global HBM market . According to Jefferies, memory prices could climb to 50 percent per quarter through 2027 . The investment is backed by the South Korean government, backed by South Korea government, as demand for AI data center demand surges . The companies control almost 80 percent the global chip market .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/memory_hbm.png",
+      "fullArticleLink": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-06-29T20:08:37.743151Z"
+    },
+    {
+      "id": "1869a31fe6519c18aed2efe5808667e4",
+      "title": "Claude Code runs GitHub repo's hidden malware without",
+      "description": "Researchers at Mozilla's 0DIN platform have shown how a single compromised GitHub repo can take over a developer's machine the moment an AI coding tool like Claude Code runs its setup . The malicious code only loads at runtime via a DNS query, invisible in the repo, to scanners, and to the AI agent itself . The catch: the malicious code is only loaded at run at run, invisible to scanners and to Claude Code itself .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/ai_prompt_injection-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/",
       "type": "news",
       "categories": [
         "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-06-29T15:58:24.078816Z"
-    },
-    {
-      "id": "f7fedc0ec6cbfdd4536405b562258562",
-      "title": "SAP aligns commerce data with commerce data",
-      "description": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer . Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touchpoints . However, the actual infrastructure running inside these enterprises fails to support systematic execution at the required volume . Recommendation engines display generic product listings because of the lack of systematic execution, SAP says. Recommendation engine displays generic product listing because of this .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/sap-commerce-data-engineering-ai-personalisation-retail-marketing-customer-experience-cx.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-29T15:58:13.418955Z"
-    },
-    {
-      "id": "161c2aae3a3dae5131dd951ca25dda60",
-      "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection",
-      "description": "New partnership brings on-device deepfake detection to video calls on desktop . Both announcements were made at Computex 2026 in Taipei . Scam.ai was featured at Qualcomm's booth as part of its booth as a part of the company's AI news coverage at the event . The company announced its partnership with Qualcomm and the launch of Halo, an on- device deep fake detection model for live video calls .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/scam.ai-header-1.png",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-29T15:58:02.495384Z"
-    },
-    {
-      "id": "f95fa127eb1ce5f479e531e35de424a2",
-      "title": "XFusion scales enterprise AI from edge workstations",
-      "description": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres . Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks . Relying on public APIs exposes proprietary commercial data . xFusions engineers responded with a four-tier hardware . The post-mortem of the xfusion project was published on Monday, November 24, at the ISC2026 conference in Hamburg .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/XfUSION-LOGO-2.png",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-06-29T15:57:51.639270Z"
-    },
-    {
-      "id": "0840e1dae11f98dc3bfd846604a2f8e2",
-      "title": "Best Automated Security Testing Tools for Modern DevSecOps",
-      "description": "Modern DevSecOps needs security checks that run before release day . Teams now write code, build services and deploy updates at a pace that manual review cannot match . That's why they use automated testing, as it helps catch routine flaws before they reach production . Verizon\u2019s 2025 Data Breach Investigations Report found that Verizon's 2025 data breach investigations report found that the number of breaches in the U.S. has grown .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI-News.png",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/",
-      "type": "news",
-      "categories": [
         "Security"
       ],
-      "pubDate": "2026-06-29T15:57:40.859470Z"
+      "pubDate": "2026-06-29T20:08:25.735919Z"
     },
     {
       "id": "5202b2cad0efe8f11a37d2f684643463",
