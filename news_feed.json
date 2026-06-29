@@ -1,64 +1,65 @@
 {
   "news": [
     {
-      "id": "1d3eef7b5f4d9e0e75f3d808059eecb7",
-      "title": "J.P. Morgan sees a pile of red flags",
-      "description": "Just 42 AI companies in the S&#038;P 500 account for 65 to 80 percent of the index's total profits . The semiconductor rally is flashing technical patterns last seen during the dotcom bubble . Leveraged chip ETFs have quintupled their market influence since early 2024 . J.P. Morgan sees multiple layers of concentration risk across markets, infrastructure, and the economy, the bank says .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/",
+      "id": "beb8eaf07e313fc8082b8871fb9c2686",
+      "title": "OpenAI's Jalape\u00f1o chip was created by an algorithm",
+      "description": "OpenAI's financial trajectory hinges heavily on infrastructure costs . Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to mitigate the heavy capital expenditure associated with third-party hardware . Nvidia currently commands an estimated 75% profit margin on Nvidia, which currently commands a 75% profits margin on the chip . The Jalape\u00f1o chip was developed by Broadcom in partnership with OpenAI .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image.png-scaled.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-06-29T15:58:24.078816Z"
+    },
+    {
+      "id": "f7fedc0ec6cbfdd4536405b562258562",
+      "title": "SAP aligns commerce data with commerce data",
+      "description": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer . Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touchpoints . However, the actual infrastructure running inside these enterprises fails to support systematic execution at the required volume . Recommendation engines display generic product listings because of the lack of systematic execution, SAP says. Recommendation engine displays generic product listing because of this .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/sap-commerce-data-engineering-ai-personalisation-retail-marketing-customer-experience-cx.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-29T15:58:13.418955Z"
+    },
+    {
+      "id": "161c2aae3a3dae5131dd951ca25dda60",
+      "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection",
+      "description": "New partnership brings on-device deepfake detection to video calls on desktop . Both announcements were made at Computex 2026 in Taipei . Scam.ai was featured at Qualcomm's booth as part of its booth as a part of the company's AI news coverage at the event . The company announced its partnership with Qualcomm and the launch of Halo, an on- device deep fake detection model for live video calls .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/scam.ai-header-1.png",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-29T15:58:02.495384Z"
+    },
+    {
+      "id": "f95fa127eb1ce5f479e531e35de424a2",
+      "title": "XFusion scales enterprise AI from edge workstations",
+      "description": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres . Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks . Relying on public APIs exposes proprietary commercial data . xFusions engineers responded with a four-tier hardware . The post-mortem of the xfusion project was published on Monday, November 24, at the ISC2026 conference in Hamburg .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/XfUSION-LOGO-2.png",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
       "type": "news",
       "categories": [
         "Hardware"
       ],
-      "pubDate": "2026-06-29T11:10:07.949100Z"
+      "pubDate": "2026-06-29T15:57:51.639270Z"
     },
     {
-      "id": "4d8abeb593752865170d31129b198a5f",
-      "title": "Claude users say AI can already handle half",
-      "description": "Half of Claude users say AI can already handle 50 percent or more of their work tasks . In 12 months, 26 percent expect AI to cover 60 to 90 percent of work . Early-career workers worry the most, while the heaviest users are the most optimistic about their career prospects, Anthropic survey finds . The heaviest users in the survey are optimistic about the future of Claude's AI workable system . The survey of roughly 9,700 users was conducted by Anthropic .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/anthropic_office_work.png",
-      "fullArticleLink": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-29T11:09:54.863664Z"
-    },
-    {
-      "id": "96daab63a2b9667a66f812864ca1ecad",
-      "title": "Anthropic's Fable 5 could return within days",
-      "description": "Anthropic's AI model, Fable 5, could be available again within days . According to Axios, the Trump administration is close to lifting restrictions imposed on June 12 over safety concerns . The Pentagon and NSA still need to sign off with the Pentagon still deciding whether to lift restrictions . The model could return within days as Trump administration prepares to lift the restrictions imposed over safety fears, Axios reports . The report says the Pentagon and the NSA still must sign off .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/fable_5_logo-scaled.webp",
-      "fullArticleLink": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/",
+      "id": "0840e1dae11f98dc3bfd846604a2f8e2",
+      "title": "Best Automated Security Testing Tools for Modern DevSecOps",
+      "description": "Modern DevSecOps needs security checks that run before release day . Teams now write code, build services and deploy updates at a pace that manual review cannot match . That's why they use automated testing, as it helps catch routine flaws before they reach production . Verizon\u2019s 2025 Data Breach Investigations Report found that Verizon's 2025 data breach investigations report found that the number of breaches in the U.S. has grown .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI-News.png",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/",
       "type": "news",
       "categories": [
         "Security"
       ],
-      "pubDate": "2026-06-29T11:09:42.665303Z"
-    },
-    {
-      "id": "25626d95659d7911f49073f3b8f129e6",
-      "title": "Chinese cybersecurity firm builds AI tools to rival",
-      "description": "360 founder Zhou Hongyi presents two AI security tools designed to compete with Anthropic's Mythos . Zhou admits Chinese models trail Western ones by 20 to 30 percent, but compares Mythos to \"cyber nuclear weapons\" and calls for China to build its own strategic deterrent . One of the tools has already flagged 3,432 vulnerabilities, according to Zhou, the founder of 360 360 founder of the firm's first AI security tool .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/china_vs_usa_ai_race.png",
-      "fullArticleLink": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-06-29T11:09:30.167349Z"
-    },
-    {
-      "id": "8d3f58db581bd4110ca688792ba24e59",
-      "title": "Only three AI models finished above starting capital",
-      "description": "Researchers at Princeton University built CEO-Bench, a test where AI agents have to run a fictional software company for 500 simulated days . Most current models go broke, and a simple rule-based heuristic with no AI beats nearly all of them . Only three AI models finished above starting capital in a 500-day startup survival test . The test was created by Princeton University researchers at the University of Princeton University in New York .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/CEO-Bench-title.png",
-      "fullArticleLink": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/",
-      "type": "news",
-      "categories": [
-        "Startup"
-      ],
-      "pubDate": "2026-06-29T11:09:18.820316Z"
+      "pubDate": "2026-06-29T15:57:40.859470Z"
     },
     {
       "id": "5202b2cad0efe8f11a37d2f684643463",
