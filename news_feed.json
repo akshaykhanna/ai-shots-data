@@ -1,6 +1,66 @@
 {
   "news": [
     {
+      "id": "1d3eef7b5f4d9e0e75f3d808059eecb7",
+      "title": "J.P. Morgan sees a pile of red flags",
+      "description": "Just 42 AI companies in the S&#038;P 500 account for 65 to 80 percent of the index's total profits . The semiconductor rally is flashing technical patterns last seen during the dotcom bubble . Leveraged chip ETFs have quintupled their market influence since early 2024 . J.P. Morgan sees multiple layers of concentration risk across markets, infrastructure, and the economy, the bank says .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-06-29T11:10:07.949100Z"
+    },
+    {
+      "id": "4d8abeb593752865170d31129b198a5f",
+      "title": "Claude users say AI can already handle half",
+      "description": "Half of Claude users say AI can already handle 50 percent or more of their work tasks . In 12 months, 26 percent expect AI to cover 60 to 90 percent of work . Early-career workers worry the most, while the heaviest users are the most optimistic about their career prospects, Anthropic survey finds . The heaviest users in the survey are optimistic about the future of Claude's AI workable system . The survey of roughly 9,700 users was conducted by Anthropic .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/anthropic_office_work.png",
+      "fullArticleLink": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-29T11:09:54.863664Z"
+    },
+    {
+      "id": "96daab63a2b9667a66f812864ca1ecad",
+      "title": "Anthropic's Fable 5 could return within days",
+      "description": "Anthropic's AI model, Fable 5, could be available again within days . According to Axios, the Trump administration is close to lifting restrictions imposed on June 12 over safety concerns . The Pentagon and NSA still need to sign off with the Pentagon still deciding whether to lift restrictions . The model could return within days as Trump administration prepares to lift the restrictions imposed over safety fears, Axios reports . The report says the Pentagon and the NSA still must sign off .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/fable_5_logo-scaled.webp",
+      "fullArticleLink": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-06-29T11:09:42.665303Z"
+    },
+    {
+      "id": "25626d95659d7911f49073f3b8f129e6",
+      "title": "Chinese cybersecurity firm builds AI tools to rival",
+      "description": "360 founder Zhou Hongyi presents two AI security tools designed to compete with Anthropic's Mythos . Zhou admits Chinese models trail Western ones by 20 to 30 percent, but compares Mythos to \"cyber nuclear weapons\" and calls for China to build its own strategic deterrent . One of the tools has already flagged 3,432 vulnerabilities, according to Zhou, the founder of 360 360 founder of the firm's first AI security tool .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/china_vs_usa_ai_race.png",
+      "fullArticleLink": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-06-29T11:09:30.167349Z"
+    },
+    {
+      "id": "8d3f58db581bd4110ca688792ba24e59",
+      "title": "Only three AI models finished above starting capital",
+      "description": "Researchers at Princeton University built CEO-Bench, a test where AI agents have to run a fictional software company for 500 simulated days . Most current models go broke, and a simple rule-based heuristic with no AI beats nearly all of them . Only three AI models finished above starting capital in a 500-day startup survival test . The test was created by Princeton University researchers at the University of Princeton University in New York .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/CEO-Bench-title.png",
+      "fullArticleLink": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-06-29T11:09:18.820316Z"
+    },
+    {
       "id": "5202b2cad0efe8f11a37d2f684643463",
       "title": "HSBC expands AI banking partnership with Google Cloud",
       "description": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations . Announced at Google Cloud Summit London 2026, agreement covers work in wealth management, financial crime risk management, and internal decision support . HSBC will work with the Google Cloud and Google DeepMind engineering teams on AI . The partnership will also focus on developing and deploying AI tools across the company's global operations.",
