@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "id": "37b02d42428bbf55f004b573c85c198b",
+      "title": "US military used AI to pick thousands",
+      "description": "Report: Analyst noticed changes at site in Minab in southeastern Iran years before strike that killed 120 children . Analyst flagged the changes in 2019 using a digital intelligence tool that wasn't linked to the official target database the US military uses to develop strike targets . The building was reviewed multiple times, but nobody updated the database . At least two intelligence databases have never been connected to the authoritative target database . The aging infrastructure stands in stark contrast to the speed of AI in Syria and elsewhere .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/pentagon_AI_strategy-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-06-30T03:47:27.315466Z"
+    },
+    {
+      "id": "b92a3012902c45e23e25cd91cd4551b9",
+      "title": "Deloitte tells its own consultants: AI is coming",
+      "description": "An internal Deloitte presentation projects that the consulting industry's classic hourly billing model will shrink to a thin sliver of the total market by 2035 . McKinsey and BCG are already searching for alternative revenue models . \"Our model is toast,\" one consultant summed up the message, saying: \"We're going to be in a mess\" McKinsey says it's already looking at alternatives to hourly billing models .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/07/office_building_gptfied.png",
+      "fullArticleLink": "https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-30T03:47:16.310534Z"
+    },
+    {
+      "id": "7b80e13e67040072b2bfbd9e123a1529",
+      "title": "Meta restricts use of Claude Code and Codex",
+      "description": "Meta is limiting how its engineers use Anthropic's Claude Code and OpenAI's Codex . The company is worried about distillation - the unauthorized transfer of capabilities from rival AI models . An internal memo warned of serious escalations with partner companies if their model outputs were to leak into Meta's training data . Meta is currently building out its own coding assistant, MetaCode, and wants to cut its reliance on outside tools, partly because of rising costs .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/Code-Agent-Harness-Nano-Banana-Pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-06-30T03:47:02.036704Z"
+    },
+    {
+      "id": "0ec42dfd8ccfb251ea0bdad19ee901f6",
+      "title": "EU seeks AI independence as Austria proposes luring",
+      "description": "Austria's State Secretary for Digitalization, Alexander Pr\u00f6ll, is calling on the European Commission to explore bringing Anthropic to Europe . He's responding to the U.S. ban on advanced AI models from OpenAI and Anthropic for foreign users . The initiative is likely unrealistic, though. And the alternative floating in the background, Chinese AI models, would just trade one dependency for another . The alternative, however, is just a dependency .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/usa_china_eu.png",
+      "fullArticleLink": "https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-30T03:46:49.743166Z"
+    },
+    {
+      "id": "796ca81ddeddbb5c889593ad6e590412",
+      "title": "Amazon engineers are reportedly distilling Anthropic models",
+      "description": "Amazon engineers are already distilling Anthropic models into smaller, cheaper versions for internal use . Starting next year, Amazon will pay by tokens processed rather than compute hours, which could push costs up sharply . The company is also exploring alternatives like OpenAI, which is based on the company's work on AI systems . Amazon engineers reportedly distilling models to cut costs before new token-based pricing kicks in next year . It is unclear whether the company will continue to use Anthropic or OpenAI .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2023/09/amazon_anthropic-e1695638185191.png",
+      "fullArticleLink": "https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-30T03:46:37.178138Z"
+    },
+    {
       "id": "8d3f58db581bd4110ca688792ba24e59",
       "title": "Only three AI models finished above starting capital",
       "description": "Researchers at Princeton University built CEO-Bench, a test where AI agents have to run a fictional software company for 500 simulated days . Most current models go broke, and a simple rule-based heuristic with no AI beats nearly all of them . Only three AI models finished above starting capital in a 500-day startup survival test . The test was created by Princeton University researchers at the University of Princeton University in New York .",
