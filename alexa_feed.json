@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260629",
-    "updateDate": "2026-06-29T23:55:40.0Z",
+    "uid": "briefing_20260630",
+    "updateDate": "2026-06-30T23:59:37.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: Claude Code runs GitHub repo's hidden malware without, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Only three AI models finished above starting capital, Samsung and SK Hynix plan $590 billion chip, Computer vision deployments drive retail productivity gains, Omio scales travel product development using OpenAI models, Anthropic drops \u2018workplace AI agents\u2019 directly inside Slack, Samsung opens ChatGPT Enterprise and Codex access after",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260629.mp3"
+    "mainText": "Today's top stories: HP accelerates enterprise workflows with OpenAI Frontier Frontier, Taiwan raids Super Micro offices in probe, Why do South Koreans love AI so much?, A startup claims it broke through a bottleneck, Anthropic\u2019s latest feud with the government continues, OpenAI's Jalape\u00f1o chip was created by an algorithm, US military used AI to pick thousands, Meta restricts use of Claude Code and Codex, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260630.mp3"
   }
 ]
