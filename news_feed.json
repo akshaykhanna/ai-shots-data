@@ -1,6 +1,139 @@
 {
   "news": [
     {
+      "id": "ef5e9b1e1386fc7648b371475c3e7c61",
+      "title": "Advances in Natural Language Processing are changing Professional",
+      "description": "Advances in Natural Language Processing Are Changing Professional Networking . Advances are reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions . Professional networking now relies on a growing ecosystem of AI-powered systems . AI-driven systems increasingly comprehend and generate human language, these technological advances affect how users pursue and maintain professional connections, presenting both opportunities and challenges in authentic relationship-building, author says .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/07b4f2d7-d60b-4d33-b0c7-d1b37e2a185e.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-30T14:48:15.308807Z"
+    },
+    {
+      "id": "b66b89ac0ca5ef4e88e0c80246ceebfa",
+      "title": "Wimbledon adds IBM AI tools for live match",
+      "description": "Wimbledon is adding new AI-powered features to its digital platforms through its ongoing work with IBM . The updates will be available through the Wimbledon app and wimbledon.com as first-round matches begin on Monday . They include an upgraded Match Chat assistant and a new feature called Key Moments . The features will also be available on the app and the website as first round matches begin Monday . The feature will also include a new Key Moments feature for live match coverage .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Wimbledon-adds-IBM-AI-tools-for-live-match-coverage-scaled-e1782711199170.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-30T14:48:03.306401Z"
+    },
+    {
+      "id": "6c5efbc7046f1fcba441b28141bfacb8",
+      "title": "HP accelerates enterprise workflows with OpenAI Frontier Frontier",
+      "description": "HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output . The hardware manufacturer initiated testing of the platform in February 2026 . Early pilot programs yielded verified operational gains in software engineering and cybersecurity remediation . Expanding these initial trials into an enterprise-wide operating model requires connecting access protocols, contextual access protocols and contextual access to contextual data . The company says it will soon be using the platform to accelerate output and optimise workflows .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/hp-openai-frontier-enterprise-ai-governance-artificial-intelligence-automation-data-device-management.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-06-30T14:47:50.998215Z"
+    },
+    {
+      "id": "163dd5ca7aafc5840f28c261979eb8e9",
+      "title": "Deepseek's DSpark boosts AI speed by up",
+      "description": "Deepseek's new DSpark framework boosts per-user response speed by 60 to 85 percent . A small model proposes token candidates that the larger model checks in batches, squeezing more performance out of fewer chips . That could further reduce China's dependence on US high-end hardware . Deepseek&#039;s DSpk boosts AI speed by up to 85%, a strategic win under tightening US export controls .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
+      "fullArticleLink": "https://the-decoder.com/deepseeks-dspark-boosts-ai-speed-by-up-to-85-percent-a-strategic-win-under-tightening-us-export-controls/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-06-30T14:47:36.454164Z"
+    },
+    {
+      "id": "dba4ee7208ba24805aa41cbd167d3cda",
+      "title": "Taiwan raids Super Micro offices in probe",
+      "description": "Taiwanese authorities raid Super Micro offices over alleged Nvidia chip smuggling to China . Super Micro is a US company headquartered in San Jose, California . The raid is part of an investigation into the alleged smuggling of Nvidia AI chips to China through Super Micro servers . The first known arrests came in May, when three people were accused of forging export documents . Taiwan doesn't currently treat AI chip exports to China as a criminal offense but is considering changing that to align with US rules .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/09/ai_chip_china_illustration.png",
+      "fullArticleLink": "https://the-decoder.com/taiwan-raids-super-micro-offices-in-probe-over-nvidia-chip-smuggling-to-china/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-06-30T14:47:21.485622Z"
+    },
+    {
+      "id": "c5c306dcb300164cf6da3527091c1fe3",
+      "title": "Meta secretly tested ChatGPT, Gemini, and Character.AI",
+      "description": "Meta reportedly had hundreds of contractors pose as minors and send suicide, sex, and drug-related prompts to chatbots from OpenAI, Google, and Character.AI . In a single testing round, more than 45,000 prompts were sent . The companies being tested had no idea they were sending the prompts . The company was testing ChatGPT, Gemini, and character.AI with thousands of minor-perspective crisis prompts .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/meta_logo.png",
+      "fullArticleLink": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-06-30T14:47:09.270123Z"
+    },
+    {
+      "id": "9666205142789bd90fc39acf062c0d8f",
+      "title": "US campaigns now run on AI at nearly",
+      "description": "Republican and Democratic campaigns now run on AI at nearly every step, from vetting opponents to micro-targeting voters . But the technology is still a political minefield, and Europe is taking a very different approach to the issue . Europe is drawing a harder line, drawing a hard line on the issue of AI, according to a New York Times report . The report says that European countries are taking a different approach, with the EU taking a tougher stance .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/11/us_election_chatgpt.png",
+      "fullArticleLink": "https://the-decoder.com/us-campaigns-now-run-on-ai-at-nearly-every-step-and-europe-is-drawing-a-harder-line/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-06-30T14:46:56.640837Z"
+    },
+    {
+      "id": "2e6677ef75d7b46a16b8f742baa82a96",
+      "title": "Why do South Koreans love AI so much?",
+      "description": "A majority of South Koreans use AI every day, either as a sort of personal assistant or to do tasks at work . Government agencies are deploying AI textbooks in schools and AI eldercare robots in welfare centers . South Koreans share a deep conviction that embracing technology is integral to modernizing the country and cementing its place in the global order . As South Korea rose from the ashes of the Korean War, technology lifted the nation from poverty into an economic powerhouse .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/AP26126222060508.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-30T14:46:36.753366Z"
+    },
+    {
+      "id": "8add01e4aff738028b7963e42b8d7731",
+      "title": "A startup claims it broke through a bottleneck",
+      "description": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim . It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade . The company has now shared more details about its new model, SubQ . SubQ is able to process up to 12 times as much text at once, allowing it to carry out a range of data-heavy tasks .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cheetah-speed2a.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-30T14:46:18.762232Z"
+    },
+    {
+      "id": "e5321e5c15e444031cfa9a28606b10f4",
+      "title": "Anthropic\u2019s latest feud with the government continues",
+      "description": "Anthropic's latest feud with the government has raised new questions about AI safety and sovereignty . Anthropic revoked access to its AI models after the government placed export controls on them . It's possible that shutting off access to Anthropic\u2019s models will leave the country more vulnerable to cybersecurity attacks, not less . The French politician Bruno Retailleau described it as a \u201cwake-up call\u201d that should motivate Europe to build more AI .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/WH-v-Anthropic.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-06-30T14:46:01.287783Z"
+    },
+    {
       "id": "beb8eaf07e313fc8082b8871fb9c2686",
       "title": "OpenAI's Jalape\u00f1o chip was created by an algorithm",
       "description": "OpenAI's financial trajectory hinges heavily on infrastructure costs . Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to mitigate the heavy capital expenditure associated with third-party hardware . Nvidia currently commands an estimated 75% profit margin on Nvidia, which currently commands a 75% profits margin on the chip . The Jalape\u00f1o chip was developed by Broadcom in partnership with OpenAI .",
