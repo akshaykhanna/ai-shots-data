@@ -1,6 +1,141 @@
 {
   "news": [
     {
+      "id": "1b4c2af92d58519ccfb328d9aa8893c3",
+      "title": "San Francisco's AI boom is pricing out six-figure",
+      "description": "San Francisco's AI boom is driving up the cost of living so fast that even couples earning $365,000 a year can't find an affordable apartment . Median rent sits at $3,827, and homes cost $1.7 million on average . The expected IPOs of OpenAI and Anthropic could make things even worse for those not profiting from the AI boom . The city's tech boom is pricing out six-figure tech workers who can&#039;t find rent under $5,000 .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/sf_money-3.png",
+      "fullArticleLink": "https://the-decoder.com/san-franciscos-ai-boom-is-pricing-out-six-figure-tech-workers-who-cant-find-rent-under-5000/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-01T04:54:57.053538Z"
+    },
+    {
+      "id": "19614fd542452eb95486b96bb05360d7",
+      "title": "Meituan's LongCat-2.0 shows China can train massive",
+      "description": "Meituan trains a 1.6 trillion parameter AI model entirely on Chinese chips, no Nvidia required . Training ran on a cluster of more than 50,000 domestically made AI ASICs and covered 35 trillion tokens . On some benchmarks, LongCat-2.0 beats leading Western models, but falls short of Claude Opus 4.7 and 4.8 . The message to Washington is hard to miss. Despite US export controls in place since 2022, China appears to have produced its first competitive trillion-parameter model .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/09/midjourney_china_ai_chi_illustration.png",
+      "fullArticleLink": "https://the-decoder.com/meituans-longcat-2-0-shows-china-can-train-massive-ai-models-without-nvidia/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-01T04:54:41.502020Z"
+    },
+    {
+      "id": "1efe0e0ee7087666bc13c39d6f0ef9d7",
+      "title": "Google launches Nano Banana 2 Lite for fast",
+      "description": "Nano Banana 2 Lite generates images in four seconds at $0.034 a pop . Gemini Omni Flash brings video generation and editing via text prompts to the API for the first time . Google recommends chaining both models to go from a quick image to an animated video . Google adds two new generative AI models to its AI platform: Nano Banana and Gemini Omni flash for video via API . The Decoder.com will be updated with the latest version of The Decoder .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/gemini_nano_banana_2.png",
+      "fullArticleLink": "https://the-decoder.com/google-launches-nano-banana-2-lite-for-fast-ai-images-and-gemini-omni-flash-for-video-via-api/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-01T04:54:29.807219Z"
+    },
+    {
+      "id": "bf18f2de5f260ecbd14aa1e6b8c3a589",
+      "title": "OpenAI reportedly cut response costs for guest ChatGPT",
+      "description": "OpenAI reportedly cut inference costs for guest ChatGPT users by more than half . The number of Nvidia GPUs needed dropped to just a few hundred at times at times . The company applied the optimizations to chatGPT, where the number of NVIDIA cards dropped to a few hundreds at times, according to a report by The Information . The report says OpenAI has cut response costs for guests using its AI models by over half .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
+      "fullArticleLink": "https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-01T04:54:18.670380Z"
+    },
+    {
+      "id": "0b321e9fdc033636d68c75aa6b7bcfa2",
+      "title": "Anthropic launches Claude Science, an AI workspace built",
+      "description": "Anthropic released Claude Science, an AI workbench for researchers . More than 60 preconfigured skills cover fields like genomics and computational chemistry . The app runs locally or on HPC clusters, so sensitive data never has to leave a lab's own infrastructure . The verification agent automatically checks citations and calculations, and the app runs on the app's HPC cluster . It runs locally and on the cluster of HPC servers .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/claude_science_logo.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-launches-claude-science-an-ai-workspace-built-specifically-for-researchers/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-01T04:54:07.002777Z"
+    },
+    {
+      "id": "623e337cec36b25036432c702ea04842",
+      "title": "Anthropic's new Claude Sonnet 5 closes the gap",
+      "description": "Anthropic released Claude Sonnet 5, which beats its predecessor Sonnet 4.6 across all benchmarks and edges past the larger Opus 4.8 on the GDPval-AA v2 knowledge work test with a score of 1,618 . Anthropic is quick to point out that the model scores far below the models the US government currently has blocked when it comes to cybersecurity tasks, a likely deliberate signal given the ongoing debate .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/sonnet_5-2880x1620-1-scaled.webp",
+      "fullArticleLink": "https://the-decoder.com/anthropics-new-claude-sonnet-5-closes-the-gap-to-the-pricier-opus-model-series/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-01T04:53:55.033761Z"
+    },
+    {
+      "id": "abc015d0b086d1c6c287212caad5ba37",
+      "title": "The emergence of the web data infrastructure layer",
+      "description": "As AI continues to advance, infrastructure must evolve to enable access and delivery of real-time information at scale . The web was not designed for the automated discovery and retrieval that new AI applications demand . The next frontier in AI may depend on a new web data infrastructure layer that can enable models to discover and map this ever-expanding digital realm . This layer must be able to navigate hundreds of millions of existing web domains and billions of new URLs created each week .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-01T04:53:36.824002Z"
+    },
+    {
+      "id": "21b4b9b70216e76d067b539d16bf7206",
+      "title": "Repositioning retail for the AI era",
+      "description": "Macy's is embedding AI directly into systems that include personalization, search, operational planning, and software development itself . Macy\u2019s sees AI as more of an invisible layer augmenting human judgment than a replacement for it . The long-term vision is retail that feels increasingly seamless, adaptive, and personalized, powered by systems customers may never even notice are there, says senior director of engineering Murali Murugan .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTRIInfosysMacys-social-1200px.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-01T04:53:20.381567Z"
+    },
+    {
+      "id": "90763c99a9cad0d29da27b097fa723e5",
+      "title": "Agent confidence on the technical frontier on technical",
+      "description": "Gartner is calling 2026 an \u201cinflection year\u201d for organizations to align their AI projects with strategic business objectives . Technology experts overwhelmingly believe agents help with everyday work including streamlining processes, improving performance, and reducing repetitive tasks . Tech teams trust agents most where structure can provide a reliable foundation for decisions . The more complex the task, the more reasoning capability an agent requires and the greater its need for business context .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Microsoft-Social-Card.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-01T04:53:05.447756Z"
+    },
+    {
+      "id": "70b9fae892c61179bb7cd1cb0b3b15d7",
+      "title": "AI agents are not your \u201ccoworkers\u2019s\u201d AI agents",
+      "description": "Marketing AI agents as digital employees may make human workers worse at spotting errors and more likely to offload accountability . As AI agents are embedded into health care, warfare, education, and government, there\u2019s a growing risk they\u2019ll become a convenient place to dump blame for failures that are instead the product of bad human decisions, incentives, and oversight . When an AI tool was framed as an employee, participants in the study saw themselves as less responsible for its output .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260625_AIAgents.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-01T04:52:48.121713Z"
+    },
+    {
       "id": "ef5e9b1e1386fc7648b371475c3e7c61",
       "title": "Advances in Natural Language Processing are changing Professional",
       "description": "Advances in Natural Language Processing Are Changing Professional Networking . Advances are reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions . Professional networking now relies on a growing ecosystem of AI-powered systems . AI-driven systems increasingly comprehend and generate human language, these technological advances affect how users pursue and maintain professional connections, presenting both opportunities and challenges in authentic relationship-building, author says .",
