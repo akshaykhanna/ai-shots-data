@@ -1,6 +1,136 @@
 {
   "news": [
     {
+      "id": "e99b5ab66b4ae5a79ebe2a3dfa2d6773",
+      "title": "Anthropic's Fable 5 is back worldwide after",
+      "description": "Anthropic says even smaller models like Claude Haiku 4.5 could pull off the same exploit . A new safety classifier blocks the technique in over 99 percent of cases, though it also flags more harmless requests in the process . Amazon researchers had found a jailbreak, but Anthropic say even much smaller models could pull it off . The US government is letting Anthropic ship Fable 5 globally again after a two-week ban .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_logoreihe.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-fable-5-is-back-worldwide-after-a-two-week-government-ban-over-a-jailbreak/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-01T15:01:24.880407Z"
+    },
+    {
+      "id": "fe19c99d47f97c63b6f8db74f2dacf5e",
+      "title": "OpenAI's genomics paper accidentally reveals a Pro lineup",
+      "description": "A new OpenAI paper on a genomics benchmark reveals Pro models for the first time . It lists three parallel Pro variants mirror the standard GPT-5.6 lineup: a fast one, a high-volume one, and a max-performance one . This split would be the first major change to ChatGPT Pro's structure since the plan launched . The names come only from the benchmark table so far .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_gpt56_sol.png",
+      "fullArticleLink": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-01T15:01:06.934441Z"
+    },
+    {
+      "id": "095f24c232baad14b91110367d407256",
+      "title": "Claude Sonnet 5 continues pattern of hiding price",
+      "description": "Anthropic's hidden price hikes are becoming a pattern . Claude Sonnet 5 ranks fifth in the Artificial Analysis Intelligence Index with 53 points . But the model chews through about 40 percent more tokens per task than its predecessor, nearly doubling real costs despite identical list prices . Anthropic continues pattern of hiding price increases behind unchanged token rates . The Decoder.com continues to see Anthropic&#039;s pattern of increasing price increases .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/fable_5_anthropic_money-scaled.png",
+      "fullArticleLink": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-01T15:00:54.794049Z"
+    },
+    {
+      "id": "fa5188938d7f22b66ce072bb920f3f83",
+      "title": "Hidden code in Claude Code secretly flagged Chinese",
+      "description": "Hidden code in Claude Code secretly flagged Chinese users . Claude Code has been secretly checking whether users with an active proxy are located in China, routing through a Chinese URL, or connected to a Chinese AI lab . Anthropic employee Thariq Shihipar, who works on the Claude Code team, described the feature as \"an experiment we launched in March\" Anthropic doesn't offer its models in China for national security reasons .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/11/prompt_injections_claude.png",
+      "fullArticleLink": "https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-07-01T15:00:37.918452Z"
+    },
+    {
+      "id": "76712e6d84862835426a6ff94420acf7",
+      "title": "Agriculture is ready for AI, but its data",
+      "description": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork . Data accuracy, structure, and governance are foundational components required for agricultural AI . Research shows AI-enabled predictive models can improve crop yield by 26%, reduce water use by 41%, and cut chemical usage by 33% . In agriculture, every AI hallucination is a liability, and the likelihood of error is high .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Reltio-iStock-2279127589.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-01T15:00:19.386441Z"
+    },
+    {
+      "id": "78c501247f18c641fbf9a1d7cfcfa5b2",
+      "title": "Anthropic's Claude Science is Anthropic\u2019s newest flagship product",
+      "description": "Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering . Anthropic's decision to elevate Claude Science to the same rank as Claude Code and Claude Cowork indicates that the company is taking AI\u2019s scientific applications very seriously . The company also announced that it will be using the product to pursue some of its own research into drugs for rare, neglected diseases .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/claude-science3a.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-07-01T15:00:02.480084Z"
+    },
+    {
+      "id": "2bcae22f7fce29261c165e1e43df7ba7",
+      "title": "Explaining Machine Learning and Memorization with Statistical Mechanics",
+      "description": "Artificial neural networks (NNs) and machine learning (ML) algorithms are poorly understood from a theoretical perspective . This thesis aims to improve our theoretical understanding of NNs and ML, with a particular focus on adversarial attacks and implicitly low-dimensional learning . In particular, we study two classes of models that fit the data with various degrees of learning and memorization: dense associative memory (DAM) and restricted Boltzmann machines (RBM)",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2606.31110",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-01T14:59:50.213197Z"
+    },
+    {
+      "id": "a5377fd77c7d9f9514c9d377db196b33",
+      "title": "Warp RL: Reshaping Base Policy Distributions for Dynamics",
+      "description": "Residual reinforcement learning adapts a pretrained robot policy by learning an additive correction to its actions . We propose a policy adaptation method that replaces additive residuals with an invertible, state-conditioned transformation of the base policy's action distribution . We show that when the base distribution is geometrically mismatched to the shifted system, residual correction can underperform even the unadapted policy . We further demonstrate that warping can replace additive correction in an off-policy sim-to-real pipeline, achieving comparable success rate with 30% faster task completion .",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2606.31043",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-07-01T14:59:36.205326Z"
+    },
+    {
+      "id": "779ea34d73117dfee00b4dae8dce1b01",
+      "title": "Teaching LLMs to Recommend and Defer in Underrepresented",
+      "description": "MANANA is a non-parametric prompt-learning framework that learns local prescribing guidance from a small patient-level training set . MANANA converts observed prescription errors into auditable prompt memories . Bayesian prompt averaging converts the learned prompt trajectory into prescription likelihoods and an uncertainty-based deferral signal . The system can auto-handle the most confident half of cases at 95% precision, while deferring lower-confidence cases for specialist review .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2606.31036",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-01T14:59:24.252622Z"
+    },
+    {
+      "id": "b4d4745561e84850e284805e6a426ba8",
+      "title": "Machine Learning is a machine-learning approach to predict",
+      "description": "In two-sided marketplaces with heterogeneous products, it is important to understand the causal relationship between additional supply and marketplace outcomes, such as the total quantity transacted or transaction value in the marketplace . This paper studies a causal machine learning approach to estimating this relationship across product segments . We find that such a model provides plausible estimates of the marketplace returns to additional supply, and strong out of sample performance. arXiv:2606.30999v1",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2606.30999",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-01T14:59:13.308267Z"
+    },
+    {
       "id": "1b4c2af92d58519ccfb328d9aa8893c3",
       "title": "San Francisco's AI boom is pricing out six-figure",
       "description": "San Francisco's AI boom is driving up the cost of living so fast that even couples earning $365,000 a year can't find an affordable apartment . Median rent sits at $3,827, and homes cost $1.7 million on average . The expected IPOs of OpenAI and Anthropic could make things even worse for those not profiting from the AI boom . The city's tech boom is pricing out six-figure tech workers who can&#039;t find rent under $5,000 .",
