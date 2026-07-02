@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>AI Shots Daily Briefing - July 02, 2026</title>
+      <itunes:author>AI Shots</itunes:author>
+      <description>Here is your daily AI Shots briefing. Today's top stories: Anthropic's Fable 5 is back worldwide after. Hidden code in Claude Code secretly flagged Chinese. Agriculture is ready for AI, but its data. Anthropic's Claude Science is Anthropic’s newest flagship product. Meituan's LongCat-2.0 shows China can train massive. OpenAI reportedly cut response costs for guest ChatGPT. Anthropic's new Claude Sonnet 5 closes the gap. The emergence of the web data infrastructure layer. Repositioning retail for the AI era. Agent confidence on the technical frontier on technical.</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260702.mp3" length="2084688" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing_20260702</guid>
+      <pubDate>Thu, 02 Jul 2026 00:01:56 +0000</pubDate>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AI Shots Daily Briefing - June 30, 2026</title>
       <itunes:author>AI Shots</itunes:author>
       <description>Here is your daily AI Shots briefing. Today's top stories: HP accelerates enterprise workflows with OpenAI Frontier Frontier. Taiwan raids Super Micro offices in probe. Why do South Koreans love AI so much?. A startup claims it broke through a bottleneck. Anthropic’s latest feud with the government continues. OpenAI's Jalapeño chip was created by an algorithm. US military used AI to pick thousands. Meta restricts use of Claude Code and Codex. XAI fired engineer who raised alarms about Grok. Amazon borrows $17.5B from banks as AI spending.</description>
