@@ -1,6 +1,134 @@
 {
   "news": [
     {
+      "id": "28598bebbec85acdc45b5583627bca6d",
+      "title": "OpenAI reportedly offers the Trump administration a five",
+      "description": "OpenAI reportedly offers the Trump administration a five percent stake in the company . What the government would give in return, if anything, is still unclear . The move shows how closely the AI company wants to tie itself to Washington, it is unclear what it will give in exchange for a stake . The company is reportedly offering the government a five per cent stake in its AI firm . The government would not comment on what the company would give .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_anthropic_white_house.png",
+      "fullArticleLink": "https://the-decoder.com/openai-reportedly-offers-the-trump-administration-a-five-percent-stake-in-the-company/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-02T14:30:34.522960Z"
+    },
+    {
+      "id": "f627697009d7c4aa0fd052b7cf6ddcbe",
+      "title": "AI agents can now complete 16 percent",
+      "description": "Remote Labor Index measures how often AI agents complete paid freelance projects at professional quality . In eight months, the top automation rate has more than quadrupled . Fable 5 now hits 16.1 percent, the highest score ever recorded . Gemini 3 Pro lands near the bottom at just 1.25 percent, behind much older systems . On an architecture project, GPT-5.5 faked an appealing render using an image generator while its actual 3D model remained flawed .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Remote-labor-index-bench-title.png",
+      "fullArticleLink": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-07-02T14:30:17.386066Z"
+    },
+    {
+      "id": "38b3ec999c4317d0513a8f8b62f39f29",
+      "title": "Nvidia is bankrolling AI startups to loosen Big",
+      "description": "Nvidia is increasingly acting like a central bank for AI startups, shaping the compute market . The chip giant is offering young cloud providers sweeping financial guarantees so they can afford expensive AI chips . In return, Nvidia gets a direct cut of their cloud revenue . This approach helps Nvidia reduce its heavy dependence on tech giants like Amazon, Microsoft, and Google, which still buy the majority of its chips while building their own AI hardware .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+      "fullArticleLink": "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-07-02T14:30:02.818160Z"
+    },
+    {
+      "id": "76da70e4f32f92b07691f7df1f2bbb14",
+      "title": "Teaching AI to run with the turbines",
+      "description": "As energy companies push AI deeper into industrial operations, success depends on governance, trusted data, and systems designed to augment human expertise, says Andrew Melouney, vice president for digital at Woodside Energy . The company has spent years building predictive analytics, optimization systems, and machine learning tools across exploration, drilling, maintenance, and plant operations . \"Our ambition is really for an autonomous enterprise, where we have agents with agency that are able to really deeply interact with our core workflows\"",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Andrew-Melouney.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-02T14:29:44.256607Z"
+    },
+    {
+      "id": "a95053cc4a982a1e6fe9d952c691232d",
+      "title": "K-Inverse-RFM: A Modified RFM that Bridges the Gap",
+      "description": "Recursive Feature Machines (RFMs) are a class of kernel machines that utilize the Average Gradient Outer Product (AGOP) as a mechanism for feature learning . RFMs exhibit significantly lower performance than neural networks in certain data-corrupted scenarios . They introduce a remarkably effective transformation applied to the training labels which promotes learning in noisy, complexly represented, and class-imbalanced data . This simple yet powerful adjustment enables RFMs to close the performance gap with FNNs and, in some cases, even surpass them .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.00329",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-02T14:29:31.440323Z"
+    },
+    {
+      "id": "54164af0dc1f8ba33ba55743ed8e5382",
+      "title": "Mapping the Evaluation Frontier: An Empirical Survey",
+      "description": "The bias-reliability tradeoff conjectures that LLM evaluation systems are constrained in (gamma, H, CV) space . We expand the empirical base to 11 conditions, measuring gamma and H for all 11 . The correlation r(H, gamma) = -0.989 (n=5, excluding GPT-4o conditions) confirms that evaluator coupling suppresses strategy diversity . We release all per-condition metrics as a standardized benchmark dataset .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.00304",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-02T14:29:19.321066Z"
+    },
+    {
+      "id": "6ae2f61cc430e8159e169050a2414393",
+      "title": "Entropy-Regularized Probabilistic Gates for Sparse Model Discovery",
+      "description": "Federated Learning (FL) is a distributed machine learning (ML) paradigm with collaboration among multiple clients without sharing data . Learning sparse models is useful for communication and computational efficiency in FL, but it is especially difficult in the small-sample high-dimensional regime (d >> N) where optimization can yield parameter configurations that fail to generalize to unseen test data . A formulation with probabilistic gates and an L0 constraint allows sampling from competing sparse configurations during training .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.00275",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-02T14:29:07.723058Z"
+    },
+    {
+      "id": "e1505f5291a771961d9c62d52f0a59be",
+      "title": "StateFlow: Dual-State Recurrent Modeling for Long-Horizon Time Series",
+      "description": "Long-horizon multivariate time series forecasting (LTSF) remains challenging due to non-stationarity, regime shifts, and error accumulation . The Variability-Aware Recursive Neural Network (VARNN) is designed to track such variability by maintaining a residual-memory state driven by one-step prediction errors . We introduce StateFlow, a recurrent forecasting framework that uses VARNN as a dual-state recurrent backbone . This summary highlights key",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.00197",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-02T14:28:55.551571Z"
+    },
+    {
+      "id": "fd44ca0f20cc509b84612949853a62d3",
+      "title": "Play Like Champions: Counterfactual Feedback Generation in Latent",
+      "description": "Real-time strategy (RTS) games lack principled frameworks for translating expert knowledge into actionable feedback . Latent Maps of Performance is a framework for counterfactual path generation . We hope that future research will focus on developing model solutions for human improvement . We train a Guided Variational Autoencoder model on 23,305 professional tournament replays . Feedback is extracted at multiple granularities to support players at different stages of improvement .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.00190",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-02T14:28:43.927470Z"
+    },
+    {
+      "id": "313241f26172372db378ae3b2178ea66",
+      "title": "Scaling Up Thermodynamic AI models is a step-by-step",
+      "description": "Thermodynamic computing devices based on the Ising model show great promise for low-power AI inference and edge computing . But scalable methods for training large models for such hardware remain limited . We turn this theoretical correspondence into a scalable and purely backpropagation-based algorithm for training deep convolutional networks for thermodynamic inference on Ising machine hardware . We then develop and experimentally validate a mathematical theory relating inference cost to accuracy and controlling autocorrelation times . We discuss implications for hardware development and the future of high-temperature thermodynamic AI models .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.00170",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-02T14:28:31.228818Z"
+    },
+    {
       "id": "02d080512c0fb0cdb5331b64931246bb",
       "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos",
       "description": "Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review . The decision marks the conclusion of an eighteen-day operational pause triggered by a US government export control directive on June 12 . Government officials enacted [&#8230;] The post-June 12 directive forced the temporary suspension of Anthropic's highest-capability systems . The US government officials enacted the directive .",
