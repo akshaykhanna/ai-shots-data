@@ -1,6 +1,131 @@
 {
   "news": [
     {
+      "id": "02d080512c0fb0cdb5331b64931246bb",
+      "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos",
+      "description": "Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review . The decision marks the conclusion of an eighteen-day operational pause triggered by a US government export control directive on June 12 . Government officials enacted [&#8230;] The post-June 12 directive forced the temporary suspension of Anthropic's highest-capability systems . The US government officials enacted the directive .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/anthropic-claude-sonnet-5-fable-mythos-frontier-ai-models-infosec-enterprise-governance-cyber-security-infosec-regulation-export-controls.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-02T04:20:55.373501Z"
+    },
+    {
+      "id": "6bdca66a3c2cea8aa229a1e0fe181079",
+      "title": "Bank of England reviews AI rules for agentic",
+      "description": "The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance . Deputy Governor Sarah Breeden said existing regulatory frameworks were not designed for AI agents that can act without direct human instruction . She spoke at the European Central Bank Forum on central banking on the central banking side of the European Economic and Social Bank of the Eurozone . The bank is looking at how to use AI agents in payments, trading, cybersecurity and operations .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/Bank-of-England-reviews-AI-rules-for-agentic-AI-in-finance-scaled-e1782886292177.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-02T04:20:44.739591Z"
+    },
+    {
+      "id": "5a1ca7a069b108998ea3f3ecf1ae770c",
+      "title": "Japan\u2019s answer to its worker shortage: AI model",
+      "description": "Japan's AI robots plan just went from a talking point to a formal national strategy . 10 million AI-powered robots will be deployed across 18 industries by 2040, backed by public funding of up to one trillion yen, or roughly US$6.1 billion, over five years . The headline figure is the headline figure of 10 million robots deployed by the government in five years, or 10 million in 20 years .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/franck-v-jIBMSMs4_kA-unsplash-scaled.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Startup"
+      ],
+      "pubDate": "2026-07-02T04:20:34.262375Z"
+    },
+    {
+      "id": "b837ad910bc261306992b4cec975d8d1",
+      "title": "Deploying retail AI to scale personalisation and customer",
+      "description": "Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight . Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session . Static layouts and broad segmentation rules fail to satisfy modern conversion targets . Deployments demonstrate that traditional demographic categorisation generates insufficient data categorisation to meet the needs of an AI-powered data pipeline to meet customer expectations .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/deploying-retail-ai-personalisation-customer-insight-multimodal-strategy-enterprise-automation-edge-computing.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-02T04:20:24.053432Z"
+    },
+    {
+      "id": "b3e1be97c2d9e00adef8dd0561ce5ad5",
+      "title": "Meta's non-invasive brain-to-text AI is closing the gap",
+      "description": "Meta's FAIR AI team uses Brain2Qwerty v2 to translate brain activity into typed sentences, with no implants or surgery required . The system reads magnetic signals outside the skull and reconstructs what a person is typing . Clinical use for paralyzed patients is still a long way off, but accuracy keeps improving with every additional recording . AI agents that wrote their own code helped with the optimization . The algorithm is still not ready for use in paralyzed patients .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Brain2Qwertyv2-title.png",
+      "fullArticleLink": "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-02T04:20:09.825533Z"
+    },
+    {
+      "id": "60f58833267a931cd7b6f17894a698f4",
+      "title": "Meta follows SpaceX's playbook and builds cloud business",
+      "description": "Meta is building its own cloud business to sell spare AI compute to outside customers . With planned AI investments of up to $145 billion this year alone, the same question that came up with xAI now applies to Meta: why isn't the company putting all that capacity to work on its own models? The company follows SpaceX's playbook and builds a cloud business in order to sell its spare AI computing to other customers .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/meta_ai_logo_wall_muse.png",
+      "fullArticleLink": "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-02T04:19:57.764504Z"
+    },
+    {
+      "id": "6e41a6d07d973184ead571b98ef04868",
+      "title": "SpaceX shows investors a slim AI smartphone prototype",
+      "description": "SpaceX showed investors a prototype of a slim, smartphone-like device that would integrate AI tech from Elon Musk's xAI . The device is supposed to be thinner than an iPhone, run its own operating system, and use a Qualcomm Snapdragon chip . Musk is reportedly chasing the idea of an \"everything app\" modeled after Chinese super-apps like WeChat . OpenAI is also testing more unusual form factors, such as a pin, a smart speaker or digital voice recorder .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/spacex_logo_wall.png",
+      "fullArticleLink": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-02T04:19:43.925377Z"
+    },
+    {
+      "id": "b7a1a19f77c0ff5e7879d1fe8d416343",
+      "title": "LLMs are stuck in a groupthink groove",
+      "description": "Most large language models are stuck in a rut . They are far more predictable and far less creative in their responses than you might expect . Springboards built an LLM called Flint that has been trained to come up with a wider variety of responses than mainstream LLMs to open-ended questions such as \u201cWhere should I go in Europe?\u201d It won\u2019t win any awards, but at least it\u2019s different .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-07-02T04:19:23.829134Z"
+    },
+    {
+      "id": "b51f07274d1ba8375fff91520c5cce36",
+      "title": "EPC: A Standardized Protocol for Measuring Evaluator Preference",
+      "description": "EPC (Evaluator Preference Coupling) is a detailed, RFC-style protocol specification for the four-phase isolation paradigm . We accompany the protocol with a versioned Reference Snapshot v1.0: coupling measurements for eight evaluator conditions . The snapshot is explicitly time-bound: all values are conditional on specific model versions and are expected to decay as proprietary evaluators update . The protocol, reference snapshot, and implementation code are released as open infrastructure .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.00297",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-02T04:19:09.872441Z"
+    },
+    {
+      "id": "4ea86ee2d981d5e34f0bad051630aaba",
+      "title": "Testing Frontier Large Language Models' Physics Literacy",
+      "description": "Current large-language-model (LLM) physics benchmarks are usually scored by answer accuracy . We introduce an auditable four-stage diagnostic that evaluates whether an LLM can reason inside an unfamiliar physics framework . The diagnostic combines locked pre-registrations, fresh sessions between stages, dual-LLM judging, and a human-audit pathway . The most pointed empirical pattern is a qualitative-versus-quantitative asymmetry: in Decay World, models almost never predict the wrong direction of change .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.00276",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-02T04:18:56.763051Z"
+    },
+    {
       "id": "e99b5ab66b4ae5a79ebe2a3dfa2d6773",
       "title": "Anthropic's Fable 5 is back worldwide after",
       "description": "Anthropic says even smaller models like Claude Haiku 4.5 could pull off the same exploit . A new safety classifier blocks the technique in over 99 percent of cases, though it also flags more harmless requests in the process . Amazon researchers had found a jailbreak, but Anthropic say even much smaller models could pull it off . The US government is letting Anthropic ship Fable 5 globally again after a two-week ban .",
