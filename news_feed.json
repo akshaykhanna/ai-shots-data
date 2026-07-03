@@ -1,6 +1,128 @@
 {
   "news": [
     {
+      "id": "5e057968d7dec1ea661c9b6247d42412",
+      "title": "Chinese AI video maker Kling raises $2 billion",
+      "description": "Kuaishou has raised about $2 billion from investors for its AI video division, Kling . The funding round brought in 13.82 billion yuan ($2.04 billion) pushing the unit's valuation to $18 billion . The move puts Kling in a growing wave of Chinese AI companies lining up for IPOs in Hong Kong . Kling competes with tools like Google's Veo 3.1, Runway's Gen-4.5, and ByteDance's Seedance .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/kling-motion-control.jpg",
+      "fullArticleLink": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-07-03T14:35:01.947991Z"
+    },
+    {
+      "id": "bd612ee784faec9a61ba517cb68a5c21",
+      "title": "Tesla caps employee AI spending at $200 per",
+      "description": "Tesla caps employee AI spending at $200 per week . Beta versions of xAI products are exempt from the cap . Elon Musk urged staff to try Cursor's coding model Composer and Grok, but Grok isn't popular with employees . Musk wants to deploy AI at scale in robotaxis and the Optimus robot . Tesla launched a platform called Bottle Rocket with models from OpenAI, Anthropic, xAI, and Cursor .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/10/We-Robot-Carousel-Slide-3-TeslaBot-Desktop-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-07-03T14:34:47.886007Z"
+    },
+    {
+      "id": "37cbcc53ee5e89a072ed7a7acea2f086",
+      "title": "Meta's AI agent push is moving slower than",
+      "description": "Meta CEO Mark Zuckerberg admitted to weaknesses in the company's AI push . Zuckerberg said restructuring didn't go as \"clean\" as it could have, and executives misjudged the timing . AI chief Alexandr Wang painted a rosier picture of Meta's AI efforts . Zuckerberg expects more tangible results within the next three to six months, Wang said . Meta laid off roughly ten percent of its global workforce in May and moved about 7,000 employees into AI teams .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Meta-AI-Agents.png",
+      "fullArticleLink": "https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-03T14:34:29.883547Z"
+    },
+    {
+      "id": "e0c46c2ab5745f99ebf40cebb6fd3df0",
+      "title": "GPT and Claude failed Bridgewater's finance tests because",
+      "description": "Hedge fund Bridgewater and Thinking Machines Lab report that a finely tuned open-weight model outperforms the most powerful AI models in the evaluation of financial documents . The figures come from their own analysis . GPT and Claude failed Bridgewater&#039;s finance tests because the right answers were never public . The right answers are never public, so they failed the hedge fund's tests because of their lack of public data .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Hesitant_AI_Robot_Arm_Before_Money_and_Servers.png",
+      "fullArticleLink": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-03T14:34:17.947368Z"
+    },
+    {
+      "id": "440e0eb769d5ef3b677434c8af678c98",
+      "title": "Geometric Signatures of Reasoning: A Spectral Perspective",
+      "description": "Chain-of-thought (CoT) reasoning enables large language models to solve complex problems by generating intermediate reasoning steps . We introduce the effective dimension $d_\\rho as a measure of trajectory complexity . We show theoretically that trajectories with flatter eigenvalue spectra correspond to harder tasks . Kinematic features of the trajectory, mean position, positional dispersion, initial and current hidden states, mean velocity, mean speed, and speed dispersion can be used to predict solution correctness before generation is complete .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01571",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-03T14:34:00.741404Z"
+    },
+    {
+      "id": "062bdb5e0310d7cd040a7503776231f1",
+      "title": "X-LogSMask: Expand Transformer for Graph-Structured Data . X",
+      "description": "X-LogSMask injects symmetrically normalized graph topology directly into attention logits . The logarithmic transform converts structural connectivity into a topology-aware gating signal, suppressing unsupported node interactions while preserving feature-dependent attention . The code is available at https://://://www.gong.com/LiLeyan-0120/X-logSMask . We show that simple, interpretable structural masks can make self-attention an effective graph-learning operator without changing the Transformer architecture . This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01553",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-03T14:33:46.728043Z"
+    },
+    {
+      "id": "3be85b085f60340bd0be7e132d42f3ce",
+      "title": "Evolutionary Feature Engineering for Structured Data",
+      "description": "Evolutionary Feature Engineering (EFE) is a framework for using LLM-based evolution to discover preprocessing transformations for structured data . EFE represents transformations as Python programs with a standardized fit/transform interface . For time-series forecasting, EFE-Time learns invertible, dataset-specific normalizations . It reduces forecasting errors (MASE, WQL, MAE) 3% or more when averaged across datasets . This summary highlights key aspects",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01548",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-03T14:33:33.923015Z"
+    },
+    {
+      "id": "756e236fc18a95037546954668a69280",
+      "title": "Multi-Head Recurrent Memory Agents . Multi-head Recurrent memory",
+      "description": "Multi-Head Recurrent Memory (MHM) partitions memory into independent heads governed by a stage-wise select-then-update strategy . At each step, exactly one head is selected for update while the remaining heads are structurally shielded from overwriting . MHM-LRU substantially improves both retention and end-to-end accuracy across the 100K--1M token range, where baselines degrade sharply . This summary highlights key aspects of",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01523",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-03T14:33:20.871349Z"
+    },
+    {
+      "id": "5e7d107ca3c1b9ff6d1a5da72a570df8",
+      "title": "The risk of KV cache compression",
+      "description": "Transformer inference on long sequences is expensive because softmax attention repeatedly reads from a large KV cache . We bridge this gap by characterizing the minimax risk of compression in terms of the intrinsic compressibility of a cache, revealing when and how accurate compression is possible . We instantiate these principles in a practical algorithm and report promising performance on Longbench in targeted experiments . Overall, our results provide a principled avenue for practical KV Cache compression with theoretical guarantees .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01520",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-03T14:33:09.075258Z"
+    },
+    {
+      "id": "d8cdd5344f03d44e3696aa23b094838e",
+      "title": "Don't Let Gains FADE: Breaking Down Policy Gradient",
+      "description": "FADE (Focal Advantage with Dynamic Entropy) is self-adapting advantage that reads training dynamics to schedule the gradient weight automatically . FADE reaches peak pass@1 20k steps earlier than the best static baseline at the 7B scale and 2k steps early at the 32B scale . It achieves the best accuracy-diversity trade-off across all pass@k on LiveCodeBench and AIME . This",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01490",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-03T14:32:58.021979Z"
+    },
+    {
       "id": "8a7173ff9126a37d23b4c6bfdb0c8aa3",
       "title": "Anthropic says it cut 80 percent of Claude",
       "description": "Anthropic has cut the system prompt for Claude Code by 80 percent . Instead of strict rules, Anthropic steers through context . The new Fable 5 models need fewer instructions and examples . Guidelines can even hold the models back because they're \"more imaginative\" than what they're given . Anthropic says it cut 80 percent of Claude Code's system prompt because of the new models need a smaller prompt and fewer instructions .",
