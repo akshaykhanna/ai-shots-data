@@ -1,6 +1,130 @@
 {
   "news": [
     {
+      "id": "8a7173ff9126a37d23b4c6bfdb0c8aa3",
+      "title": "Anthropic says it cut 80 percent of Claude",
+      "description": "Anthropic has cut the system prompt for Claude Code by 80 percent . Instead of strict rules, Anthropic steers through context . The new Fable 5 models need fewer instructions and examples . Guidelines can even hold the models back because they're \"more imaginative\" than what they're given . Anthropic says it cut 80 percent of Claude Code's system prompt because of the new models need a smaller prompt and fewer instructions .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_ai_conference_talk_shihipar.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-03T04:06:43.784168Z"
+    },
+    {
+      "id": "8738b211efe61295ff72fe8e747bb9d7",
+      "title": "Anthropic reportedly explores custom chip manufacturing with Samsung",
+      "description": "Anthropic is reportedly in talks with Samsung about manufacturing a custom AI chip . The project is still early, but Anthropic has already hired chip engineers . After OpenAI's \"Jalape\u00f1o,\" yet another major AI company is pushing into chip development to cut infrastructure costs . Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters . The company insists Nvidia still plays a big role in AI chip development .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_ai_chip-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-03T04:06:32.534808Z"
+    },
+    {
+      "id": "3536d43b2c70f8288af06b11e10200f1",
+      "title": "Microsoft launches $2.5 billion \"Frontier Company\" to embed",
+      "description": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" The goal is to integrate AI into core processes with measurable ROI, not more experimentation . Microsoft is positioning itself as a platform-neutral alternative to OpenAI and Anthropic, which push their own models through their own deployment companies . The company will embed 6,000 engineers directly at enterprise clients with the goal of integrating AI with core processes .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/microsoft_logo.png",
+      "fullArticleLink": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-03T04:06:20.130281Z"
+    },
+    {
+      "id": "47a875ddb1753bede04456d76c4dea03",
+      "title": "Achieving operational excellence",
+      "description": "As AI reshapes how work gets done, organizations with strong process frameworks are best positioned to lead and maintain operational rigor at scale . By some estimates, the market for AI-powered process optimization is projected to exceed $113 billion within the next decade . Organizations with mature process disciplines are better positioned to translate AI ambition into real outcomes . Technology and process are no longer separate levers, and only organizations that pull them together stand to realize the full value of both .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR2026_TP2_1200SocialCover.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-07-03T04:06:02.369091Z"
+    },
+    {
+      "id": "32b920f95e7bf69f31607cefb45cb048",
+      "title": "Token Geometry is a form of geometric geometric",
+      "description": "Language models learn continuous programs over discrete symbols, with the embedding table and LM-head acting as the read/write interface between them . We show that this interface has gradient geometry distinct from dense hidden weights which can be exploited to improve the Pareto frontier across supervised finetuning, RL, and pretraining, while only utilizing kilobytes of optimizer state . We open-source our distributed Ember implementation that merges cleanly with existing ZeRO/FSDP setups .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01455",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-03T04:05:48.917087Z"
+    },
+    {
+      "id": "d22255d905da3e9a5cfebc808eaad066",
+      "title": "How Should Transformers Encode Numeric Values in Electronic",
+      "description": "We find approaches that explicitly model value-concept interactions perform best on precision-sensitive arithmetic tasks when architectural constraints permit . Hybrid token-based approaches that retain numeric values but apply binning prior to projection provide a more robust and broadly applicable alternative . The optimal number of bins following a simple empirically derived power-law in dataset size is based on the power of a dataset size . This suggests robustness and deployability often outweigh maximal numeric precision in practice .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01391",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-03T04:05:36.737257Z"
+    },
+    {
+      "id": "fc0994c380a714c9088ced3d0cd8e26d",
+      "title": "Multi-modal Rail Crossing Safety Analysis Analysis . Multimodal",
+      "description": "Given one or more images of a railway crossing, can we leverage visual cues that allow us to robustly estimate how safe it is? Can we improve our ability to do so by introducing structured data (such as official accident reports) about the accident history of that crossing into our models? In this work, we explore how to best answer those questions towards building an AI system that can ingest multi-modal data for railway crossings .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01365",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-03T04:05:24.770457Z"
+    },
+    {
+      "id": "2eb9caf6107a47813355ce85e5f938ab",
+      "title": "Black-Box Inference of LLM Architectural Properties with Restrictive",
+      "description": "Most commercial LLM providers do not publicly release details of underlying LLM architectures . We show that even under current restrictive APIs, several architectural parameters are still recoverable . We present NightVision, an attack that uses restrictive black-box API access to estimate the hidden dimension, depth, and parameter count of an LLM . We empirically evaluate NightVision on 32 open-source LLMs, recovering hidden dimension to within 23% average relative error across all models .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01313",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-03T04:05:12.279613Z"
+    },
+    {
+      "id": "56093a355cc545218fd57297c458defc",
+      "title": "From Approximation to Emergence: A Theory of Deep",
+      "description": "From Approximation to Emergence develops a unified, proof-oriented account of modern deep learning theory . It traces a path from the classical foundations of approximation, optimization, and generalization to the contemporary mechanisms of overparameterization, robustness, generative modeling, transformers, in-context learning, scaling laws, interpretability, alignment, and emergence . Written for researchers, graduate students, and mathematically trained practitioners . This summary highlights",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01311",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-03T04:05:00.441020Z"
+    },
+    {
+      "id": "6d3d1978a256b2f53afd524d8090c94f",
+      "title": "A Novel Machine Learning Approach for Central Nervous",
+      "description": "NA methylation profiling has become a powerful approach for central nervous system (CNS) tumor classification . We propose a novel and methodologically rigorous machine-learning approach for methylation-based CNS tumor classification that combines Sparse Random Projection for dimensionality reduction with multinomial logistic regression . We evaluate the proposed approach in the same general experimental setting established by a widely used reference classifier . On the 2,801-sample reference cohort, our method achieves a mean accuracy of 96\\% under stratified 3-fold cross-validation .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01307",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-03T04:04:46.229804Z"
+    },
+    {
       "id": "28598bebbec85acdc45b5583627bca6d",
       "title": "OpenAI reportedly offers the Trump administration a five",
       "description": "OpenAI reportedly offers the Trump administration a five percent stake in the company . What the government would give in return, if anything, is still unclear . The move shows how closely the AI company wants to tie itself to Washington, it is unclear what it will give in exchange for a stake . The company is reportedly offering the government a five per cent stake in its AI firm . The government would not comment on what the company would give .",
