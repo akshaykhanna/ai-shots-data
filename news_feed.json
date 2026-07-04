@@ -1,6 +1,129 @@
 {
   "news": [
     {
+      "id": "ee01338cd8d0748fd98e7e37d588a2a6",
+      "title": "UK's AI Security Institute finds standard benchmarks systematically",
+      "description": "UK's AI Security Institute shows standard AI evaluations systematically underestimate agent capabilities by capping the compute budget . Success rates jumped about 25 percent when the token budget was increased tenfold . Newer models benefit the most, according to AISI . Actual progress at the frontier is about 60 percent steeper than previous measurements suggested, the institute says . The study covers seven benchmarks, including software engineering tasks, covering seven benchmarks .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/test_time_compute_illustration-2-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-04T04:00:21.340026Z"
+    },
+    {
+      "id": "87b744546d207e1bb3f26605bccebe55",
+      "title": "Security vulnerability reports have exploded since AI models",
+      "description": "Epoch AI reports a sharp rise in security vulnerability reports . In June 2026, 21 organizations reported about 1,500 high-severity and critical CVEs, more than 3.5 times the previous monthly record . Surge lines up with the launch of AI-powered bug-hunting programs, Epoch says . The surge lines up . with the release of AI programs that hunt for bugs in software systems .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/cybersecurity-kraken-1.png",
+      "fullArticleLink": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-04T04:00:09.549196Z"
+    },
+    {
+      "id": "d75f6aa9d416c9457c5f4faacb94af5d",
+      "title": "Claude Code's complicated China problem involves bans",
+      "description": "Anthropic is trying to block Chinese companies like ByteDance and Ant Financial from accessing Claude Code . But they're getting around restrictions through VPNs and overseas subsidiaries . Alibaba, meanwhile, has banned its own employees from using the tool after hidden code was found that could identify Chinese users . The company has also banned its staff from using Claude Code after it was found to contain hidden code that can identify users in China .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_logoreihe.png",
+      "fullArticleLink": "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-04T03:59:56.673414Z"
+    },
+    {
+      "id": "5c9fd2f1577c6400beb18b80a96e2a25",
+      "title": "Microsoft follows Anthropic and OpenAI into",
+      "description": "Microsoft reportedly plans to merge its consumer and enterprise Copilot apps into a single app in August . Rarely used features like Copilot Podcasts are getting cut, and new AI agents called \"AutoPilot\" will handle tasks in the background for an extra fee . Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents, according to The Decdecation .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_copilot_logo-2.png",
+      "fullArticleLink": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-04T03:59:45.047151Z"
+    },
+    {
+      "id": "4fecbc98245b0932c80258276b06e5d2",
+      "title": "WARP: Weight-Space Analysis for Recovering Training Data Portfolio",
+      "description": "Foundation models are routinely released to the public, yet the data recipes used to train them are rarely disclosed . Researchers study the resulting models but lack visibility into the training distribution that produces them . We introduce WARP, a framework that recovers a fine-tuned model's training mixtures directly from its released weights . In controlled experiments with BERT and GPT-2, WARP recovers domain mixtures with an average MAE as low as 0.046 .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01686",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-04T03:59:29.941343Z"
+    },
+    {
+      "id": "4ac55f08c79dd9e9bd0e87c5c9e52a16",
+      "title": "SCAPE: Accurate and Efficient LLM Training with Extreme",
+      "description": "Communication increasingly dominates the cost of Large Language Model pre-training . SCAPE exploits stability of AdamS's first-moment to enable aggressive sparsification without loss of LLM quality . For Llama-1.8B, SCAPE achieves up to 3.26$\\times$ speedup per step compared to dense AdamS . In both models, SCape preserves training stability, validation loss and downstream task accuracy under 90\\% and 99\\% sparsity .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01678",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-04T03:59:16.774464Z"
+    },
+    {
+      "id": "00c2e271312e511dc16847136387dd7e",
+      "title": "Message Passing Based Bayesian Learning for Joint Channel",
+      "description": "Hardware impairments in massive multiple-input multiple- input multiple-output (MIMO) receivers introduce inter-symbol memory . The wireless channel varies rapidly across slots, whereas hardware impairments drift slowly due to hardware aging and environmental variations . The proposed framework robustly achieves lower channel estimation error than conventional compensators followed by channel estimation across different online impairment scenarios and signal-to-noise ratio (SNR) conditions .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01660",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-04T03:59:04.649883Z"
+    },
+    {
+      "id": "518d2b3440bb7a943dbbffe87e2c45e8",
+      "title": "DeadPool: Resilient LLM Training with Hot-Swapping via Zero",
+      "description": "DeadPool incorporates a fault-tolerance mechanism that restores LLM training via hot-swapping, namely by replacing failed nodes with spare nodes without terminating the complete job . DeadPool efficiently overlaps the in-memory checkpointing with computation, thus introducing zero overhead during error-free execution . Upon permanent node failures, DeadPool can rebuild memory states with minimal recomputation by leveraging in memory checkpoints . The tradeoff between failure-free overhead and recovery latency forms a space forms a Pareto frontier .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01646",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-04T03:58:51.080810Z"
+    },
+    {
+      "id": "fec0ed486e07475dd410d2f04a49bc23",
+      "title": "SINA: A Fully Automated Circuit Schematic Image",
+      "description": "SINA is a fully automated pipeline that integrates deep learning for robust component detection, connected-component labeling for accurate connectivity inference . SINA handles both IC- and PCB-level schematics and incorporates dedicated crossing-wires detection to differentiate wire intersections from connections . We validate the correctness of the generated netlists using graph isomorphism techniques. Our experiments demonstrate an overall netlist generation accuracy of 96.67%, which is 2.72x higher compared to state-of-the-art approaches .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01609",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-04T03:58:38.089059Z"
+    },
+    {
+      "id": "cd8d4b02b774c23bf929e2cba860baae",
+      "title": "BOUNDARY_SYNC: Measuring Communication-Induced Representational Coupling",
+      "description": "As large language models are deployed as communicating agents, does inter-agent communication cause outputs to converge? We introduce a protocol measuring representational coupling via the Coupling Amplification Factor . In controlled GPT-4o experiments (N=30, ~9,900 API calls), we measure coupling in text and image communication . Key findings: Text communication causes significant homogenization (CAF=0.803 [0.740, 0.873] suggesting a directional shift toward diversification .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.01600",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-04T03:58:25.816795Z"
+    },
+    {
       "id": "5e057968d7dec1ea661c9b6247d42412",
       "title": "Chinese AI video maker Kling raises $2 billion",
       "description": "Kuaishou has raised about $2 billion from investors for its AI video division, Kling . The funding round brought in 13.82 billion yuan ($2.04 billion) pushing the unit's valuation to $18 billion . The move puts Kling in a growing wave of Chinese AI companies lining up for IPOs in Hong Kong . Kling competes with tools like Google's Veo 3.1, Runway's Gen-4.5, and ByteDance's Seedance .",
