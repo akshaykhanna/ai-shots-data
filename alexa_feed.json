@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260703",
-    "updateDate": "2026-07-03T23:58:24.0Z",
+    "uid": "briefing_20260704",
+    "updateDate": "2026-07-04T23:54:17.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: Chinese AI video maker Kling raises $2 billion, Tesla caps employee AI spending at $200 per, Anthropic reportedly explores custom chip manufacturing with Samsung, Black-Box Inference of LLM Architectural Properties with Restrictive, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Achieving operational excellence, Meta's AI agent push is moving slower than, GPT and Claude failed Bridgewater's finance tests because",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260703.mp3"
+    "mainText": "Today's top stories: Mistral's open-source Leanstral 1.5 aces formal math benchmarks, OpenAI cofounder envisions \"almost no interface\" future where, SpaceX has an AI device prototype, and it, Indian tech tycoon bets $30M of his own, Yep, we\u2019re using OpenClaw to date now now, Microsoft launches its own AI deployment company, OpenAI proposed donating 5% of its equity, SCAPE: Accurate and Efficient LLM Training with Extreme, DeadPool: Resilient LLM Training with Hot-Swapping via Zero, BOUNDARY_SYNC: Measuring Communication-Induced Representational Coupling",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260704.mp3"
   }
 ]

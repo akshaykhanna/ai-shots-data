@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>AI Shots Daily Briefing - July 04, 2026</title>
+      <itunes:author>AI Shots</itunes:author>
+      <description>Here is your daily AI Shots briefing. Today's top stories: Mistral's open-source Leanstral 1.5 aces formal math benchmarks. OpenAI cofounder envisions &quot;almost no interface&quot; future where. SpaceX has an AI device prototype, and it. Indian tech tycoon bets $30M of his own. Yep, we’re using OpenClaw to date now now. Microsoft launches its own AI deployment company. OpenAI proposed donating 5% of its equity. SCAPE: Accurate and Efficient LLM Training with Extreme. DeadPool: Resilient LLM Training with Hot-Swapping via Zero. BOUNDARY_SYNC: Measuring Communication-Induced Representational Coupling.</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260704.mp3" length="2201904" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing_20260704</guid>
+      <pubDate>Sat, 04 Jul 2026 23:54:17 +0000</pubDate>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AI Shots Daily Briefing - July 03, 2026</title>
       <itunes:author>AI Shots</itunes:author>
       <description>Here is your daily AI Shots briefing. Today's top stories: Chinese AI video maker Kling raises $2 billion. Tesla caps employee AI spending at $200 per. Anthropic reportedly explores custom chip manufacturing with Samsung. Black-Box Inference of LLM Architectural Properties with Restrictive. XAI fired engineer who raised alarms about Grok. Amazon borrows $17.5B from banks as AI spending. Google just redesigned the search box. Achieving operational excellence. Meta's AI agent push is moving slower than. GPT and Claude failed Bridgewater's finance tests because.</description>
