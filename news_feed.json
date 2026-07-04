@@ -1,6 +1,139 @@
 {
   "news": [
     {
+      "id": "74fc8547c5420558d67c82d4082b44eb",
+      "title": "Mistral's open-source Leanstral 1.5 aces formal math benchmarks",
+      "description": "Mistral AI released Leanstral 1.5, a free open-source model built for formal verification in the Lean 4 programming language . Mistral says the model hits 100 percent on miniF2F, a formal math benchmark covering problems from high school level up to math olympiad difficulty . The model is available through Hugging Face and a free API . In a hands-on test, it caught five previously unknown bugs, including an overflow bug in the Rust library varinteger .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_ai-3.png",
+      "fullArticleLink": "https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-07-04T13:57:51.538218Z"
+    },
+    {
+      "id": "a1e03f4b77d7a4f2a7ab3208768f1691",
+      "title": "Anthropic launches its own drug discovery programs",
+      "description": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable . Novartis CEO Vas Narasimhan thinks AI could cut development time from twelve years to seven or eight and double the success rate from 8 to 16 percent . Anthropic is launching its own program for neglected diseases that the pharmaceutical industry considers unProfitable . The company is hoping to cut the time it takes to develop new drugs from twelve to eight years .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_medicine.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-04T13:57:39.306415Z"
+    },
+    {
+      "id": "c0937c1ccf0ea315b3190c5cf17bb0c3",
+      "title": "A 26,000-student study shows AI's hidden learning cost",
+      "description": "A study of more than 26,000 Chinese students found that AI users finished homework faster and scored higher but performed up to 24 percent worse on exams . The full impact on entrance exam results took about two years to show up, meaning short-term studies systematically underestimate the damage . AI users finish homework faster, scored higher, but performed 24% worse on exam results, according to the study . AI's hidden learning cost takes two full years to surface, study finds .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/ai-generated-homework-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-04T13:57:26.547515Z"
+    },
+    {
+      "id": "0f494768e5a087b29b4aa0a3b7872a81",
+      "title": "OpenAI cofounder envisions \"almost no interface\" future where",
+      "description": "ChatGPT should become an invisible layer for handing off digital tasks, says OpenAI co-founder Greg Brockman . \"You want almost no interface, you want no product,\" he says . The goal is a persistent, context-aware agent that acts on its own, not an app packed with ever more features . OpenAI's \"Plugins\" failed because the AI models weren't good enough, Brockman says .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/10/openai_logo_wall-1.png",
+      "fullArticleLink": "https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-07-04T13:57:10.645070Z"
+    },
+    {
+      "id": "ef5ed20b0fcc3eed8650b13d15056723",
+      "title": "Anthropic developer shares prompting tips for Fable 5",
+      "description": "Anthropic developer Thariq Shihipar argues that with Claude's new model, Fable 5, the bottleneck is no longer the model itself but the user's blind spots . He describes techniques like blindspot passes and structured interviews that programmers can use to systematically uncover their unconscious knowledge gaps before handing implementation off to Claude . The developer shares prompting tips that focus on finding your own blind spots first appeared first on The Decoder .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/fable_5_unknown_unknown.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-04T13:56:58.635453Z"
+    },
+    {
+      "id": "cba85e1be003126f85c99007934c19e3",
+      "title": "SpaceX has an AI device prototype, and it",
+      "description": "SpaceX has an AI device prototype, and it sure sounds phone-ish . Elon Musk\u2019s SpaceX has shown investors a prototype of a \u201chandset-like\u201d AI device, reports The Wall Street Journal . The prototype is reportedly sleeker and slimmer than an iPhone, making us wonder if it's something between a small touchscreen phone and a Rabbit R1 . It's not clear if SpaceX is just throwing spaghetti at the wall or if it will attempt to really mass-produce and market such a device .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390033.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-04T13:56:30.930285Z"
+    },
+    {
+      "id": "f23d1aa63f1a4526ff965951ee346fa1",
+      "title": "Indian tech tycoon bets $30M of his own",
+      "description": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office . His new venture, Neo, is built on a simple premise: Workplace software designed before the AI era cannot simply be upgraded with chatbots \u2014 it has to be redesigned from the ground up . Neo is an enterprise work platform that combines project management, documents, file storage, and AI into a single product . The Bengaluru-based startup currently employs about 45 people, including 18 engineers .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1452604857.jpg?resize=1200,751",
+      "fullArticleLink": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-04T13:56:11.276612Z"
+    },
+    {
+      "id": "cdac07352f7ef01a6b3bf67e725b6987",
+      "title": "Yep, we\u2019re using OpenClaw to date now now",
+      "description": "Tunisian Ben Guez uses open source AI agent OpenClaw to track World Cup match results . After each game, the AI agent Claude creates a nearly identical Instagram \"trial reel\" with the same template . Guez has gotten over one million views and 200 DMs in a few days . Other people use AI to help plan dates using AI agents to help find out where to go for happy hour in South Florida .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/openclaw-dating.png?resize=1200,900",
+      "fullArticleLink": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-04T13:55:54.634464Z"
+    },
+    {
+      "id": "86d262543960e8925c54a41e313bb2a7",
+      "title": "Microsoft launches its own AI deployment company",
+      "description": "Microsoft launches its own AI deployment company with $2.5 billion commitment . Microsoft Frontier Company will deliver successful enterprise AI deployments with Microsoft's existing AI tools . The venture bears a striking similarity to a number of FDE-based AI ventures announced in recent months . Amazon Web Services recently announced an internal commitment of $1 billion for its own venture, explicitly embracing the FDE model . The announcement cites an early partnership with the London Stock Exchange Group, as well as Unilever, Land O'Lakes, and Accenture .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/07/microsoft-logo-office-e1735933827774.jpg?resize=1200,799",
+      "fullArticleLink": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-04T13:55:36.979142Z"
+    },
+    {
+      "id": "638b856bf5e432b0b80af86a6529f99f",
+      "title": "OpenAI proposed donating 5% of its equity",
+      "description": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund . The donation would be meant to \"secure good relations with the administration and \u2026 address political blowback\" Similar discussions were reported by CNBC in June and confirmed by President Trump . A more aggressive version of the policy was proposed by Sen. Bernie Sanders (I-VT) in June calling for a one-time 50% tax on AI company stock .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2194584986.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-07-04T13:55:19.757064Z"
+    },
+    {
       "id": "ee01338cd8d0748fd98e7e37d588a2a6",
       "title": "UK's AI Security Institute finds standard benchmarks systematically",
       "description": "UK's AI Security Institute shows standard AI evaluations systematically underestimate agent capabilities by capping the compute budget . Success rates jumped about 25 percent when the token budget was increased tenfold . Newer models benefit the most, according to AISI . Actual progress at the frontier is about 60 percent steeper than previous measurements suggested, the institute says . The study covers seven benchmarks, including software engineering tasks, covering seven benchmarks .",
