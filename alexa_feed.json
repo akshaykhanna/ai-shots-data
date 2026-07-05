@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260704",
-    "updateDate": "2026-07-04T23:54:17.0Z",
+    "uid": "briefing_20260705",
+    "updateDate": "2026-07-05T23:58:55.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: Mistral's open-source Leanstral 1.5 aces formal math benchmarks, OpenAI cofounder envisions \"almost no interface\" future where, SpaceX has an AI device prototype, and it, Indian tech tycoon bets $30M of his own, Yep, we\u2019re using OpenClaw to date now now, Microsoft launches its own AI deployment company, OpenAI proposed donating 5% of its equity, SCAPE: Accurate and Efficient LLM Training with Extreme, DeadPool: Resilient LLM Training with Hot-Swapping via Zero, BOUNDARY_SYNC: Measuring Communication-Induced Representational Coupling",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260704.mp3"
+    "mainText": "Today's top stories: Gemini Spark, Google\u2019s agentic assistant, is now available, Cloudflare\u2019s new policy pushes AI companies to pay, Ashton Kutcher leaving Sound Ventures to launch new, Anthropic chip maker Anthropic is discussing a new, Meta quietly launches vibe-coded gaming app Pocket, Jersey Mike\u2019s IPO illustrates how bad, Mark Zuckerberg tells staff that AI agents haven\u2019t, The only AI glossary you\u2019ll need this year, Mistral AI is an AI competitor to OpenAI's, Alibaba reportedly bans employees from using Claude Code",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260705.mp3"
   }
 ]
