@@ -1,6 +1,149 @@
 {
   "news": [
     {
+      "id": "d6abc2749c47df904591190391744b64",
+      "title": "Open-source tool pxpipe hides text in PNGs",
+      "description": "The open-source tool pxpipe converts long text prompts for Claude Code into compact PNGs . Anthropic charges for images by pixel size, not text content . Developer Steven Chong reports cost savings of 59 to 70 percent, at the price of accuracy and speed . Pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70% . The tool is free to download and use in the wild .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/text_to_image_compression_title-1200x571.png",
+      "fullArticleLink": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-05T04:16:05.680265Z"
+    },
+    {
+      "id": "aeca795eedce472b77fe34f3fdbb71b1",
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new",
+      "description": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller . The actor and investor\u2019s new firm is being co-founded with Beller, who until recently was a general partner at seed-focused VC outfit NFX . Kutcher's exit doesn't appear to be a sign of trouble at Sound Ventures, but that's not the case here . The split is also notable for what it signals about where AI money is heading next .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797244.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-05T04:15:41.586023Z"
+    },
+    {
+      "id": "bb53a1477cfbc1f89072eb19e1ddcd17",
+      "title": "Anthropic chip maker Anthropic is discussing a new",
+      "description": "Anthropic is discussing a new custom chip with Samsung . Anthropic hasn't yet decided what the chip will be used for, how it will fit into the server, or how powerful it will be, according to a report . The Information reported that Anthropic was in contact with Samsung to explore a collaboration around the pending chip . A number of AI companies have sought to develop custom chips as a way to create unique hardware for specific compute tasks .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "fullArticleLink": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-07-05T04:15:26.821230Z"
+    },
+    {
+      "id": "a37f0922b8675590dd8a2da4c133b2c2",
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "description": "Meta quietly launches vibe-coded gaming app Pocket . The app allows people to generate small, interactive apps and games using AI prompts . Pocket is a result of Meta's acquisition of the team at the vibe-coding gaming platform Gizmo earlier this year . It is another example of Meta\u2019s push to make AI creation tools more mainstream, extending its earlier efforts, which included AI-generated images created via its Meta AI app Vibes .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-05T04:15:11.376805Z"
+    },
+    {
+      "id": "f4b4508296004a842e3deb7086bba681",
+      "title": "Jersey Mike\u2019s IPO illustrates how bad",
+      "description": "Jersey Mike's IPO illustrates how bad the AI hype has become . The term artificial intelligence and its acronym \"AI\" were mentioned 22 times in its S-1 . The risk of an AI disaster for a company that produces real-life sandwiches, not AI slop, is about the same as, say, a franchise shop getting hit by lightning . Yet weather was only mentioned five times in the IPO documents; lightning? Not once .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?resize=1200,960",
+      "fullArticleLink": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-05T04:14:56.256863Z"
+    },
+    {
+      "id": "bbb33a2166fa0050d407eb6a6a9b7fbf",
+      "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t",
+      "description": "Meta CEO Mark Zuckerberg told staff at an internal town hall that AI agent development had not \"accelerated in the way\" executives had previously expected them to . Earlier this year, Meta laid off some 8,000 employees and reassigned another 7,000 to various AI groups . Zuckerberg reportedly said that the perceived upside of the new AI-focused company structure hadn't \"come to \u200bfruition yet,\" although he said that he believed the company would begin to see improvements from its AI investments during the next three to six months .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-05T04:14:41.192767Z"
+    },
+    {
+      "id": "eeb0f69b3cf9f1b86a6b14e70444304a",
+      "title": "The only AI glossary you\u2019ll need this year",
+      "description": "The only AI glossary you'll need this year is pain-English definitions of the AI terms you're most likely to actually run into . We update it regularly as the field evolves, so consider it a living document, much like the AI systems it describes . An AI agent refers to a tool that uses AI technologies to perform a series of tasks on your behalf . AI agents are increasingly able to find and use these endpoints on their own, opening up powerful \u2014 and sometimes unexpected \u2014 possibilities for automation .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-05T04:14:24.366676Z"
+    },
+    {
+      "id": "a00e4ef278625b986a9fcbd765e84ef4",
+      "title": "Mistral AI is an AI competitor to OpenAI's",
+      "description": "Mistral AI has been caught in a whirlwind of attention after Anthropic pulled its latest AI models offline . The French AI darling is often misunderstood, and the fact that it develops large language models (LLMs) has muddied the picture . Mistral CEO Arthur Mensch has become a public ambassador for a certain vision of AI, but he still has some evangelizing to do when it comes to explaining his own company . The company is rumored to be raising some $3.5 billion at a $23.15 billion valuation .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-05T04:14:06.601126Z"
+    },
+    {
+      "id": "ffdf2d6e4cd4b8b971f0599e0d7e4a57",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "description": "China\u2019s Alibaba reportedly bans employees from using Claude Code . Anthropic already prohibits Chinese companies, as well as foreign entities owned by those companies, from using its models . The company has reportedly been working to close loopholes that allow Chinese users to access Claude . It is instructing employees to use the company's own Qoder tool instead of Claude Code, according to multiple reports . Alibaba reportedly classified Claude Code as high-risk software .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-05T04:13:53.407000Z"
+    },
+    {
+      "id": "81db9c8e2dbcafeee5010e38b8efea3b",
+      "title": "Midjourney wants Hollywood studios to reveal the details",
+      "description": "AI startup Midjourney wants Hollywood studios to reveal details of their AI usage . Disney and Universal sued the startup for alleged copyright infringement last year . The startup argues training its AI models on images of copyrighted characters is permitted under fair use . A judge previously ruled that the studios would have to provide information about their generative AI usage \u2013 but only when it led to \u201cconsumer-facing\u201d videos and images .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
+      "fullArticleLink": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-05T04:13:35.246727Z"
+    },
+    {
       "id": "74fc8547c5420558d67c82d4082b44eb",
       "title": "Mistral's open-source Leanstral 1.5 aces formal math benchmarks",
       "description": "Mistral AI released Leanstral 1.5, a free open-source model built for formal verification in the Lean 4 programming language . Mistral says the model hits 100 percent on miniF2F, a formal math benchmark covering problems from high school level up to math olympiad difficulty . The model is available through Hugging Face and a free API . In a hands-on test, it caught five previously unknown bugs, including an overflow bug in the Rust library varinteger .",
