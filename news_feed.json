@@ -1,6 +1,109 @@
 {
   "news": [
     {
+      "id": "c308999142bae90fb1bff459b039b05e",
+      "title": "AI search agents don't fail at searching, they",
+      "description": "AI search agents rarely fail at multi-step research because of the search itself . Their real problem is not asking the user for clarification when queries are ambiguous . When ambiguity is removed from the queries, accuracy jumps by up to 40 points . Even the best model only hits 43 percent overall accuracy, according to a new benchmark called DiscoBench shows that models searching repeatedly instead of asking follow-up questions actually perform worse than those that just guess .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/discobench-search-agents-have-to-decide-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-05T14:02:22.753907Z"
+    },
+    {
+      "id": "a719d3715e2d2a7740b100515f6b1910",
+      "title": "Hollywood wants Seedance banned and reportedly also wants",
+      "description": "A viral clip featuring AI-generated Brad Pitt and Tom Cruise prompted the Motion Picture Association's first-ever cease-and-desist against an AI company . But behind the scenes, studios are quietly using the tool on a \"don't ask, don't tell\" basis, says Simpsons animation producer Joel Kuwahara . Hollywood wants Seedance banned and reportedly also also wants to keep using it, says producer .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/bytedance_seedance.png",
+      "fullArticleLink": "https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-05T14:02:10.803198Z"
+    },
+    {
+      "id": "8440a78562b00e1b51715c7948ee8541",
+      "title": "Mistral CEO Mensch says proprietary AI models give",
+      "description": "Mistral founder Arthur Mensch warns companies against relying on closed AI models . He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their own customers as competitors . Mistral can't compete with frontier models from OpenAI or Anthropic on performance and is betting heavily on EU sovereignty as its strategic edge . The CEO says proprietary AI models give labs a front-row seat to your business processes .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_europe.png",
+      "fullArticleLink": "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-05T14:01:58.888019Z"
+    },
+    {
+      "id": "2554dfac2ab7d6a4c8e52dc4cd287fa6",
+      "title": "AI private schools sell wealthy US families",
+      "description": "Wealthy US families are increasingly sending their kids to AI schools like Alpha School . Alpha School combines two hours of AI tutoring with project-based workshops for up to $75,000 a year in tuition . Traditional schools are struggling to adopt the technology, which may do more harm than good if used without the right skills . The trend highlights a growing education gap in the AI era, where traditional schools struggle to adopt technology .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/alpha_school.png",
+      "fullArticleLink": "https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-05T14:01:47.171340Z"
+    },
+    {
+      "id": "5d5a6e1dac13a57c09a2279e31226ced",
+      "title": "Gemini Spark, Google\u2019s agentic assistant, is now available",
+      "description": "Gemini Spark, Google's agentic assistant, is now available on Mac . Spark is being added to the existing Gemini desktop app, as well as several updates and new features . Spark now also integrates with other third-party apps, including Canva, Dropbox, Instacart, OpenTable, and Zillow Rentals . Spark can now track topics and react to events in real time, and connect to apps like Google Tasks and Google Keep .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
+      "fullArticleLink": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-05T14:01:24.931471Z"
+    },
+    {
+      "id": "01aa0951977394b56b5c4cc8efec06ab",
+      "title": "Venice AI becomes a unicorn with $65M Series",
+      "description": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off . The startup hosts \"uncensored,\" open source models on its own data centers, and routes queries to closed-source models, such as those by OpenAI or Anthropic . CEO Erik Voorhees: \"I think it's actually quite dangerous from a safety perspective, for the world to enter this next phase and have everyone be constantly watched\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/gpt-steady-v3.png?w=768",
+      "fullArticleLink": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-05T14:01:09.215508Z"
+    },
+    {
+      "id": "af371092847a9aad96672ed0d11b29d3",
+      "title": "Cloudflare\u2019s new policy pushes AI companies to pay",
+      "description": "Cloudflare's new policy pushes AI companies to pay for publishers' content . The move could impact how AI model providers are able to access web content for training purposes and to help power their agentic services . Google has pushed back against this generalization in the past, noting that it provides a bot called Google Extended that lets site owners opt out of having their content used for training and AI products and services like Gemini Apps and Vertex API .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Matthew-Prince-co-founder-CEO-Cloudflare-1.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-05T14:00:54.360011Z"
+    },
+    {
+      "id": "4aeb7d2c2c2424535911a393be0f1bfb",
+      "title": "New Google commercial imagines a Declaration of Independence",
+      "description": "New Google commercial imagines a Declaration of Independence written with help from AI . The ad depicts a largely unseen Thomas Jefferson mid-draft when he gets a nagging text from Ben Franklin . The fictionalized founders use Google\u2019s \u201chelp me visualize\u201d AI tool to try out different animals on the national seal . Posters declared the commercial \u201ccringey\u201d and \u201cstunningly tone deaf\u201d",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-05T14:00:37.245344Z"
+    },
+    {
       "id": "d6abc2749c47df904591190391744b64",
       "title": "Open-source tool pxpipe hides text in PNGs",
       "description": "The open-source tool pxpipe converts long text prompts for Claude Code into compact PNGs . Anthropic charges for images by pixel size, not text content . Developer Steven Chong reports cost savings of 59 to 70 percent, at the price of accuracy and speed . Pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70% . The tool is free to download and use in the wild .",
