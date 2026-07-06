@@ -1,6 +1,71 @@
 {
   "news": [
     {
+      "id": "eade9630b0a0d36941c3f25f8a41fd3d",
+      "title": "Amazon sunsets Mechanical Turk, the original \"Artificial Artificial",
+      "description": "Amazon Web Services is shutting down crowdsourcing service Mechanical Turk to new customers starting July 30, 2026 . Existing customers can keep using the service, but it's moving into maintenance mode with no new features . Amazon launched Mechanical Turk in 2005 under the tagline \"Artificial Artificial Intelligence\" People got paid to complete small tasks that were hard for machines . Today, AI labs tend to rely on specialized vendors like Scale AI or Surge AI .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/12/white_collar_work_ai.jpeg",
+      "fullArticleLink": "https://the-decoder.com/amazon-sunsets-mechanical-turk-the-original-artificial-artificial-intelligence/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-06T15:54:32.850643Z"
+    },
+    {
+      "id": "48572fc507763a51c56490b3336308e0",
+      "title": "China forces its biggest AI platforms to shut",
+      "description": "ByteDance and Alibaba are shutting down features that let users build and chat with custom AI companions . Doubao, China's most popular chatbot with over 300 million monthly users, will take its persona feature offline on July 15 . Alibaba's Qwen is pulling its human-like agents even sooner, with \"additional agent features\" going dark on July 10 . The rules behind these changes were issued by China's Cyberspace Administration in April and take effect the same day .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/12/china_neural_network.jpeg",
+      "fullArticleLink": "https://the-decoder.com/china-forces-its-biggest-ai-platforms-to-shut-down-humanlike-chatbot-personas/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-06T15:54:16.119101Z"
+    },
+    {
+      "id": "bfa8a488bd2ab9d1842c5a7f00945fd9",
+      "title": "Nvidia's Kyber NVL144 reportedly pushed back more than",
+      "description": "Nvidia's next AI server rack, Kyber NVL144, has been delayed more than a year to 2028 because of circuit board manufacturing problems . Asian suppliers lost up to double-digit percentages in market value . The more powerful Rubin Ultra variant has also been canceled . The setbacks could give AMD and Google an opening to compete in the AI server market, says SemiAnalysis . Nvidia and Google could be able to compete .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+      "fullArticleLink": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-06T15:54:03.252337Z"
+    },
+    {
+      "id": "6f235eb6d9b85fed20aab8fecc1b507d",
+      "title": "Station F ramps up as a launchpad",
+      "description": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups . F/ai's planning to kick-start its second batch this September, aiming to help a handful of AI-focused startups move from early product to real revenue in a matter of weeks . Station F is often described as a co-working space, but its footprint extends beyond the physical space . The first cohort collectively raised $34 million in pre-seed funding .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-06T15:53:38.915390Z"
+    },
+    {
+      "id": "507388fe73ce7c625c0e6a515bdde7b9",
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox",
+      "description": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales . Of today's 4,800 layoffs at Microsoft, 1,600 will hit Xbox, with about 3,200 cuts in total expected through fiscal year 2027 . Xbox CEO Asha Sharma calls this \"the most significant restructure in Xbox history\" Microsoft will transition four of its gaming studios to operate under new management, ensuring preservation of intellectual property and ongoing projects .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-06T15:53:22.067644Z"
+    },
+    {
       "id": "e5175223c528f13c3fa65afbb3b9ad8c",
       "title": "Claude Code and Fable 5 ported the 2003",
       "description": "A Google Deepmind developer ported the 2003 real-time strategy game \"Command &#038; Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code . The first build took 40 minutes and the full source code is available on GitHub . The game is based on the 2003 PC game Command and Generals 0-Zero Hour, which was released in 2003 . The full code is on GitHub and the source code can be found .",
