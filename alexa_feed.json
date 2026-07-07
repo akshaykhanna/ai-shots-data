@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260706",
-    "updateDate": "2026-07-07T00:00:12.0Z",
+    "uid": "briefing_20260707",
+    "updateDate": "2026-07-07T23:49:07.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: Station F ramps up as a launchpad, Microsoft lays off nearly 5,000 employees across Xbox, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Amazon sunsets Mechanical Turk, the original \"Artificial Artificial, China forces its biggest AI platforms to shut, Nvidia's Kyber NVL144 reportedly pushed back more than, Claude Code and Fable 5 ported the 2003, China Opens World\u2019s First Wind-Powered Underwater Data Center",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260706.mp3"
+    "mainText": "Today's top stories: NVIDIA BioNeMo accelerates Anthropic Claude Science . NVIDIA's, Deepseek is designing its own AI chip, Chinese AI models regularly pass 30 percent, Claude's hidden inner monologue is now readable thanks, Your family\u2019s $300 stake in OpenAI is worth, On the Design Space of Discrete Diffusion Online, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Insilico Medicine advances AI drug for IPF",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260707.mp3"
   }
 ]
