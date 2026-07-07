@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>AI Shots Daily Briefing - July 07, 2026</title>
+      <itunes:author>AI Shots</itunes:author>
+      <description>Here is your daily AI Shots briefing. Today's top stories: Station F ramps up as a launchpad. Microsoft lays off nearly 5,000 employees across Xbox. XAI fired engineer who raised alarms about Grok. Amazon borrows $17.5B from banks as AI spending. Google just redesigned the search box. Amazon sunsets Mechanical Turk, the original &quot;Artificial Artificial. China forces its biggest AI platforms to shut. Nvidia's Kyber NVL144 reportedly pushed back more than. Claude Code and Fable 5 ported the 2003. China Opens World’s First Wind-Powered Underwater Data Center.</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260706.mp3" length="2169072" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing_20260706</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:12 +0000</pubDate>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AI Shots Daily Briefing - July 05, 2026</title>
       <itunes:author>AI Shots</itunes:author>
       <description>Here is your daily AI Shots briefing. Today's top stories: Gemini Spark, Google’s agentic assistant, is now available. Cloudflare’s new policy pushes AI companies to pay. Ashton Kutcher leaving Sound Ventures to launch new. Anthropic chip maker Anthropic is discussing a new. Meta quietly launches vibe-coded gaming app Pocket. Jersey Mike’s IPO illustrates how bad. Mark Zuckerberg tells staff that AI agents haven’t. The only AI glossary you’ll need this year. Mistral AI is an AI competitor to OpenAI's. Alibaba reportedly bans employees from using Claude Code.</description>
