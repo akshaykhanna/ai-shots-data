@@ -1,6 +1,135 @@
 {
   "news": [
     {
+      "id": "6ec677dfeb9018cac03c974982d5d33a",
+      "title": "China eyes export curbs on its top",
+      "description": "Chinese authorities are looking into restricting foreign access to the country's most powerful AI models . Alibaba, Bytedance, and Zai would all be affected . The move means both superpowers now treat AI as a strategic asset . For Europe, the convenient shortcut of relying on cheap Chinese open-source models could close much faster than expected . Europe is caught in the middle of the trade war between China and the U.S.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Europe-AI-Race-in-the-Middle-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-08T03:41:27.141686Z"
+    },
+    {
+      "id": "3b2c63482eb068dc3dfa6fbe06d6d03d",
+      "title": "Anthropic's Claude Cowork AI agent is now available",
+      "description": "Anthropic is rolling out its AI agent Claude Cowork to mobile and web . Until now, the feature was limited to the desktop app . The move blurs the line between Chat and Cowork even further . The agent keeps working in the background even when the laptop is closed . It pings users on their phone when it needs a decision and pings them when they need to make a decision . The feature is now available on the desktop and mobile platforms .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/antropic_logo_chat_cowork-2.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-08T03:41:15.449150Z"
+    },
+    {
+      "id": "0dfea62f802b8a95b50d3f56d5a82ab1",
+      "title": "Cohere Transcribe Arabic is an open-source model built",
+      "description": "Cohere has released Transcribe Arabic, an open-source model for Arabic speech recognition . The company says it outperforms Whisper and OmniASR on dialects, code-switching, and bilingual Arabic-English speech . The 2-billion-parameter model is available on Hugging Face under the Apache 2.0 license . The model is free to download and use as a free version of the software . This",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/06/cohere_logo.png",
+      "fullArticleLink": "https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-08T03:41:03.928635Z"
+    },
+    {
+      "id": "2810642bac04b4289ec09535962f2ec7",
+      "title": "Microsoft phases out OpenAI and Anthropic models",
+      "description": "Microsoft is replacing AI models from OpenAI and Anthropic with its own MAI models in products like Excel and Outlook . Tens of thousands of queries per week already run through them . AI chief Mustafa Suleyman wants to \"ultimately eliminate\" the cost of external models . For Copilot customers, that could mean less performance for the same price as the other models . Copilot users could see less performance .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_coopilot.png",
+      "fullArticleLink": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-08T03:40:52.542308Z"
+    },
+    {
+      "id": "9d9559f960156a84dc6624040d07e539",
+      "title": "Building the foundation for an autonomous enterprise",
+      "description": "As energy companies push AI deeper into industrial operations, success depends on governance, trusted data, and systems designed to augment human expertise, says Andrew Melouney, vice president for digital at Woodside Energy . The company has spent years building predictive analytics, optimization systems, and machine learning tools across exploration, drilling, maintenance, and plant operations . \"Our ambition is really for an autonomous enterprise, where we have agents with agency that are able to really deeply interact with our core workflows\"",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Andrew-Melouney.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-08T03:40:33.948046Z"
+    },
+    {
+      "id": "34dc6f6de3b4a015c927e7f40a9f1cb0",
+      "title": "The foundational elements of AI architecture that IT",
+      "description": "Discover four foundational elements of AI architecture that will endure as models continue to advance: data quality, context engineering, governance, and human expertise . Gartner predicts that companies will abandon 60% of all AI projects through 2026 if they are not supported by AI-ready data . Scalable data architecture allows AI systems to evolve alongside the business and connect reliably to internal information needed to deliver meaningful value . Strong governance and LLM observability help organizations maintain control over how AI systems use data, monitor system performance and identify problems before they affect operations .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617_7fbe0d.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-08T03:40:16.602537Z"
+    },
+    {
+      "id": "370b10335fb6521a330b13edb352a469",
+      "title": "Out-of-distribution Neural Inference in Dynamical Ising Models",
+      "description": "In-distribution accuracy and robustness do not necessarily imply a learned dynamics-to-structure rule . Instead, neural reconstruction can be governed by architecture-dependent statistical priors . Our results identify a concrete failure mode of standard data-driven learning in physical inverse problems and motivate rule-guided principles for machine-learning-assisted scientific discovery . arXiv:2607.03039v1.1 . This summary highlights key aspects of the latest developments. Industry",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.03039",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-08T03:40:04.803712Z"
+    },
+    {
+      "id": "da826b4652ca959f92f83ea718891a2c",
+      "title": "Do ECG Foundation Models Transfer to Rare Cardiac",
+      "description": "Foundation models (FMs) trained on large-scale unlabeled physiological data have emerged as a promising paradigm for medical artificial intelligence . Their ability to capture clinically meaningful representations for rare diseases remains largely unproven . For Brugada syndrome detection, FM pre-training is mechanical rather than semantic, providing optimization stability rather than transferable clinical knowledge . These findings challenge the assumption that large scale . models inherently encodes clinically meaningful . representations, highlighting the central role of model architecture and data-domain alignment .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.03009",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-08T03:39:51.281785Z"
+    },
+    {
+      "id": "a074335324f281693b5d6b5ba0df3493",
+      "title": "Back to Basics: Improving Molecular Understanding in LLMs",
+      "description": "MolBasic is built around a multi-level structure perception benchmark, where bidirectional SMILES-Graph conversion serves as the core task to align sequential and topological representations . On top of this foundation, we employ a progressive learning scheme with a standardized Chain-of-Thought (CoT) to steer models from structure acquisition to higher-level molecular reasoning . Experiments show that MolBasic substantially improves structural understanding and yields robust gains on downstream tasks, including property prediction and objective optimization .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.03007",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-07-08T03:39:39.405490Z"
+    },
+    {
+      "id": "63e57be3fd2153b904537f99122e774f",
+      "title": "Rank-Order N-of-M codes for Sparse Distributed Memory: Dis",
+      "description": "RankOrderSDM outperforms StandardSDM by 13.4% at saturation in the scaled configuration and by 0.8% at the published architecture scale . The large robustness gain arises primarily from the interaction of rank-order encoding with MAX-Hebbian learning, while the encoder alone provides only a small advantage under matched learning conditions . The results offer practical guidance for architectures such as CALM. arXiv:2607.02967v2 .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.02967",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-08T03:39:26.834554Z"
+    },
+    {
       "id": "0e087038166e59edd9c041258237f933",
       "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science . NVIDIA's",
       "description": "Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research . Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research . The platform enables scientists to converse directly with digital agents using natural language to execute end-to-end research workflows . This system connects natively to natively with the toolkit, which is now being developed by NVIDIA .",
