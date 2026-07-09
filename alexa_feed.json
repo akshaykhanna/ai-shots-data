@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260707",
-    "updateDate": "2026-07-07T23:49:07.0Z",
+    "uid": "briefing_20260709",
+    "updateDate": "2026-07-09T00:01:09.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: NVIDIA BioNeMo accelerates Anthropic Claude Science . NVIDIA's, Deepseek is designing its own AI chip, Chinese AI models regularly pass 30 percent, Claude's hidden inner monologue is now readable thanks, Your family\u2019s $300 stake in OpenAI is worth, On the Design Space of Discrete Diffusion Online, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Insilico Medicine advances AI drug for IPF",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260707.mp3"
+    "mainText": "Today's top stories: Meta tests always on always-on AI glasses that, Chinese AI startup MiniMax plans to open-source, PatchOptic for Shared-State LLM Workflows with Projected Views, The foundational elements of AI architecture that IT, Back to Basics: Improving Molecular Understanding in LLMs, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, OpenAI's GPT-5.6 launches Thursday after a delay forced, Muse Image is technically impressive, but Meta's use",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260709.mp3"
   }
 ]
