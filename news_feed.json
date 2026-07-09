@@ -1,6 +1,130 @@
 {
   "news": [
     {
+      "id": "a024833cd46a73354eac4cb32028c069",
+      "title": "OpenAI's AI beats every human at AtCoder",
+      "description": "AtCoder World Tour Finals 2026, an OpenAI system beats all human competitors in an exhibition match, solving all five problems in the Algorithm Division . The annual competition brings the world's best competitive programmers to Japan . OpenAI called it the first known top-three finish by an AI model at a leading programming and math competition . The result fits a pattern that's been building for a while. At the 2025 ICPC World Finals, OpenAI's system solved all twelve problems .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/AtCoder-OpenAI-Win-title-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/openais-ai-beats-every-human-at-atcoder-a-top-competitive-programming-contest/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-07-09T15:35:57.566746Z"
+    },
+    {
+      "id": "6dba39a20c42245d2124da82508fd3d9",
+      "title": "Databricks makes Chinese open-source model GLM 5.2 its",
+      "description": "Databricks benchmarked coding agents on its own multi-million-line codebase and found that the Chinese open-source model GLM 5.2 matched Anthropic's Opus 4.8 at $1.28 per task . The company plans to roll it out as a daily coding workhorse . Its broader takeaway: no single provider dominates, and companies should build their own benchmarks instead of relying on public ones .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/databricks_logo.png",
+      "fullArticleLink": "https://the-decoder.com/databricks-makes-chinese-open-source-model-glm-5-2-its-default-coding-engine-after-it-matched-opus-at-lower-cost/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-09T15:35:45.636430Z"
+    },
+    {
+      "id": "4710e9e95a5d269bcebaa5037321179d",
+      "title": "OpenAI finds roughly 30 percent of popular",
+      "description": "OpenAI reviewed SWE-Bench Pro, a widely used test for measuring AI models' programming skills, finds 30 percent of its tasks are broken . The company is pulling its earlier endorsement of the benchmark . OpenAI calls on the industry to build new benchmarks using experienced developers, ones that are hard to game, trustworthy, and actually meaningful . Some tests are too strict, rejecting solutions that actually work, and some are vague .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-1.png",
+      "fullArticleLink": "https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-09T15:35:27.917856Z"
+    },
+    {
+      "id": "5e612b66df14e097846d324bcbd76457",
+      "title": "Deep learning models for time series classification via",
+      "description": "Knowledge Distillation (KD) addresses this by transferring knowledge from a large teacher model to a smaller, more efficient student model . KD most effectively benefits student models of intermediate complexity across all three architectures, with the distilled FCN student reducing parameters by a factor of 38, the distilled Inception student achieving nearly the same performance as the teacher with 42% fewer parameters and the distilled ConvTran student with 2 attention heads showing the most significant improvement through distillation .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.06796",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-09T15:35:12.406165Z"
+    },
+    {
+      "id": "48c002214bf9889eb7c4cac23e1dffdf",
+      "title": "On Explicit Super-Expressive Approximation for Neural Networks, we",
+      "description": "In this work, we investigate the fixed-architecture neural network approximation with explicit parameter bounds and elementary activations . For Lipschitz continuous functions on $[0,1]^D, we construct a width-$\\max\\{D,4\\}$, depth-$5$ network with explicit parameters-error trade-offs . This is the dual result compared to those in the parameter-bounded and architecture-unbounded paradigm . This summary highlights key aspects of the latest developments. Industry",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.06781",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-09T15:35:00.154304Z"
+    },
+    {
+      "id": "da0ca2ad40977468136599665f5b1c7f",
+      "title": "Efficient Bayesian Deep Ensembles via Analytic Predictive Inference",
+      "description": "An efficient Bayesian deep ensemble method for predictive regression is designed to enhance interpretability while maintaining competitive predictive performance and computational efficiency . The method combines the statistical rigor of Bayesian inference with the scalability of deep ensembles, providing calibrated uncertainty estimates that enable its use not only for standalone prediction but also as a component within broader learning systems . Empirical results on standard regression benchmarks demonstrate that the proposed approach achieves competitive performance while maintaining reliable uncertainty estimates across settings .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.06776",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-09T15:34:48.403446Z"
+    },
+    {
+      "id": "37a6b07269196636951c5b76bd959dfa",
+      "title": "Efficient Long-Horizon Learning for Learned Optimization for learned",
+      "description": "Learned optimization aims to improve upon hand-designed optimizers (e.g., Adam and Muon) by meta-learning small neural network optimizers over a distribution of tasks . We propose Efficient Long-hOrizon (ELO) learning, an efficient meta-training algorithm . ELO substantially improves the long-unroll performance and out-of-distribution generalization of the base LOs . This summary highlights key aspects of the latest developments. Industry analysts",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.06772",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-09T15:34:36.139844Z"
+    },
+    {
+      "id": "1f7c193d31251b0d5b37f82e96c78417",
+      "title": "STST-JEPA: Shallow-Target Spatio-Temporal Joint Emb",
+      "description": "Brain age -- the age inferred from a physiological recording -- is an emerging biomarker whose deviation from chronological age tracks neurological and psychiatric burden . We introduce STST-JEPA, a self-supervised transformer for resting-state and task EEG, pretrained on 47,703 sessions spanning ages 5-81 from the brain.space and Healthy Brain Network (HBN) corpora . We further show that the model's age-prediction residual is negatively correlated with cognitive efficiency over several tasks we examined .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.06629",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-09T15:34:22.370452Z"
+    },
+    {
+      "id": "a9ba73c3d52e38cc8e45993b93e05970",
+      "title": "Reward Valuation in Vision Language Models: Causal Mechanisms",
+      "description": "In the brain, anhedonia is frequently linked to dysregulation in the Nucleus Accumbens (NAc) and the broader dopaminergic reward system . We use these ideas from neuroscience to functionally identify reward-anticipatory units in vision language models, and test their causal role via targeted perturbations . Perturbing NAc-selective units in the model shifts toward low-effort, low-reward options in effort-based decisions .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.06626",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-09T15:34:10.149020Z"
+    },
+    {
+      "id": "99717430c322699531caf39a808a538a",
+      "title": "Open-Ended Scenario Reasoning for Specialist Model Adaptation",
+      "description": "Process industries have accumulated validated specialist models, yet sensor drift, feedstock variation, and regime switching cause these models to degrade systematically in new scenarios . ROAM is a framework that uses LLM world knowledge and reasoning to adapt frozen specialist models to unseen scenarios without retraining. ROAM confines all corrections to a low-dimensional, semantically interpretable latent space. It reduces MAE by over 20\\% in major shift settings such as hidden shifts with only 839 additional parameters .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.06625",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-09T15:33:57.591851Z"
+    },
+    {
       "id": "2c5a5b0b4c949986bc80009543d0389c",
       "title": "Google Deepmind adds background execution and MCP support",
       "description": "Google Deepmind is adding four new features to Managed Agents in the Gemini API . Agents can now run asynchronously in the background, connect directly to remote MCP servers, use custom functions alongside sandbox tools, and refresh credentials without losing state . The Gemini API adds background execution and MCP support to Gemini API managed agents . The new features are available now on Google's Deepmind's Gemini API for the first time .",
