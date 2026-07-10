@@ -1,6 +1,128 @@
 {
   "news": [
     {
+      "id": "4e52bcd448d0bd00cf1ff1ba6613bc55",
+      "title": "NHS AI blood test could reduce invasive womb",
+      "description": "NHS hospitals are preparing to use an AI-powered blood test to assess women referred for possible womb cancer before invasive checks are carried out . 90,000 postmenopausal women in England are referred by GPs each year for checks after experiencing heavy bleeding . About 10,000 women are diagnosed with womb cancer in the UK each year . Around ten per cent of women in the country have the possibility of womb cancer, according to AI News .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/NHS-AI-blood-test-could-reduce-invasive-womb-cancer-checks-scaled-e1783560044317.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-10T04:10:23.991410Z"
+    },
+    {
+      "id": "6f0cc7a81fbeca0b0aee15467e71148e",
+      "title": "AWS GraphRAG deployment cuts drug research cycles",
+      "description": "AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent . This acceleration was achieved by integrating previously separated proprietary databases into a unified and queryable knowledge graph . Historically, initial data gathering and screening phases took over six months per iteration, yielding a low five percent success rate . Crucial Crucial data gathering, screening phases were six months a time, with a low 5% success rate, according to the author .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/aws-graphrag-deployment-drug-research-report-amazon-web-services-enterprise-ai-healthcare.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-10T04:10:12.088163Z"
+    },
+    {
+      "id": "a90a0d3e9300d25fe5bbd645cda5bfda",
+      "title": "Anthropic finds a hidden space where Claude puzzles",
+      "description": "Anthropic found a hidden space where Claude puzzles over concepts . The company claims that monitoring words that pop up in the J-space gives it a new way to understand and control its models . Anthropic has been pushing the envelope in a field of research known as mechanistic interpretability, which involves probing the internal workings of LLMs to see how they tick . It has teamed up with Neuronpedia, an open-source platform that lets you poke around inside LLMs .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-07-10T04:09:41.835221Z"
+    },
+    {
+      "id": "0a12d1b361f9900d68bf3dab53e2ed71",
+      "title": "Machine Learning through the Lens of Combinatorial Optimization",
+      "description": "Modern machine learning increasingly relies on complex models whose behavior is difficult to characterize beyond empirical performance metrics . We review and synthesize recent advances at the intersection of combinatorial optimization and trustworthy ML . CO formulations offer additional capabilities over purely heuristic approaches, notably global guarantees, formal certificates, and explicit treatment of trade-offs . While scalability remains an important challenge, continued progress in solvers and hybrid algorithms suggests a growing role for CO in the design and deployment of trustworthy ML systems .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07762",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-10T04:09:28.189935Z"
+    },
+    {
+      "id": "60caa0796df0085c9ae296b245f0da5b",
+      "title": "Scalable and Trustworthy Earth Observation Foundation Models",
+      "description": "Foundation models (FMs) have transformed machine learning from isolated task-specific models to general-purpose models pretrained on broad data and adapted to multiple downstream tasks . Earth observation is an important domain for this paradigm because satellite and airborne archives are large, high-revisit, and increasingly multimodal, while reliable field labels are often sparse . This chapter reviews the design principles arising from these design principles . It first defines the FMs paradigm in remote sensing, then synthesizes the current model landscape, pretraining objectives, architecture designs, downstream adaptation and trustworthiness requirements .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07758",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-10T04:09:13.753883Z"
+    },
+    {
+      "id": "a7f993fc18fc9f5fcb5478767c97484a",
+      "title": "The Importance of Encoder Choice: A Tabular-Image Study",
+      "description": "Multimodal learning usually requires a dedicated encoder per modality . This study evaluates state-of-the-art tabular models as encoders in the image-tabular setting for the first time . In-Context Learning models, among the best performing methods in the tabular domain, require labels to process instances, making it non-trivial to embed training and test instances the same way . This summary highlights",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07756",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-10T04:09:02.297656Z"
+    },
+    {
+      "id": "3c7d08ccc08aabec6bbf7bd9a5731753",
+      "title": "Image classification is a quantum-inspired strategy involving",
+      "description": "A hybrid quantum-inspired strategy involving a mixture of experts is a hybrid classical-quantum framework . The quantum part consists of amplitude encoding of the images, convolution using local unitary operations, multiple experts processing the same image with different parameters, and feature extraction using quantum stabiliser codes . The classical part then jointly processes the features extracted by different experts using a standard neural network for image class prediction . Using MNIST and Fashion-MNIST datasets as benchmarks, we demonstrate that the joint expert analysis outperforms the individual expert analysis .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07754",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-10T04:08:49.119405Z"
+    },
+    {
+      "id": "8cb2ac87dc5ed41fc175daa30efe7a48",
+      "title": "LiST: Lipschitz Scaling Training for Robust and Calibrated",
+      "description": "There exists a non-trivial value L* that yields an out-of-the-box calibrated network . Lipschitz-constrained models guarantee robustness by design, yet the manual selection of the Lipchitz constraint L governs the resulting accuracy-robustness trade-off . LiST is a novel training paradigm that iteratively adjusts the global Lipshitz constant to reach this operating point . This summary highlights key aspects of the",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07745",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-10T04:08:37.184517Z"
+    },
+    {
+      "id": "d49772a40e340e2f2f9525049252db63",
+      "title": "Architecture Generalization with MetaNCA is a tool",
+      "description": "A learned rule network iteratively updates the weights of a task network using only local interactions on the computation graph . We propose a novel Weight Transformer architecture for the local rule network . Once trained, the rule network generates task networks of diverse architectures without backpropagation . We show that MetaNCA generates weights for feedforward MLPs, CNNs, and ResNets on MNIST and CIFAR-100, scaling to networks of 2 million parameters .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07743",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-10T04:08:25.126993Z"
+    },
+    {
+      "id": "5db08e9ca55c7f38ed1785f801dbb36e",
+      "title": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
+      "description": "Jet-Long is a tuning-free zero-shot method that pairs a local RoPE-faithful window with a long-range window whose rescaling factor adapts dynamically to the current sequence length . Fused into a single CuTe kernel, long-context prefill reaches up to $1.39\\times$ FA2 throughput on H100 (approaching the Hopper-only FA4) On Qwen3-1.7B/4B/8B up to 128K context, Jet-long leads RULER by $+4.79$/$+2.18$~pp over the strongest baseline .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07740",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-10T04:08:07.572547Z"
+    },
+    {
       "id": "a024833cd46a73354eac4cb32028c069",
       "title": "OpenAI's AI beats every human at AtCoder",
       "description": "AtCoder World Tour Finals 2026, an OpenAI system beats all human competitors in an exhibition match, solving all five problems in the Algorithm Division . The annual competition brings the world's best competitive programmers to Japan . OpenAI called it the first known top-three finish by an AI model at a leading programming and math competition . The result fits a pattern that's been building for a while. At the 2025 ICPC World Finals, OpenAI's system solved all twelve problems .",
