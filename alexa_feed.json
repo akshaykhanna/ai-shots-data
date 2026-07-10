@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260709",
-    "updateDate": "2026-07-09T23:58:51.0Z",
+    "uid": "briefing_20260710",
+    "updateDate": "2026-07-10T23:50:25.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: OpenAI's AI beats every human at AtCoder, OpenAI finds roughly 30 percent of popular, Open-Ended Scenario Reasoning for Specialist Model Adaptation, Grok 4.5 is so cheap compared to Fable, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Deep learning models for time series classification via, STST-JEPA: Shallow-Target Spatio-Temporal Joint Emb, Google Deepmind adds background execution and MCP support",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260709.mp3"
+    "mainText": "Today's top stories: Meta's Muse Spark 1.1 API pricing squeezes OpenAI, Anthropic finds a hidden space where Claude puzzles, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, OpenAI pairs its GPT-5.6 public rollout with ChatGPT, GPT-5.6 Sol nearly matches Fable 5 on aggregated, Bun ditches Zig for Rust with help, The Fed wants AI investor Marc Andreessen, OpenAI kills Atlas browser after just eight months",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260710.mp3"
   }
 ]
