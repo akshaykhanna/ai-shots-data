@@ -1,6 +1,127 @@
 {
   "news": [
     {
+      "id": "3eb11d0147bd8adda4f5ff88196af7ae",
+      "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI",
+      "description": "Meta is entering the AI API business with Muse Spark 1.1 at prices that undercut even the dirt-cheap Grok 4.5, released just yesterday . At $4.25 per million output tokens, Meta charges a fraction of what Anthropic or OpenAI ask . For pure-play AI labs burning through billions, the pressure just got worse . The price war heats up as the price war intensifies .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/meta_logo-2.png",
+      "fullArticleLink": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-10T14:53:45.782037Z"
+    },
+    {
+      "id": "20704fd967fc6e2ba69e397d50521c98",
+      "title": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT",
+      "description": "OpenAI is launching ChatGPT Work, an agent-based product powered by Codex and the now publicly available GPT-5.6 . The agent can independently handle complex projects across apps like Google Drive, Slack, Salesforce, and Salesforce . ChatGpt Work is available now on web, mobile, and desktop, though access depends on the subscription plan . The new agent can handle complex workflows across apps such as Google Drive and Slack .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_chatgpt_pattern_logo.png",
+      "fullArticleLink": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-10T14:53:33.674966Z"
+    },
+    {
+      "id": "38fef4d6718bb82264c16fca87f911e4",
+      "title": "GPT-5.6 Sol nearly matches Fable 5 on aggregated",
+      "description": "OpenAI's GPT-5.6 Sol scores 59 points on the Artificial Analysis Intelligence Index, just one point behind Claude Fable 5 . At $1.04 per task, it costs a third of what Anthropic's top model charges . In agentic coding, Sol beats every competitor, adding even more pricing pressure on Anthropic . The Decoder.com: Sol beats all competitors at one-third the cost .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_sol.png",
+      "fullArticleLink": "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-10T14:53:21.588434Z"
+    },
+    {
+      "id": "f4d9ef0d000e5210543962d8a6b98440",
+      "title": "Bun ditches Zig for Rust with help",
+      "description": "The JavaScript tool Bun has been fully rewritten from Zig to Rust, and Anthropic's Fable 5 did most of the work . Zig kept producing memory errors and crashes that were hard to fix for good . The new version, Bun v1.4.0, is available as a canary release . It fixes 128 bugs and runs about 2 to 5 percent faster than Zig . The API bill came to roughly $165,000, according to developer Jarred Sumner .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
+      "fullArticleLink": "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-10T14:53:07.153687Z"
+    },
+    {
+      "id": "158957794ce6ba0030597f0fb9a4fbcb",
+      "title": "The Fed wants AI investor Marc Andreessen",
+      "description": "Andreessen's firm Andreessen Horowitz is heavily invested in AI companies, raising conflict-of-interest questions . Fed Chair Kevin Warsh views AI as a \"significant disinflationary force\" Andreessen has been appointed to advise the Federal Reserve on the impact of AI's economic impact . Warsh says Andreessen is a venture capitalist who has a conflict of interest in his own firm . The Fed wants Andreessen to figure out if AI can tame inflation .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/02/Office-Work-AI-scaled.jpg",
+      "fullArticleLink": "https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-07-10T14:52:55.012279Z"
+    },
+    {
+      "id": "94b0740d44525a6d6495ea03c3bb269e",
+      "title": "OpenAI kills Atlas browser after just eight months",
+      "description": "Atlas joins a growing list of scrapped OpenAI products . Its features are moving into ChatGPT's updated Chrome extension, which will let users run ChatGpt directly in Chrome's sidebar . Atlas joins the list of products that OpenAI has killed less than eight months after launch . The extension will allow users to use the Chrome extension in the sidebar of the Chrome app in the Chrome App Store on the App Store .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_atlas-1200x805.png",
+      "fullArticleLink": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-10T14:52:43.718315Z"
+    },
+    {
+      "id": "d19120d2b4923499fd4b869fd5ecdd25",
+      "title": "Multimodal Unlearning Across Vision, Language, Video, and Audio",
+      "description": "Multimodal unlearning addresses this challenge by enabling selective removal across modalities while retaining overall utility . This survey offers a unified, system-oriented view of multimodal . unlearning across vision, language, audio, and video . Our taxonomy enables systematic comparison across model architectures and modalities, clarifying trade-offs among deletion strength, retention, efficiency, reversibility, and robustness . We release a curated repository: https://smsnobin77.io/Awesome-Multimmodal-Unlearning/",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07907",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-10T14:52:27.270232Z"
+    },
+    {
+      "id": "e69c285bb468f6c165c019dafb71d8f8",
+      "title": "Physics-Informed Machine Learning Under Small-Data Constraints: Lessons",
+      "description": "In physically dominated machining processes, experimental datasets are small, expensive, and material-specific . In this regime, data curation, evaluation design, and form of physics integration can matter as much as the learning algorithm . We find that model rankings from a 15-point hold-out set can be unstable . Bayesian hyper parameter tuning improves parameter-sensitive baselines such as gradient boosting and SVR, yet harms multi-stage hybrid pipelines at this sample size .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07863",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-10T14:52:14.835571Z"
+    },
+    {
+      "id": "123221ab3590a433fba056c2409f6f2a",
+      "title": "When Does Continual Learning Require learning Require Learning?",
+      "description": "As large language models (LLMs) become increasingly capable, the next question is how can we enable models to continually learn? The field largely frames this as a problem of context management and mitigating forgetting . We argue that continual learning is fundamentally about increasing model competence as the world changes . We disentangle this change along two axes -- space, where the model encounters new domains, and time, where underlying data drifts under a fixed task .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07847",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-10T14:52:01.194077Z"
+    },
+    {
+      "id": "22ff7872b4cefa8a6876d2203678b323",
+      "title": "Explaining Near-Zero Hessian Eigenvalues Through Approximate Symmet",
+      "description": "The bulk consists of the weakly lifted pseudo-Goldstone modes of the continuous symmetries of the network parametrization . In deep linear networks these symmetsets generate flat directions and hence exact zero modes, whose eigenvectors we construct explicitly . We demonstrate the mechanism in a two-layer ReLU student--teacher model and in a network trained on CIFAR-10 . A convolutional example demonstrates that the same diagnostic extends beyond fully connected layers .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07845",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-10T14:51:48.841452Z"
+    },
+    {
       "id": "4e52bcd448d0bd00cf1ff1ba6613bc55",
       "title": "NHS AI blood test could reduce invasive womb",
       "description": "NHS hospitals are preparing to use an AI-powered blood test to assess women referred for possible womb cancer before invasive checks are carried out . 90,000 postmenopausal women in England are referred by GPs each year for checks after experiencing heavy bleeding . About 10,000 women are diagnosed with womb cancer in the UK each year . Around ten per cent of women in the country have the possibility of womb cancer, according to AI News .",
