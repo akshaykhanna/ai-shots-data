@@ -1,6 +1,141 @@
 {
   "news": [
     {
+      "id": "5b512ec8cd3c6f128b0d720426dbe92a",
+      "title": "How to shrink the token budget without shrinking",
+      "description": "Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached . Huang said that if a $500,000 engineer's annual AI token consumption came in under half their salary, \"I am going to [I] go to [the] The post How to shrink the token budget without shrinking the team appeared on the All-In Podcast at the close of GTC 2026 .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/kate-sade-2zZp12ChxhU-unsplash-scaled.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-11T13:49:22.407014Z"
+    },
+    {
+      "id": "dd0b932c407041bd0aa13dc4fd698dac",
+      "title": "Apple sues OpenAI for allegedly running a \"coordinated",
+      "description": "Apple sues OpenAI over systematic employee poaching and alleged theft of trade secrets tied to unreleased products . More than 400 ex-Apple employees now work at OpenAI, including former iPhone design chief Tang Tan . The lawsuit hits OpenAI right as it's building out its own hardware division, with its first product not expected to ship until 2027 at the earliest . The first product is expected to be released in 2027 .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
+      "fullArticleLink": "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-11T13:49:08.663262Z"
+    },
+    {
+      "id": "97afcc4e2420ef7def04ea8b948ae5bd",
+      "title": "OpenAI admits it \"didn't get everything quite right\"",
+      "description": "OpenAI admits it didn't get everything quite right with ChatGPT Work and GPT-5.6 Sol . The company has acknowledged significant issues: excessive compute usage, confusing transition to the desktop interface for chats and projects, an unclear distinction between Codex and ChatGpt Work, and regressions in existing workflows . In some cases, some users were told data was deleted on their own that the user had not authorized .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/chatgpt_at_work_gpt4_office.png",
+      "fullArticleLink": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-11T13:48:56.389743Z"
+    },
+    {
+      "id": "d23c804233ba76b9c1eeab6e405eb2da",
+      "title": "China's Orca world model matches specialized robotics systems",
+      "description": "Beijing Academy of Artificial Intelligence has released Orca, a world model that predicts abstract world states instead of tokens or pixels . Trained on 125,000 hours of video without a single action label, Orca matches the specialized \u03c00.5 on five robotics tasks . Orca could help ease the field's chronic data shortage and could ease the fields' chronic data shortages . The model matches specialized robotics systems without ever seeing a one action label .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/autonomous-kitchen-system-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-07-11T13:48:45.279084Z"
+    },
+    {
+      "id": "920a09983a7d4481a9dd7d7ff1128ed8",
+      "title": "British space startup launches Longevity Lab into orbit",
+      "description": "Mass Balance's lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer\u2019s and certain cancers behave . The lab will orbit Earth for a couple of months, measuring and beaming back data about how the live cells grow, react, and function under weak gravity . Mass Balance is not trying to bring its system back to Earth intact, which will spare it some of the engineering challenges of ensuring it can withstand the extreme heat and stress satellites return .",
+      "imageUrl": "https://media.wired.com/photos/6a4bec4884127a1d3953c8af/191:100/w_1280,c_limit/Precision_assembly%20(credit_%20Tumbleweed%20Microgravity).png",
+      "fullArticleLink": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-11T13:48:22.600252Z"
+    },
+    {
+      "id": "3579a3be1f32b6fa431f82f51507844a",
+      "title": "OpenAI is shutting down Atlas, but its",
+      "description": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing . The AI-powered browser was launched in October with ChatGPT at its core . The move to shut down Atlas comes a few months after OpenAI\u2019s former CEO of applications Fidji Simo told the team to cut back on \u201cside quests,\u201d which led to the AI firm shutting down its AI video-generation tool Sora .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-app-browser.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-11T13:48:06.539156Z"
+    },
+    {
+      "id": "eb2fa5e9cf60d17db9ed56268f92fe5a",
+      "title": "AI agent startup just let its agent run",
+      "description": "Lyzr, a three-year-old startup that helps enterprises build AI agents, used its own AI agent to raise its own round . The system, SivaClaw, reportedly fielded questions from more than 130 investors, drafted investment memos, and even tracked which slides backers lingered on . It basically ran point on the startup's $100 million Series B (at a roughly $500 million valuation) while proving that the product actually works .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Lyzr-graphic.png?resize=1200,658",
+      "fullArticleLink": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-11T13:47:52.558609Z"
+    },
+    {
+      "id": "da68d51d471a4c39000040e737471f61",
+      "title": "OpenAI launches its new family of models",
+      "description": "OpenAI launches its new family of models with GPT-5.6 . The company promises powerful capabilities in enterprise work, coding, and even scientific research . GPT 5.6 supports defensive activities, including threat modeling, code review and patching, and blue teaming (simulating an attack on your own systems to find weaknesses before real hackers do) The company also released ChatGPT Work, a workplace companion for enterprise teams, running on desktop, web, and mobile .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
+      "fullArticleLink": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-11T13:47:36.484232Z"
+    },
+    {
+      "id": "ee3f32770183596f79ec2f0cf56585ef",
+      "title": "Fidji Simo steps down from OpenAI\u2019s No. 2",
+      "description": "Fidji Simo steps down from OpenAI's No. 2 role permanently . Simo says she'll transition to a part-time advisory role instead . The announcement lands on a busy news day for OpenAI, which launched its new GPT-5.6 family of models and a new agent called ChatGPT Work . OpenAI CEO Sam Altman: \"i am really sad about this and very grateful for all fidji has done\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-11T13:47:21.526593Z"
+    },
+    {
+      "id": "9ac461d004e9fe390374f89bd8356ab8",
+      "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019",
+      "description": "OpenAI announced Thursday that it would become the \"preferred model\" powering Microsoft's 365 Copilot . Bloomberg reported earlier this week that Microsoft was replacing some of OpenAI's software with its own in-house models to cut costs . The two companies were once seemingly inseparable and have sent mixed signals about their situationship . OpenAI: \"Our partnership with Microsoft has always been about bringing the benefits of advanced AI to more individuals and organizations\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
+      "fullArticleLink": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-11T13:47:08.548282Z"
+    },
+    {
       "id": "8aea51744a5edbf30cd01f0099aab851",
       "title": "Tencent moves to buy majority stake in Manus",
       "description": "Tencent is in talks to buy majority stake in AI agent startup Manus at same $2 billion valuation . Beijing blocked Meta's acquisition of the startup after Beijing blocked the deal . Tencent sees overlap with its own agent plans, including for WeChat . U.S. firm Benchmark is not expected to take part in the deal, according to the Financial Times . Beijing forced Meta to unwind its $2billion deal .",
