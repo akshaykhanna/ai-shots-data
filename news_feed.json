@@ -1,6 +1,130 @@
 {
   "news": [
     {
+      "id": "8aea51744a5edbf30cd01f0099aab851",
+      "title": "Tencent moves to buy majority stake in Manus",
+      "description": "Tencent is in talks to buy majority stake in AI agent startup Manus at same $2 billion valuation . Beijing blocked Meta's acquisition of the startup after Beijing blocked the deal . Tencent sees overlap with its own agent plans, including for WeChat . U.S. firm Benchmark is not expected to take part in the deal, according to the Financial Times . Beijing forced Meta to unwind its $2billion deal .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/manus_tencent_meta.png",
+      "fullArticleLink": "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-07-11T03:36:48.646901Z"
+    },
+    {
+      "id": "f646f48da53741e0df222b5ee71a97e4",
+      "title": "OpenAI staffer maps out which of GPT-5.6 Sol's",
+      "description": "\"Light\" and \"Low\" are for quick, clear-cut tasks; \"Medium\" works for planning and analysis . \"Max\" lets a model spend more time on a single problem . \"Ultra\" deploys multiple sub-agents in parallel, each tackling a different part of a task . Higher levels take more time and burn through more tokens; Srivastav recommends starting low and scaling up when needed .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-2.png",
+      "fullArticleLink": "https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-11T03:36:34.576313Z"
+    },
+    {
+      "id": "82a8cbfc418afe3a7c3cc0b4c13102c2",
+      "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller",
+      "description": "GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt\" In OpenAI's internal RSI benchmark for self-improvement, Sol scores 16.2 points higher than G.5.5 . OpenAI believes the \"automated researcher\" is within the reach of automating the \"recreational researcher\" in the future . This summary highlights key aspects of the latest developments. Industry analysts suggest",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/gpt_56_sol.png",
+      "fullArticleLink": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-07-11T03:36:23.066544Z"
+    },
+    {
+      "id": "48ccd79f9952ae4bf93f7dfa3309a131",
+      "title": "KronQ: LLM Quantization via Kronecker-Factored Hessian",
+      "description": "Post-training quantization (PTQ) is a widely adopted technique for compressing large language models (LLMs) without retraining . Existing second-order PTQ methods construct quantization objectives exclusively from input activation statistics . We propose KronQ, a PTQ framework that challenges this assumption by introducing the gradient covariance into the quantization pipeline . The quantization loss depends jointly on both the activation and gradient covariances, and KronQ exploits this at two complementary levels .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07964",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-11T03:36:07.610237Z"
+    },
+    {
+      "id": "a49d30c727f0fbdbf3b3d69990cd2342",
+      "title": "Case Study of California Wildfire PM2.5 . Evaluating",
+      "description": "Time series foundation models (TSFMs) perform strongly on general benchmarks, but their behavior under extreme out-of-distribution conditions is poorly understood . The BiLSTM achieves the lowest MAE ($5.16\\,\\mu g/m^3$) and the highest exceedance F1 at every threshold, including the Hazardous band ($>225.5) No foundation model surpasses the trained recurrent baselines on any metric . This summary highlights key aspects of",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07951",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-11T03:35:54.275391Z"
+    },
+    {
+      "id": "cda3a9cd1cd86117b3c17e7ec0795aba",
+      "title": "Path_boost: A Python Package for Interpretable Graph-Level Prediction",
+      "description": "PathBoost is a Python package for interpretable supervised learning on graph-structured input data . It implements PathBoost, a gradient boosting algorithm that automatically discovers predictive labeled paths within graphs during the learning process . The package supports both regression and binary classification . Key features include compatibility with scikit-learn workflows, support for custom base learners and selectors, automatic starting node selection, parallel training across anchor nodes, and built-in variable importance computation .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07935",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-11T03:35:42.920228Z"
+    },
+    {
+      "id": "34d92ce8fcce0f384b5eab9477607de6",
+      "title": "Efficient Safety Alignment of Language Models via Latent",
+      "description": "Latent Adversarial Training (LAT) is among the most effective defenses, but can degrade utility . Latent Personality Alignment (LPA) replaces explicit harm refusal with adversarial training on just 66 harm-agnostic statements . LPA achieves near zero attack success rates on HarmBench across direct requests and five jailbreak methods, despite never seeing harmful content during training and no loss of performance on standard benchmarks .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07918",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-07-11T03:35:31.481066Z"
+    },
+    {
+      "id": "05702345df694e3f08217bbe8637e113",
+      "title": "A law of robustness for two-layer neural networks",
+      "description": "Bubeck, Li and Nagaraj conjectured that, for generic data, any two-layer neural network with $m$ neurons that fits $n$ noisy labels must have Lipschitz constant at least of order $sqrt{n/m/m$ They prove the conjectured law, up to one logarithmic factor, for every continuous piecewise-linear activation, in particular for ReLU networks . This summary highlights key aspects of the latest developments.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07778",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-11T03:35:17.095952Z"
+    },
+    {
+      "id": "e48d00e4408bec538cbe64fab71052b9",
+      "title": "Graph-Regularized Deep Learning for EEG-Based Emotion Recognition",
+      "description": "EEG-based emotion recognition is critical for mental health monitoring and affective brain-computer interfaces . We propose a graph-regularized learning framework that conceptualizes emotions as nodes in a graph . We adapt three complementary regularization strategies--Graph Label Smoothing (intuitive soft labeling), Commuting distance on graph via Graph Laplacian (spectral graph theory), and Sliced Wasserstein Distance (optimal transport on graph) These strategies penalize model predictions that deviate from the established emotion topology .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07773",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-11T03:35:04.502597Z"
+    },
+    {
+      "id": "1a8eab2bcfb97cfe26e617e84881534c",
+      "title": "Principled Analysis of Deep Reinforcement Learning Evaluation",
+      "description": "Reinforcement learning research has been the center of remarkable scientific progress for the past decade . We introduce the theoretical foundations of scaling laws in reinforcement learning . We conduct large-scale experiments and our results demonstrate that a line of reinforcement learning research under the canonical design and evaluation paradigms resulted in incorrect conclusions . Our analysis and results provide a core analysis on scaling, capacity and complexity of deep reinforcement learning. arXiv:2607.07769 .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.07769",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-11T03:34:53.604157Z"
+    },
+    {
       "id": "3eb11d0147bd8adda4f5ff88196af7ae",
       "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI",
       "description": "Meta is entering the AI API business with Muse Spark 1.1 at prices that undercut even the dirt-cheap Grok 4.5, released just yesterday . At $4.25 per million output tokens, Meta charges a fraction of what Anthropic or OpenAI ask . For pure-play AI labs burning through billions, the pressure just got worse . The price war heats up as the price war intensifies .",
