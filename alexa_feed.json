@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260710",
-    "updateDate": "2026-07-10T23:50:25.0Z",
+    "uid": "briefing_20260715",
+    "updateDate": "2026-07-15T05:08:11.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: Meta's Muse Spark 1.1 API pricing squeezes OpenAI, Anthropic finds a hidden space where Claude puzzles, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, OpenAI pairs its GPT-5.6 public rollout with ChatGPT, GPT-5.6 Sol nearly matches Fable 5 on aggregated, Bun ditches Zig for Rust with help, The Fed wants AI investor Marc Andreessen, OpenAI kills Atlas browser after just eight months",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260710.mp3"
+    "mainText": "Today's top stories: XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, China Opens World\u2019s First Wind-Powered Underwater Data Center, There\u2019s Finally Video of a Great White Shark, Apple sues OpenAI for allegedly running a \"coordinated, British space startup launches Longevity Lab into orbit, OpenAI is shutting down Atlas, but its, AI agent startup just let its agent run, OpenAI launches its new family of models",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260715.mp3"
   }
 ]
