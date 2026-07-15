@@ -1,6 +1,131 @@
 {
   "news": [
     {
+      "id": "b52f45f24505c15dda1cca3afd472740",
+      "title": "AI agent crawlers now need permission",
+      "description": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards . Cloudflare announced the change on July 1, and most of the coverage since then has focused on Google . The more useful part of the change is how to get around the world to get the bot bot botnet .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/CF-Logo-2.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-15T14:10:58.955284Z"
+    },
+    {
+      "id": "69b6059a93f0390b5a7cdf9bd76e3121",
+      "title": "AWS and Bluesight build AI for hospital 340B",
+      "description": "Prism Assistant for ControlCheck has reached general availability and operates across 20 health systems . Meanwhile, a multi-product agent for 340B Group Purchasing Organisation (GPO) compliance remains . Bluesight developed Prism, an AI layer that connects hospital pharmacy and compliance data across its product suite . The AI layer is being developed by Amazon Web Services and Bluesight, according to AWS vendor statements . Prism Assistant is now general availability .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/amazon-web-services-aws-bluesight-cloud-agentic-ai-healthcare-data-engineering-agent.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-15T14:10:47.984424Z"
+    },
+    {
+      "id": "da7c4a587f09a76402e22fd729b9cb1a",
+      "title": "Nokia\u2019s AI-RAN platform is a radio comeback that",
+      "description": "Nokia's AI-RAN platform is built on its anyRAN software and NVIDIA's Aerial system . The vendor says the platform will let operators pull far more capacity from the spectrum they already own, and it has framed the launch as one of the most significant in the industry . Nokia says it is the industry's first and will launch on July 15 with a claim that it's the first of its kind in the market .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-3.56.29-PM-scaled.png",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-15T14:10:36.768188Z"
+    },
+    {
+      "id": "064e0c3959d47aed97612540ef3deb93",
+      "title": "Claude responds with more warmth in Hindi",
+      "description": "Anthropic study maps hundreds of value concepts derived from thousands of individual terms onto four core dimensions . It reveals systematic differences across Claude models and languages, but also raises methodological questions . Anthropic has published a study examining which values Claude expresses in conversations and how those values shift depending on the model and language used . The article Claude responds with more warmth in Hindi and more rigor in Russian, showing how language shapes AI answers .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Claude-Values-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/claude-values-study/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-15T14:10:22.837345Z"
+    },
+    {
+      "id": "32575b5427d360ad6addd0d28d580933",
+      "title": "PixVerse's $2B valuation shows investors still believe",
+      "description": "Singapore-based AI video startup PixVerse is now valued at over $2 billion after an extended Series C round . The company pulled in $439 million from investors including Alibaba, Lollapalooza Capital, and Mirae Asset . It offers models for video generation, film production, and world models for game development . The real edge isn't the data itself but how it's labeled, says co-founder Jaden Xie .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/pixverse-v6-01-hero.jpg",
+      "fullArticleLink": "https://the-decoder.com/pixverses-2b-valuation-shows-investors-still-believe-ai-video-generation-has-room-for-another-winner/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-07-15T14:10:08.266564Z"
+    },
+    {
+      "id": "ffa0bfa8b86293e3d78ac6ba15a75480",
+      "title": "Deepmind CEO Hassabis says \"nobody in the world",
+      "description": "Google Deepmind CEO Demis Hassabis has published a proposal for how to handle advanced AI . He wants a new US standards body modeled after financial regulator FINRA . The body could coordinate a slowdown in AI development if needed . Startups and research models would be exempt from the proposed body . The proposal was published by Deepmind's CEO Hassabis in a bid to avoid a backlash from AI developers . He says: \"Cautious optimism means building guardrails now\"",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/deepmind_hassabis.png",
+      "fullArticleLink": "https://the-decoder.com/deepmind-ceo-hassabis-says-nobody-in-the-world-knows-what-happens-next-so-cautious-optimism-means-building-guardrails-now/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-07-15T14:09:55.276151Z"
+    },
+    {
+      "id": "5d0acc1df06968e4dcc9be4f9048c8ea",
+      "title": "ChatGPT returns to WhatsApp in Europe after EU",
+      "description": "ChatGPT has been re-enabled on WhatsApp, but only in the European Economic Area . Users can reach the chatbot through the verified contact 1-800-CHATGPT, no account required . Text prompts, image uploads, voice messages, and image generation all work across many languages . Users are also able to link their WhatsApp account to their chatbot account so the chat can pull in context from OpenAI and sync message history .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/whatsapp-logo-generated-image-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-15T14:09:40.665015Z"
+    },
+    {
+      "id": "4e8b8e05e9bdd4b90a916b5940610a74",
+      "title": "Google Search generates AI images when it can't",
+      "description": "Google is adding AI image generation to Search's AI Overviews . When no matching image exists on the web, the new Nano Banana 2 Lite model generates one from the search query . The rollout starts in the coming weeks . Google Search now generates AI images when it can't find what you&#039;re looking for on the the web on the search page of the search results page when no image exists .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/google_logo_wall.png",
+      "fullArticleLink": "https://the-decoder.com/google-search-now-generates-ai-images-when-it-cant-find-what-youre-looking-for-on-the-web/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-15T14:09:28.716055Z"
+    },
+    {
+      "id": "adebb9595ea4b3e35a5988726f3a4593",
+      "title": "DeepSeek needs more cash just weeks after closing",
+      "description": "Chinese AI lab DeepSeek closed its first funding round in May at roughly $7 billion, valuing the company at $52 billion . Now the Hangzhou-based startup is in early talks with new investors for a round at a pre-money valuation of about $71 billion . The money would go toward building its own data centers and buying AI chips . Founder Liang Wenfeng put in about $3 billion himself, making him the largest backer .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
+      "fullArticleLink": "https://the-decoder.com/deepseek-needs-more-cash-just-weeks-after-closing-its-first-7-billion-round/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-15T14:09:11.536815Z"
+    },
+    {
+      "id": "ec313033cfe6f8bbcf6c94a1f1d894ac",
+      "title": "Anthropic opens Claude for Teachers with promise not",
+      "description": "Anthropic is rolling out Claude for Teachers, a free offering for verified K-12 educators at US schools . It includes access to Claude Code and the Cowork agent feature, a library of teaching-specific skills, and connections to curriculum-aligned content . The company says it covers education standards across all 50 states . Anthropic says it won't use any processed data for model training . Sign-ups are open through June 2027 .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic-claude-for-teachers-book-apple-teaser.jpg",
+      "fullArticleLink": "https://the-decoder.com/anthropic-opens-claude-for-teachers-with-a-promise-not-to-train-models-on-student-data/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-15T14:08:55.471920Z"
+    },
+    {
       "id": "5b512ec8cd3c6f128b0d720426dbe92a",
       "title": "How to shrink the token budget without shrinking",
       "description": "Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached . Huang said that if a $500,000 engineer's annual AI token consumption came in under half their salary, \"I am going to [I] go to [the] The post How to shrink the token budget without shrinking the team appeared on the All-In Podcast at the close of GTC 2026 .",
