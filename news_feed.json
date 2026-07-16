@@ -1,6 +1,128 @@
 {
   "news": [
     {
+      "id": "6b9408db8290ec533c347bd9160b3ffb",
+      "title": "Neko Health raises $700 million to expand",
+      "description": "Neko Health has raised $700 million to expand its AI body scans in the United States . The company\u2019s preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review . The Series C round was led by Lightspeed Venture Partners and co-led by O.G. Venture Partners . The service is available in a clinic in New York, starting with a New York clinic .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/Neko-Health-raises-700-million-to-expand-AI-body-scans-in-the-US-scaled-e1784169579699.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-07-16T14:20:30.574437Z"
+    },
+    {
+      "id": "eabcfbdf1e88ddf71fe83bb487b501fb",
+      "title": "Gemma 4 gets a stealth update that fixes",
+      "description": "Google shipped an update to its open AI model Gemma 4 that speeds up performance on Nvidia Hopper GPUs . Turning on Flash Attention 4 boosts the speed at which the model processes incoming prompts by 25 to 70 percent . Google also fixed bugs in tool calling, the feature that lets the model trigger external tools on its own . The community has pushed back on Google shipping the update under the same \"Gemma 4\" name .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/gemma_4-logo.webp",
+      "fullArticleLink": "https://the-decoder.com/gemma-4-gets-a-stealth-update-that-fixes-tool-calling-bugs-and-truncated-responses-under-the-same-name/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-16T14:20:14.269268Z"
+    },
+    {
+      "id": "c2d46d47ddb48310571bad7b988896e0",
+      "title": "Ex-OpenAI CTO Murati's Thinking Machines drops Inkling",
+      "description": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, has released Inkling, a multimodal open-weights model with 975 billion parameters . Pricing starts at $1.87 per million input tokens, and Thinking Machines is pitching Inkling as a base for fine-tuning rather than the most powerful model available . Inkling leads U.S. Open-weights models on the Artificial Analysis Intelligence Index, though top Chinese open models still beat it on some tasks .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/thinking_machines_inkling_logo.png",
+      "fullArticleLink": "https://the-decoder.com/ex-openai-cto-muratis-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-16T14:20:00.882209Z"
+    },
+    {
+      "id": "1b06e90116c48465cd072d08400e3e46",
+      "title": "Sakana AI's orchestrator adds Nvidia Nemotron to prove",
+      "description": "Sakana AI is integrating Nvidia's open-source Nemotron models into its Fugu orchestrator, which dynamically combines multiple language models for specific tasks . The announcement does not yet provide specific benchmark figures for the new combination . However, the announcement does yet provide benchmark figures . Sakana's Fugu orcheator is based on a combination of multiple languages that can be used in a coordinated way to compete with Frontier systems .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/sakana-ai-nvidia-open-model-innovation.png",
+      "fullArticleLink": "https://the-decoder.com/sakana-ais-fugu-adds-nvidia-nemotron-to-prove-collective-intelligence-can-rival-single-frontier-models/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-16T14:19:49.314486Z"
+    },
+    {
+      "id": "c71699c9db3edac1bdf7e0116cc06566",
+      "title": "EMAGN: Efficient Multi-Attention Graph Network via Learned Clustering",
+      "description": "Efficient Multi-Attention Graph Network (EMAGN) linearises the spatial attention mechanism itself . EMAGN achieves accuracy within 2.7-3.2% MAE of full-attention GMAN while reducing training time by 32%, inference time by 38%, and GPU memory by 58% . It surpasses Linformer and Performer in both accuracy and efficiency within the same backbone, owing to its traffic-network-aware adaptive clustering . This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.13241",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-16T14:19:33.668136Z"
+    },
+    {
+      "id": "b2996de6bf6e74a9abb690fdc157a04c",
+      "title": "ShortOPD: Recovering Pruned LLMs with Short-to-Long",
+      "description": "Structured pruning is a hardware-friendly way to compress LLMs, but it is mostly validated on multiple-choice recognition tasks . The same compressed checkpoints can collapse on the free-form generation that deployment actually requires . Recovery should train on the compressed model's own on-policy states with dense token-level supervision, which On-Policy Distillation (OPD) provides by reusing the pre-compression model as a frozen teacher .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.13124",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-16T14:19:21.005987Z"
+    },
+    {
+      "id": "66ed5a9fce908cf0b3e22aa11f295a80",
+      "title": "A Hybrid Mamba for Audio-Visual Navigation was created",
+      "description": "The fundamental backbone networks for audio-visual navigation have undergone no essential changes for more than five years, making them inadequate to support efficient representation of dynamic multimodal sequences . Samba exhibits exceptional generalization performance when facing unheard sound sources and unseen scenes . On the Matterport3D dataset, it improves the navigation success rate (SR) by 11.3\\% compared with existing state-of-the-art models .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.13110",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-16T14:19:08.622700Z"
+    },
+    {
+      "id": "9507b2b98f16b43cceb9ca4d58a4c52a",
+      "title": "Knowledge States with Ability and Proficiency Modeling Modeling",
+      "description": "Knowledge tracing aims to predict students' future performance by modeling their evolving knowledge states from historical interactions . We propose Phase-Aware Knowledge Tracing (PAKT) framework that decomposes student interactions into ability and proficiency phases based on the tailored decomposition mechanism . We design a multi-branch Transformer with a type-aware readout module to jointly capture phase-specific and holistic knowledge states . Extensive experiments on six public benchmarks demonstrate that our method consistently outperforms representative baselines .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.13103",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-16T14:18:56.485339Z"
+    },
+    {
+      "id": "4ab9ab4ab375fabaf34586c62bca58a8",
+      "title": "Uncertainty-Aware Sequential Decision Rules for Event-Triggered LL",
+      "description": "We cast this as a risk-based sequential stopping problem, where a trigger policy fires when a risk functional over the observation history exceeds a threshold . We prove six results: a minimum inter-event time bound excluding trigger chattering; optimality of threshold policies via smooth pasting . We empirically verify the theoretical assumptions, ablate the risk function design, compare against six baselines including a RouteLLM-style router and contextual bandits .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.13048",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-16T14:18:44.485134Z"
+    },
+    {
+      "id": "d28e05d3656c9d08c504f33535a8877e",
+      "title": "Targeted Recovery of Weight-Space Mechanisms From Neural Networks",
+      "description": "Parameter decomposition decomposes neural networks into interpretable computational components that faithfully reflect the original network's operations . We propose targeted PD (tPD) which identifies only components that process specific inputs of interest . We validate tPD on toy models and on transformer language models trained on The Pile . We extract a CSS-only submodel of a 4-block transformer using 7% of the FLOPs of its published decomposition .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.13047",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-16T14:18:32.184296Z"
+    },
+    {
       "id": "efc9cfbe04013ba7fa9979142a8bdd10",
       "title": "OpenAI's first hardware product is a screenless",
       "description": "OpenAI plans to enter hardware with a portable, screenless smart speaker . Equipped with a camera, sensors, and moving mechanical parts, the device is designed as an AI companion that feels \"alive\" But Apple's trade secrets lawsuit involving OpenAI hardware chief Tang Tan could delay its planned 2027 launch . The company's first hardware product is a screenless AI speaker designed to feel alive, says The Decoder .",
