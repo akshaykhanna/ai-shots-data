@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260715",
-    "updateDate": "2026-07-15T23:52:30.0Z",
+    "uid": "briefing_20260716",
+    "updateDate": "2026-07-16T23:52:43.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: PixVerse's $2B valuation shows investors still believe, DeepSeek needs more cash just weeks after closing, Anthropic opens Claude for Teachers with promise not, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Nokia\u2019s AI-RAN platform is a radio comeback that, Claude responds with more warmth in Hindi, ChatGPT returns to WhatsApp in Europe after EU, China Opens World\u2019s First Wind-Powered Underwater Data Center",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260715.mp3"
+    "mainText": "Today's top stories: Gemma 4 gets a stealth update that fixes, ShortOPD: Recovering Pruned LLMs with Short-to-Long, OpenAI's first hardware product is a screenless, Spotify bets Premium subscribers want to chat, OpenAI is now using AI to attack its, Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show, GPT-Red is an LLM super-hacker built to make, Sparse Inter-Layer Dependencies of Transformer FFN Neurons, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260716.mp3"
   }
 ]
