@@ -1,6 +1,136 @@
 {
   "news": [
     {
+      "id": "efc9cfbe04013ba7fa9979142a8bdd10",
+      "title": "OpenAI's first hardware product is a screenless",
+      "description": "OpenAI plans to enter hardware with a portable, screenless smart speaker . Equipped with a camera, sensors, and moving mechanical parts, the device is designed as an AI companion that feels \"alive\" But Apple's trade secrets lawsuit involving OpenAI hardware chief Tang Tan could delay its planned 2027 launch . The company's first hardware product is a screenless AI speaker designed to feel alive, says The Decoder .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_hardware_mockup-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/openais-first-hardware-product-is-a-screenless-ai-speaker-designed-to-feel-alive/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-16T03:33:56.416531Z"
+    },
+    {
+      "id": "1dcd4d835e60c8f5dcf59f6ae0bb1114",
+      "title": "Meta employees sue over layoffs they say",
+      "description": "Meta allegedly used internal AI systems to generate the layoff lists when it cut 8,000 workers, disproportionately targeting employees with disabilities or on parental leave . Former and current Meta employees are suing the company in a California federal court over AI-driven mass layoffs . Meta employees say they were disproportionately targeted by AI selection systems that disproportionately targeted those with disabilities, parents and those with children . The lawsuit is expected to go to a federal court in California soon .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/meta_logo_bright_glitch.png",
+      "fullArticleLink": "https://the-decoder.com/meta-employees-sue-over-layoffs-they-say-were-driven-by-discriminatory-ai-selection-systems/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-16T03:33:44.818597Z"
+    },
+    {
+      "id": "4e6cae088efd5689ab9fb54500a6caa7",
+      "title": "OpenAI's Codex now encrypts instructions between AI agents",
+      "description": "OpenAI's Codex encrypts instructions a main agent passes to its subagents . Developers can no longer track how tasks get delegated internally . For the larger GPT-5.6 variants Sol and Terra, encryption is mandatory for the larger AI agents . The encryption leaves developers blind to internal delegation, leaving them blind to internally delegating tasks to each other . The encrypted instructions can be passed to the subagents of a main AI agent, or a subagent .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-1.png",
+      "fullArticleLink": "https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-16T03:33:32.917485Z"
+    },
+    {
+      "id": "219f8122ea6729d6e82858d100d11932",
+      "title": "Spotify bets Premium subscribers want to chat",
+      "description": "Premium subscribers can now talk to or text the service directly inside the app . In the playback view, users can ask questions about songs, artists, podcasts, and audiobooks . Spotify is fighting a flood of AI-generated songs, some of which get artificially boosted by bots . Simple questions will probably work fine, but more complex topics could trigger hallucinations . The feature launches in beta for users 18 and older in the US, Ireland, and Sweden .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/spotify-logo-red-wall-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/spotify-bets-premium-subscribers-want-to-chat-with-their-music-player/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-16T03:33:18.615058Z"
+    },
+    {
+      "id": "d023db3439b615a2523d2fc1a3be05bf",
+      "title": "Bonsai 27B is a full open reasoning model",
+      "description": "PrismML has compressed a 27-billion-parameter AI model to under 4 GB, small enough to run on an iPhone . In the company's own benchmarks, the smallest version keeps 90 percent of the original performance, with math and coding scores barely affected . Apple is reportedly already testing the compression technology, which could help it close the gap in on-device AI . The compression technology could help the iPhone compete in terms of AI .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/prsim_ml_demo.png",
+      "fullArticleLink": "https://the-decoder.com/bonsai-27b-is-a-full-open-reasoning-model-that-fits-on-an-iphone/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-16T03:33:06.503005Z"
+    },
+    {
+      "id": "e5fa3a9a1de7173f01c18175ddda5b5f",
+      "title": "GPT-5.6 Sol disproves a 30-year-old statistics conjecture",
+      "description": "A University of Pennsylvania statistics professor used OpenAI's GPT-5.6 Sol Pro to disprove a central open conjecture about the Benjamini-Hochberg method in roughly 90 minutes . The predecessor model, GPT 5.5, couldn't find a solution even after 20 hours . The answer combines known methods in a new way, keeping the bigger question alive: can AI produce genuinely new knowledge, or just recombine what it already learned?",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/neural_network_math-2-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/gpt-5-6-sol-reportedly-disproves-a-30-year-old-statistics-conjecture-in-90-minutes-after-humans-couldnt-crack-it/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-16T03:32:54.177929Z"
+    },
+    {
+      "id": "bb2684e3a302af8c18becfbc28ebe3a7",
+      "title": "OpenAI is now using AI to attack its",
+      "description": "GPT-Red simulates prompt injections and other attacks where malicious instructions hide in emails, websites, or files . It finds successful attacks in 84 percent of test scenarios versus 13 percent for human red teamers . In one test, it manipulated an AI-powered vending machine in OpenAI's office, changed prices, and canceled other customers' orders . The results feed directly into training for new models in the lab .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
+      "fullArticleLink": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-16T03:32:40.583668Z"
+    },
+    {
+      "id": "50ee0b4631ad54eeeb80fa8a354df634",
+      "title": "Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show",
+      "description": "Anthropic announced last week that it had found a new window into its AI models\u2019 \u201cinternal thoughts\u2019 as they reason through answers . Anthropic has been trying to understand how large language models (LLMs) work for a few years now . It goes deeper into the weird mechanisms inside LLMs than ever before . The Algorithm, our weekly newsletter on AI, is worth noting that we don\u2019t fully understand them .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-16T03:32:21.650877Z"
+    },
+    {
+      "id": "0081d2e6c395e5ffcbcc2e62d343ac59",
+      "title": "GPT-Red is an LLM super-hacker built to make",
+      "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks . The firm says it wants to future-proof its safety testing process and stay ahead of human attackers . The researchers say it has already come up with new types of attack that had not been seen before . Last week the company released the latest version of its flagship LLM, GPT 5.6.6 .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-16T03:32:04.288856Z"
+    },
+    {
+      "id": "a23d719b6ff698dd1ad42c38b20295e6",
+      "title": "Sparse Inter-Layer Dependencies of Transformer FFN Neurons",
+      "description": "Feedforward network (FFN) blocks account for a large fraction of the parameters and computation in Transformer architectures . We introduce a training-free attribution method that estimates the relative influence of upstream neurons and attention outputs on a target neuron's activation . Empirically, across models and layers, we find that small subsets of preceding activations and attention output suffice to preserve neuron activations with high fidelity when all remaining inputs are masked with their average values .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.11990",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-16T03:31:52.122743Z"
+    },
+    {
       "id": "b52f45f24505c15dda1cca3afd472740",
       "title": "AI agent crawlers now need permission",
       "description": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards . Cloudflare announced the change on July 1, and most of the coverage since then has focused on Google . The more useful part of the change is how to get around the world to get the bot bot botnet .",
