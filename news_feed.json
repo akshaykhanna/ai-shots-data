@@ -1,6 +1,128 @@
 {
   "news": [
     {
+      "id": "923845ebcd350d1f1c8c713782d39f84",
+      "title": "Netflix's 300 AI productions show how fast",
+      "description": "Netflix now uses AI in about 300 productions, mostly in post-production . The savings will \"likely\" fund more content rather than shrink the $20 billion budget . Co-CEO Ted Sarandos put specific numbers to the effort: the docuseries \"The American Experiment\" includes 17 minutes of AI-assisted footage, produced twice as fast at half the cost . Netflix says savings will 'likely\" be used for more content .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/netflix_logo.png",
+      "fullArticleLink": "https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-17T14:03:28.907712Z"
+    },
+    {
+      "id": "110ed1bd87d2f184d31b2abe5b467fbd",
+      "title": "Linus Torvalds tells AI critics in the Linux",
+      "description": "Linux creator Linus Torvalds has come out strongly in favor of AI tools in kernel development . \"Linux is not one of those anti-AI projects,\" he wrote on the kernel mailing list . Sashiko, the Linux Foundation's AI-powered code review tool, has been criticized by some in the Linux kernel community for its use of AI technology . He said he would \"very loudly ignore\" anyone who tried to talk others out of using it .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/linux.png",
+      "fullArticleLink": "https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-17T14:03:16.787790Z"
+    },
+    {
+      "id": "59881494ac309842a1bd75bea6366dc4",
+      "title": "LIGO-PINN: Learned Initialization via Gated Optimization to Al",
+      "description": "Physics-informed neural networks (PINNs) have had a broad research impact in modeling domains governed by partial differential equations (PDE) However, PINNs have been shown to perform poorly, sometimes converging to trivial solutions, in challenging PDE domains, or when generalizing to unseen but related domains . To this end, we propose a framework for Learned Initialization via Gated Layerwise Optimization (LIGO-PINN) to overcome PINN convergence failures .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.14233",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-17T14:02:59.184597Z"
+    },
+    {
+      "id": "0c7a3fe22326d60c86fb0a039445a98f",
+      "title": "Privacy Leakage in Federated Learning in Radiology Reports",
+      "description": "Federated learning (FL) enables multi-institutional training on clinical text without sharing raw data . But gradient inversion can reconstruct sensitive information from shared model updates . We quantify gradient-based text reconstruction in FL and compare privacy risk across three tokenizers with the model architecture held fixed . At batch size 64 on the Discharge dataset, accuracy was 42.1% (GPT-2), 42.3% (RadBERT), and 39.4% (LLaMA-2) at batch size 256 .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.14205",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-17T14:02:44.792498Z"
+    },
+    {
+      "id": "f677317c631affb9aa76cb5b2804b7a7",
+      "title": "TEDDY: A Pediatric Foundation Model for Risk Forewarning",
+      "description": "TEDDY (Temporal Event Decoder for Disease in Youth) is a 1.84-million-parameter decoder transformer trained on 73 million ICD-10 diagnoses from 1.6 million children at a single pediatric institution . Predictions were made before visit codes were revealed, limited to first occurrences, and evaluated against sex- and age-matched controls . TEDDy achieved a median AUC of 72.0%, outperforming same-data DenseNet (50.0%), CNN (57.2%), RNN (60.1%), and LSTM (62.7%) baselines on 96-99% of tasks . Performance held across sex and age and was strongest among lower-prevalence diagnoses",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.14191",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-17T14:02:26.916048Z"
+    },
+    {
+      "id": "e5c19d39f14353b6800f62c943d6ace6",
+      "title": "A Temporal Machine Learning-Based Time-to-Event Model for Predicting",
+      "description": "Amyotrophic lateral sclerosis (ALS) is a progressive and heterogeneous neurodegenerative disease in which predicting clinically meaningful milestones, such as assistive device use, remains challenging . We developed a time-to-event, digital-twin-inspired framework that integrates longitudinal ALS Functional Rating Scale-Revised (ALSFRS-R) trajectories with survival modeling . This framework provides a scalable, interpretable, and clinically actionable approach for linking ALS progression with personalized decision support .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.14190",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-17T14:02:14.517752Z"
+    },
+    {
+      "id": "6601d14dd78a9650f82a105847b0fe80",
+      "title": "Closed-Loop Knowledge Dynamics: An Operational Framework for Saturation",
+      "description": "Feedback-driven loops support iterative improvement in large language models, reinforcement learning, and autonomous discovery, yet their gains often diminish under repeated internal feedback . We study why closed-loop knowledge systems saturate and what external information can move them beyond their current attractors . Using a Lyapunov drift condition, we show that stable internal dynamics approach bounded stability regions with exponentially attenuated transients and a noise-controlled residual floor . This analysis also explains why conditional mutual information alone cannot certify escape .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.14185",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-07-17T14:02:01.862549Z"
+    },
+    {
+      "id": "d74c6b61802703485161e2ab2c87e45c",
+      "title": "Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning",
+      "description": "Reinforcement learning has emerged as the dominant paradigm for training large language model (LLM) agents that interact with executable sandboxes . We argue that this property enables a fundamentally different rollout topology . Branching Policy Optimization (BPO) improves success by 3.6--6.1 absolute points over GRPO and RLOO at matched compute, halves gradient-norm variance, and matches the best baseline using 38% fewer policy updates .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.14171",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-17T14:01:50.066509Z"
+    },
+    {
+      "id": "7a1ae79702ce9f65d6aac6511c53f9e2",
+      "title": "QFireNet: A Quantum-Enhanced U-Net for Wildfire Segmentation",
+      "description": "Wildfire detection from satellite imagery is a semantic image segmentation problem that has proven to be difficult due to challenges such as class imbalance, feature complexity, and atmospheric interference . We inject a variational quantum circuit in the bottleneck portion of U-Net, specifically the QuFeX and QB-Net ansatzes . We also explore classical improvements to the model and its training process, including a compression of parameters and alternative loss functions .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.14160",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-17T14:01:37.851512Z"
+    },
+    {
+      "id": "97690f8353e8bc0de1e1ee094fda394f",
+      "title": "Certified Domain Consistency for Multi-Domain Retrieval: Label-Free Per",
+      "description": "C3R is a drop-in control layer that certifies a per-domain contamination budget where feasible and otherwise abstains rather than silently violating . On the hardest domains it guarantees a reduction, not a tight bound . The method replicates across open testbeds including an independent one from public federal regulations, and an LLM-judged downstream probe indicates wrong-authority grounding rises with contamination and falls under control .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.14157",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-17T14:01:25.985605Z"
+    },
+    {
       "id": "52bb467a6a0cb28548e4b904f749babf",
       "title": "Examining Google DeepMind\u2019s AI bioresilience push . Examining",
       "description": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response . The two organisations published an update on a joint initiative that began quietly and has now built out more than 15 partnerships with government bodies, biosecurity organisations, and research groups over the past 12 months . The initiative has built out over 15 partnerships over the last 12 months with government, research groups and government bodies .",
