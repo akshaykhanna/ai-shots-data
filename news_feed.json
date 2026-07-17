@@ -1,6 +1,128 @@
 {
   "news": [
     {
+      "id": "52bb467a6a0cb28548e4b904f749babf",
+      "title": "Examining Google DeepMind\u2019s AI bioresilience push . Examining",
+      "description": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response . The two organisations published an update on a joint initiative that began quietly and has now built out more than 15 partnerships with government bodies, biosecurity organisations, and research groups over the past 12 months . The initiative has built out over 15 partnerships over the last 12 months with government, research groups and government bodies .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/google-deepmind-ai-bioresilience-gemini-biosecurity-dna-synthesis-policy-regulation-synthid-red-teaming-alphafold-medical-diagnostics.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-17T03:35:31.535128Z"
+    },
+    {
+      "id": "92b96bde68eb3b5663a9a5fba0e98423",
+      "title": "OpenAI wants developers to stop typing commands",
+      "description": "OpenAI and keyboard manufacturer Work Louder have unveiled the Codex Micro . Developers can manage their AI agents through a stripped-down keyboard with joysticks and a rotary dial . The top six keys light up with real-time RGB feedback to show each agent's status, whether it's thinking, working, waiting for input, or done . The device plugs directly into ChatGPT Codex, where keys can be remapped . The Codex Micro costs $230 but quantities are limited .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai-worklouder-codex-micro-02-overview-rgb.jpg",
+      "fullArticleLink": "https://the-decoder.com/openai-wants-developers-to-stop-typing-commands-and-start-using-a-joystick-to-control-their-ai-agents/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-17T03:35:15.111359Z"
+    },
+    {
+      "id": "8c1081a11c05ba02c7ec320e4d2d8019",
+      "title": "Germany puts Google's AI Overviews and Perplexity",
+      "description": "German media regulators say Google's AI Overviews are Google's own content, not neutral search results, and that they crowd out regular links . The regulators have issued their first rulings against Google and Perplexity under the country's State Media Treaty . Both companies have one month to appeal, and both have a month to find out if they are allowed to do so again . The ruling is first-of-its-kind and is based on Germany's state media treaty .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/google_ai_overviews_germany.png",
+      "fullArticleLink": "https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-17T03:35:02.628588Z"
+    },
+    {
+      "id": "423857d2723b5ad056a062d6197e2c52",
+      "title": "Google rebrands NotebookLM as Gemini Notebook and opens",
+      "description": "Google is renaming NotebookLM to Gemini Notebook and integrating the tool more deeply into its ecosystem . A new feature gives each notebook its own cloud computer that can write and run code, initially for AI Ultra and Workspace customers . Separately, Google Search is getting app connections, opening its search app to third-party integration . Google Search will also get app connections with apps that can run code from the cloud .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/gemini_notebooklm.png",
+      "fullArticleLink": "https://the-decoder.com/google-rebrands-notebooklm-as-gemini-notebook-and-opens-its-search-app-to-third-party-integration/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-17T03:34:51.260091Z"
+    },
+    {
+      "id": "7b817a9875877f4fff5b78ac06d99d9e",
+      "title": "Kimi's open model K3 nears GPT-5.6 Sol",
+      "description": "Kimi is launching K3, a multimodal open-weight model with 2.8 trillion parameters and one million tokens of context . In the company's own benchmarks, it comes close to Claude Fable 5 and GPT 5.6 Sol while beating Opus 4.8 and GLM 5.2 . The model is also significantly pricier than its predecessor . Full weights are scheduled for release by July 27 .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/kimi_k3_web.png",
+      "fullArticleLink": "https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-17T03:34:39.578429Z"
+    },
+    {
+      "id": "6aca5c8163f69a9593f17f2e2ccd9b76",
+      "title": "Data-Efficient Adaptation of LLMs via Attention Head Reweighting",
+      "description": "Attention Head Reweighting (AHR) is a data-efficient method that adapts LLMs to new text-classification tasks by learning only a single scalar per attention head . This drastically reduces the number of parameters that need to be learned by making use of functional specialization of individual attention heads . Experiments on diverse open-source text classification datasets show that AHR can outperform standard baselines like LoRA when learning from limited samples, despite having 200-1000x fewer trainable parameters .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.13425",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-17T03:34:23.972897Z"
+    },
+    {
+      "id": "bc8a2234435122e1ebc58b685d35b9b3",
+      "title": "Temperature Scaling Is Not Enough: Calibration Gaps",
+      "description": "Temperature scaling is the dominant post-hoc calibration method in modern deep learning . In practice, labels are frequently soft, crowd-sourced, or genuinely distributional, reflecting real disagreement among human annotators rather than annotation noise . The gap grows monotonically with model scale in the vision domain and on the SNLI-derived split of ChaosNLI, and is substantially larger in the language domain (mean gap 0.079) than in vision .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.13423",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-17T03:34:11.484184Z"
+    },
+    {
+      "id": "f9fd3a9df245351195e809d64bb7cb7f",
+      "title": "Exploration with Guided Search for Analog Topology Generation",
+      "description": "EXPLORE is a search-enhanced framework that integrates simulator-guided Monte Carlo Tree Search (MCTS) with transformer-based decoding to enable test-time scaling for analog topology generation . On a 6- component benchmark at a tight tolerance of 0.01, EXPLore raises the success rate from 12% for one-shot generation and 33% for a sampling-and-filter baseline to 65% . This summary highlights key aspects",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.13416",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-17T03:33:59.828939Z"
+    },
+    {
+      "id": "a535fed833c07edb8ef280c9e8e93dcb",
+      "title": "Where Should RL Post-Training Compute Go? Where should",
+      "description": "Reinforcement Learning (RL) post-training is increasingly used to adapt foundation models for reasoning, planning, and feedback-driven robot-learning pipelines . We introduce a FLOP-accounting framework that decomposes compute into rollout/search, policy-update/learning, and reward-model evaluation . We present RACE as a diagnostic pilot-grid protocol, not a guarantee of held-out improvement, for identifying allocation regimes before expensive validation runs . This summary highlights",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.13389",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-07-17T03:33:47.743794Z"
+    },
+    {
+      "id": "447c2b83a26059f097f7b81a055c5726",
+      "title": "Agora: Collective and Permissionless Internet-Scale Pretraining of Large",
+      "description": "Training large language models at the multi-billion to trillion parameter scale is confined to datacenters . We present Agora, a system that makes efficient use of this compute . Agora combines bandwidth-efficient pipeline-parallel model sharding over internet-grade links with multi-party, fault-tolerant collective operations . We term this setup Protocol Learning: it enables collectively trained, collectively owned models, opening a path to open-source frontier training with economic sustainability .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.13332",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-17T03:33:35.089892Z"
+    },
+    {
       "id": "6b9408db8290ec533c347bd9160b3ffb",
       "title": "Neko Health raises $700 million to expand",
       "description": "Neko Health has raised $700 million to expand its AI body scans in the United States . The company\u2019s preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review . The Series C round was led by Lightspeed Venture Partners and co-led by O.G. Venture Partners . The service is available in a clinic in New York, starting with a New York clinic .",
