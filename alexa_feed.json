@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260717",
-    "updateDate": "2026-07-17T23:44:21.0Z",
+    "uid": "briefing_20260718",
+    "updateDate": "2026-07-18T23:43:46.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: Privacy Leakage in Federated Learning in Radiology Reports, Closed-Loop Knowledge Dynamics: An Operational Framework for Saturation, OpenAI wants developers to stop typing commands, Data-Efficient Adaptation of LLMs via Attention Head Reweighting, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning, Certified Domain Consistency for Multi-Domain Retrieval: Label-Free Per, Examining Google DeepMind\u2019s AI bioresilience push . Examining",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260717.mp3"
+    "mainText": "Today's top stories: Scientists\u2019 Side Hustle? Using AI and Quantum Computing, An Inventor of Apple\u2019s FaceID Wants to Analyze, Google Vids now lets you star in your, GPU financiers are turning to inference chips, Apple\u2019s lawsuit couldn\u2019t come at a worse time, Patreon stops asking AI bots not to scrape, Zuckerberg's plan to sell excess AI compute could, LLM's answers are Silently Shaped by its own, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260718.mp3"
   }
 ]

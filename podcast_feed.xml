@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>AI Shots Daily Briefing - July 18, 2026</title>
+      <itunes:author>AI Shots</itunes:author>
+      <description>Here is your daily AI Shots briefing. Today's top stories: Scientists’ Side Hustle? Using AI and Quantum Computing. An Inventor of Apple’s FaceID Wants to Analyze. Google Vids now lets you star in your. GPU financiers are turning to inference chips. Apple’s lawsuit couldn’t come at a worse time. Patreon stops asking AI bots not to scrape. Zuckerberg's plan to sell excess AI compute could. LLM's answers are Silently Shaped by its own. XAI fired engineer who raised alarms about Grok. Amazon borrows $17.5B from banks as AI spending.</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260718.mp3" length="2172096" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing_20260718</guid>
+      <pubDate>Sat, 18 Jul 2026 23:43:46 +0000</pubDate>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AI Shots Daily Briefing - July 17, 2026</title>
       <itunes:author>AI Shots</itunes:author>
       <description>Here is your daily AI Shots briefing. Today's top stories: Privacy Leakage in Federated Learning in Radiology Reports. Closed-Loop Knowledge Dynamics: An Operational Framework for Saturation. OpenAI wants developers to stop typing commands. Data-Efficient Adaptation of LLMs via Attention Head Reweighting. XAI fired engineer who raised alarms about Grok. Amazon borrows $17.5B from banks as AI spending. Google just redesigned the search box. Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning. Certified Domain Consistency for Multi-Domain Retrieval: Label-Free Per. Examining Google DeepMind’s AI bioresilience push . Examining.</description>
