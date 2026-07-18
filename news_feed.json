@@ -1,6 +1,146 @@
 {
   "news": [
     {
+      "id": "896a3853289dff0764a93e44822a399b",
+      "title": "Anthropic slashes Claude Fable 5 limits in Max",
+      "description": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium plans starting July 20 . Pro users get a one-time $100 credit, then pay API rates . The reversal from Anthropic's original plan to pull Fable from subscriptions entirely likely comes down to competitive pressure from OpenAI's cheaper GPT-5.6 Sol . OpenAI is also looking at Fable as a way to compete with Google's cheaper Sol .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-18T13:45:18.519967Z"
+    },
+    {
+      "id": "2c1a046a2beaf62b1bde1c95b65afafa",
+      "title": "The Pentagon's new AI playbook treats slow adoption",
+      "description": "US Department of the Navy has signed a strategy to \"weaponize\" data and AI and build an \"AI-first\" fleet . Large language models would run directly on warships, and an AI war council would prioritize mission scenarios . The core message is that moving too slowly carries greater risks than \"imperfect alignment\" The Pentagon&#039;s new AI playbook treats slow adoption as a bigger risk than imperfect alignment .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/US-Navy-Weaponize-AI-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-18T13:45:07.337331Z"
+    },
+    {
+      "id": "97ad50cfbe7213cb57092d50654ac8e6",
+      "title": "Open-weight models now match frontier cyber performance",
+      "description": "The British AI Security Institute warns that open-weight models like GLM-5.2 and DeepSeek V4-Pro now trail frontier models in cyber capabilities by four to seven months . At the start of 2025, the gap was still six to ten months . Safety measures on open models are largely ineffective, leaving defenders less time to prepare . The institute also found that safety measures on these models are ineffective .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/aisi_logo_pattern.png",
+      "fullArticleLink": "https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-18T13:44:56.014013Z"
+    },
+    {
+      "id": "7b3b6041bb87ecff20134355d2b0dc92",
+      "title": "China's new World Artificial Intelligence Cooperation Organization",
+      "description": "At the World AI Conference in Shanghai, Xi Jinping announced 5,000 AI training slots for Global South countries and the launch of the \"World Artificial Intelligence Cooperation Organization\" Cooperation centers with ASEAN, the African Union, BRICS, and other alliances are planned to follow . China is systematically building a parallel AI governance structure outside Western influence . China&#039;s new World AI Cooperation Organization is President Xi&#139:s clearest play yet for parallel AI order .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/china_flag_visual-2-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-18T13:44:43.972343Z"
+    },
+    {
+      "id": "cf13bd5010ee39c0bf1f53de5bc80591",
+      "title": "Scientists\u2019 Side Hustle? Using AI and Quantum Computing",
+      "description": "Danish researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases . Researchers used the hybrid technique to generate novel peptides, short chains of amino acids, capable of binding to specific proteins in the body . The newly discovered process won\u2019t revolutionize research yet as quantum computers are still too small to run full-scale, cutting-edge AI models .",
+      "imageUrl": "https://media.wired.com/photos/6a50c6b5d12b964679cc91a9/191:100/w_1280,c_limit/Quantum%20Computing.jpg",
+      "fullArticleLink": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-18T13:44:22.784786Z"
+    },
+    {
+      "id": "e74ea7dbb48cb4fe94e8bae96e33602d",
+      "title": "An Inventor of Apple\u2019s FaceID Wants to Analyze",
+      "description": "Gidi Littwin's startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson\u2019s . He wants the technology to be as cheap and easy as for a blood test . The startup has raised $52 million in funding after gathering data on 100,000 people's brains to train deep-learning models to examine the brain without the need for invasive procedures . The team is currently working on a clinical study to test whether its model can diagnose and even predict Alzheimer's .",
+      "imageUrl": "https://media.wired.com/photos/6a5639acbebf57977f2b4f6b/191:100/w_1280,c_limit/AppleIDBrainScan.jpg",
+      "fullArticleLink": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-18T13:44:05.261850Z"
+    },
+    {
+      "id": "c27a3acd5bed64de18f969e219f14ef4",
+      "title": "Google Vids now lets you star in your",
+      "description": "Google Vids now lets you star in your own AI videos . The tool lets you create a custom digital avatar that looks and sounds like you based on a selfie and a voice recording you upload . Google says it's bringing its multi-modal AI model Gemini Omni to Vids, letting you create videos using a combination of a written prompt and reference images . Omni then mixes those inputs together to create the AI video you want . It can also be used to swap out the background or fix the lighting in a video recorded on your phone...",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/google-vids-ai-avatar.jpg?resize=1200,772",
+      "fullArticleLink": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-18T13:43:47.962241Z"
+    },
+    {
+      "id": "96ead98cb5258035e987cd9ade32a100",
+      "title": "GPU financiers are turning to inference chips",
+      "description": "AI cloud startup General Compute has landed a $400 million loan from Upper90, a tech investment firm . It might be the first deal to put up inference-specific chips as collateral . The financing is the latest signal that markets are responding to concerns over the price of AI tools and tokens by turning to infrastructure that runs open source models more cheaply than the newest LLMs from frontier labs . As more alternatives to Nvidia emerge, compute providers that aren't locked into Nvidia deals may have an advantage in providing cost-efficient inference .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/General-Compute-Billboard.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-18T13:43:31.450930Z"
+    },
+    {
+      "id": "1543d4a481fea7203aef30c1016d51e7",
+      "title": "Apple\u2019s lawsuit couldn\u2019t come at a worse time",
+      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday . The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer . The timing couldn't be worse with the company reportedly eyeing an IPO as early as later this year . This episode of Equity is the latest episode of TechCrunch's Equity podcast . Read the full transcript of the episode and listen to it on YouTube, Apple Podcasts, Overcast and Spotify .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-18T13:43:14.254691Z"
+    },
+    {
+      "id": "a90acdd50b34149685fea53d473a8353",
+      "title": "Patreon stops asking AI bots not to scrape",
+      "description": "The membership platform for creators is cracking down on AI scraping its content for training purposes . It's working with internet infrastructure provider Cloudflare to directly block access to AI bots . \"Consent shouldn't depend on whether a scraper chooses to behave,\" the company says . The changes come about as more online publishers and content creators are coming to grips with how AI is ingesting their work for the purpose of making their AI models smarter .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-07-18T13:42:59.391719Z"
+    },
+    {
       "id": "2bbdfc683665fa6d0787923f400d1c59",
       "title": "Bunkerhill raises $55M to scale agentic AI across",
       "description": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks . The closing of the company\u2019s Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator . However, the funding total doesn't answer the key question any hospital executive wants to know about healthcare AI: does it work? This",
