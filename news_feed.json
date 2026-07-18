@@ -1,6 +1,128 @@
 {
   "news": [
     {
+      "id": "2bbdfc683665fa6d0787923f400d1c59",
+      "title": "Bunkerhill raises $55M to scale agentic AI across",
+      "description": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks . The closing of the company\u2019s Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator . However, the funding total doesn't answer the key question any hospital executive wants to know about healthcare AI: does it work? This",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/bunkerhill-health-scale-agentic-ai-healthcare-medical-systems-agentic-artificial-intelligence-digital.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-07-18T03:25:03.581245Z"
+    },
+    {
+      "id": "9e374bcb0dd3d27be0b8b2b33919535a",
+      "title": "China's Kimi K3 is forcing Western AI labs",
+      "description": "Moonshot AI has released Kimi K3, a model that by early assessments matches Anthropic's Opus 4.8 . Even OpenAI strategist Dean W. Ball calls it \"very good,\" but, of course, warns that a world dominated by open-weight models would amount to \"AI communism\" The release is reigniting the debate over how much computing power actually matters and whether U.S. export controls are working .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/moonshot_ai_logos.png",
+      "fullArticleLink": "https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-18T03:24:49.389522Z"
+    },
+    {
+      "id": "6a800dd5e3dc96407b4fa98336b269d6",
+      "title": "GPT-5.6 is deleting user files when given full",
+      "description": "OpenAI's GPT-5.6 has accidentally wiped users' entire home directories in several cases . The model overwrites a temporary directory variable and carries out destructive actions on its own instead of asking for confirmation . OpenAI has announced extra safeguards and a detailed post-mortem . The company says it shouldn't delete user files when given full access, and OpenAI says it didn't do it properly but did .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_glitchy_blip.png",
+      "fullArticleLink": "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-18T03:24:37.658202Z"
+    },
+    {
+      "id": "0112a38905e9ec6e45dffb7bfaf19854",
+      "title": "Zuckerberg's plan to sell excess AI compute could",
+      "description": "Meta is reportedly in talks with Anthropic to rent out compute capacity from its data centers . The deal could be worth up to $10 billion over two years, according to the New York Times . Anthropic needs the extra capacity because demand for Claude Code has surged . For Meta, this would open a new revenue stream for the company . The company is also building out new revenue sources with paid AI subscriptions like \"Meta One\" and investing in space-based solar power .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/meta_data_center.png",
+      "fullArticleLink": "https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-18T03:24:23.527698Z"
+    },
+    {
+      "id": "0bfdc15c9d88ebaae51b8022d5ca97fb",
+      "title": "A Noise-Robust Elicit-to-Optimize Framework for Distortion",
+      "description": "We propose a noise-robust elicit-to-optimize framework for eliciting agents' risk preferences and optimizing policies under a broad class of risk objectives characterized by distortion riskmetrics . A comprehensive empirical study demonstrates the framework's elicitation accuracy and effectiveness in complex financial environments . We propose an adaptive Bayesian IRL method that infers agents' latent risk objectives from their noisy observed decisions . By representing the objective as an integral of the conditional cost quantile function with respect to the distortion function, the method unifies distortion-riskmetric objectives .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.14373",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-18T03:24:06.068118Z"
+    },
+    {
+      "id": "bf41629dc47755755e525e7b12615396",
+      "title": "In- Context Learning: An Equilibrium Analysis of LLM",
+      "description": "Large Language Models (LLMs) have revolutionized AI services, but a critical tension emerges: while personalization improves model performance, it consumes scarce computational resources . When should a user invest in expensive Supervised Fine-Tuning (SFT) versus lightweight In-Context Learning (ICL)? How does congestion from other users' personalization choices reshape these incentives? And what strategies should platforms adopt when offering multiple personalization algorithms?",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.14371",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-18T03:23:54.412388Z"
+    },
+    {
+      "id": "b7b12bfae19cfd57a0c0e31a57dc74be",
+      "title": "Dysco: Dynamic Subspace Boosting to Mitigate LoRA Interference",
+      "description": "Dynamic Subspace Boosting (Dysco) is a plug-in method that allocates client-specific LoRA subspaces in a federated and dynamic manner . Dysco substantially reduces interference, reduces the final-round synthetic training loss by up to 9 times relative to baselines under the orthogonal-subspace partition the theory identifies, improves all five tested FL algorithms by 4.3% on MIMIC, outperforms recent federated methods .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.14367",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-18T03:23:41.798457Z"
+    },
+    {
+      "id": "d7bcdc3895fe4ce48f42bf2986b357c0",
+      "title": "LLM's answers are Silently Shaped by its own",
+      "description": "People use language models for practical questions whose answers are difficult to verify . Claude Opus 4.8 gives a lower probability when the company under consideration is Anthropic rather than OpenAI . Yet Claude mostly fails to disclose this influence to the user . Covert value leakage is a form of misalignment because it goes against the user's preferences and is likely to mislead them . We find that models are influenced by different types of values, including preferences for morally good outcomes .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.14345",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-18T03:23:30.164236Z"
+    },
+    {
+      "id": "487dc9623815083773454f6d4781545d",
+      "title": "Counterfactual Optimal Action Trees (COAT) Interpretable Prescriptive Policies",
+      "description": "COAT (Counterfactual Optimal Action Tree) combines counterfactual outcome estimation with large-scale mixed-integer optimization . COAT increased upsell revenue per booking by 6.9% in a 17-week field pilot with a major global airline . The airline projected \\$50-\\$150 million in incremental annual premium seat revenue across eligible domestic markets . Success of the pilot led to scaled adoption and informed broader AI-driven decision initiatives within the organization .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.14318",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-18T03:23:19.283601Z"
+    },
+    {
+      "id": "ad852e5ab1c76ce03e0201a393f17e78",
+      "title": "Towards a Unified Multidimensional Explainability Metric: Evaluating Trustworthiness",
+      "description": "In this paper, we present a comprehensive framework for assessing the explainability of various XAI methods, such as LIME and SHAP, across multiple datasets and machine learning models . We leverage benchmarking experiments to systematically evaluate these aspects and use the insights gained to construct an offline knowledge base . We demonstrate our framework by applying it to three open-source datasets, discussing the implications of the obtained results in relation to the characteristics of the datasets .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.14315",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-18T03:23:07.994320Z"
+    },
+    {
       "id": "923845ebcd350d1f1c8c713782d39f84",
       "title": "Netflix's 300 AI productions show how fast",
       "description": "Netflix now uses AI in about 300 productions, mostly in post-production . The savings will \"likely\" fund more content rather than shrink the $20 billion budget . Co-CEO Ted Sarandos put specific numbers to the effort: the docuseries \"The American Experiment\" includes 17 minutes of AI-assisted footage, produced twice as fast at half the cost . Netflix says savings will 'likely\" be used for more content .",
