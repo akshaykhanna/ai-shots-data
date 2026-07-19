@@ -1,6 +1,127 @@
 {
   "news": [
     {
+      "id": "7c4d4353343ad2ae0cc800357b8b6db3",
+      "title": "AI chatbots reading X-rays can be dangerously confident",
+      "description": "The RadLE 2.0 benchmark tests whether AI models in radiology can tell when they should leave a diagnosis to a human . Many models deliver wrong findings with full confidence, and human radiologists are still well ahead . Before AI can diagnose on its own, it needs to learn when it's better to say nothing, the RadLE benchmark tests when it can't tell when it should leave the diagnosis to humans .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/ai-radiology-model-generated-image-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-19T13:45:46.601521Z"
+    },
+    {
+      "id": "4c7794adac6bb4d0912c2cb9087070e0",
+      "title": "AI text detectors struggle when language models mimic",
+      "description": "Epoch AI tested three leading AI text detectors (Pangram, GPTZero, and Originality.ai) using style-imitated texts . Up to 18 percent of AI-generated passages went undetected . For scientific writing, the miss rate climbed as high as 48 percent, the very genre where these detectors likely see the most real-world use . The miss rate was up to 48 percent for scientific writing .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/ai_tet_detector-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-19T13:45:35.810461Z"
+    },
+    {
+      "id": "9465d3fd9e072ffac99de0c8b7868c4d",
+      "title": "Moonshot's Kimi K3 outperforms Fable 5 in frontend",
+      "description": "Moonshot's Kimi K3 is the first Chinese model to top the Code Arena: Frontend rankings, beating Claude Fable 5 and GPT-5.6 Sol by a wide margin . But on advanced math, the gap is stark: Kimi . K3 scores only about 39 percent on FrontierMath Tier 4, while models from OpenAI and Anthropic hit close to 90 percent on Tier 4 .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/kimi_logo.png",
+      "fullArticleLink": "https://the-decoder.com/moonshots-kimi-k3-outperforms-fable-5-in-frontend-code-but-lags-far-behind-in-complex-math/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-19T13:45:24.349124Z"
+    },
+    {
+      "id": "79d8b4a4dd4a2ba21720e772f4c5419a",
+      "title": "Google Deepmind argues video generators already contain",
+      "description": "Google Deepmind's GenCeption repurposes a video generator for classic vision tasks such as depth estimation and segmentation . The model trained almost entirely on synthetic videos . Its results add to the debate over whether video generators already contain a kind of universal world model . The results add . to the question over whether the world models computer vision has been missing in the past have been missing, says Google DeepMind .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/google-deepmind-genception-generated-image-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-19T13:45:13.346365Z"
+    },
+    {
+      "id": "4825e3c5a1920e1eacc85cf4c92e2c9d",
+      "title": "Alibaba's Qwen takes on Kimi K3 with open-weight",
+      "description": "Alibaba has unveiled Qwen 3.8, its latest open-weight model with 2.4 trillion parameters . The Qwen team says it matches frontier models and trails only Fable 5 . A preview is available through Alibaba's Token Plan, Qoder, and QoderWork at 10 percent of the standard price . Qwen's push is likely partly aimed at disrupting Kimi K3's momentum . Moonshot AI plans to go public in as little as six months .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
+      "fullArticleLink": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-19T13:44:59.306915Z"
+    },
+    {
+      "id": "bb03fb42eb3d8c90fa90c3cedbd175fc",
+      "title": "Moonshot\u2019s upcoming Kimi 3 is expected to close",
+      "description": "Kimi K3 will be the largest open-weight AI model from China, with a parameter count between 2 trillion and 3 trillion . Moonshot AI is said to be raising fresh capital in a round that would valuate it at $31.5 billion . The news comes amid a fresh debate on the value of paying AI labs for their expensive, closed-source models . Industry leaders fear that AI labs will somehow manage to extract the data their clients submit for use with their AI products .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-19T13:44:38.789529Z"
+    },
+    {
+      "id": "99dfba78ed41fb5fd10a16089e02d672",
+      "title": "AMI Labs\u2019 Alexandre LeBrun won't call his",
+      "description": "AMI Labs\u2019 Alexandre LeBrun won't call his AI &#8216;AGI' or superintelligence' or \"superintelligence\" Lebrun: \"We never used the word AGI. And I just noticed that nobody is using it anymore; they switched to superintelligence\" \"There's no good definition. What is superintelligence? I don't know. It's not a very useful word,\" he said . This summary highlights key aspects of the",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OFF08112.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-19T13:44:23.459227Z"
+    },
+    {
+      "id": "bf27aeddf3529c91b301aa53f68fd82c",
+      "title": "How a former DeepMind researcher raised",
+      "description": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product . Andrew Dai left Google DeepMind knowing visual AI was the frontier he wanted to stake his claim in . He explains why he prioritized strategic partners like Nvidia and Menlo Ventures over even higher valuation offers . The conversation also offers practical lessons for founders navigating today's rapidly evolving AI landscape . Subscribe to Build Mode on Apple Podcasts, Spotify, YouTube or Apple Music .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/BMs3e2-featured-pic.png?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-19T13:44:07.875496Z"
+    },
+    {
+      "id": "bcfaf7641bb6fc8b33100b2f944a9943",
+      "title": "Why is OpenAI selling a ChatGPT basketball basketball?",
+      "description": "OpenAI is selling a ChatGPT basketball for $70 . It's a 100% rubber ball, which is a better fit for outdoor play due to its weather resistance . The basketball will cost you $70, or about 56 million input tokens for GPT-5 . Alongside that $70 artifact, the AI company is also selling a line of merch with inspirational reminders, like \"Good research takes time\" Amanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-basketball.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-19T13:43:51.585592Z"
+    },
+    {
       "id": "b5237ebb8981563de8db578276c0e75e",
       "title": "DoorDash can now order DoorDash from the command",
       "description": "DoorDash has introduced a command-line tool for developers that lets you order DoorDash directly from your AI agent . The tool can be used to search stores, find deals, and check out, the company says . DoorDash is exposing its ordering platform to AI agents, allowing developers to add functionality to their own software and services . The launch has a bit of humor to it, as it recalls an old XKCD comic about programmers automating ridiculous tasks .",
