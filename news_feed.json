@@ -1,6 +1,156 @@
 {
   "news": [
     {
+      "id": "b5237ebb8981563de8db578276c0e75e",
+      "title": "DoorDash can now order DoorDash from the command",
+      "description": "DoorDash has introduced a command-line tool for developers that lets you order DoorDash directly from your AI agent . The tool can be used to search stores, find deals, and check out, the company says . DoorDash is exposing its ordering platform to AI agents, allowing developers to add functionality to their own software and services . The launch has a bit of humor to it, as it recalls an old XKCD comic about programmers automating ridiculous tasks .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/01/dasher_ps_horiz_5.jpg?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-07-19T03:42:35.946077Z"
+    },
+    {
+      "id": "c3261b8580a42634b7e0388eaf8ca805",
+      "title": "Google\u2019s AI Mode now lets you link",
+      "description": "Google's AI Mode now lets you link and interact with select apps . At launch, supported apps include Instacart, Canva, and YouTube . Google says it's working with a range of partners and plans to launch support for more apps soon . The update is rolling out to users in the U.S. Google also recently added the ability for users to explore the web side-by-side with AI Mode to do things like compare details and ask follow-up questions .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-07-19T03:42:19.099279Z"
+    },
+    {
+      "id": "0699caaab6d76b8b394918cf6d46c73d",
+      "title": "Roblox launches an AI-powered game-creation feature in its",
+      "description": "Roblox launches an AI-powered game-creation feature in its mobile app . The new feature called \"Build\" allows users to design games from their mobile devices using AI . The Build feature will enter public alpha testing on July 28, available to users in New Zealand aged nine and older who have verified their age . The company is also working on developing AI agents that will assist creators in playtesting and providing analytics .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Roblox-Build-feature.jpeg?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-19T03:42:03.063264Z"
+    },
+    {
+      "id": "0a1bc8bb93d46198e086d18e3afb2b6d",
+      "title": "Apple\u2019s big lawsuit could disrupt OpenAI's IPO plans",
+      "description": "How Apple's big lawsuit could disrupt OpenAI's IPO plans . Apple filed a trade secrets lawsuit against OpenAI last Friday . TechCrunch's Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O'Kane dig into what the lawsuit could mean for OpenAI . How much should anyone trust AI companies with their data? Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-19T03:41:47.646742Z"
+    },
+    {
+      "id": "0184cf98041ba6c75b2f1530e5237c45",
+      "title": "AI-driven memory crunch jolts India\u2019s smartphone market",
+      "description": "India saw smartphone shipments fall 10% year-over-year in the April-June quarter . Higher memory costs have had the biggest impact on prices, says Counterpoint Research . India has been hit harder because 60% of its smartphone market is concentrated in the sub-\u20b920,000 (under $210) segment . Samsung was the only major smartphone brand to post shipment growth in India in Q2 . China's smartphone market share fell to its lowest level since 2020 .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/samsung-india-tariffs-2227140805.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-19T03:41:31.110284Z"
+    },
+    {
+      "id": "5814ee1085b0a3fa6d7a9c4016bd2191",
+      "title": "Agility Robotics plants its flag in Tesla\u2019s backyard",
+      "description": "Agility Robotics is opening a 60,000-square-foot facility to train its humanoid robots in Fremont, California . The company says it has secured $300 million in contract orders for its robots . The new facility will be where the six-foot-tall robot learns new skills in environments similar to those it will experience in the field . The robot Digit is already generating revenue, carrying totes and bins in manufacturing and warehouse settings .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479.jpg?resize=800,1200",
+      "fullArticleLink": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-19T03:41:15.044779Z"
+    },
+    {
+      "id": "2a6c589fb12f2c5ad2066d8f70eff45e",
+      "title": "Databricks hits $188B valuation, extending its run",
+      "description": "Databricks hits $188B valuation, extending its run as AI's favorite second act . VC tells TechCrunch that the deal is solid, with so many firms wanting in that the company had no reason to keep its shiny new valuation a secret . Founded in 2013, it initially grew to success back in the big data era, with software that enabled enterprises to store enormous amounts of data in the cloud, yet produce speedy analytics . It is a champion of Zai's GLM 5.2 as a model for coding .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-19T03:40:57.461187Z"
+    },
+    {
+      "id": "2d9cc2c8c02bf709e6b81bf824a2d0e3",
+      "title": "Vertu wants executives to pay $6,880",
+      "description": "Vertu wants executives to pay $6,880 for an AI agent \u2014 here's how it actually performs . The Alphafold, a foldable phone, targets affluent buyers, particularly chief executives . At the heart of the device is a pre-installed AI agent built on top of the Hermes project, which the company says can analyze files, automate tasks across apps, remember conversations, and hand off requests to a human concierge when needed .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-unfold.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-19T03:40:39.864176Z"
+    },
+    {
+      "id": "5d2b0c79af659e42300d3afbc3ef1be3",
+      "title": "Neil Rimer thinks the AI money is coming",
+      "description": "Neil Rimer thinks the AI money is coming back out . He thinks tech leaders \"can play a leading role in seeing that through\" The Giving Pledge, the promise Warren Buffett and Bill Gates launched in 2010 to get billionaires to commit half their fortunes to charity, is becoming increasingly irrelevant . Total American charitable giving hit a record $592.5 billion in 2024, but the number of Americans actually giving has fallen for five straight years .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-9.20.56-PM.png?resize=1200,739",
+      "fullArticleLink": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-19T03:40:24.332099Z"
+    },
+    {
+      "id": "ee7e2eccd7454d2e42d9fd04d7d7c566",
+      "title": "Kimi: Threat or menace? Kimi is a threat",
+      "description": "Kimi K3 \"demonstrated frontier-level performance across our evaluation suite, consistently outperforming other tested models,\" says Moonshot AI . Announcement spooked Wall Street, with the Nasdaq dropping about 1% on Friday as investors sold off stocks in chip companies like Nvidia . Many of the resulting posts from tech industry figures will sound familiar to those who remember the debate after another Chinese company released its open source R1 model in January 2025 .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-19T03:40:07.065689Z"
+    },
+    {
       "id": "896a3853289dff0764a93e44822a399b",
       "title": "Anthropic slashes Claude Fable 5 limits in Max",
       "description": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium plans starting July 20 . Pro users get a one-time $100 credit, then pay API rates . The reversal from Anthropic's original plan to pull Fable from subscriptions entirely likely comes down to competitive pressure from OpenAI's cheaper GPT-5.6 Sol . OpenAI is also looking at Fable as a way to compete with Google's cheaper Sol .",
