@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "id": "cc5e7a064593ff7c4cc0b09aebfde89e",
+      "title": "Nonprofit Current AI is racing to build",
+      "description": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all . CEO Ayah Bdeir: \"If AI is truly a transformative technology, if it's going to change every aspect of everyone's life, there has to be a public alternative\" Current AI has launched an open-source AI chatbot at the AI for Good Summit in Geneva . The French government seeded Current AI with $100 million, joined by the Ford Foundation, MacArthur Foundation, DeepMind, and Salesforce .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
+      "fullArticleLink": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-20T03:54:23.193110Z"
+    },
+    {
+      "id": "f94394e35d7038429bcb5426f50b0d9b",
+      "title": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious",
+      "description": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019 \u2018I\u2019ve never seen a technology advancing so rapidly [that\u2019s been] so completely rejected by the public,\u201d he said . \u2018The Odyssey\u2019 becomes the first feature film to be shot entirely on Imax film and cameras . Nolan didn\u2019t get more specific about what he views as the threat from AI, but it has been a growing source of concern in Hollywood .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2285660756.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-20T03:54:02.507205Z"
+    },
+    {
+      "id": "87a2e11003ab357d30ea479de5c02147",
+      "title": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
+      "description": "Apple recently filed a trade secrets lawsuit against OpenAI, accusing the AI company of a pattern of misconduct . Kirsten Korosec, Sean O\u2019Kane, and Anthony Ha debated whether this lawsuit will derail OpenAI\u2019s hardware plans . With all those plans on the line, will OpenAI try to settle this as quickly as possible, or did it learn from its recent courtroom victory against Elon Musk that it can endure the cost of a trial?",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
+      "fullArticleLink": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-20T03:53:44.244819Z"
+    },
+    {
       "id": "7c4d4353343ad2ae0cc800357b8b6db3",
       "title": "AI chatbots reading X-rays can be dangerously confident",
       "description": "The RadLE 2.0 benchmark tests whether AI models in radiology can tell when they should leave a diagnosis to a human . Many models deliver wrong findings with full confidence, and human radiologists are still well ahead . Before AI can diagnose on its own, it needs to learn when it's better to say nothing, the RadLE benchmark tests when it can't tell when it should leave the diagnosis to humans .",
