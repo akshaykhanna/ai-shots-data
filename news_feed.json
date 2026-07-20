@@ -1,6 +1,133 @@
 {
   "news": [
     {
+      "id": "272130dc4b4c6c7e592dd1a927d3e544",
+      "title": "Kimi K3 open-weight model: China\u2019s biggest",
+      "description": "Moonshot AI's Kimi K3 open-weight model has been read almost entirely through its parameter count since it&#160;launchedon July 16 . At 2.8 trillion parameters, it is the largest open-weights model released to date . Model sizes are usually grouped into rough brackets, and 2 .8 trillion rounds into what the industry calls the 3T class . A tier no. no.",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/hq720.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-20T14:31:30.343519Z"
+    },
+    {
+      "id": "d6a09501cf0aad5517b5f2c17b3f858a",
+      "title": "US public health agencies to test OpenAI",
+      "description": "US public health agencies will test generative AI tools under a new programme involving the Coalition for Health AI, OpenAI, Anthropic, and Accenture . The Public Health Use Case and Learning Scaling Engine, known as PULSE, will support trials in 10 state, local, tribal, or territorial jurisdictions . The programme is intended to produce generative models that can be used by public health departments across the US .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/US-public-health-agencies-to-test-OpenAI-and-Anthropic-AI-models-scaled-e1784536548513.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-20T14:31:19.552712Z"
+    },
+    {
+      "id": "e254866b5663d48e592fe3de88a1c502",
+      "title": "Moonshot pauses new Kimi K3 subscriptions after GPU",
+      "description": "AI startup behind Kimi K3 model temporarily stops selling new subscriptions . Current subscribers aren't affected, and new slots will open up again gradually . Moonshot also announced that it's splitting its subscription model into two tiers . The company says it wants to spread computing power more evenly and keep the user experience stable . Alibaba is already pushing its rival model, Qwen 3.8, which will be open weight for the first time in a while .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/kimi_logo.png",
+      "fullArticleLink": "https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-07-20T14:31:02.874062Z"
+    },
+    {
+      "id": "5cc35cb043bdc140c5e5c955613ea507",
+      "title": "Hugging Face says an AI agent hacked its",
+      "description": "Hugging Face reports an attack on parts of its production infrastructure that was allegedly carried out entirely by an autonomous AI agent system . The attack spanned thousands of actions controlled by an agent framework . During forensic analysis, commercial AI models actually got in the way of the defenders because their safety guardrails couldn't tell exploit data from real attacks . The company says an AI agent hacked its infrastructure, and it used AI to fight back .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/hugging_face_security.png",
+      "fullArticleLink": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-07-20T14:30:51.448511Z"
+    },
+    {
+      "id": "db986eb8d803ba963dd7b260a5e82ab8",
+      "title": "Trump administration reportedly builds a slow-motion ban",
+      "description": "The Trump administration is reportedly weighing measures targeting Chinese AI models . Washington could use soft rules to deter adoption while protecting the market positions of OpenAI, Google, and Anthropic . The U.S. could hold Chinese labs liable for security failures, rather than impose an outright ban on Chinese AI, Washington may use soft pressure to deter use of the models . The decision could be made to protect the market position of Google, Open AI, Google .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/china_vs_usa_race-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-20T14:30:39.709981Z"
+    },
+    {
+      "id": "d213c30d2534c57d8854764eef499cc7",
+      "title": "AI is more likely than humans to form",
+      "description": "AI is more likely than humans to form biases when hiring, study finds . Researchers at Princeton University and the University of Chicago ran AI models through a simulated hiring game . The models were even more likely to stereotype people by demographic group than the human participants in the study . When LLMs rush to generalize in social settings, \u201cthat\u2019s when things tend to go wrong,\u201d says Ryan Liu .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-07-20T14:30:20.853937Z"
+    },
+    {
+      "id": "16a18a2df35ec366377604146d1d8cce",
+      "title": "Deep Learning Approaches for Sleep Apnea Classification",
+      "description": "Recent work has demonstrated that central nervous system effects of sleep apnea events can be detected through electroencephalogram (EEG) signals . We evaluate Vision Transformers and Graph Attention Networks across distinct signal representations . Stratified analysis across patient demographics (age, sex, sleep stages) and sleep stages reveals significant performance variation . Our results demonstrate the feasibility of EEG based automated OSA screening while highlighting essential challenges for clinical deployment .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.15477",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-20T14:30:08.234310Z"
+    },
+    {
+      "id": "51216817a22c144aff73b5897aa9387a",
+      "title": "Looped Latent Attention: Cross-Loop KV Compression for Looped",
+      "description": "Looped Latent Attention (LLA) stores compact K and V latents and reconstructs loop-specific K/V vectors only when attention reads them . The default per-head codec compresses recurrence, while LLA-2D folds heads into one latent for extreme-compression regime . LLA outperforms head-axis MLA, cross-layer sharing, KV quantization and final-loop reuse . This summary highlights key aspects of the latest developments. Industry",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.15456",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-20T14:29:56.743278Z"
+    },
+    {
+      "id": "d59e013b4daad647d8240e6b622119ba",
+      "title": "Relevant and Irrelevant: A Renormalization Group Analysis",
+      "description": "Using the language of renormalization group theory, we treat the Transformer's attention mechanism as a perturbation of the trained MLP residual-stack fixed point and ask whether it constitutes a relevant, marginal, or irrelevant operator . We find that the relevance of attention is not a property of the architecture but of the spectral structure of the data-generating process . In the short correlation regime it suppresses all modes faster than the MLP, with no spectral selectivity .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.15449",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-20T14:29:43.908446Z"
+    },
+    {
+      "id": "698475e1d9b53712f4b4039b0f39e34d",
+      "title": "LLM4EHR: Aligning Clinical Time Series with Medical Event",
+      "description": "LLM4EHR is a new clinical foundation model trained on ICU EHR data . It is pre-trained on mixtures of complex clinical data modalities, useful for various downstream tasks . The new model learns transferable clinical TS embeddings that can be deployed to new cohorts via k-shot adaptation . These findings provide a step towards building more generalisable and performant clinical foundation models . arXiv:2607.15447v1 .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.15447",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-20T14:29:32.011163Z"
+    },
+    {
       "id": "cc5e7a064593ff7c4cc0b09aebfde89e",
       "title": "Nonprofit Current AI is racing to build",
       "description": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all . CEO Ayah Bdeir: \"If AI is truly a transformative technology, if it's going to change every aspect of everyone's life, there has to be a public alternative\" Current AI has launched an open-source AI chatbot at the AI for Good Summit in Geneva . The French government seeded Current AI with $100 million, joined by the Ford Foundation, MacArthur Foundation, DeepMind, and Salesforce .",
