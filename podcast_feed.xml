@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>AI Shots Daily Briefing - July 21, 2026</title>
+      <itunes:author>AI Shots</itunes:author>
+      <description>Here is your daily AI Shots briefing. Today's top stories: Advancing next-gen AI with materials science innovation. KernelBench-Verified: Do LLM-Generated Kernels Actually Beat Py. Google's &quot;Frozen v2&quot; chip reportedly bakes Gemini's architecture. China's AI models have Trump’s AI world. XAI fired engineer who raised alarms about Grok. Amazon borrows $17.5B from banks as AI spending. Google just redesigned the search box. Xiaomi-Robotics-1 shows that more data beats bigger models. Normalized Rewards for Preference Optimization are normalized. BACON: Budgeted Human Calibration for Modeling and Evaluation.</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260721.mp3" length="2237904" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing_20260721</guid>
+      <pubDate>Tue, 21 Jul 2026 23:49:11 +0000</pubDate>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AI Shots Daily Briefing - July 20, 2026</title>
       <itunes:author>AI Shots</itunes:author>
       <description>Here is your daily AI Shots briefing. Today's top stories: Moonshot pauses new Kimi K3 subscriptions after GPU. Hugging Face says an AI agent hacked its. Trump administration reportedly builds a slow-motion ban. AI is more likely than humans to form. Nonprofit Current AI is racing to build. ‘Odyssey’ director Christopher Nolan calls AI an obvious. Can an Apple lawsuit derail OpenAI’s hardware plans?. XAI fired engineer who raised alarms about Grok. Amazon borrows $17.5B from banks as AI spending. Google just redesigned the search box.</description>

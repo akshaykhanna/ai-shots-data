@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260720",
-    "updateDate": "2026-07-20T23:49:12.0Z",
+    "uid": "briefing_20260721",
+    "updateDate": "2026-07-21T23:49:11.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: Moonshot pauses new Kimi K3 subscriptions after GPU, Hugging Face says an AI agent hacked its, Trump administration reportedly builds a slow-motion ban, AI is more likely than humans to form, Nonprofit Current AI is racing to build, \u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious, Can an Apple lawsuit derail OpenAI\u2019s hardware plans?, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260720.mp3"
+    "mainText": "Today's top stories: Advancing next-gen AI with materials science innovation, KernelBench-Verified: Do LLM-Generated Kernels Actually Beat Py, Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture, China's AI models have Trump\u2019s AI world, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Xiaomi-Robotics-1 shows that more data beats bigger models, Normalized Rewards for Preference Optimization are normalized, BACON: Budgeted Human Calibration for Modeling and Evaluation",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260721.mp3"
   }
 ]
