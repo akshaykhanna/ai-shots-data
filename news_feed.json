@@ -1,6 +1,130 @@
 {
   "news": [
     {
+      "id": "5a1af7ba8f4e69c953a72968e3d7fc31",
+      "title": "Chinese open-weight models are cheap. Washington is deciding",
+      "description": "Moonshot AI's Kimi K3 arrived on July 16 as the largest open-weight model yet released . Within days it had reopened a policy argument in Washington that had rekindled a policy debate in Washington . Washington is deciding what that costs, and whether using one will still be straightforward in a year . The question is whether using a Chinese open-weights model will still remain a standard benchmark in the next year .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/1784472098908.jpeg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-21T14:20:11.370185Z"
+    },
+    {
+      "id": "bd4842a7b426a98510a5cbe538eb09e6",
+      "title": "Bristol Myers Squibb buys Nvidia AI system",
+      "description": "Bristol Myers Squibb is purchasing an Nvidia DGX SuperPOD built on the chipmaker\u2019s Vera Rubin architecture to support artificial intelligence use across its drug discovery and development operations . The pharmaceutical company said it will be the first life sciences group to acquire a DGX superPOD based on Vera Rubin . Nvidia introduced the architecture earlier this year and introduced it to the market earlier this [iReporter:]",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/Bristol-Myers-Squibb-buys-Nvidia-AI-system-for-drug-discovery-scaled-e1784603783132.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-21T14:20:00.252173Z"
+    },
+    {
+      "id": "1b986bb6aa41072a7d1944b0273c5961",
+      "title": "The AI Slot Machine Effect: Why Generative Feeds",
+      "description": "The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus . Knowledge workers in 2026 are running into this more and more . It makes sense once you look at the impact of generative feeders, such as the AI slot machine effect, says AI News editor John Defterios . He says the problem is that the task you started with has drifted off to the side somewhere .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/4f96c4c1-5640-4aee-9238-9c5e88320dc7-2400.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-21T14:19:48.722115Z"
+    },
+    {
+      "id": "d0c22dfea7d3e2873f29707a763611bb",
+      "title": "Xiaomi-Robotics-1 shows that more data beats bigger models",
+      "description": "Xiaomi trained Xiaomi-Robotics-1 on more than 100,000 hours of motion data collected by people using camera-equipped grippers rather than robots . Adding data improved performance far more than increasing model size . The gains haven't plateaued, though absolute success rates remain low, with success rates still low . More data beats bigger models when training robots to move when training them to move, researchers say . The results show that more data beats larger models when it comes to training robots .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/xiaomi-robotics-1-01-hero.jpg",
+      "fullArticleLink": "https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-07-21T14:19:33.545974Z"
+    },
+    {
+      "id": "6d5a86555da5e5298d2503e772ec7a79",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "description": "Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and higher reliability . Manufacturing a semiconductor chip today requires thousands of tightly controlled process steps, with almost no room for error . Advanced materials exist to solve performance challenges as AI raises the bar, these challenges are becoming more demanding . Increasing computing density is transforming data center design, driving the need for more sophisticated thermal management, higher-voltage power architecture, increased data storage, and faster, more reliable data transmission .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Syensqo-shutterstock_2491787317.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-07-21T14:19:14.073434Z"
+    },
+    {
+      "id": "1fb2eb9a94ba3a6b42630f25bf1cfac1",
+      "title": "KernelBench-Verified: Do LLM-Generated Kernels Actually Beat Py",
+      "description": "Recent large language models can generate custom CUDA kernels that appear to outperform PyTorch on benchmarks such as KernelBench . The best-performing model (GPT-5.5) achieves a 0.88x geometric mean speedup, significantly lower than the 1.43x speedup observed under the standard evaluation protocol . 28% of GPU kernels generated by the best model increase peak GPU memory usage on the memory front .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.16241",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-07-21T14:19:00.706396Z"
+    },
+    {
+      "id": "fc3517380a85e2fd5273cbf3b556fa6b",
+      "title": "Normalized Rewards for Preference Optimization are normalized",
+      "description": "Direct Alignment Algorithms (DAAs) have been observed to over-optimize their implicit reward model and decrease the likelihood of preferred responses . We find that a significant portion of the likelihood changes are due to a small set of outlier tokens . We apply the proposed regularization to reference-based (DPO) and reference-free (SimPO) methods and find (1) improved trade-offs between generation quality and general benchmark capability and (2) improvements in reward modeling across datasets .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.16240",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-21T14:18:47.230171Z"
+    },
+    {
+      "id": "eaf3ca5d9f33ae1530aa9f801d28ca71",
+      "title": "BACON: Budgeted Human Calibration for Modeling and Evaluation",
+      "description": "AI judges offer a scalable, low-cost alternative to human evaluation, but their outputs can be biased relative to human preferences . We propose BACON, a four-stage pipeline that combines budgeted human calibration with multiple AI-judge outputs to produce more accurate annotations . The pipeline constructs full-coverage auxiliary features for every item . It then collects human labels for a small sampled subset and trains a cross-fitted outcome model to generate calibrated item-level surrogate predictions .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.16239",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-21T14:18:34.702479Z"
+    },
+    {
+      "id": "86c89c4070bb58d6a5a34419f4c7c6ee",
+      "title": "OpenMHC: Accelerating the Science of Wearable Foundation Models",
+      "description": "OpenMyHeartCounts (OpenMHC) is the largest and most comprehensive open-access wearable health dataset to date . OpenMHC, derived from over a decade of data collected through the My Heart Counts study app, includes >60 million hours of wearable data across 19 sensor channels and up to 169 linked variables . By open-sourcing data, code, and model weights at this unprecedented scale, we aim to democratize wearable health AI research .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.16235",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-21T14:18:22.666631Z"
+    },
+    {
+      "id": "bf2ef62730df1952eefea68baa717fe5",
+      "title": "Transformer with Contrastive Multi-Task Learning for Breast Cancer",
+      "description": "Integrating heterogeneous genomic and clinical modalities for joint cancer subtype classification and survival prediction remains a key challenge in precision oncology . Existing approaches suffer from three limitations: (1) they treat each modality as a monolithic feature vector, precluding fine-grained token-level interactions across modalities . (2) cross-modal fusion is typically performed through linear weighting or late averaging rather than structured token exchange . (3) survival and classification objectives are optimized independently, missing a joint regularization signal .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.16233",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-21T14:18:10.454322Z"
+    },
+    {
       "id": "cc7e03f547e8615f23d254b3b6cb662a",
       "title": "Nvidia's grip on AI chips weakens as Microsoft",
       "description": "Anthropic is also testing AMD hardware, putting more pressure on Nvidia's pricing power . Microsoft is expanding its AI infrastructure with AMD's new Helios platform, which is set to challenge Nvidia's AI systems in the second half of 2026 . Anthropic may follow, putting pressure on the price of AI chips from Nvidia and Anthropic . The company is expanding on its cloud-based cloud computing platform with its new AI software .",
