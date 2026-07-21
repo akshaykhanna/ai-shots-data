@@ -1,6 +1,130 @@
 {
   "news": [
     {
+      "id": "cc7e03f547e8615f23d254b3b6cb662a",
+      "title": "Nvidia's grip on AI chips weakens as Microsoft",
+      "description": "Anthropic is also testing AMD hardware, putting more pressure on Nvidia's pricing power . Microsoft is expanding its AI infrastructure with AMD's new Helios platform, which is set to challenge Nvidia's AI systems in the second half of 2026 . Anthropic may follow, putting pressure on the price of AI chips from Nvidia and Anthropic . The company is expanding on its cloud-based cloud computing platform with its new AI software .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/amd_logo_wall_blue.png",
+      "fullArticleLink": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-21T03:37:48.870929Z"
+    },
+    {
+      "id": "36b8813db81a971e30f5f102ff6bb812",
+      "title": "District 9 director Neill Blomkamp releases first short",
+      "description": "\"District 9\" director Neill Blomkamp releases first short film made entirely with AI video generation . \"Nightborne\" is a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model . Director directed frame by frame through text prompts and founded a new AI film studio, Barley Studios, to produce a full-length feature next . The film is the first of its kind .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/NIGHTBORNE-\u2014-A-Neill-Blomkamp-Sci-Fi-Film.-Fully-AI-4K-10-40-screenshot-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-21T03:37:36.676106Z"
+    },
+    {
+      "id": "aa2345813d33fc9356e8759c4476ae70",
+      "title": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture",
+      "description": "Google is developing \"Frozen v2,\" a server chip that bakes Gemini architecture directly into hardware . According to internal sources, it could be 6 to 10 times more efficient than current TPUs . Scheduled for 2028, the chip would drastically cut Google's AI inference costs . It could give the company a price advantage over OpenAI and Anthropic, sources say . The chip is scheduled to be released in 2028 .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-2.png",
+      "fullArticleLink": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-21T03:37:24.796903Z"
+    },
+    {
+      "id": "61d13d1985062617ab71fb35ad23d2cb",
+      "title": "China's AI models have Trump\u2019s AI world",
+      "description": "Free AI models from China have been seen as a wake-up call for President Donald Trump . Kimi and other Chinese models like it pose a real problem for Trump . They're dividing the top AI strategists in his orbit into factions . Every time a new smart, free model from China like Kimi gets released, US companies see less reason to fork out money to access models from Anthropic or OpenAI .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2194586709.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-21T03:37:06.666179Z"
+    },
+    {
+      "id": "10a3cf62b19960016db775b408f0a463",
+      "title": "Kolmogorov--Arnold Networks for Small Language Models . Kolm",
+      "description": "Kolmogorov--Arnold Networks replace fixed node activations with learned one-dimensional edge functions . Pruning the lowest-activity 20--25\\% causes negligible loss increase, although structured MLP neuron pruning tolerates comparable sparsity . The audit replicates on BabyLM, but grid-size sweeps show that near-total fPCA compression and high closed-form-fit coverage are properties of the low-capacity grid-2 basis . This summary highlights key aspects of",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.15525",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-21T03:36:53.186897Z"
+    },
+    {
+      "id": "edb93876e73ddbb49d8722eda67df53c",
+      "title": "Recursive Harness Self-Improvement is a form of self-improvement",
+      "description": "Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models . Recursive Harness Self-Improvement (RHI) represents the harness as a prompt-level specification of the agent loop and iteratively refines it using pairwise feedback over its own revision history . We show that these gains arise primarily from improved task-specific context management through more effective inter-agent information flow rather than longer reasoning traces .",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.15524",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-07-21T03:36:40.882056Z"
+    },
+    {
+      "id": "2c3933f54fdea58049423e79dcacf359",
+      "title": "Cache-Aware Prompt Compression: A Two-Tier Cost Model",
+      "description": "Cache-Aware Prompt Compression (CAPC) pairs query-agnostic compression with explicit cache_control plus a tier-preserving ratio bound that prevents over-compression from pushing the cached prefix into the hot tier . CAPC is the cheapest strategy in 16/16 configurations on LongBench-v2, with mean savings of 49% over cache-only, 64% over query-aware compression, and 90% over vanilla . This summary highlights key aspects of",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.15516",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-21T03:36:27.874022Z"
+    },
+    {
+      "id": "bfbb4ebade235c18d9ed78fb0728f0f4",
+      "title": "Inpainting Insights: Elevating Visual XAI with Photorealistic Pert",
+      "description": "The increasing complexity of machine learning models has made their behavior progressively harder to interpret . Among many methods proposed, perturbation-based approaches play a major role . We achieve photorealistic perturbed samples that align better with the original data distribution and enhance explanation quality . We adjust LIME, a widely used perturbated method, to demonstrate how generative inpainting can improve perturbations-based explanations for images .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.15482",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-21T03:36:17.835701Z"
+    },
+    {
+      "id": "5a614545bb23c630b5e6d10d5696af3f",
+      "title": "Who Became Financially Vulnerable After COVID-19? A Population-Level",
+      "description": "The cost of healthcare remains a concern in the United States and may have been influenced by disruptions associated with the COVID-19 pandemic . Financial vulnerability was strongly associated with poverty status, insurance coverage, and prescription drug spending . Subgroup analyses indicated persistent disparities across population groups, with some evidence of increased burden among vulnerable populations in 2021 . The results may support future population health surveillance, risk stratification, and healthcare policy research aimed at reducing financial barriers to care .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.15446",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-21T03:36:06.345344Z"
+    },
+    {
+      "id": "8c567becca10d9f9ea3fccc43b0576b2",
+      "title": "From hyperplanes to hyperellipsoids: characterizing the inherent interpretability",
+      "description": "A side by side comparison reveals that a single qubit mixed state model for binary classification is just the ``ellipsoid version\" of standard linear model classification . This short characterization offers an accessible route to quantum machine learning (ML) ideas for readers who have zero background in quantum and are only familiar with linear classification in ML . We encourage instructors to utilize this piece to smoothly introduce quantum ML ideas into the undergraduate ML classroom .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.15433",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-21T03:35:55.900857Z"
+    },
+    {
       "id": "272130dc4b4c6c7e592dd1a927d3e544",
       "title": "Kimi K3 open-weight model: China\u2019s biggest",
       "description": "Moonshot AI's Kimi K3 open-weight model has been read almost entirely through its parameter count since it&#160;launchedon July 16 . At 2.8 trillion parameters, it is the largest open-weights model released to date . Model sizes are usually grouped into rough brackets, and 2 .8 trillion rounds into what the industry calls the 3T class . A tier no. no.",
