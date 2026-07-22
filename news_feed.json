@@ -1,6 +1,134 @@
 {
   "news": [
     {
+      "id": "c0f33c27d0f9653b4e347317a6e3ba43",
+      "title": "Microsoft and Mistral strike multi-billion-dollar deal to build",
+      "description": "Microsoft and Mistral are expanding their strategic partnership with a multi-billion-dollar deal to build out AI infrastructure in Europe . Mistral is adding thousands of Nvidia Vera Rubin GPUs, and Microsoft will tap that capacity for its cloud and AI services . The offering targets regulated industries like finance, healthcare, and manufacturing . Microsoft President Brad Smith said Europe should be able to use powerful AI without giving up control over its data .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Mistral-Microsoft-Logos.jpg",
+      "fullArticleLink": "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-07-22T03:37:28.577090Z"
+    },
+    {
+      "id": "542acfa4250f0a4d147c2f4afff46a96",
+      "title": "Google ships three new Gemini Flash models but",
+      "description": "Google ships three new Gemini Flash models in the Gemini series, including the more efficient 3.6 Flash, which uses up to 65 percent fewer tokens . But the anticipated flagship, Gemini 3.5 Pro, is still missing, while OpenAI, Anthropic, and Chinese labs are already competing at the frontier level . Google is shipping three new Flash models, including a cybersecurity model available only to governments and select partners .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
+      "fullArticleLink": "https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-22T03:37:16.204416Z"
+    },
+    {
+      "id": "e3f5fd84ce289fcc1fa95ddf3a785352",
+      "title": "Claude Cowork learns new skills through screen recordings",
+      "description": "Anthropic has added a new feature to its AI assistant Claude Cowork that lets users record custom skills in the desktop app . Users record their screen while completing a task and narrate what they're doing via voice . The feature is available to users on the Pro, Max, and Team plans . OpenAI offers a similar feature in its Codex tool, which can also record workflows and replay them as reusable skills .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_medicine.png",
+      "fullArticleLink": "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-22T03:37:03.033730Z"
+    },
+    {
+      "id": "db0205985e6a3474188f4a9221850c07",
+      "title": "An AI system helped Pakistani judges clear massive",
+      "description": "A field experiment with 1,559 Pakistani judges found that the AI assistant JudgeGPT boosted case resolution by 6.3 percent . The researchers estimate a return of up to $38.50 per dollar invested . Only judges who got hands-on training saw gains . Without it, the effect of the AI system mostly disappeared . The system helped Pakistani judges clear massive backlogs at $38 .50 return per dollar .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/judge_pakistan_study-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-22T03:36:51.749158Z"
+    },
+    {
+      "id": "be0d6b8ffae21cadba8db7ec293fcfd8",
+      "title": "High-accuracy Low-Bit KV-Cache Quantization via Local Distribution Restoration",
+      "description": "Long-context large language model inference relies on the KV cache to avoid redundant attention computation . Low-bit KV-cache quantization reduces accuracy from 84.2% to 47.8% on Llama-3.1-8B under RULER . root cause is structured local misranking, where the distribution of logits in top-K region is drifted . We propose local distribution restoration, a new technique that detects steps with high local distribution risk from quantized-logit features .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.16248",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-22T03:36:35.632604Z"
+    },
+    {
+      "id": "576687dab0631e0e3aed22436d90d78e",
+      "title": "Learning Structural Manipulability in Gate-Level Netlists Using Graph",
+      "description": "Gate-level netlists exhibit intrinsic structural properties that influence signal propagation independently of functional simulation . We define a topology-driven structural manipulability score that characterizes node-level structural flexibility using path participation, k-core embedding, symmetry, and centrality . As an illustrative case study, analysis of Trojan-injected circuits using TrustHub templates reveals statistically distinguishable structural patterns, indicating that topology based scoring provides complementary structural insight .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.16245",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-22T03:36:24.575945Z"
+    },
+    {
+      "id": "c1bbfd020ee6b16d1a1245ebbde9c065",
+      "title": "CIGPO: Contextual Information-Gain Policy Optimization for Multi-Turn",
+      "description": "Training multi-turn evidence-reading agents with outcome-only reinforcement learning is unstable because intermediate turns receive little direct credit . In HotpotQA experiments with Qwen2.5-3B-Instruct, GRPO initially improves (standard F1 0.430) but subsequently collapses to 100% format-violating output . We propose a variance-injection strategy by assigning per-turn rewards to intermediate evidence-readers . This summary highlights key aspects of the latest developments. Industry",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.16244",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-22T03:36:12.363560Z"
+    },
+    {
+      "id": "d0f067d9d9317f8673411c42f0a29add",
+      "title": "RobustMAD: Evaluating Real-World Robustness of Multimod",
+      "description": "Multimodal industrial anomaly inspection assistants are a critical component of next-generation smart factories, enabling interactive vision-language-based querying . RobustMAD is the first deployment-motivated benchmark, designed to comprehensively evaluate model robustness through diverse open-ended queries spanning object understanding, anomaly detection, unanswerable problems, and visual quality degradations . Top-performing MSLMs exhibit promising capabilities, surprisingly outperforming even the larger GPT-5 Nano . This",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.16243",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-07-22T03:35:59.428257Z"
+    },
+    {
+      "id": "301d0327b8d940499bcdc8ae8d9b6f50",
+      "title": "TRACE: Trajectory-Based Safety Patch Learning for LLM Post-Training",
+      "description": "Fine-Tuning-as-a-Service platforms let users train large language models on customized tasks . Service providers need to recover models' safety without re-running full alignment or destroying utility gained from customized tasks, authors say . They propose TRACE, a trajectory-based safety patch learning framework that simulates harmful tuning trajectories to generate progressively corrupted states, and optimizes a plug-in patch to recover safety .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.16242",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-22T03:35:47.208743Z"
+    },
+    {
+      "id": "c8fbb0d88ed6a335d4086b1471fcc80e",
+      "title": "From Weights to Words: Expressing and Editing Preference",
+      "description": "The growing use of statistical learning algorithms to infer human preferences from high-dimensional choice data runs up against a fundamental challenge . We introduce a method that takes a dataset of choice problems as input and automatically discovers a collection of domain-relevant preference dimensions . These dimensions address both under-determination and opacity: they can be applied to concentrate attribution on a small set of meaningful factors, and they can externalize the model's inferences in natural language so that users can inspect and edit them in real time .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.16232",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-22T03:35:34.303051Z"
+    },
+    {
       "id": "5a1af7ba8f4e69c953a72968e3d7fc31",
       "title": "Chinese open-weight models are cheap. Washington is deciding",
       "description": "Moonshot AI's Kimi K3 arrived on July 16 as the largest open-weight model yet released . Within days it had reopened a policy argument in Washington that had rekindled a policy debate in Washington . Washington is deciding what that costs, and whether using one will still be straightforward in a year . The question is whether using a Chinese open-weights model will still remain a standard benchmark in the next year .",
