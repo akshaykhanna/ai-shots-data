@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>AI Shots Daily Briefing - July 22, 2026</title>
+      <itunes:author>AI Shots</itunes:author>
+      <description>Here is your daily AI Shots briefing. Today's top stories: Google’s Gemini 3.6 Flash targets enterprise agent token. OpenAI claims responsibility for the Hugging Face hack. Samsung deepens its AI empire with a potential. A Better Start for Language Models: Domain-Conditional Position. On the Limits of Support-Preserving Alignment and Bounded. AI-Driven Crash Simulation Surrogates: A Comparative Study. Microsoft and Mistral strike multi-billion-dollar deal to build. Google ships three new Gemini Flash models but. Claude Cowork learns new skills through screen recordings. TRACE: Trajectory-Based Safety Patch Learning for LLM Post-Training.</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260722.mp3" length="2152800" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing_20260722</guid>
+      <pubDate>Wed, 22 Jul 2026 23:56:39 +0000</pubDate>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AI Shots Daily Briefing - July 21, 2026</title>
       <itunes:author>AI Shots</itunes:author>
       <description>Here is your daily AI Shots briefing. Today's top stories: Advancing next-gen AI with materials science innovation. KernelBench-Verified: Do LLM-Generated Kernels Actually Beat Py. Google's &quot;Frozen v2&quot; chip reportedly bakes Gemini's architecture. China's AI models have Trump’s AI world. XAI fired engineer who raised alarms about Grok. Amazon borrows $17.5B from banks as AI spending. Google just redesigned the search box. Xiaomi-Robotics-1 shows that more data beats bigger models. Normalized Rewards for Preference Optimization are normalized. BACON: Budgeted Human Calibration for Modeling and Evaluation.</description>

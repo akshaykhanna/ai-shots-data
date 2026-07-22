@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260721",
-    "updateDate": "2026-07-21T23:49:11.0Z",
+    "uid": "briefing_20260722",
+    "updateDate": "2026-07-22T23:56:39.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: Advancing next-gen AI with materials science innovation, KernelBench-Verified: Do LLM-Generated Kernels Actually Beat Py, Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture, China's AI models have Trump\u2019s AI world, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Xiaomi-Robotics-1 shows that more data beats bigger models, Normalized Rewards for Preference Optimization are normalized, BACON: Budgeted Human Calibration for Modeling and Evaluation",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260721.mp3"
+    "mainText": "Today's top stories: Google\u2019s Gemini 3.6 Flash targets enterprise agent token, OpenAI claims responsibility for the Hugging Face hack, Samsung deepens its AI empire with a potential, A Better Start for Language Models: Domain-Conditional Position, On the Limits of Support-Preserving Alignment and Bounded, AI-Driven Crash Simulation Surrogates: A Comparative Study, Microsoft and Mistral strike multi-billion-dollar deal to build, Google ships three new Gemini Flash models but, Claude Cowork learns new skills through screen recordings, TRACE: Trajectory-Based Safety Patch Learning for LLM Post-Training",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260722.mp3"
   }
 ]
