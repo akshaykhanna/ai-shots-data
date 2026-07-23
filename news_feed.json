@@ -1,6 +1,132 @@
 {
   "news": [
     {
+      "id": "25c0421c684d3be785f27c407dd2f16a",
+      "title": "AMD to invest up to $5 billion",
+      "description": "Anthropic will deploy up to two gigawatts of capacity using AMD\u2019s Instinct MI450-series accelerators . The first gigawatt will be deployed in the first half of 2027 . Anthropic's investment will cover tens of billions of dollars\u2019 worth of AI systems . AMD will invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billion of dollars' worth of systems .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/AMD-to-invest-up-to-5-billion-in-Anthropic-under-AI-infrastructure-deal-scaled-e1784783051102.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-23T14:31:25.313237Z"
+    },
+    {
+      "id": "862d19e6feb7626f6b220c33acef3ee7",
+      "title": "Nvidia bets physical AI can solve healthcare robotics\u2019",
+      "description": "Nvidia's new Medical Physics Simulation framework treats healthcare robots as physical AI systems that need embodied experience to learn, not just code . Physical AI is the term Nvidia and much of the robotics industry now use to describe machines that have to learn how the world behaves through contact, force, and consequence, rather than through force or consequence . Nvidia bets physical AI can solve healthcare robotics' data problem, with a new framework for medical robots .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/nvidia-physical-ai-healthcare-robotics-medical-surgery-simulation-robot-open-source-isaac.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-23T14:31:14.514267Z"
+    },
+    {
+      "id": "4af95f55b0f186b753c1d3f9f42fd3ca",
+      "title": "Google CEO Pichai says Gemini's next leap depends",
+      "description": "CEO Sundar Pichai says Google needs a larger base model for its next leap in AI and has kicked off an ambitious Gemini 4 training run . Google Cloud grew 82 percent in the second quarter . Alphabet has raised its 2026 investment forecast to as much as $205 billion, says demand continues to outpace spending . Alphabet raises its investment forecast for 2026 to up to $200 billion, with demand continuing to rise .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
+      "fullArticleLink": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-07-23T14:31:01.184459Z"
+    },
+    {
+      "id": "7f188a0c6b4b89a7e96235f55127dc92",
+      "title": "How AI helps scientists design the next generation",
+      "description": "Machine learning models are helping to compress decade-long timelines and cracking problems that were previously unsolvable . McKinsey estimates that generative AI, combined with other computational tools, could cut drug discovery timelines by as much as 50% . AstraZeneca\u2019s approach follows a build-measure-learn loop. AI generates or prioritizes candidate molecules computationally, predicting which designs are most likely to succeed. Scientists then focus lab resources only on the top-ranked candidates .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/AI_in_Biologics_Draft_4_no_Captions.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-23T14:30:41.672152Z"
+    },
+    {
+      "id": "20fad30587255f5925eb7f15b8622394",
+      "title": "Reproducing Recurrent Transformers: The CoT former Transformers",
+      "description": "The CoTFormer architecture formalizes Chain-of-Thought as a form of recurrent latent computation . It preserves intermediate states as attendable representations to mimic explicit reasoning traces . arXiv:2607.19405v1 Announcement: The architecture and its structural variants are evaluated across perplexity and compute efficiency metrics . We extend evaluation to controlled algorithmic settings to determine whether this recurrent framework improves generalisation on inductive reasoning tasks .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.19405",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-23T14:30:30.474913Z"
+    },
+    {
+      "id": "7f829d19bd89201ca0c65721efdc9c47",
+      "title": "Predictive single cell foundation model for gene regulation",
+      "description": "Tabula is a privacy-preserving FM designed with federated learning (FL) that explicitly models the tabular structure of single-cell data . Tabula nominates rejuvenation factors through age- and identity score-guided in silico prioritization, outperforming conventional approaches . It also reveals combinatorial regulatory logic across diverse biological systems, including hematopoiesis, pancreatic endogenesis, neurogenesis, and cardiogenesis . This summary highlights key aspects of",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.19400",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-23T14:30:18.943996Z"
+    },
+    {
+      "id": "a6909e56ab960b24ec19c8895240c02d",
+      "title": "Predicting Groundwater Arsenic Concentrations Using Graph Neural Networks",
+      "description": "Arsenic contamination in groundwater presents a longstanding public health crisis in the United States . Accurate and spatially informed prediction of arsenic concentration is vital to identify high-risk areas and focus mitigation efforts . There is a lack of generalizable models for representing continuous variation in arsenic concentrations across regions . We evaluate a diverse suite of machine learning models, including tree-based ensemble approaches, multilayer perceptrons, and graph neural networks .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.19392",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-23T14:30:07.188121Z"
+    },
+    {
+      "id": "a4847755d23e078630973ded4c273150",
+      "title": "LAARA: Layer-Aware Adaptive Rank Allocation for Parameter-E",
+      "description": "LAARA is a search-free framework that dynamically allocates ranks using lightweight diagonal Fisher estimates computed during training . LAARA combines projection-wise normalization, logarithmic compression, blended adapter importance estimation, and a vote-to-change dampening mechanism to produce stable and efficient rank adaptation . The code is publicly available at: https://anonymous.4open.science/r/LAARA-D305 . This summary highlights key aspects of the latest developments. Industry analysts",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.19391",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-23T14:29:55.926480Z"
+    },
+    {
+      "id": "51fe6f4bc7ea08efc6b1b253ebcf4caa",
+      "title": "Building Fast, Evaluating Slow: Pipeline Choices Dominate Autointerpretability",
+      "description": "Cross-paper comparison of sparse autoencoder (SAE) interpretability often relies on autointerpretability scores . For these comparisons to be meaningful, scores must reflect stable properties of the features rather than confounding aspects of the evaluation pipeline . We find that R1) methodological variance collectively exceeds architectural variance across all metrics and tested models . R2: Each metric exhibits a distinct instability profile, with detection being the most stable and fuzzing unreliable .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.19386",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-23T14:29:44.181971Z"
+    },
+    {
+      "id": "6960f29396fd04fa1376c282dfd91caa",
+      "title": "STN-TGAT: Top-K Portfolio Construction via Prior-Guided",
+      "description": "Soft-Threshold NMI-prior Transformer Graph Attention Network (STN-TGAT) combines temporal dynamics and cross-sectional dependencies . The portfolio formation process incorporates practical considerations, including Top-5 selection within the Top-50 $S\\&P$ 500 constituents, explicit weight allocation, and transaction cost adjustment, thereby aligning the evaluation with real-world trading conditions . Empirical results show that STN- TGAT outperforms benchmark models from predictive accuracy and investment profitability measured by portfolio returns .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.19385",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-23T14:29:31.461437Z"
+    },
+    {
       "id": "386fd96fbcf3a8e66ff4016d2190f3e6",
       "title": "OpenAI's \"Project Camellia\" in Georgia secures a massive",
       "description": "OpenAI is planning a data center in Georgia called \"Project Camellia\" with a 3.2-gigawatt power deal from Georgia Power . The company pledged $80 million for the local community and $71 million in Codex credits for students to counter growing opposition to US data centers that many residents see as resource-hungry but job-poor . Many residents see data centers as resource hungry but job poor .",
