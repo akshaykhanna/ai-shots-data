@@ -1,9 +1,9 @@
 [
   {
-    "uid": "briefing_20260722",
-    "updateDate": "2026-07-22T23:56:39.0Z",
+    "uid": "briefing_20260723",
+    "updateDate": "2026-07-23T23:54:11.0Z",
     "titleText": "AI Shots Daily Briefing",
-    "mainText": "Today's top stories: Google\u2019s Gemini 3.6 Flash targets enterprise agent token, OpenAI claims responsibility for the Hugging Face hack, Samsung deepens its AI empire with a potential, A Better Start for Language Models: Domain-Conditional Position, On the Limits of Support-Preserving Alignment and Bounded, AI-Driven Crash Simulation Surrogates: A Comparative Study, Microsoft and Mistral strike multi-billion-dollar deal to build, Google ships three new Gemini Flash models but, Claude Cowork learns new skills through screen recordings, TRACE: Trajectory-Based Safety Patch Learning for LLM Post-Training",
-    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260722.mp3"
+    "mainText": "Today's top stories: Nvidia bets physical AI can solve healthcare robotics\u2019, Google CEO Pichai says Gemini's next leap depends, How AI helps scientists design the next generation, Cisco bets small open cybersecurity models can outperform, Every frontier AI model tested by Britain's safety, XAI fired engineer who raised alarms about Grok, Amazon borrows $17.5B from banks as AI spending, Google just redesigned the search box, Reproducing Recurrent Transformers: The CoT former Transformers, STN-TGAT: Top-K Portfolio Construction via Prior-Guided",
+    "streamUrl": "https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260723.mp3"
   }
 ]

@@ -21,6 +21,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>AI Shots Daily Briefing - July 23, 2026</title>
+      <itunes:author>AI Shots</itunes:author>
+      <description>Here is your daily AI Shots briefing. Today's top stories: Nvidia bets physical AI can solve healthcare robotics’. Google CEO Pichai says Gemini's next leap depends. How AI helps scientists design the next generation. Cisco bets small open cybersecurity models can outperform. Every frontier AI model tested by Britain's safety. XAI fired engineer who raised alarms about Grok. Amazon borrows $17.5B from banks as AI spending. Google just redesigned the search box. Reproducing Recurrent Transformers: The CoT former Transformers. STN-TGAT: Top-K Portfolio Construction via Prior-Guided.</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/akshaykhanna/ai-shots-data@main/audio-news/briefing_20260723.mp3" length="2301408" type="audio/mpeg"/>
+      <guid isPermaLink="false">briefing_20260723</guid>
+      <pubDate>Thu, 23 Jul 2026 23:54:11 +0000</pubDate>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>AI Shots Daily Briefing - July 22, 2026</title>
       <itunes:author>AI Shots</itunes:author>
       <description>Here is your daily AI Shots briefing. Today's top stories: Google’s Gemini 3.6 Flash targets enterprise agent token. OpenAI claims responsibility for the Hugging Face hack. Samsung deepens its AI empire with a potential. A Better Start for Language Models: Domain-Conditional Position. On the Limits of Support-Preserving Alignment and Bounded. AI-Driven Crash Simulation Surrogates: A Comparative Study. Microsoft and Mistral strike multi-billion-dollar deal to build. Google ships three new Gemini Flash models but. Claude Cowork learns new skills through screen recordings. TRACE: Trajectory-Based Safety Patch Learning for LLM Post-Training.</description>
