@@ -1,6 +1,250 @@
 {
   "news": [
     {
+      "id": "7636ac8433e3e8e2a0aa46f9e96f015a",
+      "title": "OpenAI Presence sells enterprise AI agents with engineers",
+      "description": "OpenAI Presence is a managed product delivered through a limited general availability programme . Deployments are led by OpenAI's own Forward Deployed Engineers . The company states plainly that it is not yet available as a self-serve product . Deployment is led by the company's own forward deployed engineers . OpenAI: The new way to buy enterprise AI agents from OpenAI does not involve buying anything online . Read more from the OpenAI site here: http://www.openAI.com/openAIpresence/.",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2024/07/openai-microsoft-apple-board-ai-artificial-intelligence-eu-european-union-regulation-scrutiny.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-24T14:15:23.891534Z"
+    },
+    {
+      "id": "b6f6c96ce711ab6daeb18da8c370c7c1",
+      "title": "Kimi K3 trails frontier US models",
+      "description": "Kimi K3 scored 32 percent on ExploitBench, compared with 76 percent for leading U.S. models . Its safeguards failed to block exploit development or simulated attacks . The gap between its strong general benchmark scores and weaker cyber performance also fits allegations that Moonshot AI distilled Anthropic's models . The distillation may explain why, and may explain the gap between general benchmark and cyber performance, as well as the distillation of Anthropic models .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/aisi_logo_pattern.png",
+      "fullArticleLink": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-24T14:15:10.373154Z"
+    },
+    {
+      "id": "1b8dc240ad4a2ebd81944fa2ca3f9fc0",
+      "title": "Claude's voice mode now runs on Anthropic's most",
+      "description": "Claude is currently the only AI assistant that can compose and send emails directly by voice . Voice conversations now run on the more powerful Opus and Sonnet models with access to Gmail, Google Calendar, and Slack . Claude's voice mode now runs on Anthropic&#039;s most capable models across all platforms . Google and OpenAI have an edge over OpenAI and Google, whose voice output still sounds more natural .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo.png",
+      "fullArticleLink": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-24T14:14:59.587680Z"
+    },
+    {
+      "id": "ac82ff3dcf1e1e243be4da8defa3d005",
+      "title": "German AI consortium releases Soofi S, an open",
+      "description": "The German consortium behind the AI model Soofi S has acknowledged in version 3.0 of its tech report that test questions from the science benchmark GPQA accidentally ended up in the training data . The community caught the error by examining the publicly available data. The team removed the benchmark from its evaluation and recalculated all results . The German AI consortium releases SoofiS, an open 30B model that tops benchmarks in both English and German .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/soofi-s-german-llm-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-24T14:14:48.556083Z"
+    },
+    {
+      "id": "d96dd6588d36fc1da9c5da0daf0830ad",
+      "title": "Joint Utilization of Geospatial and census proxies",
+      "description": "Monitoring poverty and food security indicators is imperative for addressing socioeconomic challenges in developing nations . A limitation is mismatches in scale between data sources . Study introduces a deep learning framework, JuGAAD, using Indian census and survey data from 2001 and 2011 as a case study . Results confirm the methodology predicts socioeconomic indicators at fine scales with strong accuracy, according to the authors of the arXiv:2607.20559v1 .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20559",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-24T14:14:35.055566Z"
+    },
+    {
+      "id": "ddc01d5ba8996794cacb9ed83438762e",
+      "title": "StabilityBench: Benchmarking Instability in LLMs . StabilityBench",
+      "description": "AI Assistants are increasingly deployed in high-stakes settings, such as healthcare or government services . Yet their real-world behavior remains poorly understood due to strong context dependence . We propose StabilityBench, a principled, general and model-agnostic benchmark operator that transforms single-turn benchmark queries into multi-turn interaction histories . We apply StabilityBench to four benchmarks spanning mathematical reasoning, health question-answering and safety, and evaluate nine large language models .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20558",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-24T14:14:24.276782Z"
+    },
+    {
+      "id": "7494970b6c5aed146efca3f77490920c",
+      "title": "Monkey King Bang: A Unified Scientific Multimodal Foundation",
+      "description": "Existing systems are either specialised for individual domains or unify scientific data mainly through text tokenisation and prompt-based interfaces . We introduce MKB, a unified scientific multimodal model for both understanding and generation, built around a shared Transformer backbone and modality-tailored encoders, adapters, and decoders . MKB covers six scientific branches, including DNA, RNA, proteins, small molecules, earth science, and medical images .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20557",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-24T14:14:12.442483Z"
+    },
+    {
+      "id": "39f00b3045a9526fd03c70b5ea34ab4a",
+      "title": "Double-Scoring: Reliable Extraction of Strong Lottery Tickets",
+      "description": "A stronger version asserts that sufficiently overparameterized random networks contain subnetworks that are already accurate before any weight training . We revisit edge-popup, a frozen-weight score-training method for extracting strong tickets . We introduce double-scoring, an augmented score-space parameterization that replaces a layerwise sparsity search with optimization over enlarged score tensors . We show that the resulting method can be interpreted as edge popup on a zero-augmented network .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20555",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-24T14:13:59.672811Z"
+    },
+    {
+      "id": "57beb1f2033254bbfe2c66d136395f6b",
+      "title": "Thermodynamic Weight Decay: Exploring Grokking Acceleration via Attention",
+      "description": "CvAdamW monitors Cv online and injects thermal energy by dynamically scaling weight decay when a phase transition is detected . The cold-start variant reduces mean grokking latency by 257 epochs (6.0%; median 166 epochs; Wilcoxon p=0.049, Cohen's d =0.68, bootstrap 95% CI [53,489]), improving 8 of 10 seeds . The results indicate that neural networks expose detectable precursors of impending generalization transitions .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20552",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-24T14:13:47.354786Z"
+    },
+    {
+      "id": "32160f9067f9bef794dd7f9e5f60b8b6",
+      "title": "Beyond SBDD: Geometric Deep Learning in Polypharmacology",
+      "description": "The traditional \"one drug, one target\" paradigm of structure-based drug design (SBDD) frequently proves inadequate for treating multifactorial diseases such as cancer and neurodegenerative disorders . The rational design of ligands capable of simultaneously satisfying the geometric constraints imposed by multiple targets remains a major computational bottleneck . This review positions geometric deep learning (GDL) as a powerful integrative approach to overcome these limitations .",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20550",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-07-24T14:13:36.198678Z"
+    },
+    {
+      "id": "a5940136f25b406c71b508055d91caa4",
+      "title": "SOAP, Muon, and Beyond: Pushing LLM Pretraining Scales",
+      "description": "Higher-order optimizers such as Muon and SOAP offer faster convergence than AdamW, but their computational cost and numerical stability challenges have limited adoption at scale . To enable efficient training at large scale, we introduce a layer-wise distributed optimizer compatible with Megatron-LM . To support the research community, we release a codebase that contains emerging algorithms for optimization: https://github.com/NVIDIA-NeMo/Emerging-Optimizers .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20548",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-24T14:13:24.147321Z"
+    },
+    {
+      "id": "5478baa011cf2a740b9d7f55d16105dc",
+      "title": "Decision-Aware Machine Learning is a machine-learning tool that",
+      "description": "A critical challenge in healthcare systems in low- and middle-income countries is the efficient and equitable allocation of scarce resources, particularly essential medicines . We propose a novel decision-aware machine learning framework for essential medicines allocation . Our econometric evaluation finds an estimated 19% increase in consumption of allocated products in treated districts . Our work demonstrates how machine learning methods can improve efficiency at very low cost in resource-constrained global health settings .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20542",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-24T14:13:14.317392Z"
+    },
+    {
+      "id": "15f9d2c3a18b8b7fd1285d24637b3af1",
+      "title": "From Atoms to Entropy: Optimal Noise Allocation",
+      "description": "Current noise schedules are based largely on heuristics or empirical tuning . We develop a general statistical framework for studying asymptotically optimal noise-level allocation in diffusion training . We show that the optimized training schedule admits an atomic minimizer, concentrated on finitely many noise levels . We test these predictions in controlled settings where the coupled objective can be optimized directly . We then evaluate the entropic schedule in larger-scale experiments, where full schedule optimization is currently intractable .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20540",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-24T14:13:02.361799Z"
+    },
+    {
+      "id": "ce6dd21f7c83e5f70db4903c4485f3dd",
+      "title": "Biokinetic Knowledge Priors for Data-Scarce Bioprocess Modeling",
+      "description": "A generic decoder pre-trained on simulation matches a fully bio-structured decoder trained on real data . Simulation pre-training therefore offers a simple, data-efficient recipe for deep learning under bioprocess data scarcity . arXiv:2607.20539v1 Announce Type: new Abstract: While deep learning has accelerated drug discovery, its impact on biomanufacturing has been considerably more limited . This summary highlights key aspects of",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20539",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-24T14:12:52.439620Z"
+    },
+    {
+      "id": "bcda71d5900ce030f305ad41bf998f5c",
+      "title": "Codec-Gauge: Learning Compression-Friendly Gauges for Transformer",
+      "description": "Long-context Transformer inference increasingly relies on KV-cache compression or quantization . We introduce Codec-Gauge, a post-training cache-coordinate layer that learns small orthogonal channel transforms around compression and quantization backends . We evaluate actual compression and decompression using measured bytes and rolling compressed-history scoring . The same gauges improve quality preservation for block-uniform and KIVI-style quantization. Experiments on a 27B model and long-context task prompts reproduce the quality trend .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20538",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-24T14:12:40.189165Z"
+    },
+    {
+      "id": "c05fbaf557ffa2e3e24e556d64c0f28c",
+      "title": "ReliableTableQA: How Much Supervision Does Reliability Annotation Need?",
+      "description": "ReliableTableQA is a framework for training an LLM to annotate the statistical reliability of tabular QA results . We find that a small, schema-stratified SFT set is remarkably sufficient . 200 examples raise reliability-flag F1 from 0.61 to 0.98, drive UCAR to zero, and yield model that generalizes to an unseen retail domain (Rel-F1 0.997 on held-out H&M) This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20537",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-24T14:12:28.048591Z"
+    },
+    {
+      "id": "cf8d1abdf2486b991b2607cd50ede9da",
+      "title": "A Graph Neural Network approach to zero-shot Digital",
+      "description": "Traditional Predictive Digital Twins often remain geometrically rigid, requiring extensive retraining or fine-tuning whenever the underlying physical domain or boundary conditions change . At the core of our architecture is the Thermodynamics-Informed Graph Neural Network architecture, a Geometric Deep Learning solver grounded in a metriplectic thermodynamic formalism . The pipeline tracks macroscopic deformations and free-surface fluid boundaries in real-time using deep segmentation networks combined with sparse optical flow .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20535",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-24T14:12:16.114319Z"
+    },
+    {
+      "id": "ab71c57b0e78f79e7522c46240b5802c",
+      "title": "Position: Stop Reactively Patching Your Model Every Time",
+      "description": "Many modern AI systems are designed to operate under diverse, open-ended, use-cases . Many deployed-system maintenance pipelines use a reactive AI flywheel that observes emerging feedback from user behavior and patches the model accordingly . This position paper argues that a proactive test-driven flywheel is required to address reactive flywheel's limitations . We advocate for creating a \"test space\" to technically map feedback data to task objectives, evolving the flywheel from reactive to proactive .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20532",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-24T14:12:05.418556Z"
+    },
+    {
+      "id": "7d7710f8e1b15ac6ef2d281030b581cd",
+      "title": "Uncertainty-Aware Trust Estimation for Multi-LLM Systems via Struct",
+      "description": "Large Language Model (LLM) ensembles are increasingly used to improve reliability by combining predictions from multiple LLMs . But existing aggregation methods typically assume that all models are equally trustworthy, overlooking differences in uncertainty quality . This assumption is poorly suited to heterogeneous LLMs whose reliability and capability vary significantly, making naive aggregation vulnerable to unreliable or adversarial experts . We adapt structured expert judgment from decision theory to estimate expert reliability based on the quality of its probabilistic predictions .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20529",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-24T14:11:53.996699Z"
+    },
+    {
+      "id": "fd2b15698b492a692070936103b77ce1",
+      "title": "Adaptive Depth in Looped Transformers: Diagnosing Learned Halting",
+      "description": "Looped Transformers increase test-time computation by repeatedly applying a shared recurrent block . We study adaptive depth in looped Transformers through this trajectory--readout lens . We find that fixed-prior depth supervision, which shapes the trajectory without an input-dependent halting policy, produces difficulty-aware trajectories whose intermediate states expose useful stopping signals . Simple post-hoc confidence readouts often match or outperform learned linear and MLP gates .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.20519",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-24T14:11:41.718999Z"
+    },
+    {
       "id": "f7abdca68b7dd2259ad15f9b5dab9f28",
       "title": "One tampered ChatGPT link could spawn a rogue",
       "description": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes . Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder . The agent inherited the victim's identity and access rights, bypassed approval requirements through the malicious prompt, and pulled new instructions from the attacker's inbox every 5 minutes . The AgentForger was created on an employee's behalf .",
