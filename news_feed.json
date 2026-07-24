@@ -1,6 +1,130 @@
 {
   "news": [
     {
+      "id": "f7abdca68b7dd2259ad15f9b5dab9f28",
+      "title": "One tampered ChatGPT link could spawn a rogue",
+      "description": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes . Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder . The agent inherited the victim's identity and access rights, bypassed approval requirements through the malicious prompt, and pulled new instructions from the attacker's inbox every 5 minutes . The AgentForger was created on an employee's behalf .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/10/agent_builder_openai.jpg",
+      "fullArticleLink": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-07-24T03:38:56.875178Z"
+    },
+    {
+      "id": "02b56c033a77327e7d967cd79e7325bf",
+      "title": "Flux 3 generates videos with native audio up",
+      "description": "Flux 3 is a multimodal foundation model that learns from images, video, and audio . It can generate video with native audio for the first time . BFL's own tests put it just ahead of market leader Seedance 2.0 . The company ultimately wants to build a world model and is already testing Flux on robotics tasks . It generates videos with audio up to 20 seconds long, a first for Black Forest Labs .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/bfl_flux3_video.png",
+      "fullArticleLink": "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-07-24T03:38:45.098983Z"
+    },
+    {
+      "id": "f081f25fbfa894ed5fca10088e234998",
+      "title": "ChatGPT will give you worse health advice if",
+      "description": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users . The more powerful GPT-5.6 Sol model is reserved for premium subscribers . Free users are stuck with the weaker GPT 5.5 Instant model . More than 300 million people already ask health questions every week, but paying users get better answers . OpenAI will connect Apple Health, medical records, and wellness apps .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_health.png",
+      "fullArticleLink": "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-24T03:38:33.310914Z"
+    },
+    {
+      "id": "3d9de4dbff83ed455dfcd9ace7425a60",
+      "title": "An AI-Assisted Audit of Candle-Based Binance Spot Timing",
+      "description": "An unchanged ten-pair mandatory-daily selector lost 6.72\\% over 19 July cycles at an assumed 31-bps completed-cycle cost, with 3 wins and 16 losses . Local-maximum sell-to-cash/re-entry policy underperformed continuous holding by 2.80\\%; their gross mean advantages of 11.11 and 12.21 bps were below even the 21-bps stress . A Gurgul-inspired, OHLCV-only daily adaptation attained minimum/maximum ROC AUC of 0.874/0.896 but average precision of only 0.134/.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.19453",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-24T03:38:14.233033Z"
+    },
+    {
+      "id": "b0ef970692e0456e9118be3a628f1d2f",
+      "title": "Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement",
+      "description": "Large-scale online reinforcement learning (RL) is the predominant means of eliciting advanced abilities including long-term reasoning and agentic tool use in large language models . However, continuing to scale it across vast task domains of interest remains challenging in both computational infrastructure and cost . To address these challenges, we propose REGEN: Replay-recycling for Expert-to-Generalist Distillation with Offline RL . It potentially turns online RL into a data synthesis process instead of a one-off learning stage, and can potentially be extended to large-scale post-training without heavy computational load .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.19450",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-24T03:38:00.104546Z"
+    },
+    {
+      "id": "048b10a2bc7173c5af448eb5c993c8c6",
+      "title": "Guardrails as Scapegoats: Auditing Unfaithful Safety Refusals",
+      "description": "We introduce a lightweight black-box auditing framework that injects four silent failure profiles across 12 production-adjacent tool stubs . We classifies agent responses into three mutually exclusive behavioral classes: Honest Surrender (HSR), Fabrication (FAR), and Unfaithful Safety Refusal (USR) USR is a latent behavior activated when safety vocabulary in the system prompt primes the model to reach for policy rationales when tools silently fail . Sensitive tools account for the majority of USR instances . We propose a payload-response misalignment heuristic for production-level detection .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.19449",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-24T03:37:45.160561Z"
+    },
+    {
+      "id": "463015537aef4a6fcc56aea3977ca531",
+      "title": "Adaptive Multi-Expert Graph Transformer for Interpretable EEG-Based Diagnostics",
+      "description": "Electroencephalographic (EEG) abnormalities arise from dynamic changes in neural synchrony across spatial and temporal scales . We present a Spatial Multi-Expert Graph Transformer that models each EEG recording as a sequence of dynamic functional connectivity graphs . Time-resolved connectivity is estimated using the weighted Phase Lag Index (wPLI) and hierarchical graph encoding aggregates information from electrode to regional and global levels . A multi-expert transformer architecture enables subtype-aware reasoning, with a gating mechanism adaptively fusing expert outputs for global abnormality prediction .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.19429",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-24T03:37:32.705150Z"
+    },
+    {
+      "id": "a056389f7188a575d921c63a47197f77",
+      "title": "Reward-Aware Population Scaling of Evolutionary Strategies in LLM",
+      "description": "Evolutionary Strategies (ES) for fine-tuning large language models is attractive because it is memory-efficient, parallel, and compatible with black-box or discrete rewards . We show this gap is largely about reward design and normalization, not population size . Disabling normalization lets binary-reward ES with $N=2$ improve on GSM8K and TREC across capable models spanning 0.5B-7B . This summary highlights key",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.19408",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-24T03:37:20.360216Z"
+    },
+    {
+      "id": "0c24df3514a11df9c330b3608bee475c",
+      "title": "NMR Elucidation as an Agentic Search Problem, Not",
+      "description": "Structural elucidation from Nuclear Magnetic Resonance (NMR) data remains a fundamental bottleneck across chemistry, materials science, and biology . We demonstrate that an agentic AI system can perform this task at a level comparable to graduate-level chemistry students . We build a single autonomous agent, backed by a frozen LLM, that interacts with a curated environment with access to domain-specific processing tools, validation checks, tabulated chemical shifts, and instructions .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.19406",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-07-24T03:37:08.781350Z"
+    },
+    {
+      "id": "0f2d69640e013bc125368391037169c5",
+      "title": "Challenges of Explainability in Continual Learning for Time",
+      "description": "Deep learning models have shown strong potential for time series forecasting, but deployment in real-world environmental monitoring remains challenging due to non-stationary dynamics and limited explainability . We study neural forecasting architectures such as PatchMixer, PatchTST and DLinear, augmented with attention-based sampling mechanisms to support model adaptation over time . Explainability is leveraged through attention rollout and gradient-based attribution methods (Grad-CAM)",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.19382",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-24T03:36:57.576326Z"
+    },
+    {
       "id": "25c0421c684d3be785f27c407dd2f16a",
       "title": "AMD to invest up to $5 billion",
       "description": "Anthropic will deploy up to two gigawatts of capacity using AMD\u2019s Instinct MI450-series accelerators . The first gigawatt will be deployed in the first half of 2027 . Anthropic's investment will cover tens of billions of dollars\u2019 worth of AI systems . AMD will invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billion of dollars' worth of systems .",
