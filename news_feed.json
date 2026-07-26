@@ -1,6 +1,55 @@
 {
   "news": [
     {
+      "id": "ef737c3642f0ed4cf47b9a642b48653c",
+      "title": "The AI coding tutor paradox grows as educators",
+      "description": "ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI . Nearly half of respondents say they lack proven examples for integrating AI into their courses . The AI coding tutor paradox grows as educators scramble to rethink how they test real skills with real skills, says ACM study . The exam is shifting toward oral exams, proctored tests, and project-based work .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/ACM-Studie-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-26T13:48:36.301964Z"
+    },
+    {
+      "id": "cd3961cd40b86452ff5f3f853e95e3ec",
+      "title": "US reportedly favors selective bans over blanket restrictions",
+      "description": "The Trump administration is planning targeted bans on Chinese AI models rather than a blanket ban . OpenAI and Google DeepMind signed an open letter opposing regulation of open-weight models . US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns . The U.S. government is planning selective bans rather than blanket bans on the Chinese models, it has been reported to have been suggested by the Trump administration .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/us_vs_china_open_models-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-26T13:48:24.953494Z"
+    },
+    {
+      "id": "a715e433022d151ad1783026025aacdf",
+      "title": "Hundreds asked ChatGPT for poison and bioweapon recipes",
+      "description": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides . In summer 2025, OpenAI internally flagged GPT-5 as high-risk because it helped users create biological hazards, but downgraded the model's risk rating that fall . Hundreds asked for that kind of information, including instructions for making poisons and biological weapons, according to the Wall Street Journal .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/chatgpt_bioweapon.png",
+      "fullArticleLink": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-26T13:48:13.302504Z"
+    },
+    {
+      "id": "5fa3256b308255357875ade0118106f1",
+      "title": "Anthropic's Opus 5 blows past Fable 5",
+      "description": "Anthropic's Claude Opus 5 scored 30.2 percent on ARC-AGI-3, nearly quadrupling GPT-5.6 Sol's previous record of 7.8 percent . The benchmark's developers say the model independently formulated reflection equations, a behavior they had never seen from another model, and attribute to stronger logical reasoning . Anthropic\u2019#039;s Opus . 5 blows past Fable 5 and GPT .6 Sol on the benchmark designed to measure .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/arc_agi_3_opus_5-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-26T13:48:00.094621Z"
+    },
+    {
       "id": "fc836a71f9ce98dda43064a2b9b858d5",
       "title": "AI personality is becoming a competitive advantage, Cognition",
       "description": "Poke, the AI assistant you text like a friend, has been acquired by AI coding startup Cognition . The Interaction Company of California acquired Poke in a deal valued in the \"low nine figures\" Poke will take advantage of Cognition's models and infrastructure to become faster and more reliable, Cognition said . The acquisition underscores a growing belief that how AI assistants interact with users will become just as valuable as the underlying models powering them .",
