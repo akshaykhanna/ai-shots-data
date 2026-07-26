@@ -1,6 +1,93 @@
 {
   "news": [
     {
+      "id": "fc836a71f9ce98dda43064a2b9b858d5",
+      "title": "AI personality is becoming a competitive advantage, Cognition",
+      "description": "Poke, the AI assistant you text like a friend, has been acquired by AI coding startup Cognition . The Interaction Company of California acquired Poke in a deal valued in the \"low nine figures\" Poke will take advantage of Cognition's models and infrastructure to become faster and more reliable, Cognition said . The acquisition underscores a growing belief that how AI assistants interact with users will become just as valuable as the underlying models powering them .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.56.23-PM.jpg?resize=1200,610",
+      "fullArticleLink": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-26T03:45:39.220375Z"
+    },
+    {
+      "id": "07eccc4e8badf37c8eb683b97ca73306",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman",
+      "description": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M at a $1 billion valuation . The startup is training models to learn how office workers navigate routine workflows across documents and systems, with the goal of building AI agents that can control computers to automate those tasks . The lab has already signed contracts worth up to $50 million with several customers, including healthcare management service organization, a manufacturer and goods and clothing manufacturers .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799",
+      "fullArticleLink": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-26T03:45:20.794850Z"
+    },
+    {
+      "id": "0c2e3422c7023700c1b2129f9f12384b",
+      "title": "OpenAI\u2019s new AI keypad will be fun",
+      "description": "OpenAI launched its first piece of hardware last week \u2014 a fancy little keypad built to pair with ChatGPT . The keypad's layout involves six frosted \"agent\" keys at the top of the pad, which can be customized to carry out specific tasks . Hard-core coders may need some time to figure out how Micro works and what to do with it . The $230 price tag is hard to justify next to cheaper DIY and off the-shelf alternatives .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Micro.webp?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-26T03:45:03.032146Z"
+    },
+    {
+      "id": "102564d4308f8be4c3767a7e27f09fe3",
+      "title": "One fallen power line exposed a growing",
+      "description": "A power line went down outside of Washington, DC, this week . More than 3 gigawatts of data centers stopped drawing power nearly simultaneously . The event caused voltage across the PJM grid to spike from Northern Virginia to Chicago . The incident demonstrated the effect that data centers can have on the grid \u2014 an outcome that experts believe will become more frequent . \"It\u2019s the canary in the coal mine,\" says ONEnergy CTO Ricardo de Azevedo .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
+      "fullArticleLink": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-26T03:44:45.749714Z"
+    },
+    {
+      "id": "9026899f60e4a3664969e501f3cb4191",
+      "title": "Librarians are hosting viral \u2018Avoiding AI\u2019 workshops",
+      "description": "Librarians are hosting anti-AI workshops for people who are fed up with Big Tech . Charlie Bailey, a librarian in South Philadelphia, walked through the steps of disabling Apple Intelligence and Gemini . He got the idea for the Avoiding AI workshop from fellow librarian Hannah Cyrus . Bailey: \"It's important to see this as advancing digital literacy and helping people reclaim their autonomy over whether they want to use AI tools\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
+      "fullArticleLink": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-26T03:44:28.063247Z"
+    },
+    {
+      "id": "cb61b6a2a5da5e6de3bed409d7040395",
+      "title": "Monday.com is the latest tech company to blame",
+      "description": "Monday.com is the latest tech company to blame AI for layoffs . The company laid off about 20% of its workforce, or just over 600 employees, on Wednesday . Microsoft, Amazon, Oracle, Meta, and Microsoft alone have laid off nearly 140,000 jobs since the start of this year . AI-focused companies like Anthropic and OpenAI are hiring rapidly, absorbing some of the talent shed elsewhere in the industry .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-26T03:44:11.630554Z"
+    },
+    {
       "id": "71f96f6a907afcc416cc5285e01d3a2f",
       "title": "Anthropic's Claude Opus 5 costs well below Fable",
       "description": "Anthropic's Claude Opus 5 leads the Artificial Analysis Intelligence Index with 61 points, edging out Claude Fable 5 and GPT-5.6 Sol . The model scores highest in analytical quality and coding, and costs up to half as much as Fable five at lower reasoning tiers . But the race at the top remains close, with the model costing less than 50 per cent of the price of Fable .",
