@@ -1,6 +1,259 @@
 {
   "news": [
     {
+      "id": "ae81dfaed4cbcb605696c9e6af3a9740",
+      "title": "America\u2019s AI investment boom is Reshaping the economy",
+      "description": "America's AI Investment Boom Is Reshaping the Economy . Artificial intelligence has become one of the defining investment stories in the U.S. Microsoft, Meta, Amazon and Alphabet are collectively committing hundreds of billions of dollars to AI infrastructure . Demand for advanced chips has turned NVIDIA into one of NVIDIA's top chip makers . The numbers continue to grow. AI News is a weekly feature on AI News from iReport.com .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/ai-infrastrucure.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-27T15:02:21.652807Z"
+    },
+    {
+      "id": "7a04ab0d5258528a985e52d366c3b8c0",
+      "title": "How AI is shortening drug discovery timelines",
+      "description": "Insilico Medicine has reduced the time needed to produce some drug development candidates to about one year by combining artificial intelligence with laboratory research in China . The Hong Kong-listed company\u2019s fastest programme reached candidate nomination in nine months, while its typical timeline is about 13 months, CEO Alex Zhavoronkov said . He said the typical timeline for drug discovery in China is 13 months . The company's fastest programme reaches candidate nomination within nine months .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/How-AI-is-shortening-drug-discovery-timelines-in-China-scaled-e1785133067484.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-27T15:02:09.949480Z"
+    },
+    {
+      "id": "03046fc49fdcc3cc4edf7985e6912902",
+      "title": "Claude chats were reportedly showing up in search",
+      "description": "Search engines briefly indexed shared Claude conversations, making them visible to anyone . Anthropic appears to have responded quickly, and the Google results disappeared soon after . Users on Reddit found thousands of shared chats with Anthropic's AI chatbot through a simple Google search (site:claude.ai/share) The \"Share with link\" feature apparently lacked a noindex tag, which tells search engines not to include pages in their results .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo.png",
+      "fullArticleLink": "https://the-decoder.com/shared-claude-chats-were-reportedly-showing-up-in-search-engines/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-27T15:01:52.688310Z"
+    },
+    {
+      "id": "e1fe4e43ea5777611f7438644d9626d1",
+      "title": "METR introduces a new metric to calculate exactly",
+      "description": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans . METR's new metric, the \"expenditure horizon,\" puts a dollar figure on how cost-effective AI agents are at solving problems . Early results on the NanoGPT speedrun are underwhelming, the metric has blind spots, and the newest generation of models could change the picture . The metric is a new way to measure the cost-effectiveness of AI agents .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/METR-Expenditure-Horizon-1-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-27T15:01:39.807522Z"
+    },
+    {
+      "id": "d10dbf6ad8c7c176d839400a2877b766",
+      "title": "Building the enterprise environment for agentic AI",
+      "description": "Intel says promise of agentic AI is much more than just a better chatbot . It's software agents that execute business tasks end-to-end across people, business workflows, data, and systems . Platforms need to know how long tasks take, how many agents a fleet can support, what users experience at the end of the execution process, and how costs change as more agents work simultaneously . Agents are a goal-driven automated enterprise workflow process: It plans a multi-step task, calls tools, reads results, and retries when something fails .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Intel-contributed-iStock-1366067377.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-27T15:01:18.756161Z"
+    },
+    {
+      "id": "31a791e8e2a86ffc9d9cc037847e05df",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "description": "Drug discovery is a high-cost, high-risk endeavor that is under pressure from a market defined by first-mover advantage . Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years . Today, bringing a new drug to market takes an average of 10-15 years and costs anywhere from $1 billion to $2.5 billion . Early use of AI in drug discovery shows potential, but also highlights the need for robust and authentic data .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-07-27T15:01:02.208278Z"
+    },
+    {
+      "id": "25cc5f27cc6ab012d40dcf3422718918",
+      "title": "The path to artificial superintelligence is the path",
+      "description": "Next-generation multi-agent systems need a horizontal architecture that allows them to share intent, context, and reasoning to enable wide-scale problem solving no single agent is trained for . When used together, they enable \u201cthe next step on the road to distributed artificial superintelligence,\u201d says Vijoy Pandey, senior vice president and general manager of Outshift by Cisco . Pandey likens this progression to that of humans: \"For hundreds of thousands of years humans got individually smarter, and the gains died with each person who made them\"",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/CREA-1571-MIT-tech-review-Misc-1200x675-option-2.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-27T15:00:43.251095Z"
+    },
+    {
+      "id": "cde8d0be1b08fdfdc85b06468b7dae39",
+      "title": "SeePhys Pro: A 1st-Place Technical Report from ICML",
+      "description": "Visual physics problems become substantially harder for large language models when the decisive information resides in a figure rather than in the text . We address the task with a two-stage framework: a visual information extraction stage that re-expresses figure content as solver-readable text to close the modality gap . The resulting pipeline improves overall accuracy over a single-agent baseline from 0.643 to 0.802 on the public split .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21946",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-27T15:00:30.519221Z"
+    },
+    {
+      "id": "01a710776d0ed43d7f8bb24df2ba6f42",
+      "title": "LatentFlow: Visual Analytics for Latent Space Analysis",
+      "description": "Chemists and materials scientists increasingly use machine learning models, such as graph neural networks (GNNs) to predict properties of molecules and the outcomes of their reactions . LatentFlow groups embeddings into clusters and supports exploration of latent spaces by tracking how these clusters change across layers and model states using a modified Sankey diagram . The system links these clusters to representative molecules and their shared substructures, and it allows scientists to introduce their own domain knowledge and compare it with patterns found in the latent spaces .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21941",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-27T15:00:18.050781Z"
+    },
+    {
+      "id": "88d4d47e5e6fc99ed05535744320bac7",
+      "title": "RIS-Kernel: A Model-Agnostic Architecture for Long- Context LL",
+      "description": "Reduced Interaction Sampling (RIS) engine addresses this constraint as a model-agnostic architecture . RIS reduces self-attention complexity to O(N log N) using sparse stochastic geometry that fits within commodity memory limits . RIS-Stochastic at 1% density and 70 ensemble seeds achieves 75.00% accuracy, outperforming the native dense baseline (71.88%) RIS-Structural reaches 68.75% accuracy with just 10 seeds, recovering 75% of the contextual gap relative to the zero-context floor (59.38%)",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21927",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-27T15:00:03.330978Z"
+    },
+    {
+      "id": "88f800e43927b66a1219cc1443665c2a",
+      "title": "Remedying Coarsening-Based GNN Training under Heterophily via",
+      "description": "ACE learns a projector for re-constructing original node features and applies anisotropic structural regularization to embed local heterophily . ACE drives consistent gains on heterophilic benchmarks while preserving competitive results on homophilic graphs with minimal computational overhead . Code is available at the GitHub repository: https://github.com/vasile-paskardlgm/ACE.ACE. arXiv:2607.21885v1 . This summary highlights key aspects of the latest developments. Industry analysts suggest",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21885",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-27T14:59:51.591753Z"
+    },
+    {
+      "id": "6e9cf080d0c921352b9982e7a78c4a5f",
+      "title": "Scaling Laws for Classical Machine Learning on Tabular",
+      "description": "127 students each ran a fixed protocol on 3 assigned datasets, drawn from 18 tabular classification and regression datasets and 6 model families . We release aggregated curves, per-cell fits, and a practical data-requirement table for N* to reach target error 0.15 . We frame this as approximate predictive compressibility, not dataset-independent universality; Lasso fails outright, and Ridge is fragile under leave-one-dataset-out .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21866",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-27T14:59:38.913739Z"
+    },
+    {
+      "id": "82ec7450c1e612ca322bc987d715d401",
+      "title": "LeAct: Learning to Reason from Expert Actions",
+      "description": "LeAct (Learning to reason from Actions) optimizes this latent variable . LeAct reaches the solver's numerical floor on small enumerable games . At Flop Hold'em ($\\sim 10^9$ infosets), LeAct wins head-to-head by $+60$ mbb/g, and on the robotics probe it is the only training recipe that improves on direct imitation . We present a principled framework and the result: expert systems become a categorically new reasoning teachers for foundation models .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21856",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-07-27T14:59:25.940411Z"
+    },
+    {
+      "id": "a64f96e0b45a0ceea4cd4d5f718014ca",
+      "title": "Searching the Space of Feed-Forward Neural-Network Weight-Update Rules",
+      "description": "We investigate whether symbolic regression can discover explicit neural network weight-update rules that outperform standard hand-designed optimizers on small symbolic regression benchmarks . The discovered rules do not all share a single common symbolic form, but many combine adaptive normalization, momentum-like quantities, nonlinear transformations, and rational expressions . These results suggest that symbolic regression may serve as a lightweight mechanism for discovering compact optimizer variants, while also highlighting the need for larger-scale validation .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21855",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-27T14:59:15.104523Z"
+    },
+    {
+      "id": "30055b20b08eacd93f76d151eafb4e9b",
+      "title": "A Graph-Based Control Interface for Traffic Signals",
+      "description": "A shared graph neural network assigns scores to individual traffic movements . Each junction converts these scores into a variable-sized set of legal signal phases using a deterministic incidence matrix . PPO experiments evaluate the interface on unseen synthetic grid geometries, altered signal coverage, and five heterogeneous city graphs . Results provide feasibility evidence rather than a general estimate of transfer to arbitrary road networks . arXiv:2607.21831v1",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21831",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-27T14:59:04.511600Z"
+    },
+    {
+      "id": "2e3f2a1946eadd3b3da1992defde7746",
+      "title": "Bounding the Causal Impact of ML-assisted Decision-Making via",
+      "description": "Predictive machine learning (ML) models are increasingly used to aid human decision-makers across various high-risk domains such as healthcare and criminal justice . There is a growing recognition of the need to evaluate the impact of deploying these systems on downstream outcomes, such as patient survival or crime recidivism . We present a partial-identification approach to using prior RCT data to construct bounds on the causal effect of a new model .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21806",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-27T14:58:53.057476Z"
+    },
+    {
+      "id": "3ee2613cbc41b48540f915e6dbd0cd08",
+      "title": "Parameter-free Adaptive Sparse Attention via Compression-Based Content Selection",
+      "description": "Data-adaptive sparse attention masks substantially outperform fixed patterns (e.g., BigBird and Longformer) and can even exceed dense attention on long sequences . By computing per-block gzip compression ratios, we identify non-redundant content blocks and route long-range attention selectively through them . Intuitively, blocks that gzip cannot compress contain information not predictable from local repetition, making them natural targets . Because the compression profile is input-dependent, the resulting sparse mask adapts dynamically to content .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21752",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-27T14:58:40.151767Z"
+    },
+    {
+      "id": "570240a7094962ca435de692cf8f170f",
+      "title": "RED-PIM: Reducing Data Movement for Transformers using Processing-in-Memory",
+      "description": "Processing-In-Memory (PIM) mitigates this issue by performing computations directly inside memory . The high volume of data movement between processing units and memory during attention operations significantly limits their efficiency . The researchers propose RED-PIM, an algorithm-architecture co-design that reduces attention latency by minimizing inter-bank data movement . By reorganizing matrix operations, performing . computations locally, and employing an optimized data transfer strategy . strategy, RED .PIM significantly reduces computation cost and interconnect traffic .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21731",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-27T14:58:26.986634Z"
+    },
+    {
+      "id": "990ed1a097afd1104d14af151a88f206",
+      "title": "A Defense of the Quadratic Model",
+      "description": "The quadratic model can be surprisingly predictive in an LLM setting with 150M parameters and 3B training tokens . Taylor expanding the model and the loss function at intermediate checkpoints through training can accurately predict the optimization dynamics over windows that can last up to 10\\% of training . We also empirically test local linear stability at intermediate checkpoint and compare it to theoretical predictions to demonstrate that optimization in LLMs typically occurs at a stochastic edge of stability .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21716",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-27T14:58:14.981507Z"
+    },
+    {
+      "id": "93ab68f3548a35a3c8fdc78d5921682f",
+      "title": "An Introduction to Bayesian and Frequentist Simulation-Based Inference",
+      "description": "Simulation-based inference (SBI) with machine learning is an increasingly important tool for solving inverse problems in science and engineering . We provide an overview of Bayesian and frequentist statistical frameworks . We also discuss how to validate inference results and the limitations of SBI with machine-learning-based SBI . We discuss how the same methods can also be applied to Empirical Bayes or unfolding tasks . arXiv:2607.21702v1 .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21702",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-27T14:58:04.536652Z"
+    },
+    {
       "id": "355626f29c21fdf8985e45a36c16b53f",
       "title": "Hugging Face CEO calls for \u2018radical transparency\u2019 after",
       "description": "Hugging Face CEO Clem Delangue calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack . He also wants \u201cmore capabilities for defenders,\u201d calling for OpenAI to commit $100 million worth of computing power to help build cyber defenses with the best open and closed models . An OpenAI spokesperson confirmed that the meeting took place and pointed to a company post that said, \"This is an unprecedented incident, and we think it marks an important moment\"",
