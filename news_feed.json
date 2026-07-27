@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "id": "355626f29c21fdf8985e45a36c16b53f",
+      "title": "Hugging Face CEO calls for \u2018radical transparency\u2019 after",
+      "description": "Hugging Face CEO Clem Delangue calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack . He also wants \u201cmore capabilities for defenders,\u201d calling for OpenAI to commit $100 million worth of computing power to help build cyber defenses with the best open and closed models . An OpenAI spokesperson confirmed that the meeting took place and pointed to a company post that said, \"This is an unprecedented incident, and we think it marks an important moment\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
+      "fullArticleLink": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-27T03:54:34.425360Z"
+    },
+    {
+      "id": "216b0412425af10445635febc0d77146",
+      "title": "Making sense of the panic over Chinese",
+      "description": "The launch of the latest AI model from a Chinese company reignited debates around American competitiveness and open versus proprietary AI . On the latest episode of TechCrunch\u2019s Equity podcast, Kirsten Korosec, Sean O\u2019Kane, and I discussed why this seems to be such a hot button issue . In many ways, this \u201cfeels like we\u2019re seeing repeats of prior freakouts,\u201d with everyone in Silicon Valley \u201cexpecting that something is going to arrive and blow everything else away\u201d",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-27T03:54:16.776871Z"
+    },
+    {
+      "id": "5d2ba47b7c6e82fc799cdb3cd4c0e2d7",
+      "title": "Are brain waves the next unlock for physical",
+      "description": "Encord builds data tooling used to train AI models . It's one of a growing number of startups betting the next real constraint on humanoid and warehouse robotics won't be model architecture but instead the scarcity of real-world physical training data . Encord is building a business around manufacturing the data they don't have, and using its San Leandro facility to collect data sets around specific skills for fine-tuning . The goal is to build an initial brain wave-tagged data set, run it through customer robotics models .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_5583-rotated.jpg?resize=900,1200",
+      "fullArticleLink": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-27T03:53:59.337450Z"
+    },
+    {
       "id": "ef737c3642f0ed4cf47b9a642b48653c",
       "title": "The AI coding tutor paradox grows as educators",
       "description": "ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI . Nearly half of respondents say they lack proven examples for integrating AI into their courses . The AI coding tutor paradox grows as educators scramble to rethink how they test real skills with real skills, says ACM study . The exam is shifting toward oral exams, proctored tests, and project-based work .",
