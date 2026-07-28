@@ -1,6 +1,260 @@
 {
   "news": [
     {
+      "id": "1660d85584afa53aaf50450595ef9001",
+      "title": "Armenia\u2019s AI Bet Is Not Chip Manufacturing. It",
+      "description": "Armenia\u2019s AI Bet Is Not Chip Manufacturing, It Is Compute Sovereignty . Armenia has become a consumer of different AI products akin to Clideo subtitles generator for video editing, or giants like OpenAI . Armenia is not a big country. It's not a wealthy country. And yet, it has entered the headlines of global news for several reasons, not the least . The post: Armenia's AI bet is not chip manufacturing. It is Compute sovereignty.",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/gor-davtyan-a0nX79KYqNo-unsplash-scaled.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-28T14:38:29.522759Z"
+    },
+    {
+      "id": "173a8d23c75ebd9f30a2663308ec93e6",
+      "title": "Guardoc Health processes clinical documentation using Amazon Nova",
+      "description": "Guardoc Health says it processes over one million clinical documents daily using Amazon Nova models through Bedrock . Get it wrong and the errors compound into denied Medicare claims under the Patient-Driven Payment Model, audit fines, litigation exposure, and in the worst the errors will be denied Medicare benefits . Guardoc says the risk of getting it wrong is a specific kind of risk calculation . The company is using AI to process over 1 million documents daily .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/guardoc-health-processes-clinical-documentation-Amazon-Nova-models-healthcare-ai-rag-pipeline-bedrock-medical.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-28T14:38:18.005273Z"
+    },
+    {
+      "id": "0758e0a5000e444e0bd27cbed31fdfe2",
+      "title": "Anthropic CEO Amodei doubles down on open-weight risk",
+      "description": "Anthropic CEO Dario Amodei is once again warning about the risks of open-weight AI models . He argues that authoritarian states like China could overtake the US and that open models could be misused for biological or cyberattacks . Critics say he's mostly trying to protect his own business from cheaper competition . The CEO insists he has never called for a ban and that he's not trying to get a ban .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_logo_wall-1.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-28T14:38:04.462889Z"
+    },
+    {
+      "id": "b6974e7c006bf56b22d73e10af3a8d62",
+      "title": "Nvidia invests in Ilya Sutskever's AI lab, shifting",
+      "description": "Nvidia is pouring what it calls a \"substantial\" sum into Safe Superintelligence (SSI), the AI lab run by Ilya Sutskever . SSI gets access to Nvidia's next-generation Vera Rubin GPU platform, which the companies say will boost its compute capacity tenfold . The deal also helps Nvidia fend off Google as a rival chip supplier during the current AI boom. SSI was founded in 2024 with a single stated goal: a \"straight-shot\" sprint toward safe superintelligence .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/ssi-nvidia.jpg",
+      "fullArticleLink": "https://the-decoder.com/nvidia-invests-in-ilya-sutskevers-ai-lab-shifting-ssi-away-from-google-chips/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-28T14:37:48.049073Z"
+    },
+    {
+      "id": "190d2d8536e3fb6b9c4c11a8f2dfbaf7",
+      "title": "Taiwan detains Nvidia employee in widening China chip",
+      "description": "Taiwan's prosecutors have detained an Nvidia employee in connection with the alleged illegal export of Super Micro AI servers to China . Prosecutors cited flight risk and concerns he might destroy evidence or influence witnesses . The charges include forgery and breach of trust . The smuggled servers contained Nvidia chips subject to US export controls . This is the third round of raids following operations in May and June, when three individuals and two Super Micro employees were detained .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+      "fullArticleLink": "https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-07-28T14:37:34.100871Z"
+    },
+    {
+      "id": "90dc2599154d15ae30871920099eba23",
+      "title": "MEMENTO: Memory-Guided Memetic Code-as-Policy Evolution",
+      "description": "Long-horizon embodied tasks require policies that execute many dependent actions before task success can be observed . Representing policies as executable control pro- grams (code-as-policy) enables their decision logic to be inspected and revised after rollout evaluation . MEMENTO outperforms Eureka and REvolve in task success and generalization to held-out Robosuite object configurations and unseen AI2-THOR scenes . This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22832",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-07-28T14:37:18.230762Z"
+    },
+    {
+      "id": "06bfa0737a2371ec35edbef5996a5688",
+      "title": "From Hybrid Mechanistic--Data-Driven Modeling Toward Neuro-Symb",
+      "description": "Hybrid mechanistic/data-driven models combine first-principles with learned components . Hybrid-to-NeSy (H2N) places mechanistic knowledge on the language side, learned modules on the belief side, and validity domains together with constraints on the logic side . We show that models with higher SVR and BD exhibit greater variability in held-out accuracy . H2N further quantifies a model's uncertainty during extrapolations, whereas test accuracy reveals the same shift only post hoc .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22811",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-28T14:37:05.130080Z"
+    },
+    {
+      "id": "dc7c96c8b10d29b5c14af136fb86c18d",
+      "title": "LithoFormer: A Robust Framework for Stratigraphic Inference via",
+      "description": "LithoFormer is a robust framework for stratigraphic inference using a Seq2Seq transformer model that ingests entire multivariate well logs in a single pass . The framework uses a channel-independent PatchTST backbone enhanced with rotary positional embeddings (RoPE) to capture long-range geological dependencies across entire multivariable well logs . It also achieves a 80% reduction in manual expert labor . This",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22804",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-28T14:36:53.526383Z"
+    },
+    {
+      "id": "71ac4865abbc815e73807d3b41782f77",
+      "title": "Physically Verifiable Evidence and LLM-based Reporting for Bearing",
+      "description": "The proposed Diagnostic Evidence Network (DENet) is an encoder-agnostic multi-task framework extending the output to a structured evidence record . The evidence incurs no statistically significant accuracy cost, with a frequency error of about 6 Hz on 1,024-point segments where spectral estimation is structurally inapplicable . The deviation between predicted and theoretical frequency constitutes a label-free, inference-time validation signal . It detects misclassifications with AUROC values of 0.970 and 0.871 .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22797",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-07-28T14:36:40.061261Z"
+    },
+    {
+      "id": "fce1f4198f24d28f6aec2f9a569aeaa5",
+      "title": "Multimodal Domain Generalization for Depression Detection: An Attention-Based",
+      "description": "The proposed model integrates bidirectional Long Short-Term Memory (BiLSTM) with intra- and cross-modal attention mechanisms, accompanied by segment-level fusion for decision-making . Generalization is further enhanced by applying a gradient reversal layer inspired by Domain-Adversarial Training of Neural Networks (DANN) The addition of DG to this baseline yields a 2.5% increase in accuracy and 3.3% in F1-score . This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22794",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-28T14:36:27.846694Z"
+    },
+    {
+      "id": "1ac615a6ac5d81816ae4552786d39560",
+      "title": "FMOPF: Latent Flow Matching with Constraint-Aware Inter",
+      "description": "AC optimal power flow determines minimum-cost generation dispatch under nonlinear power balance constraints . FMOPF provides the most effective Newton-Raphson warm starts, achieves the lowest tail risk among generative methods, and is the first such method to scale to systems with several hundred buses while preserving full feasibility . It's the first to decoupling compression from generation through latent flow matching and by explicitly modeling load-state coupling through a Constraint-Aware Interaction Prior Network .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22788",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-28T14:36:15.283480Z"
+    },
+    {
+      "id": "efb5fb1f8e785e96f251e9744e726da2",
+      "title": "Optimizing Transformer Neural Network for Real-Time Outlier Detection",
+      "description": "The financial time series are price series such as asset prices . Unfortunately, the data is often with errors or outliers that make downstream data processing tasks useless, unstable or even harmful . Increasingly powerful hardware, such as field-programmable gate arrays (FPGAs) have seen increasing usage in recent years due to their reconfigurability and high performance . We explore different Transformer architectures for time series modelling and how they can be efficiently implemented on an FPGA board (PYNQ-Z2)",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22786",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-28T14:36:02.396134Z"
+    },
+    {
+      "id": "d7d3de3af4da8a1638c56509ba324b60",
+      "title": "Multimodal Surface EMG Hand Gesture Recognition . Using",
+      "description": "EMG-CrossFormer combines representations from an arbitrary number of unimodal encoders through cascaded cross-attention fusion layers and decodes the fused representations using learnable gesture queries . EMG was evaluated on four NinaPro datasets (DB2, DB3, DB7, DB10) and benchmarked against six state-of-the-art models using an increasing number of modalities . Incorporating inertial signals improved performance to 90.66%, 80.40%, 92.79%, and 92.06% .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22779",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-28T14:35:48.043224Z"
+    },
+    {
+      "id": "141f8e95453a17432211d0090e885808",
+      "title": "Using EEG Signals and CNN.com to predict",
+      "description": "Repetitive transcranial magnetic stimulation (rTMS) is a non invasive therapy for Major Depressive Disorder (MDD) We propose an efficient deep learning classifier to predict the outcome of rTMS depression therapy . The proposed framework is interpretable, computationally efficient, and well-suited for deployment in real-world local psychiatric clinics . arXiv:2607.22776v1 . This summary highlights key aspects of the latest developments. Industry",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22776",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-28T14:35:35.840494Z"
+    },
+    {
+      "id": "20ffb4a6d90e5aaa3c7e2b3f16d20046",
+      "title": "Dementia Etiology Diagnosis via Collaborative Meta Knowledge Enhancement",
+      "description": "Dementia etiology diagnosis with AI remains challenging due to complex overlapping symptoms among diseases . We propose a Collaborative Meta Knowledge Enhancement (COME) framework to address this challenge . The method achieves state-of-the-art in-domain performance with a mean macro-averaged AUC of 85.62% and a 4.29-point gain over the strongest baseline . Extensive validation confirms the alignment between model predictions and established biomarkers (amyloid, tau) and clinical severity .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22770",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-07-28T14:35:22.896973Z"
+    },
+    {
+      "id": "6b14c77cee065291e1f7b47e37618abe",
+      "title": "DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture",
+      "description": "DomainPilot introduces token-level domain loss monitoring to capture per-domain learning dynamics during training without halting the data pipeline . The entire mechanism is realized via a patch-based architecture that injects domain-aware loss computation into existing training frameworks (e.g., MindSpeed/Megatron-LM) with only 30 lines of framework-specific adapter code . Compared to the original data mixture, our optimized mixture achieves improvements of +2% on MMLU-Redux, +1.8% on AIME24 .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22769",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-28T14:35:08.533852Z"
+    },
+    {
+      "id": "beeff87a5c43474c7bf3d7a798b49cd8",
+      "title": "Beyond Shapley: An Influence-Based Data Auditing Pipeline",
+      "description": "As datasets scale, massive preference and instruction-tuning corpora accumulate hidden structural contradictions, safety risks, and systemic human annotation errors . Standard dataset auditing methods struggle to capture the actual predictive impact of individual records . We introduce a scalable, inference-only data valuation pipeline that approximates the Shapley value without iterative model retraining . We demonstrate the pipeline's efficacy in sanitizing two heavily vetted alignment datasets .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22766",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-28T14:34:56.803799Z"
+    },
+    {
+      "id": "b2971cafc63fcb2e9b22c42c8302a22b",
+      "title": "An Integrated Deep Learning and Statistical Framework",
+      "description": "Leaf veins exhibit remarkable diversity in architecture and patterning, yet existing gene--environment association studies have primarily quantified leaf venation using a small collection of low-dimensional summary traits . We propose an integrated deep learning and statistical framework . The proposed framework achieves four methodological advances . Application to a real dataset identifies three significant gene--geography interactions associated with leaf vascular architecture, providing new biological insights and establishing a broadly applicable methodological framework .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22763",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-28T14:34:45.447337Z"
+    },
+    {
+      "id": "25058ff26cab0ef229f41a0585528209",
+      "title": "Hierarchical Grading in Large Language Models in large",
+      "description": "Graded Large Language Models (GLLMs) equips the representation space of a transformer with a grading and propagates the induced weighted scalar action through embeddings, self-attention, and the training objective . The construction extends the theory of graded neural networks and graded transformers to autoregressive language models while preserving expressive power, asymptotic computational complexity, and inference cost . Because the grading is absorbed into the learned parameters after training, every GLLM compiles to a standard transformer .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22757",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-28T14:34:32.177743Z"
+    },
+    {
+      "id": "e3200d6bb712bdb30232a2383e12e56c",
+      "title": "Learning to Access Computation: Accessibility Plasticity",
+      "description": "Modern neural networks primarily adapt through parameter modification within predefined computational structures . We formalize Accessibility Plasticity through a relationship-based operational realization . We establish a reuse-first hierarchy of adaptation, where accessibility modification precedes more costly capability and structural changes . These results suggest accessibility as a distinct adaptive dimension and provide a foundation for future dynamic neural systems whose computational relationships evolve with changing environments . arXiv:2607.22748v1",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22748",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-28T14:34:21.604773Z"
+    },
+    {
       "id": "c508e3cc59709be1bd6942cae135e291",
       "title": "Delhi High Court hands OpenAI a win",
       "description": "For the first time, a court has classified AI training as private use . ANI undermined its own case by citing articles published after the models were trained . The main trial is still pending with the main trial still to take place in Delhi High Court . An earlier version of this article incorrectly stated that OpenAI had received a copyright injunction against ANI. We are happy to clarify that this is not the same case.",
