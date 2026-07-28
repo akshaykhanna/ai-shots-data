@@ -1,6 +1,256 @@
 {
   "news": [
     {
+      "id": "c508e3cc59709be1bd6942cae135e291",
+      "title": "Delhi High Court hands OpenAI a win",
+      "description": "For the first time, a court has classified AI training as private use . ANI undermined its own case by citing articles published after the models were trained . The main trial is still pending with the main trial still to take place in Delhi High Court . An earlier version of this article incorrectly stated that OpenAI had received a copyright injunction against ANI. We are happy to clarify that this is not the same case.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
+      "fullArticleLink": "https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-28T03:32:19.686061Z"
+    },
+    {
+      "id": "d09382ab4dbebd864c09b1e2072c7b39",
+      "title": "Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash",
+      "description": "MAI-Cyber-1-Flash scores 96 percent on CyberGym benchmark when embedded in MDASH multi-agent system . Microsoft says costs should drop by 50 percent compared to pure frontier models . For complex reasoning, Microsoft still relies on OpenAI for the toughest tasks . Microsoft launches its own cybersecurity model but still depends on Open AI for the tough tasks . The model is a compact security model with a price tag of $1.5 million .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_logo_red_pink.png",
+      "fullArticleLink": "https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-28T03:32:07.509773Z"
+    },
+    {
+      "id": "7e8218a4f00ce41d927aa1b20b196718",
+      "title": "OpenAI says more workers are using ChatGPT",
+      "description": "OpenAI analyzed over 800,000 work-related ChatGPT messages and found 43.5 percent of job-specific queries involve tasks from other professions . The trend is most pronounced at small businesses, where users increasingly handle specialized work without dedicated experts . The company calls this \"task crossover\" The trend most pronounced in small businesses where users are increasingly handling specialized work with no experts . It's called 'task crossover' by OpenAI .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-2.png",
+      "fullArticleLink": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-28T03:31:55.597227Z"
+    },
+    {
+      "id": "c14a0ca6d72c2157a5afbcb36fa899d3",
+      "title": "Moonshot AI releases Kimi K3 open weights",
+      "description": "Moonshot AI has released Kimi K3's model weights and made parts of its infrastructure open source . The Chinese model nearly matches Western frontier models such as Fable 5 and GPT-5.6 Sol on popular benchmarks . Independent tests found major gaps in cyber and math performance, possibly pointing to distillation . The model has been released to the public for the first time in the wild for a year, but it has not been distillated .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/moonshot_ai_logos.png",
+      "fullArticleLink": "https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-28T03:31:43.653258Z"
+    },
+    {
+      "id": "bd9265e44747f4526519aa4bfbcdc657",
+      "title": "OpenAI called the Hugging Face attack unprecedented",
+      "description": "OpenAI says some of its AI models hacked into the computer systems of Hugging Face, another AI company . This is a case of human hubris, not rogue AI, says John Defterios . OpenAI itself has studied this behavior in a decade-old experiment . It's a wake-up call that shows just how good the latest LLMs are at finding and exploiting vulnerabilities in real-world software with little or no human guidance .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/redteam-faceoff.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-28T03:31:24.456720Z"
+    },
+    {
+      "id": "a932f333d50c70f2b72b65dcb134ad45",
+      "title": "Transformers: contraction and propagation profiles in Transformers",
+      "description": "Attention rollout is used as a diagnostic of attention-mediated propagation, not as a causal explanation or faithful attribution of the complete Transformer . In Transformers trained for metabolomic age prediction, the measured rollout contraction strengthens with depth . Trained and randomly-started models exhibit different propagation profiles, although the present experiments do not establish the predictive relevance of individual rollout-ranked variables . ArXiv:2607.22367v1 .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22367",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-28T03:31:12.431557Z"
+    },
+    {
+      "id": "ebf55b3e87f6ac2955e339a02636a80d",
+      "title": "Indexing: the Beginning and the End . Indexing",
+      "description": "We study information bottlenecks in modern deep-learning architectures through the lens of the indexing primitive . In this primitive, the input consists of $n$ bits and one integer $i$ from $1$ to $n$. The index appears at the end of the input, and the output equals the value of the $i-th bit . We show that architectures with low causal complexity cannot solve this primitive in any constant number of layers . In contrast, small softmax transformers can solve it in one layer .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22361",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-28T03:30:59.245284Z"
+    },
+    {
+      "id": "d8485d075c9240f11c8b6d8611f8ec21",
+      "title": "IQ-JEPA: A Joint-Embedding Predictive Architecture with a Her",
+      "description": "IQ-JEPA pretrained without labels to predict the latent representation of masked in-phase and quadrature (IQ) regions from visible context . Sound speed appears in the IQ signal as a phase difference, invariant to the constant phase offset . On 79,293 Fullwave 2.5 simulations, pretraining on the 63,435 unlabeled acquisitions reaches 15.60 m/s at 10,000 labels . This is a roughly threefold gain in label efficiency over supervised training .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22351",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-07-28T03:30:45.972715Z"
+    },
+    {
+      "id": "9de291079b06565f020d22478309f0a1",
+      "title": "Beyond Binary Rooftop Mapping: A Four-Class Deep Learning",
+      "description": "Study presents a modified deep convolutional neural network rooftop classification framework based on Roofpedia, developed by the Urban Analytics Lab at the National University of Singapore . The model labels rooftops into four categories: existing green roofs, . rooftops suitable for green roof installation, rooftops with solar panels, and flat rooftops unsuitable for greening . The framework identifies realistic opportunities for green roofs and supplies urban planners with evidence-based information for green infrastructure deployment in Bern .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22342",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-28T03:30:34.200761Z"
+    },
+    {
+      "id": "35860bf90c75a3ce3e3c41966ffd37e7",
+      "title": "Efficient Recommendations via Graph Coarsening and Label Propagation",
+      "description": "Graph-based recommendations are widely adopted in real-world industrial applications . However, graphs in these systems often reach a massive scale, posing notable scalability and efficiency challenges . This requires techniques that can effectively balance predictive quality with computational cost . One promising approach is graph coarsening, an adaptive graph reduction technique that offers a way to systematically construct smaller, yet structurally representative, versions of the original large-scale graphs .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22287",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-28T03:30:22.400228Z"
+    },
+    {
+      "id": "f9e984bbb98cfff55a197140c9f078bb",
+      "title": "Softmax: A Bayes Theory-Based Method for Long-Tailed Recognition",
+      "description": "Deep learning models using traditional softmax classifiers have achieved remarkable success in various classification tasks . However, their performance degrades significantly on imbalanced datasets . We propose the Class-Balanced Softmax (CBS) Rooted in a theoretical Bayesian framework and a heuristic power-law assumption, the CBS is a simple logit adjustment that is computationally inexpensive and easily integrated into existing pipelines . Extensive experiments on large-scale benchmarks show that CBS is highly scalable and outperforms existing methods .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22258",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-28T03:30:10.395662Z"
+    },
+    {
+      "id": "7d34449b635958318329b12785ef5d7b",
+      "title": "IFCLoRA: Topology-Aware Rank Allocation for Parameter",
+      "description": "Low-Rank Adaptation (LoRA) is a widely used parameter-efficient fine-tuning method for large language models . IFCLoRA builds a sparse task-conditioned interaction graph whose nodes represent LoRA-compatible modules . It combines a global information-flow topology prior with local gradient sensitivity to compute Information-Flow Centrality scores, which estimate each module's adaptation importance under multi-hop propagation . This summary highlights key aspects of",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22251",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-28T03:29:58.074700Z"
+    },
+    {
+      "id": "586a34a928b9fd7a9fdde5c959bf0604",
+      "title": "Optimization of time-consuming experimental conditions using pseudo-experimental data",
+      "description": "Bayesian optimization (BO) is an optimization method that sequentially proposes the next candidate explainable variables for optimizing target variables . When only a limited number of experimental data are available, the generated pseudo-experimental data may be of insufficient quality . PolyBO developed PolyBO to improve optimization time by generating high-quality pseudo-Experimental data even when the number of trials is limited . For a real-world material composition optimization problem, PolyBO reduced the optimization . time by a median of 96\\% .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22238",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-28T03:29:45.059473Z"
+    },
+    {
+      "id": "860853c8c7fc19e945241c90fb160f4f",
+      "title": "Latent PDE mapping for efficient physics-informed learning across",
+      "description": "Latent PDE mapping pulls back geometry-specific PDE residuals and boundary conditions to a predefined latent geometry via the deformation gradient . The Aliev-Panfilov PDE serves as a challenging exemplar: a nonlinear, time-dependent PDE benchmark with sharp gradients that are expensive to capture using traditional numerical solvers . The computational cost of applying latent PDE maps was modest during network training, and negligible at inference .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22215",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-28T03:29:33.125191Z"
+    },
+    {
+      "id": "3f50cb623835900149ee776267a1500f",
+      "title": "From Score Approximation to Distribution Approximate in Score-Based",
+      "description": "If a neural network approximates the true score function sufficiently accurately, then the probability distribution generated by the corresponding reverse diffusion model is close to the target data distribution in Kullback-Leibler (KL) divergence, up to an irreducible mismatch between the terminal distribution of the forward diffusion process and the prior used to initialize the reverse process . The resulting theorem provides a simple and explicit guarantee linking neural network approximation of score functions to approximation of the probability distributions generated by reverse diffusion models .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22199",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-28T03:29:20.488653Z"
+    },
+    {
+      "id": "119138ce1b82984952f6b9f4b36a23b7",
+      "title": "A Leakage-Free Stacked Ensemble Method for Multiclass Classification",
+      "description": "Multiclass classification is a fundamental problem across a wide range of domains . LFS-FRAME is a Leakage-Free Stacked ensemble framework that integrates functional learning using Kolmogorov-Arnold Networks and rule-based learning via XGBoost . The proposed framework constructs unbiased meta-features by employing a strict out-of-fold stacking strategy to ensure complete isolation between training and validation data hence preventing performance leakage .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22081",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-07-28T03:29:08.475616Z"
+    },
+    {
+      "id": "6e957064517a2e1eb4e922338d03083d",
+      "title": "CEL: Comprehensive Counterfactual Explanation Explanation Library and Benchmark",
+      "description": "Counterfactual explanations are a prominent approach in explainable artificial intelligence (xAI) The proposed benchmark aims to improve reproducibility, enable fair comparison, and establish a workbench for the development of future counterfactual explanation methods . CEL (Counterfactual Explanations Library) includes 18 datasets of varying size and complexity and provides implementations or reimplementations of 14 widely used methods . The evaluation protocol incorporates multiple complementary metrics capturing validity, coverage, sparsity, proximity, and distributional plausibility .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22045",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-28T03:28:55.055073Z"
+    },
+    {
+      "id": "25aef6260c8236c8f0715c5bfd3ca1f3",
+      "title": "Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills",
+      "description": "MetaEvolve is a framework designed to develop self-evolution skills via a data synthesis pipeline, evolution-aware reinforcement learning (RL) and inference-time evolutionary search . The framework outperforms the strongest baseline by 10.01% absolute on in-distribution tasks . On open-ended algorithm optimization problems entirely outside the training domain, it further achieves a 46.9% relative improvement . These results demonstrate that explicitly cultivating self evolution meta-skills offers a principled path toward more capable and autonomous autonomous AI .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21971",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-07-28T03:28:41.244181Z"
+    },
+    {
+      "id": "a93ee4717969813690b781f7e15fc04e",
+      "title": "CARNet Cycle-Conditioned Core Aggregation and Redistribution for Multivariate",
+      "description": "CARNet is a Cycle-Conditioned Core Aggregation and Redistribution framework that integrates global recurrent cycle information into efficient core based interaction modeling . CARNet consistently outperforms strong transformer and non-attention baselines across diverse prediction horizons, while preserving linear-complexity modeling of cross-variate dependencies . The framework is based on CARNet, a cycle-conditioned core aggregation and redistribution model . This summary highlights key",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21681",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-28T03:28:29.452296Z"
+    },
+    {
+      "id": "c598ff3d1f14ac1c8e34f16577949bf9",
+      "title": "Encoding Invisible Causation for Bridge Diagnostic Agents: Triple-Guided",
+      "description": "A Damage Cause Encoder classifies 10-class damage causes from visible damage descriptions $S_i$ for use in autonomous bridge diagnostic agents . QLoRA achieves the optimal trade-off: identical test accuracy (87.07%) to full-precision LoRA, 11% faster inference, 72% lower GPU memory, and superior generalization across diverse unseen inputs . These findings enable memory-efficient, high-accuracy diagnostic agents on consumer-grade hardware for edge deployment .",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.21680",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-28T03:28:16.381046Z"
+    },
+    {
       "id": "ae81dfaed4cbcb605696c9e6af3a9740",
       "title": "America\u2019s AI investment boom is Reshaping the economy",
       "description": "America's AI Investment Boom Is Reshaping the Economy . Artificial intelligence has become one of the defining investment stories in the U.S. Microsoft, Meta, Amazon and Alphabet are collectively committing hundreds of billions of dollars to AI infrastructure . Demand for advanced chips has turned NVIDIA into one of NVIDIA's top chip makers . The numbers continue to grow. AI News is a weekly feature on AI News from iReport.com .",
