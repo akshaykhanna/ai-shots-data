@@ -1,6 +1,256 @@
 {
   "news": [
     {
+      "id": "12ceb23ac35f79a6ca0ebfe866bb066c",
+      "title": "OpenAI open-sources Codex Security CLI to help developers",
+      "description": "OpenAI has released Codex Security CLI, an open-source tool that automatically detects and fixes vulnerabilities in code repositories . Previously known internally as \"Aardvark,\" the system has already helped fix more than 3,000 critical security flaws, according to OpenAI . It competes directly with Anthropic's Claude Security, as both AI companies race to match the growing automation of cyberattacks with AI-powered defense .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
+      "fullArticleLink": "https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-29T14:36:55.936941Z"
+    },
+    {
+      "id": "ee7c18d62cf39998d35b99e09baf5fbb",
+      "title": "Frontier AI developers urge international coordination to pace",
+      "description": "More than 1,200 employees from frontier AI companies have signed a statement urging the US government to back an international initiative . The goal is to develop the technical and governance tools needed to deliberately steer the pace at the frontier of automated AI development . Tools to coordinate across the frontier don't exist yet, the statement says . The list reaches deep into leadership ranks, including Google DeepMind's Chief Strategy Officer Jasjeet Sekhon .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Frontier-Pacing-title.png",
+      "fullArticleLink": "https://the-decoder.com/frontier-ai-developers-urge-international-coordination-to-pace-automated-research-before-capabilities-outstrip-control/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-07-29T14:36:38.373834Z"
+    },
+    {
+      "id": "6932c445fc2690791cc787f0599ab092",
+      "title": "GPT Transcribe can't catch ElevenLabs, Google, or Mistral",
+      "description": "GPT Transcribe handles pre-recorded audio files, processing them about 34 times faster than real time . GPT Live Transcribes is built for real-time streaming with low latency . Both models accept text as transcription context, keywords, and multiple input languages . Pricing drops 25 percent at the same time, landing at $0.0045 per minute of audio . The new transcription models complement OpenAI's recently announced Realtime model generation .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/openai_audio-1.png",
+      "fullArticleLink": "https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-07-29T14:36:23.971426Z"
+    },
+    {
+      "id": "51663b848e7570b356ed6911b3e9bd29",
+      "title": "Deepmind dismantles its AlphaFold team as key authors",
+      "description": "Google Deepmind has broken up the team behind AlphaFold, the Financial Times reports . The restructuring marks a sharp turn away from the strategy that put the lab on the map . The researchers are now working on projects built around Google's Gemini large language model, enzyme design, nuclear fusion, and genomics . Others transferred to Isomorphic Labs, the Alphabet subsidiary focused on drug discovery that was spun out of Deepmind in 2021 .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/AlphaFold-CASP-Title.jpg",
+      "fullArticleLink": "https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-07-29T14:36:07.093236Z"
+    },
+    {
+      "id": "b4d3a90f6379146974f563f12efbace1",
+      "title": "The AI Hype Index: Unsexy AI",
+      "description": "1X showed off a pair of new, impressively dexterous (and, to some, oddly sexy?) robotic hands in a July demo . While the tech community was sharply divided over the appeal of those disembodied hands, almost everyone can agree that a few things are decidedly not sexy . While it\u2019s not always the most popular technology, at least AI is paying off for one group: single chip workers in Korea, newly inundated with dating opportunities .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/JUL26-thumb.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-07-29T14:35:52.377103Z"
+    },
+    {
+      "id": "6be57bc8a2d3ac946fbe422d87331cf7",
+      "title": "Raven: High-Recall Sequence Modeling with Sparse Memory Routing",
+      "description": "Long-context recall in linear-time sequence models highlights a tradeoff in how they write to memory . Sliding-window attention (SWA) exhibits the opposite behavior: it writes sparsely by storing explicit token representations, so recall drops once the relevant token is evicted . Raven is competitive with or outperforms prior models . It remains effective when extrapolating to context lengths as large as 16x its training length .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25357",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-29T14:35:40.352432Z"
+    },
+    {
+      "id": "1ce7ed7b017912832a4323ce11759e62",
+      "title": "Explainable AI for Chronic Kidney Disease Prediction Using",
+      "description": "Chronic Kidney Disease (CKD) is characterized by the gradual loss of kidney function . Early detection is crucial for preventing severe complications and enhancing patient outcomes . Federated Learning (FL) with a VotingClassifier was used to predict CKD using a clinical dataset . The global model's average accuracy was 99%, highlighting the potential of interpretable FL models in supporting early CKD diagnosis and advancing data-driven healthcare solutions .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25348",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T14:35:30.109236Z"
+    },
+    {
+      "id": "c3abcca721a863ffc97563cb55233d20",
+      "title": "Guiding Posterior Exploration with Optimizer-Derived Geometry",
+      "description": "Sampling-based methods offer a principled approach to uncertainty quantification in Bayesian neural networks . Their practical use is often challenged by the computational cost of exploring high-dimensional and multimodal posterior distributions . We demonstrate curvature estimates computed during the warmstart as a byproduct in adaptive optimizers such as AdamW can inform the sampling phase at negligible additional cost . We confirm the consistency of our findings across various datasets and network architectures .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25312",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T14:35:19.542797Z"
+    },
+    {
+      "id": "50cddced5752f7fac63466abf8837773",
+      "title": "Retraction-Free Optimization over the Stiefel Manifold",
+      "description": "Optimization over the Stiefel manifold plays a significant role in various machine learning tasks . Existing methods either use the retraction operators, requiring costly orthonormalization for large-scale matrices, or employ landing methods that rely on careful step size selection and penalty parameter tuning . To address these challenges, we propose a retraction-free and penalty-free algorithm that directly lands on the manifold . Numerical experiments on benchmark datasets demonstrate the efficiency and strong downstream performance of the proposed method .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25299",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T14:35:07.793764Z"
+    },
+    {
+      "id": "160eb9097349c323bbf1594c14e8bd6e",
+      "title": "When Does Deep Representation Learning Help Single-Cell Clustering?",
+      "description": "Single-cell ribonucleic acid sequencing (scRNA-seq) is a foundational technology for precision-medicine workflows that contribute to UN Sustainable Development Goal 3 on Good Health and Well-being . Practitioners face a recurring engineering decision: is an additional deep representation stage worth its compute and tuning cost, or do classical principal component analysis (PCA) pipelines already suffice? We address this question with a diagnostic benchmark of nine clustering pipelines on ten real datasets .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25288",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T14:34:54.784049Z"
+    },
+    {
+      "id": "1e112b49c3e834cb0f51ee54db69e1e5",
+      "title": "HeAD-CP: Heterophily-Aware Diffused Conformal",
+      "description": "HeAD-CP is a family of node-wise diffusion variants whose coefficients are determined by a label-free local-homophily estimate derived from the GNN softmax . The post-hoc oracle over the family improves over DAPS on 8/10 datasets at $p<0.01$ (paired Wilcoxon), with the largest gains on heterophilic graphs (10.3% on Texas) This summary highlights key aspects of the latest developments. Industry analysts",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25273",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T14:34:42.581437Z"
+    },
+    {
+      "id": "71e4af788344c1a68d2f9dafed43c3cb",
+      "title": "Neurai-VN Benchmark: Standardized Machine Learning Models for Multimod",
+      "description": "Digital phenotyping (DP) using smartphones and wearable devices has shown considerable potential for mental health monitoring . Progress remains difficult to evaluate due to heterogeneous datasets, inconsistent preprocessing pipelines . We present a reproducible benchmark built upon the Neurai-VN dataset, a high-resolution, multimodal dataset . The benchmark defines four clinically relevant binary classification tasks evaluated using standardized subject-wise cross-validation .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25232",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T14:34:32.181760Z"
+    },
+    {
+      "id": "1f212813a71430e4c075dc02071ca484",
+      "title": "Algorithmic Separation between Constant- Depth and Logarithmic-Depth Neural",
+      "description": "In this work, we prove the first algorithmic separation between constant-depth and logarithmic-depth networks . We identify a class of Boolean functions with hierarchically structured Fourier spectra . We also exhibit a subclass for which every constant depth, polynomial-width network with sufficiently regular activations and controlled spectral norms must incur constant $L^2$ approximation error under the uniform distribution over the hypercube .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25200",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T14:34:21.491539Z"
+    },
+    {
+      "id": "5a58cad8e65b87dbcedcdd15985cf200",
+      "title": "CondPSE: A Polynomial-Filtered Structural Encoder with Cond",
+      "description": "CondPSE is a learned PSE encoder that applies a learnable polynomial graph filter bank to standard Gaussian node probes and refines the resulting structural-response branches through FiLM-style modulation conditioned on cross-filter, local message-passing, and graph-level signals . It raises CSL accuracy from 42.9% to 97.3% and EXP accuracy from 68.3%. This summary highlights key aspects of the latest developments. Industry",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25169",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T14:34:09.578635Z"
+    },
+    {
+      "id": "0c5a260d327060d726b61128c425932f",
+      "title": "Accurate structural modeling of chemically diverse molecular interfaces",
+      "description": "Vilya-2 is state-of-the-art at small-molecule docking, and generalizes to novel protein-small molecule complexes unlike those seen in training . It recovers 59.1% of peptide interfaces to sub-2 {\\AA} backbone RMSD, far exceeding performance of a representative co-folding model even when that model is given the bound receptor as a template . It can be used as a foundation model and fine-tuned to enrich for active compounds in hit-to-lead campaigns .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25156",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-29T14:33:55.849494Z"
+    },
+    {
+      "id": "185fc847e7bd237525fc0251399a2015",
+      "title": "Physics-Informed CNN-LSTM for Street-Scale Urban Flood Prediction",
+      "description": "Deep learning surrogate models trained with mean-squared error loss produce statistically accurate but physically unconstrained flood predictions . Water may flow uphill, appear spontaneously, or smooth over street-level corridors . We develop a physics-informed training framework for CNN-LSTM models that predict urban flood depths at 15 min intervals over a 128x128 spatial grid . The physics-constrained model achieves near-zero gravity violations (order 1e-6) and the highest street-channel recall .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25148",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T14:33:42.461266Z"
+    },
+    {
+      "id": "4754715e19d1a48497fb85d2fc58ceba",
+      "title": "GOHR Agents via Sparse Autoencoders . Interpretable GOHR",
+      "description": "A central challenge in interpreting learned decision-making systems is to determine whether their internal representations contain concepts that help explain their behavior . We report interpretability experiments for a tokenized autoregressive Transformer agent in the Game of Hidden Rules . Sparse autoencoders (SAEs) trained on the agent's decision-token embeddings recover this structure . SAE dimensions that are highly selective for a concept cover most decisions where that concept is present .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25132",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-29T14:33:30.599630Z"
+    },
+    {
+      "id": "fef467113ddd02bbf2687a134cb75925",
+      "title": "Semantic Space Search Trajectory Networks is a form",
+      "description": "Search Trajectory Networks (STNs) are a graph-based tool for visualizing and characterizing the behavior of optimization algorithms . We use semantic space STNs to study neural network generalization by contrasting standard training with the label randomization regime of Zhang et al. (2017) The resulting STNs exhibit consistent structural differences, training on real labels produces denser, more efficient and more centralized graphs than training on shuffled labels .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25122",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T14:33:18.852934Z"
+    },
+    {
+      "id": "345373e4ac95f499892aa0c9e8fc7f7a",
+      "title": "Conformal Cascade: Distribution-Free Accuracy Guarantees for Multi-Tier LLM",
+      "description": "Large language model (LLM) cascades reduce inference cost by routing easy queries to a small model . Conformal Cascade (CC) uses conformal prediction set size as the deferral rule: accept when the calibrated set collapses to a single answer, defer otherwise . The procedure delivers a distribution-free, finite-sample accuracy guarantee . Extension to open-ended generation requires an answer-clustering step that we leave for future work .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25018",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-29T14:33:06.758067Z"
+    },
+    {
+      "id": "effb59b88c68484685343c3cabd72c2f",
+      "title": "Calibrated Partial Resets: Preventing Policy Collapse in Continual",
+      "description": "Calibrated Partial Resets (CPR) is an optimizer that periodically pulls low-utility neurons toward their initialization . CPR avoids policy collapse over 400M training steps in SlipperyAnt . CPR outperforms prior decay and reset-based methods on Continual MetaWorld and Continual MinAtar benchmarks . Ablations reveal a tunable trade-off between plasticity and peak performance, highlighting utility-scaled reinitialization as a promising direction .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.24996",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T14:32:55.447696Z"
+    },
+    {
       "id": "e79225fe49e2188b9cf0e983c6353c74",
       "title": "Amazon reportedly scales back its Nova AI models",
       "description": "Amazon is scaling back most of its in-house Nova AI models, including Nova Premier, Omni, Reel, and Canvas . The models stay online for existing customers in \"keep the lights on\" mode but are no longer actively developed . Instead, Amazon is betting on a new Frontier Model Research group and a new foundation model set to debut at re:Invent this fall . Amazon reportedly scales back its Nova models and bets on new Frontier research team .",
