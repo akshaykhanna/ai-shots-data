@@ -1,6 +1,249 @@
 {
   "news": [
     {
+      "id": "e79225fe49e2188b9cf0e983c6353c74",
+      "title": "Amazon reportedly scales back its Nova AI models",
+      "description": "Amazon is scaling back most of its in-house Nova AI models, including Nova Premier, Omni, Reel, and Canvas . The models stay online for existing customers in \"keep the lights on\" mode but are no longer actively developed . Instead, Amazon is betting on a new Frontier Model Research group and a new foundation model set to debut at re:Invent this fall . Amazon reportedly scales back its Nova models and bets on new Frontier research team .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/amazon_logo.png",
+      "fullArticleLink": "https://the-decoder.com/amazon-reportedly-scales-back-its-nova-ai-models-and-bets-on-a-new-frontier-research-team/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T03:34:10.333326Z"
+    },
+    {
+      "id": "abaa59d6c83460a26d357ef8cbed63e1",
+      "title": "Anthropic says its model found vulnerabilities in cryptographic",
+      "description": "Anthropic's Claude Mythos Preview found weaknesses in key cryptographic algorithms, including a better attack on HAWK, a post-quantum signature scheme that human experts had reviewed for more than two years . The model found it in just 60 hours at an API cost of about $100,000 . The findings don't affect systems in use today, but they show how AI could challenge core assumptions behind internet security, Anthropic says .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_cybersecurity.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-29T03:33:58.971031Z"
+    },
+    {
+      "id": "dd85926bdca156793bc9104b1a6ff420",
+      "title": "AlloBench: Measuring Online Tool Allocation Capability in LLM",
+      "description": "Every frontier model we test acts near-optimally in the abstract framing but fails to transfer this ability to script-writing . The first three models fail even when the scripts are not evaluated, while GPT-5.6 Sol stays selective under that weaker manipulation and collapses only at full construction . Together, these results establish online tool allocation as a significant capability boundary, even for modern frontier models . arXiv:2607.23332v1",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.23332",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-29T03:33:44.310059Z"
+    },
+    {
+      "id": "6b3d5663410769484214fb3e84e31bcb",
+      "title": "FILLER: Feature Imputation via Latent Location Exploration",
+      "description": "FILLER is a feature imputation method that deliberately searches the two-dimensional latent space produced by a generative model and fills the missing values with appropriate entries . It has been compared against existing state-of-the-art solutions in terms of RMSE, PSNR, and SSIM . This work also presents a mathematical proof on the convergence of the iterative search . It also presents the mathematical proof .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.23295",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T03:33:33.232307Z"
+    },
+    {
+      "id": "6f784760094a312433d86e5f1392e8d1",
+      "title": "StageGuard: Physically Constrained Sleep Staging . StageGuard",
+      "description": "Automated sleep staging is increasingly used in large-scale studies to derive sleep-architecture endpoints . We propose StageGuard, a plug-and-play, backbone-agnostic structured-inference framework that wraps any neural sleep-staging backbone with physiology-informed priors . StageGuard constrains staging outputs to satisfy known physiological priors rather than modeling sleep generatively . It admits rare transitions when emission evidence is overwhelming, leaving informative pathological events recoverable rather than blocked .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.23284",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-29T03:33:20.596370Z"
+    },
+    {
+      "id": "02c7b5ee8d1be79427109ea092793ae1",
+      "title": "Context-Aware Concept Distillation for Trustworthy Flood Prediction",
+      "description": "Effective flood risk management relies on accurate forecasting, yet the \"black box\" nature of stateof-the-art Deep Learning models creates a barrier to trust and accountability in high-stakes public safety decisions . We introduce an unsupervised pipeline to discover a \"Hydrological Language\" and a Residual Hypernetwork that dynamically modulates these concepts based on static basin characteristics . Evaluated on 5,203 basins globally, our model achieves high fidelity (Median NSE 0.70)",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.23237",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-29T03:33:08.917143Z"
+    },
+    {
+      "id": "8cf46a6b9ad988cfb5437ac5a0701d59",
+      "title": "Domain-Prior-Regularized Graph Modeling for Anomaly Detection in Cyber-Physical",
+      "description": "Anomaly detection on multivariate sensor time series is critical for industrial monitoring of cyber-physical systems . DPR-GM leverages a large language model (LLM) to extract directed physical couplings between sensor pairs from system documentation . This gate is then modulated by Pearson correlations estimated from normal training data . The anomaly score is further weighted by sensor-level reliability derived from the coefficient of variation . On the SKAB benchmark, DPR-GP outperforms graph-based, statistical, and deep learning baselines across F1, AUROC, and AUPRC .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.23197",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-29T03:32:55.609824Z"
+    },
+    {
+      "id": "7e68d85a489875b0b5e010212b53ff0e",
+      "title": "Wrong Design Intent Is Worse Than None",
+      "description": "Study CADCON, a five-feature design-intent header prepended to CadQuery-style sketch-extrude programs during LoRA fine-tuning of Qwen2.5-Coder-1.5B . A semantically wrong header degrades adherence below the no-header baseline on design intents the model can render . The harm is regime-specific -- at 0% prefix the unconditioned baseline cannot generate valid CAD at all . This summary highlights key aspects of the",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.23191",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-29T03:32:42.836716Z"
+    },
+    {
+      "id": "d30a55ed76be862b1f22ddf585a15680",
+      "title": "In-Context Learning as Implicit Policy Gradient . In-context",
+      "description": "Score-conditioned In-Context Learning admits a structural correspondence to policy gradient optimization . The correspondence is directional in hidden-state space and holds exactly only under the stated simplifying conditions . We also derive an exact upper bound on the distribution shift induced by a bounded attention update, yielding a trust-region-like analogy to KL-constrained policy optimization . We validate our theory through extensive experiments across multiple LLMs .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.23153",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-29T03:32:32.326328Z"
+    },
+    {
+      "id": "b35c8d5ff3e7efa121fa6a169f3c2c8c",
+      "title": "Through the Bottleneck: How Multi-head Latent Attention Separates",
+      "description": "Multi-head Latent Attention (MLA) compresses key-value pairs through a shared low-rank bottleneck (cKV), achieving 81% KV-cache reduction during inference . No prior work has studied what information this bottleneck preserves or discards, nor how it reshapes internal transformer circuits . Findings suggest MLA does not merely compress attention passively, but reshapes how the model organizes content, position and circuit structure .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.23054",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-29T03:32:21.014735Z"
+    },
+    {
+      "id": "d6c1f9ada76badc19624bf1ea2086839",
+      "title": "The Entropic Bound for Transformers: Why Static Rank",
+      "description": "We study this through the Entropic Bound, a spectral notion of task-intrinsic capacity for Transformers . We first prove that, in a linear attention surrogate, the intrinsic rank $r^*$ of the token-mixing operator is a tight lower bound . We further show that gradient descent recovers this rank under standard low-rank implicit-bias assumptions . We then ask whether this transfers to real attention .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.23050",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-29T03:32:08.748489Z"
+    },
+    {
+      "id": "417e5c0435531d33d8e81113ffdbed40",
+      "title": "MixQuant: Adaptive Mixed-Precision Quantization for Large Language Models",
+      "description": "MixQuant is a technique-agnostic adaptive framework that wraps any base quantizer . A single greedy pass then serves any budget at deployment . MixQuant outperforms adaptive and mixed-precision baselines in every setting . It improves average accuracy by up to 8 points and reduces perplexity from 12.43 to 10.70 at the tightest budget, while matching an ILP solver at negligible deployment cost .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.23047",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-29T03:31:57.020658Z"
+    },
+    {
+      "id": "830701e3675f6f6ee0d4c8276fbd1f9f",
+      "title": "Recycling computational processes of dynamic programming for combinatorial",
+      "description": "Reusing previously computed results is a long-standing principle for reducing computational cost . We propose a method that uses computation results recorded by dynamic programming for combinatorial optimization problems as features for linear regression . Multiplexing the dynamic programming process improves approximation accuracy over generic features and reduces computation time compared with independent solutions . These results suggest a new form of computation, distinct from conventional computational design, in which multiple processes efficiently share and recycle intermediate results and states .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.23009",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T03:31:46.479297Z"
+    },
+    {
+      "id": "9539ed2d45906cbb93fadf2e1d8f3501",
+      "title": "Verbalized Particle Posterior: Bayesian Inference over Natural Language",
+      "description": "Verbalized Machine Learning (VML) parameterizes a model as a natural-language prompt that an LLM evaluates as f(x; theta). The framework is interpretable, but it commits to a single hypothesis with no measure of uncertainty . In classical Bayesian learning, model selection sits outside the posterior . In VPP both model structure and parameters share a single language space, and the posterior ranges over both .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22961",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-29T03:31:34.855436Z"
+    },
+    {
+      "id": "efb577aa25183275ea91170e3e8a868d",
+      "title": "Hidden Boundary Motion in Transformer Optimization: Function-Space Orthogonalization",
+      "description": "Weights and biases do not represent separate functions when input to an affine layer has nonzero mean . We decompose each update into a centered, sample-varying shape component and a shared \\emph{boundary} component . We implement a diagnostic optimizer, Shape--Boundary Orthogonal AdamW (SBO-AdamW) that optimizes $g_W-g_b\\mu^\\top$ and $g-b$ with independent Adam states and compensates the weight-induced boundary displacement . This",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22927",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-29T03:31:20.488226Z"
+    },
+    {
+      "id": "37c7bcc41ff61bf2e9241e02c9612144",
+      "title": "Spatial Prediction of Soil Microplastics and Organic Matter",
+      "description": "Graph Attention Networks (GATs) used to model spatial dependencies among 91 georeferenced soil samples . The final model showed strong performance, achieving RMSEs of 625.06 ($R^2 = 0.87$) for microplastics and 0.43 for organic matter . Cross-validation results revealed limited generalization, probably due to the small sample size and sparse graph structure . These findings demonstrate the potential of GATs for spatial soil prediction .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22875",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T03:31:09.045523Z"
+    },
+    {
+      "id": "f196f159c9fae632660180e095a6e932",
+      "title": "Same Predictions, Different Reasons: The Effect of Quantization",
+      "description": "Post-training quantization (PTQ) has become a practical solution for deploying deep learning models on resource-constrained edge devices . DenseNet161 maintains strong feature consistency across both precision levels . EfficientNet-B0, despite achieving competitive spatial attention and classification accuracy at INT8 precision, exhibits a substantial degradation in input-level feature attribution . These findings have direct implications for the trustworthy deployment of quantized models in applications with high interpretability requirements .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22872",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-29T03:30:57.400559Z"
+    },
+    {
+      "id": "e0f5e17d418c3b8217e08196b049224a",
+      "title": "QFedPolyp: A Communication- and Inference-Efficient Federated Learning",
+      "description": "Centralized deep learning requires hospitals to share sensitive medical data . Federated learning preserves privacy but introduces high communication costs . QFedPolyp combines quantization-aware training with low-precision model communication . Uni-form 8-bit communication reduces transmission cost by approximately 4 times while preserving competitive segmentation accuracy . Quantized models achieve up to 1.5 times faster inference . The resulting lightweight models are suitable for real-time clinical deployment .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22743",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-29T03:30:45.875696Z"
+    },
+    {
+      "id": "f096dcac11060ca3dd315310c1ab70cf",
+      "title": "Progress-conditioned Group Policy Optimization for Long-Horizon Agentic Tasks",
+      "description": "Progress-conditioned Group Policy Optimization (ProGPO) uses first-visit observation coverage only when all samples in a group receive zero outcome rewards . ProGPO assigns higher relative advantages to trajectories or steps that visit more new states since reaching new observations is a prerequisite for task success . Experiments on two challenging agentic benchmarks, ALFWorld and WebShop with Qwen22.5-1.5/7B-Instruct, show that ProGpo consistently improves over group-based baselines .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22724",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-29T03:30:33.495872Z"
+    },
+    {
+      "id": "77cba80bf5c9dbe1af20d10d6adf4003",
+      "title": "CausalGate: Causal Importance Distillation for Transformer Module Pruning",
+      "description": "CausalGate isolates individual Attention and MLP sub-layers, zeros out their respective outputs, and measures the exact semantic damage via the Kullback-Leibler divergence of the final logit distribution . To eliminate runtime routing overhead, this structural importance hierarchy is distilled into a global set of static, lightweight scalar gates using an Exponential Moving Average smoothing objective paired with a differentiable pairwise ranking loss . Evaluated on TinyLlama-1.1B, Qwen2.5-3B and Llama-3.1-8B across language modeling and commonsense reasoning benchmarks .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.22720",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-29T03:30:19.342609Z"
+    },
+    {
       "id": "1660d85584afa53aaf50450595ef9001",
       "title": "Armenia\u2019s AI Bet Is Not Chip Manufacturing. It",
       "description": "Armenia\u2019s AI Bet Is Not Chip Manufacturing, It Is Compute Sovereignty . Armenia has become a consumer of different AI products akin to Clideo subtitles generator for video editing, or giants like OpenAI . Armenia is not a big country. It's not a wealthy country. And yet, it has entered the headlines of global news for several reasons, not the least . The post: Armenia's AI bet is not chip manufacturing. It is Compute sovereignty.",
