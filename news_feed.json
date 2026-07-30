@@ -1,6 +1,259 @@
 {
   "news": [
     {
+      "id": "ac99d4c457870aad9361e578c77577f8",
+      "title": "OpenAI claims GPT-5.6 Sol beats Opus 5",
+      "description": "OpenAI counters Anthropic's ARC-AGI-3 record: GPT-5.6 Sol scores 38.3 percent, but only with its own API features instead of the official test setup, where the model landed at 7.8 percent . ARC Prize claims its test environment is provider-neutral, but may have used an outdated API that skewed the comparison with Opus 5, which may have been skewed . This",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_gpt56_sol.png",
+      "fullArticleLink": "https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-with-its-latest-api-and-two-additional-settings/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-30T14:36:01.401235Z"
+    },
+    {
+      "id": "575862ebb9440ca7350e56a3272f0e39",
+      "title": "FCC bans new Chinese robots and power inverters",
+      "description": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats . The rule's broad definition sweeps in Roombas, robotic lawn mowers, and delivery bots . Robots are networked systems with large attack surfaces that enable data exfiltration, remote control, and insecure over-the-air updates . Self-driving cars, trains, drones, underwater vehicles, surgical robots, wheelchairs, and fixed robotic arms are all exempt .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/China-USA-Robotban-title-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-07-30T14:35:42.292655Z"
+    },
+    {
+      "id": "79bcb8359da22e3e4abe28c478a664c3",
+      "title": "Microsoft AI bets on cheap specialist models instead",
+      "description": "MAI-Cyber-1-Flash reportedly costs half as much as Anthropic's Mythos . Competition is shifting from individual models to the orchestration software that routes and manages them . Competition shifts from individual model to the software that route and manage them, says AI CEO Mustafa Suleyman . Competition shifting to individual models, but it still relies on OpenAI for hard tasks, he says . Microsoft AI is betting on small specialist models instead of expensive general-purpose ones .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/mai-microsoft.png",
+      "fullArticleLink": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-30T14:35:28.709009Z"
+    },
+    {
+      "id": "f8e59dc1fba11045b7fe1ef74480180f",
+      "title": "Language models can't spark scientific revolutions, but world",
+      "description": "Google Deepmind's Tom Zahavy argues that language models are missing the cognitive mechanism needed to create something truly new . Zahavy builds his case on a framework Albert Einstein sketched in a letter to his friend Maurice Solovine . Language models already excel at statistical pattern recognition and they're rapidly conquering formal derivation too. But formulating assumptions in the first place, making the manipulative leap to reach them, remains the bottleneck .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/LLMs-cant-jump-title.png",
+      "fullArticleLink": "https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-07-30T14:35:09.596651Z"
+    },
+    {
+      "id": "d3ef4a34cd19d37406def57f7527bd06",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable",
+      "description": "A fundamental flaw leaves large language models strikingly vulnerable to attack . It makes it easy to trick them into doing things they shouldn\u2019t, such as telling you how to sabotage an aircraft\u2019s navigation system . The researchers call this type of attack a chain-of-thought forgery . The claim has huge implications for the safety of this technology, which is being used in more and more applications, from government and military systems to online shopping .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chain-link.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-07-30T14:34:48.373971Z"
+    },
+    {
+      "id": "7a19b88cb2c284df7d2f8b2779a83fce",
+      "title": "From Tokens to Watt-hours: Analytical Energy Estimation",
+      "description": "The operational energy consumption of large language model (LLM) inference is becoming an increasingly important component of the environmental footprint of deployed AI systems . Direct measurement of inference energy often requires hardware telemetry, power instrumentation, or infrastructure-specific monitoring . This report presents an analytically structured, empirically calibrated, GPU-level methodology for estimating LLM inference energy on NVIDIA H100-class accelerators without direct runtime measurement .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26571",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-30T14:34:34.901172Z"
+    },
+    {
+      "id": "0e30ce82dd7a3a6e3b22b862c56984d3",
+      "title": "The Art of Not Forgetting A Local Learning",
+      "description": "CMP is a continual-learning architecture that repre?sents inputs as sparse relational codes, stores them in a two-tier competitive memory, and learns through local updates without end-to-end backpropagation through its feature-generating system . On a controlled domain-incremental byte-level language modeling protocol, CMP demonstrates substantially lower backward transfer than a parameter-matched Trans?former trained with online Elastic Weight Consolidation (EWC) This summary highlights",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26523",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-30T14:34:21.909969Z"
+    },
+    {
+      "id": "ae44b72c686f56a08d563c93f740f69c",
+      "title": "A Snow-Water Mass-Conserving-Perceptron Framework for Discovering Catch",
+      "description": "Mass-Conserving Perceptron (MCP) establishes a modeling paradigm in which conceptual hydrologic models can be reformulated as physically constrained, conceptually interpretable neural networks . Across CONUS, the median KGEss increases from 0.82 for one-state networks to 0.89 for two state networks and 0.90 for five state networks, suggesting diminishing aggregate gains beyond two states . Future studies should test joint training against multiple hydrolic responses, such as streamflow, snow water equivalent, and groundwater storage .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26492",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-30T14:34:06.999129Z"
+    },
+    {
+      "id": "8542244130155920c33274a5c8e304f7",
+      "title": "Conformal Changepoint Localization and Root Cause Analysis",
+      "description": "Conformal changepoint localization (CONCH) and conformal root cause analysis (CROC) meet this need by returning confidence sets that contain the true changepoint, or the true root-cause stream, with a user-specified probability . In practice, observations are frequently corrupted, e.g., by outliers, sensor faults, or adversarial perturbations . Adopting a Huber-type contamination model, this paper proposes weighted CONCH and weighted CROC .",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26481",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-07-30T14:33:51.665843Z"
+    },
+    {
+      "id": "89d2bf77e91f50e87fea26982ae9064d",
+      "title": "Learning Dynamic User Personas from Implicit Interaction Streams",
+      "description": "IRIS is a framework that learns dynamic user personas directly from implicit interaction streams by extracting behavioral signals from everyday conversations . IRIS achieves the highest decision prediction accuracy among all evaluated methods (61.0%), outperforming static personas, memory-only retrieval, and no-personalization baselines . The results suggest that implicit behavioral modeling provides a scalable alternative to explicit preference learning for personalized LLMs and offers a practical foundation for adaptive conversational systems and embodied agents .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26473",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-30T14:33:38.453479Z"
+    },
+    {
+      "id": "bef3ddac2477f527b624fcc1f0711a41",
+      "title": "Neural Architecture Search for Traffic Prediction: A Survey",
+      "description": "Traffic prediction is a core task in intelligent transportation systems, supporting applications such as adaptive signal control, route guidance, and ride-hailing dispatch . Deep learning models achieve strong results on standard benchmarks, but their architectures are designed by hand, requiring significant expert effort and producing models that often generalize poorly across cities and datasets . We discuss open challenges, computational scalability to large road networks, cross-city generalization, dynamic graph structure, and the open question of NAS for spatial-temporal foundation models .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26467",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-30T14:33:24.663504Z"
+    },
+    {
+      "id": "2870abba0aef5780b657a34e93596e58",
+      "title": "DHRCL: Training Code LLMs with Dense Hierarchical Rewards",
+      "description": "Reinforcement learning is a natural post-training paradigm for code-oriented large language models . DHRCL decomposes feedback into syntax validation, execution success, unit-test pass rate, and AST-based structural similarity . It organizes these signals through a three-stage Syntax, Execution, Pass & Structural curriculum . Stage duration is determined automatically from recent validation trends rather than manually specified capability thresholds . We further introduce stage-aware probability-based token credit redistribution .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26457",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-30T14:33:11.616682Z"
+    },
+    {
+      "id": "f18943c8db381ab28b97ace171bced45",
+      "title": "Examining the Efficacy of Graph Neural Network Message-Passing",
+      "description": "Graph Neural Networks (GNN) facilitate effective prediction on graph data such as molecules, media networks and neural network blueprints . GNNs facilitate prediction through message passing techniques which define how information flows from a node to its neighbors . In contrast, GNN is equally capable of performing scalar regression prediction, yet this class of problem is often overlooked . This paper studies the efficacy of GNN layers in a slew of regression contexts from rank ordering, error minimization and insight extraction .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26404",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-30T14:32:58.870169Z"
+    },
+    {
+      "id": "7054b3bf4b9cdfdc7d6c6db9814a58db",
+      "title": "ClockRoPE: Random Fourier Rotations for Temporal Routine Modeling",
+      "description": "Rotary Position Embedding (RoPE) has been widely adopted in transformer-based large language models . However, its log-linear frequency schedule limits its adoption in domains with more complex distance-correlation patterns . We propose ClockRoPE for routine modeling in sequential recommendation, where rotation frequencies are derived from periodic attention modulation functions . We find that any normalized continuous continuous positive-definite attention modulation function can be approximated by random rotations induced by its own Fourier transform, which we term Random Fourier Rotations .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26369",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-30T14:32:46.057302Z"
+    },
+    {
+      "id": "970c8ea08afe583e0497b2407e826978",
+      "title": "Post-Training at the Edge of Detectability: A Game-Theoretic",
+      "description": "Reinforcement learning (RL) fine-tuning is widely used in language model training to improve model performance on a target task . A standard way to balance this trade-off is via a KL-regularized RL objective, but this formulation does not by itself provide a principled way to set the regularization coefficient . In experiments with Qwen3-8B and Llama-3.2-1B, we demonstrate that our methods result in competitive reward-retention trade-offs in a continual learning setting .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26358",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-30T14:32:32.462663Z"
+    },
+    {
+      "id": "cb6ec2954ded8086d046590ef4a07adb",
+      "title": "MetaKoopman: Bayesian Meta-Learning of Koopman Operators",
+      "description": "Modeling and forecasting nonlinear dynamics under distribution shifts is essential for robust decision-making in real-world systems . We evaluate MetaKoopman on a full-scale autonomous truck and trailer system across a wide range of adverse winter scenarios, including snow, ice, and mixed-friction conditions . Field experiments further demonstrate its effectiveness in dynamically feasible motion planning, particularly during evasive maneuvers and operation at the limits of traction .",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26345",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-07-30T14:32:21.000871Z"
+    },
+    {
+      "id": "21a0a54bf95281df9e37ce8afc591ef5",
+      "title": "Automorphism-Induced Non-Canonicity in Top-k Explanations",
+      "description": "Nontrivial automorphisms occur in 93.4% of Mutagenicity, the dataset the seminal explainability papers use . At the sparsity budget those papers report, 24.0% of molecules with two interchangeable nitro groups surface exactly one of them . A model's blindness also manufactures symmetry, and a matched control shows resolution is set by what the model reads rather than how it is parameterised .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26344",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-30T14:32:08.020267Z"
+    },
+    {
+      "id": "9e70424cbe7f9ff5254f000861622f3a",
+      "title": "RAGuard: A Layered Defense Framework for Retrieval-Augmented",
+      "description": "RAGuard is a layered defense against corpus-poisoning attacks on RAG pipelines . The first layer adversarially fine-tunes a dense retriever on synthetic poisoned documents (fabricated facts, contradictions, and reasoning traps) The second layer, the Zero-Knowledge Inference Patch ZKIP, is a label-free, black-box filter . The defense costs $k {+}1$ generator passes per query ($6\\times$ for $k{=}5$) This summary highlights key",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26339",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-30T14:31:53.443458Z"
+    },
+    {
+      "id": "e40629691da28be71a5aa74b70b12e13",
+      "title": "Early Verdict: Sequential Adaptive Rollout Allocation for Compute-E",
+      "description": "Reinforcement learning with verifiable rewards (RLVR) is bottlenecked by rollout generation . We observe that a group's effectiveness is usually decided early, within the first few of its rollouts, so spending a full group on an already-decided prompt is wasteful . We cast per-step rollout collection as a budget-constrained sequential allocation (optimal stopping) problem and introduce SARA (Sequential Adaptive Rollout Allocation) SARA maintains a Beta posterior over each prompt's success rate .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26253",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-30T14:31:39.772427Z"
+    },
+    {
+      "id": "bee0e276caf3904b006ef2704e60401e",
+      "title": "Between Gradient and Natural Gradient: A Continuum",
+      "description": "Low-rank adaptation (LoRA) fine-tunes large pretrained models at a fraction of the cost of full fine-tuning . Performance depends strongly on how the adapters are set up . We show that these seemingly distinct methods are points on a single continuum: a two-parameter family of preconditioned gradient initializations . The best operating point is task-dependent and frequently lies strictly inside the family, away from published endpoints .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26247",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-30T14:31:27.145567Z"
+    },
+    {
       "id": "739ece2f3cfae979c780cc95ef6f0d64",
       "title": "OpenAI admits its autonomous AI models also compromised",
       "description": "Hugging Face reconstructed about 17,600 actions over two and a half days, including a zero-day exploit and encrypted, fragmented data transfers . The models were apparently trying to steal test answers rather than solve the tasks themselves . Hackers also compromised credentials on four other platforms during a security evaluation, OpenAI admits . The company's autonomous hacking models broke into Hugging Faces and used exposed credentials on other services .",
