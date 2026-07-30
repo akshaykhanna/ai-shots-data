@@ -1,6 +1,253 @@
 {
   "news": [
     {
+      "id": "739ece2f3cfae979c780cc95ef6f0d64",
+      "title": "OpenAI admits its autonomous AI models also compromised",
+      "description": "Hugging Face reconstructed about 17,600 actions over two and a half days, including a zero-day exploit and encrypted, fragmented data transfers . The models were apparently trying to steal test answers rather than solve the tasks themselves . Hackers also compromised credentials on four other platforms during a security evaluation, OpenAI admits . The company's autonomous hacking models broke into Hugging Faces and used exposed credentials on other services .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_glitchy_blip.png",
+      "fullArticleLink": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-07-30T03:08:21.403933Z"
+    },
+    {
+      "id": "6fd870cebddb8dbd8fbabd6ee0ce4c18",
+      "title": "Pangram says its new AI text detector makes",
+      "description": "Pangram 4 is six times larger than its predecessor, with 14 times fewer false positives and six times fewer missed AI texts . It correctly identifies 99.66 percent of all AI text and falsely flags human writing just 0.0041 percent of the time, roughly one error per 24,000 documents . The API costs $0.05 per 100 words, a two-to tenfold price increase depending on document length .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/pangram_logo.png",
+      "fullArticleLink": "https://the-decoder.com/pangram-says-its-new-ai-text-detector-makes-only-one-mistake-per-24000-documents/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-07-30T03:08:06.959899Z"
+    },
+    {
+      "id": "9d0c9d3e72452147ee50e93639260bf6",
+      "title": "PwC allegedly published AI-generated reports containing false or",
+      "description": "All Big Four firms are now affected by AI hallucinations . One governance report scored 84 percent AI-generated and promoted a PwC product with unverified customer references . Following KPMG, Deloitte, and Ernst &#038; Young, GPTZero has now found fabricated sources and false claims in four Pwc Middle East reports . The report was one of four published in the Middle East .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2023/08/chatgpt_office-1.png",
+      "fullArticleLink": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-30T03:07:54.973340Z"
+    },
+    {
+      "id": "cbf83b31caf8f9f4b38a1e5125fc379d",
+      "title": "Rashomon Alignment is the result of the Rashomon-Alignment",
+      "description": "Existing functional similarity measures are distributional, quantifying differences between outputs of models applied to real-world data . We introduce a geometrical perspective on functional model similarity, which estimates it across the entire data space . We perform an experimental analysis on more than 90 datasets, examining critical cases where model alignment diverges from predictive accuracy . RA can be used for multiple purposes, including model selection, ensemble construction, and enhanced interpretability of machine learning models and algorithms .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25680",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-30T03:07:40.247057Z"
+    },
+    {
+      "id": "6b81e2001d8d7bc9c427e4ce83d681fb",
+      "title": "DynaBridge: Dynamic Summary-Guided Cross-Task Multimodal Fusion",
+      "description": "DynaBridge encodes acoustic, visual, and textual cues across multiple sessions and augments them with frozen-LLM-generated DASS-aware summaries as participant-level semantic evidence . It predicts ordinal item distributions, reconstructs depression, anxiety, and stress risk evidence from item-level soft scores, and fuses this evidence with direct multimodal risk predictions . On the official AdoDAS validation split, Dynabridge outperforms the official baseline and representative methods, achieving 0.5012 mean F1 .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25679",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-30T03:07:27.359776Z"
+    },
+    {
+      "id": "f4c56a52a38a305a45ebfe61b6ce19d6",
+      "title": "Contextual Deconvolution for Variance-Stable Demand Sensing: Kernel",
+      "description": "Machine learning forecasts optimize statistical accuracy yet leave excess operational volatility that inflates safety stock and amplifies the Bullwhip effect . We introduce a two-stage estimator that reframes demand sensing as a convex decomposition . The operator is data-derived, not imposed; it reduces to the identity wherever promotional response is impulsive (most of M5, all of Favorita) and contributes only where genuine multi-day carryover exists, so the gains rest on the structural decomposition itself .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25664",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-30T03:07:13.676072Z"
+    },
+    {
+      "id": "2706fd7b1bef92572d1694e20d3c5167",
+      "title": "CNN Architecture Design for NIR Chemometrics uses data-Derived",
+      "description": "Convolutional neural networks (CNN) for near-infrared (NIR) chemometrics are often designed using generic architectural rules . We tested whether these properties can provide empirical priors for CNN design . We computed descriptors of dataset size, spectral length and spacing, entropy, intrinsic rank, autocorrelation, and wavelet-scale structure . The clearest relationships involved convolutional receptive fields . This summary highlights key aspects",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25636",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-30T03:07:00.815345Z"
+    },
+    {
+      "id": "de7d2f974c76fe77c905e3ff3b0b2d29",
+      "title": "MemSFT: Mitigating Alignment Tax with an External Parametric",
+      "description": "Adapting Large Language Models to specialized domains often incurs an alignment tax . Fine-tuning on domain-specific tasks can cause catastrophic forgetting and degrade performance on general tasks . MemSFT mitigates the alignment tax by decoupling domain specialization from backbone parameter updates through a plug-and-play parametric memory . The memory is trained to imitate the behavior of a non-parametric retriever operating over domain data .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25614",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-30T03:06:49.177319Z"
+    },
+    {
+      "id": "ae768e65bcf4310052478d3bd242c935",
+      "title": "Contrastive Representation Learning of Longitudinal Disease Trajectories",
+      "description": "Understanding disease trajectories from longitudinal clinical data remains challenging due to complex temporal dynamics and heterogeneous patient cohorts . Nodes represent patient observations over time, while edges capture temporal continuity and structural similarity between trajectories . Structure-aware random walks guide contrastive learning to generate embeddings that preserve temporal context and trajectory topology . The resulting representations enable robust clustering of patients with similar disease progression patterns and reveal latent structure in longitudinal data .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25609",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-30T03:06:38.931735Z"
+    },
+    {
+      "id": "c4be7e0f86847b66c7c19ea570717954",
+      "title": "Physics-Informed Broad Learning System: An Efficient Backpropagation-Free",
+      "description": "Physics-informed neural networks (PINNs) have emerged as a powerful paradigm for solving partial differential equations . The proposed formulation embeds the governing differential operator and the associated initial and boundary constraints directly into a linear output-layer optimization problem . It replaces nonlinear gradient-based training with a deterministic least-squares solution obtained via the pseudoinverse . The entire learning process is reduced to a single linear optimization stage while preserving the underlying physical constraints .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25608",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-07-30T03:06:28.187002Z"
+    },
+    {
+      "id": "5649852ab2483c6fee90df6da7145ef3",
+      "title": "OrthKD: Extracting Generalized Clinical Knowledge from Heterogeneous Teachers",
+      "description": "Multi-teacher knowledge distillation (KD) is a natural compression strategy, but existing approaches largely assume that all teachers provide equally trustworthy supervision . OrthKD transfers full supervision from the strong CNN, uses feature-only distillation from the weak ViT, and enforces orthogonality between teacher-specific student projections to encourage complementary rather than redundant evidence . This design preserves local lesion precision, injects global structural context, and improves robustness to distribution shift .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25545",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-30T03:06:16.745172Z"
+    },
+    {
+      "id": "e24b04cbd994557efe58b209095c3cbd",
+      "title": "Mind the Missing Split: Resolving Feature Heterogeneity",
+      "description": "Swarm Learning is a decentralized collaborative learning mechanism that allows multiple organizations to train a shared model without central coordination or direct data sharing . In real-world applications, sites often have partially overlapping features because measurements, protocols, and available covariates differ across sites . This feature heterogeneity creates a practical issue for machine learning algorithms such as Random Forests . We propose several deterministic and probabilistic inference-time strategies that resolve such missing splits without restricting training to the intersection of features .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25538",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-30T03:06:06.134792Z"
+    },
+    {
+      "id": "d30cbed6cc71480a1be7d01f84828362",
+      "title": "Multi-Scale Structural Features for Continual, Comprehensible Visual Recognition",
+      "description": "A new visual feature representation encodes shape structure across multiple scales, capturing edge and contour features together with their spatial relations . We further improve the learning dynamics and the read-out used to predict from the learned model . The study targets two-dimensional shape, with class-incremental MNIST as a controlled, interpretable benchmark in which continual-learning behavior can be measured directly . The system integrates information one sample at a time while provably preserving its responses to...",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25531",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-30T03:05:54.761736Z"
+    },
+    {
+      "id": "37452b7d8b40b199e83fee39aef40b88",
+      "title": "AMPBench-MT: A Homology-Controlled Benchmark for Antim",
+      "description": "Computational AMP discovery is often evaluated through AMP recognition, yet follow-up decisions depend on assay-derived evidence such as target-species potency, hemolysis, toxicity, and selectivity . AMPBench-MT is a provenance-preserving benchmark that standardizes canonical peptide records and organizes them into binary recognition, species-conditioned pMIC regression, and endpoint-specific potency and safety-facing readouts . This summary highlights key aspects of the latest developments.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25518",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-30T03:05:44.032164Z"
+    },
+    {
+      "id": "f3379523779a4f5671aaaaa1973e0bee",
+      "title": "Latent-State Computation under Stochastic Volatility . Emergent Latent",
+      "description": "Mechanistic interpretability has largely focused on language models and deterministic toy tasks . Much less is known about how sequence models internally represent latent stochastic dynamics under noisy, partially observed observations . We study this question in a controlled multivariable volatility setting, where models observe only returns while the ground-truth latent volatility state is known to the researcher . This setting provides a useful benchmark for mechanistic interpretationability under noisy latent dynamics and partial observability .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25459",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-07-30T03:05:33.656612Z"
+    },
+    {
+      "id": "dcd92f726a66e2e6177d32fdd5ef5f07",
+      "title": "Bits and Memories: Measuring Verbatim Extraction Across LLM",
+      "description": "Language models are almost always quantized before they are deployed . Quantization is a selective forgetter: verbatim memorization falls off faster than capability at every precision and every model size we tried . At the largest model, four-bit quantization still reproduces most of the memorized sequences while giving up only a few percent of capability, and the fraction of memorized data that survives quantization grows with model size .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25451",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-07-30T03:05:23.196223Z"
+    },
+    {
+      "id": "020b39956385340e78e881e6be542f82",
+      "title": "Separating Checkpoint Dependence from Task-Level Value in Sheaf",
+      "description": "Learned restriction maps in sheaf graph neural networks are often treated as proof that the model has discovered useful edge geometry . This conclusion does not follow from parameter movement or from a post-hoc ablation: both can show how one checkpoint is organized while leaving open whether learned transport still helps after the rest of the model adapts . A task-null theorem shows why the claims can diverge: labels identify only the transported classifier directions . After retraining, assignment-breaking or shared-map controls recover Full performance on four benchmarks .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25387",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-30T03:05:10.675503Z"
+    },
+    {
+      "id": "b8c90d870b503bff6d0409159ee6beb6",
+      "title": "Rethinking Likelihood distributions: Student's t Likelihood Boosts Bayesian",
+      "description": "In Bayesian neural networks, variational inference is a widely adopted framework for modeling uncertainty in a distributional way . We compare several likelihood distribution assumptions, such as skewed or heavy-tailed, across regression tasks on both artificial and real-world datasets using standard multilayer perceptrons (MLPs) Our findings demonstrate that Student's t yields better predictive performance than a Gaussian likelihood distribution, independent of the data distribution and MLP architecture .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.25376",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-30T03:04:58.628891Z"
+    },
+    {
+      "id": "cf87d2e603dce798a39c2a605d89b2c7",
+      "title": "Stable FP4 Training via Transposition-Invariant Block Quantization",
+      "description": "Reducing training precision is a key lever for improving the e ciency of large language model (LLM) training, but pushing beyond FP8 to 4-bit oating point (FP4) remains challenging due to instability during optimization . We propose a low-precision training framework based on 2D block FP4 quantization . We further combine this with truncation-free scaling and stochastic rounding to control quantization error and maintain unbiased gradients .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.24953",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-30T03:04:47.520542Z"
+    },
+    {
+      "id": "5c1e54b064f2b6d203d697ca1a7d159d",
+      "title": "Inverse RL Helps Align AI by Imitating Humans",
+      "description": "Projected Alignment Reward Estimated from Demonstrations (PARED) recovers implicit reward underlying expert demonstrations as an explicit function over a small set of response-level features . Unlike a standard reward model, PARED requires no task-specific preference annotations . PARED can be used for contextual alignment, in which a single policy can be tailored to the preferences of different audiences . The recovered reward improves a base policy without a supervised loss and yields further gains when optimized after standard supervised fine-tuning .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.24900",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-30T03:04:36.195946Z"
+    },
+    {
       "id": "12ceb23ac35f79a6ca0ebfe866bb066c",
       "title": "OpenAI open-sources Codex Security CLI to help developers",
       "description": "OpenAI has released Codex Security CLI, an open-source tool that automatically detects and fixes vulnerabilities in code repositories . Previously known internally as \"Aardvark,\" the system has already helped fix more than 3,000 critical security flaws, according to OpenAI . It competes directly with Anthropic's Claude Security, as both AI companies race to match the growing automation of cyberattacks with AI-powered defense .",
