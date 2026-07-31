@@ -1,6 +1,248 @@
 {
   "news": [
     {
+      "id": "6b8a55852aa9a46a6b0d970ac6c9368f",
+      "title": "Google AI Overviews become more common in search",
+      "description": "Google\u2019s AI-generated summaries appeared in 43% of US searches measured by Similarweb, up from 15% a year earlier . AI Overviews display generated summaries within Google results, while AI Mode provides a conversational interface for longer questions and follow-up prompts . Users can move from [#8230;] to [AI Mode], where users can move to . AI Mode, which allows users to move from .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/Google-AI-Overviews-become-more-common-in-search-scaled-e1785304615119.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-31T03:51:43.929519Z"
+    },
+    {
+      "id": "a16ac88ada6807449747621b216a2032",
+      "title": "OpenAI report links coding agents to faster science",
+      "description": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes . The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic's Claude Code in three others . Worth flagging upfront: this is a vendor publishing a survey of its own . The post OpenAI report links coding agents to faster science software builds appeared on AI News.com .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/openai-report-coding-agents-codex-ai-artificial-intelligence-programming-developers-open-source-claude-code-science-software-engineering.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-31T03:51:33.445101Z"
+    },
+    {
+      "id": "768d31009db03243bb057238c4cccd2c",
+      "title": "How AI is Changing Linux VPS Security",
+      "description": "Cybersecurity wasn't really something small and mid-sized businesses worried about too much a few years ago . Once your customer data, your apps, your internal tools all end up online, protecting the server behind them stops being optional . And attacks aren't getting any simpler either, which is part of the problem with sticking with Linux VPS security for businesses . How AI is Changing Linux Vps Security for Businesses?",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/gabriel-heinzer-4Mw7nkQDByk-unsplash-scaled.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-07-31T03:51:23.255099Z"
+    },
+    {
+      "id": "0ebae200f3121a0bbfae07ba28f014cd",
+      "title": "Zuckerberg details Meta\u2019s personal AI superintelligence strategy",
+      "description": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions . The Meta chief published the piece as a statement of company philosophy rather than a product announcement . It contains no release dates, no benchmark figures, no named models . What it does contain is an argument that superintelligence needs to reach individuals not just institutions, rather than institutions, to reach them .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/meta-personal-ai-superintelligence-strategy-mark-zuckerberg-open-source-models-safety-security-governance-artificial-intelligence-law.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-31T03:51:12.202794Z"
+    },
+    {
+      "id": "63a0556be76681db5660e2de45bc0b2c",
+      "title": "Ex-OpenAI researcher bets $100 billion will flow into",
+      "description": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models . Ho is leaving OpenAI to start a company focused on specialized training data . Ho predicts that AI labs will need to spend more than $100 billion on targeted data collection . He says the models are becoming more specialized, excelling at coding and math while stagnating or even regressing in other areas . Ho: \"Scaleable\" AI labs must spend $100B on training data because scaling alone won't cut it .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/08/synthetic_data_illustration-2.png",
+      "fullArticleLink": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-31T03:50:56.985166Z"
+    },
+    {
+      "id": "182abdd62e1e9dada8a2a0309d21ceef",
+      "title": "OpenAI goes full China pricing mode with 80",
+      "description": "Starting July 30, OpenAI is cutting GPT-5.6 Luna prices by 80 percent and Terra by 20 percent . OpenAI says its top-tier Sol model helped make the company's own infrastructure more efficient . Price pressure from cheap Chinese providers and Microsoft's own MAI models likely played a role too, according to OpenAI . The company says the cuts are due to price pressure from the Chinese market .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
+      "fullArticleLink": "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-31T03:50:45.821803Z"
+    },
+    {
+      "id": "2309586bf89afbfb967fb354029df3ac",
+      "title": "Surrogate assisted diversity estimation in neural ensemble search",
+      "description": "Ensembles are a standard way to improve the performance and robustness of deep neural networks . But their effectiveness crucially depends on the quality and diversity of individual models . We introduce a dual-objective surrogate-guided ensemble search . Candidate architectures are represented as directed acyclic graphs, and two surrogate models are trained independently to estimate predictive accuracy and diversity potential . Their combined estimates guide an NES framework that efficiently identifies architectures that are both individually strong and collectively diverse .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26940",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-31T03:50:30.325487Z"
+    },
+    {
+      "id": "4bfe9a0dabb3fec7d50bbb8b6876a95c",
+      "title": "Two Calls Beat Five Agents: Evaluating Multi-Agent Pipelines",
+      "description": "Multi-agent LLM pipeline systems break down the task among multiple roles for better reasoning, but are benchmarked mainly with large-scale commercial models . Parishad, a structured multi-agent system involving five roles, was compared with prompting directly and two-call self-refinement . With plaintext format, the accuracy is restored to 82.0\\% on GSM8K, with 7.4$\\times$ lower token usage . Our results demonstrate that communication format and implementation details determine outcomes more than architectural complexity .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26922",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-31T03:50:17.391687Z"
+    },
+    {
+      "id": "b053c59c3abcbd7491475abfa2c41a60",
+      "title": "ReCo: Reweighting GRPO Against Distributional Concentration",
+      "description": "Group Relative Policy Optimization (GRPO) has become a standard reinforcement learning method for post-training language models . Recent work shows that GRPO can reduce the base model's reasoning capacity and underperform it in Pass@k when k is large . We propose ReCo, a reweighting method that addresses both effects . ReCo improves Pass@K for large values of k and is comparable to GRPO for small values .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26862",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-31T03:50:06.293205Z"
+    },
+    {
+      "id": "3fa01f569f736465b0e8ce17576a0b1f",
+      "title": "Amortized Moment Matching for Visual Generation",
+      "description": "Amortized Fr\\'{e}chet Distance (AMFD) loss is able to dynamically learn conditional moments via an alternating, matrix-free optimization pipeline that effortlessly scales to high-dimensional data . AMFD serves as a powerful post-training objective when operating on global representation features . Code and checkpoints are available at https://github.com/poppuppy/amfd. arXiv:2607.26860v1 . This summary highlights key aspects of the latest developments. Industry analysts suggest",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26860",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-31T03:49:54.568502Z"
+    },
+    {
+      "id": "612d8bb2833c7d5af9de784ec77b9842",
+      "title": "Kairos: Numerically Robust News Recommendation under Item Cold-Start",
+      "description": "Modern deep learning models require massive interaction data while real-world news has a short Time-to-Live (TTL < 48 h) and shallow article pools . Project Kairos replaces error-prone Sherman-Morrison inversions with direct rank-1 updates of Cholesky factors . Simultaneously, Matryoshka Representation Learning (MRL) integration addresses inference latency . Empirical evaluations based on the Tagesschau API demonstrate that exploiting semantic redundancy in the feature space achieves a 4.85-fold efficiency gain without significantly compromising ranking precision .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26832",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-31T03:49:41.023346Z"
+    },
+    {
+      "id": "0934a8d756fcbc087fc1800049ae7a1f",
+      "title": "LLM Discovery via Cost-Calibrated Frontier Frontier Utility",
+      "description": "Large language models increasingly support scientific and algorithmic discovery through inference-time search over evaluated candidates . Existing adaptive discovery controllers assign credit based only on score progress . We prove that cost-blind credit can forfeit all but a vanishing fraction of attainable quality as frontiers multiply and costs diverge . We introduce CostAda, a cost-calibrated adaptive controller built around frontier utility values frontier progress relative to realized action cost and conditions that credit on the remaining budget .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26828",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-31T03:49:29.233457Z"
+    },
+    {
+      "id": "464356bc1451e90b90fc50297da61366",
+      "title": "Forecasts Trajectory-Level Safety Risks in Black-Box Multi-Turn",
+      "description": "In multi-turn interactions, malicious intent can be decomposed across seemingly harmless turns and gradually reconstructed through interaction trajectories . Existing safeguards remain largely reactive, detecting manifested violations while lacking the ability to predict latent risk evolution . We propose Recast, a safety risk forecasting framework that advances LLM safeguarding beyond turn-level violation detection to trajectory-level risk prediction . Extensive experiments across 7 risk categories show that Recast predicts 88.3% of future safety failures with an average lead time of 2.41 turns .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26820",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-07-31T03:49:16.478046Z"
+    },
+    {
+      "id": "dedb563fc6ca34366d1c3273b4a0aded",
+      "title": "SkillRise: Agentic Reinforcement Learning for Cross-Task Skill Evolution",
+      "description": "SkillRise organizes related instances into progressively challenging sequences and uses a single policy to alternate between task solving and curating an evolving skill document passed directly to the next task . Decoupled credit assignment across tasks supervises solving with the current task outcome and curation with discounted downstream outcomes . Experiments on ALFWorld, WebShop, and ScienceWorld show the strongest Pass@1 performance among the compared methods, with gains ranging from 2.3 to 8.5 percentage points .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26784",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-31T03:49:04.131375Z"
+    },
+    {
+      "id": "39a9d33b6640aea3c02baa0fb573ea79",
+      "title": "PowerAtlas: Towards Electricity-Computing Co-Scheduling for Power Systems",
+      "description": "The rapid growth of AI workloads is turning data centers into large-scale, volatile, yet spatiotemporally flexible grid loads . Under stringent grid constraints, schedules from general-purpose large language models (LLMs) are often infeasible, causing line-flow violations and unserved load . We present PowerAtlas, an LLM-agent framework for electricity-computing co-scheduling . This summary highlights key aspects of the latest developments. Industry",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26710",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-31T03:48:52.555540Z"
+    },
+    {
+      "id": "96d1a59a21f722791af567ac39be47fa",
+      "title": "Graph Neural Networks with Random Features with random",
+      "description": "Random node features enhance expressiveness of graph neural networks both theoretically and empirically . We establish a novel universality result focusing on permutation-equivariant neural networks (PENNs) We show that PENNs, combined with partially random node features, can approximate arbitrarily well in probability any measurable permutations-invariant function on directed graphs of fixed size with multidimensional node and edge features . For $k$-times continuously differentiable functions, $k\\geq 2$ we also derive upper bounds on the approximation rates .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26699",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-31T03:48:40.104759Z"
+    },
+    {
+      "id": "33a73632d98064d2b4b5454a60cae203",
+      "title": "AIGen: Automating AI Bill of Materials Generation Through",
+      "description": "AIGen is a modular AIBoM generator that produces machine-readable, interoperable inventories of AI system components that comply with the SPDX 3.0 AI profile . The tool is designed to facilitate compliance with the European Union AI Act, the NIST AI Risk Management Framework, and ISO/IEC 42001 . It combines mining heuristics with Large Language Models to generate AIBoMs . A plugin interface allows practitioners to extend the tool with domain-specific collectors without modifying the core code .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26652",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-31T03:48:27.648285Z"
+    },
+    {
+      "id": "2867726633da286bc2fabcb4d81ba060",
+      "title": "RAG-HAR+: Towards Cost-Efficient LLM-Based Human",
+      "description": "Human Activity Recognition (HAR) from wearable sensors supports applications in healthcare, rehabilitation, fitness tracking, and smart environments . We introduce RAG-HAR+ a retrieval-first and cost-optimized extension that strengthens retrieval while reducing dependence on LLM-based inference . We further extend a mobile prototype to demonstrate the practical feasibility of a retrieval first, LLM assisted HAR in mobile sensing scenarios . arXiv:2607.26631v1",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26631",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-31T03:48:15.812641Z"
+    },
+    {
+      "id": "22e7a609e7b8c05c26ba19d37178c030",
+      "title": "Enhancing Automated Machine Learning via Homogeneous Train-Test Splitting",
+      "description": "Standard random splitting assumes that both partitions share the same underlying distribution, an assumption often violated in datasets with class imbalance, natural clustering, or spatial autocorrelation . Geometry-based methods consistently produce near-zero MMD scores, introducing instability into downstream performance estimates . The proposed Optimised-Distribution method treats similarity as an explicit optimisation objective and achieves the highest mean MMD similarity, 89.0%, across all strategies evaluated .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26625",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-07-31T03:48:05.231596Z"
+    },
+    {
+      "id": "0415fbe17fadcfa5765b14c6be77a12e",
+      "title": "FedWeave: Rethinking the Unit of Specialization in Heterogeneous",
+      "description": "Federated PEFT enables LLMs to collaboratively adapt to decentralized private data without sharing raw examples . But task heterogeneity across clients can cause cross-task interference and gradient conflicts during aggregation . FedWeave uses unsupervised prototype discovery to form local buckets and align them across clients, enabling prototype-level expert aggregation while retaining mixed-task client trajectories for router training . On a heterogeneous multi-task benchmark with mainstream LLM backbones, the framework consistently outperforms strong baselines .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.26618",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-07-31T03:47:52.968170Z"
+    },
+    {
       "id": "ac99d4c457870aad9361e578c77577f8",
       "title": "OpenAI claims GPT-5.6 Sol beats Opus 5",
       "description": "OpenAI counters Anthropic's ARC-AGI-3 record: GPT-5.6 Sol scores 38.3 percent, but only with its own API features instead of the official test setup, where the model landed at 7.8 percent . ARC Prize claims its test environment is provider-neutral, but may have used an outdated API that skewed the comparison with Opus 5, which may have been skewed . This",
