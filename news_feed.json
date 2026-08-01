@@ -1,6 +1,283 @@
 {
   "news": [
     {
+      "id": "305e2aafa7fdf1785d181cbe0fa80d86",
+      "title": "OpenAI announces its \"next major model\" Astra",
+      "description": "OpenAI is building a new model family called \"Astra\" that would let multiple agents tackle complex problems together for hours or even days . CEO Sam Altman has already demoed Astra to policymakers in Washington . OpenAI hasn't decided whether to release Astra as GPT-6 or a new variant of the current model family . The company hasn't yet decided whether Astra will be released in the wild .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_sol.png",
+      "fullArticleLink": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-01T13:52:43.456714Z"
+    },
+    {
+      "id": "3bf36463a3009f9e288348333fc85cdf",
+      "title": "German court rules AI music generator Suno violated",
+      "description": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output . The court found six songs reproducibly stored in Suno's models and rejected both Germany's text-and-data-mining exception and the US fair use defense . The ruling isn't final, and several key questions remain open, and the ruling is not final . Ruling isn't yet final, but several key issues remain open .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/ai_music_generator_law.png",
+      "fullArticleLink": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-01T13:52:32.293827Z"
+    },
+    {
+      "id": "86eb23f0e4f628184fe783a44f9f8d4e",
+      "title": "ByteDance's Seedance 2.5 generates 30-second video clips",
+      "description": "ByteDance just shipped Seedance 2.5, an AI video model that produces video and audio together in one go . Each clip runs up to 30 seconds, three times what Google's Gemini Omni Flash puts out . Users can feed in dozens of images, videos, and audio files as reference . For ad teams, this could kill the process of cutting together one short clip at a time . For more information, visit The Decoder.com .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/bytedance_seedance.png",
+      "fullArticleLink": "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-01T13:52:20.470035Z"
+    },
+    {
+      "id": "6cefd1940b5db3830f138d40f93b5db8",
+      "title": "A security researcher built a self-spreading worm that",
+      "description": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot for Word . Invisible prompt injections hidden in documents spread automatically into new files every time they're reused . Microsoft confirmed the issue but failed to fix it after 144 days and two attempts . The worm-like attack was demonstrated by a security researcher who demonstrated a worm-style attack on Microsoft Cop Pilot for Word documents .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_copilot_logo-2.png",
+      "fullArticleLink": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-01T13:52:09.421488Z"
+    },
+    {
+      "id": "f98297874b887d466f324205e59f16c4",
+      "title": "Nscale buys Anyscale as it seeks to own",
+      "description": "Nscale buys Anyscale as it seeks to own more of the AI compute stack . Nscale this March raised $2 billion in a Series C round that saw it valued at $14.6 billion . The neocloud has set up business lines across energy, data centers, orchestration software, and now will also offer workload management and scaling . The company's revenue increased by 70% in its most recent quarter, compared to previous sequential quarter .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:51:47.596519Z"
+    },
+    {
+      "id": "30e234bd3fe1655843ecf0955ac25a70",
+      "title": "Meta Meta says AI is making it easier",
+      "description": "Meta says AI is making it easier to build new apps \u2014 and more are coming . CEO Mark Zuckerberg said the social giant has new apps in the works . Meta has spent years trying and failing to produce new, stand-alone social apps to complement its core platforms . \"I'm \u2026 excited about how AI is helping our teams speed up product development,\" Zuckerberg told investors on Wednesday's call . The social giant says it sees \"significant gains\" from its AI-powered content recommendations .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+      "fullArticleLink": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:51:32.277508Z"
+    },
+    {
+      "id": "9327b8297589ff6a44643603225b52ed",
+      "title": "Okta buys AI security startup Permiso",
+      "description": "Okta buys AI security startup Permiso \u2014 source says for about $200M . Okta's move comes as identity management companies seek to expand beyond verifying users at login to continuously monitoring what users, applications, and AI agents do once gaining authorized access to a network environment . The deal is expected to close in the third quarter of its fiscal 2027, subject to customary closing conditions . In April, startup also introduced SandyClaw, a platform designed to analyze AI agent skills in a sandboxed environment to identify malicious behavior before they are deployed .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/10/Okta-lobby.jpg?resize=1200,816",
+      "fullArticleLink": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:51:15.531150Z"
+    },
+    {
+      "id": "dc18fde4e6bc6553da96d68aa927b7c2",
+      "title": "LinkedIn adds a button to report AI-generated \u2018slop\u2019",
+      "description": "LinkedIn adds a button to report AI-generated &#8216;slop' The move reflects a broader shift across online publishing platforms to cut back on AI content . LinkedIn will begin privately flagging in users' dashboards when people believe their content is coming off as inauthentic due to heavy use of AI . The Microsoft-owned social network is also investing in automation defenses, where it now blocks \"hundreds of thousands\" of automated comment attempts daily .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434-e1669291782949.jpg?resize=1200,676",
+      "fullArticleLink": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:51:00.377999Z"
+    },
+    {
+      "id": "f41c7307b77762a60bcbe4833fe121fc",
+      "title": "Google says it fixed more bugs in June",
+      "description": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI . The tech giant says it has fixed 1,072 security bugs in the last two versions of Chrome, both released in June . Microsoft, meanwhile, has patched 570 security flaws in its products . Apple has patched 482 bugs in 2026, which is roughly on pace to equal or surpass the number of fixed bugs from last year .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/google-chrome-logo-hand.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:50:45.613662Z"
+    },
+    {
+      "id": "b02910e8741963d2c58e6fac790c2b51",
+      "title": "Friend, the lonely AI wearable, returns",
+      "description": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag . Friend now comes with a built-in speaker that can project a unique and consistent personality to its user . The new retail price for this enhanced version of Friend is $249, which is substantially higher than the $99 price tag it had when it initially launched two years ago . Most AI wearables have failed to catch on with the mainstream \u2014 at least so far .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/07/Friend.jpg?w=523",
+      "fullArticleLink": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:50:30.942302Z"
+    },
+    {
+      "id": "358552aaff9aa3c45e18f8fcc8605740",
+      "title": "Judge says Trump admin still lacks evidence",
+      "description": "The dispute stems from stalled contract negotiations between Anthropic and the Department of Defense . Anthropic said it didn't want its AI used for mass surveillance of Americans or for targeting or firing decisions involving lethal weapons, arguing the technology wasn't ready . The Pentagon countered that a private company shouldn't dictate how the military uses technologies . The government has also argued that Anthropic\u2019s public criticism of the DOD justifies the ban . Judge Rita Lin said she saw no proof Anthropic could alter a delivered model or \"flip some kind of kill switch\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:50:15.999323Z"
+    },
+    {
+      "id": "01023a47e3394a269b6247b623860667",
+      "title": "Investors love AI, as long as you\u2019re",
+      "description": "Investors love AI, as long as you\u2019re a cloud host . Amazon raised its 2026 capex forecast from $200 billion to $220 billion . Amazon ended the quarter with $7.6 billion less cash than it had 12 months ago, marking its first period of negative free cash flow this year . Amazon's cloud revenue rose 37% year over year, clocking $42 billion for the quarter . If demand for AI doesn't hold up, it\u2019s going to be a bad time for everyone .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1445867611.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:49:59.131590Z"
+    },
+    {
+      "id": "93cb0df58a6ec7c80d16ed160cb1da3d",
+      "title": "Reddit reports a solid quarter but shows signs",
+      "description": "Reddit reports a solid quarter but shows signs of AI's impact . CEO Steve Huffman said in an investor letter that traffic from search engines had grown \"choppy\" Reddit's global users are up, but the platform saw U.S. users endure a slight decline in daily active uniques . In 2024, Reddit signed a contract to provide its content to Google for the purposes of AI training . But Google's deployment of AI summaries appears to be peeling away audience share from Reddit .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?resize=1200,674",
+      "fullArticleLink": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:49:43.133691Z"
+    },
+    {
+      "id": "fb6c910e2e05da4599050b5ed3357f28",
+      "title": "Situational Awareness may have sold its public portfolio",
+      "description": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares . The fund's losses were amplified by leverage, a common hedge fund strategy of using borrowed money to buy stocks . It's a big comedown for the rising star who has been described as both \"scarily smart,\" and \"brash\" Aschenbrenner had no prior trading experience before launching the fund in 2024 .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/PM-Images.jpg?resize=1200,855",
+      "fullArticleLink": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:49:27.878934Z"
+    },
+    {
+      "id": "ac80cd240e82d485d3041eb9cddca271",
+      "title": "Anthropic says its own AI models breached three",
+      "description": "Anthropic says its own AI models breached three companies during security tests . In all three cases, a Claude model reached the internet from within a testing environment while interacting with a third party and then gained unauthorized access to the live systems of these organizations . Anthropic said the access traced back to a misconfiguration in the evaluation environment run with Irregular, one of its third-party partners . The company says it isn't placing blame and is \"approaching the fixes as if the responsibility were ours alone\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "fullArticleLink": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:49:12.112210Z"
+    },
+    {
+      "id": "9fb139bb8c5f3fce71cbd98eefbc25f0",
+      "title": "AI labs want to pump the brakes, but",
+      "description": "Equity is the latest episode of TechCrunch's flagship podcast, Equity . This week's episode focuses on the AI industry's response to a rogue AI model . TechCrunch hosts Kirsten Korosec, Anthony Ha, and Sean O'Kane talk about AI and who's on the hook when a model goes rogue . Follow us on Twitter @EquityPBS, Facebook, YouTube, Spotify and all the casts .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198164456.jpg?resize=1200,801",
+      "fullArticleLink": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:48:55.542626Z"
+    },
+    {
+      "id": "eccb7dbefe541daf19795c0ab5c2963c",
+      "title": "Smallest.ai raises $13M to build ultra-fast voice",
+      "description": "Smallestest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human . The startup wants to make speaking to an AI agent indistinguishable from talking to a human . To fuel this mission, the startup has raised $13 million in a Series A round, led by Seligman Ventures with participation from Sierra Ventures and 3one4 Capital . The fresh capital brings the startup\u2019s total funding to over $21 million .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Smallest-AI-Founders.jpg?resize=1200,927",
+      "fullArticleLink": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:48:38.459607Z"
+    },
+    {
+      "id": "02a679ae68f91e74af14cd8ea3cec3bc",
+      "title": "Siri AI could come with a paywall",
+      "description": "Tim Cook said Siri AI could come with a paywall for power users . Apple's long-awaited Siri AI upgrade is planned to roll out more broadly this fall . Apple has fallen behind in its efforts to build an advanced AI assistant, even capitulating to its direct competitor Google by licensing a custom Gemini model to augment Siri . The Siri AI overhaul was so delayed that Apple had to pay $250 million to settle a class action lawsuit over how it marketed the iPhone 16 .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=808",
+      "fullArticleLink": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:48:23.174850Z"
+    },
+    {
+      "id": "1539977fb10636407bec914c9bd7cc6e",
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "description": "Snapchat no longer rewards fully AI-generated Spotlight content . Snapchat says it wants Spotlight to be a place where people can discover authentic creativity from real people . The social network platform is the latest company to strengthen its stance against AI slop . Creators can still use its AI creative tools to enhance or edit their content . Last month Snapchat implemented new content control measures to protect underage users aged 13 to 15 from doxxing .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:48:08.394694Z"
+    },
+    {
+      "id": "734a51283c78b111a88c3ae598618952",
+      "title": "Sam Altman is not the only one who",
+      "description": "Sam Altman isn't the only one who wants to pump the brakes on AI . Watch Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O'Kane dig into whether the AI industry is ready to \"pace\" itself . The comments came just days after one of OpenAI's own models broke out of its test environment and got tangled up in a breach at Hugging Face . Both OpenAI and Anthropic have come out in support of a petition echoing that same message .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T13:47:53.493400Z"
+    },
+    {
       "id": "8f73720a3a0d945b1e33ce98aebd62be",
       "title": "OpenAI aligns safety practices with EU AI Act\u2019s",
       "description": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act's GPAI Code . The company has contributed to and endorsed the EU's General-Purpose AI (GPAI) Code of Practice . Both emerged from multi-stakeholder processes . The GPAI code sets standards for safety and security of AI-Generated content, transparency, security and safety work . This",
