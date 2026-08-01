@@ -1,6 +1,253 @@
 {
   "news": [
     {
+      "id": "8f73720a3a0d945b1e33ce98aebd62be",
+      "title": "OpenAI aligns safety practices with EU AI Act\u2019s",
+      "description": "OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act's GPAI Code . The company has contributed to and endorsed the EU's General-Purpose AI (GPAI) Code of Practice . Both emerged from multi-stakeholder processes . The GPAI code sets standards for safety and security of AI-Generated content, transparency, security and safety work . This",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/openai-eu-ai-act-gpai-code-europe-governance-regulation-artificial-intelligence-safety-transparency-law.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-01T03:50:51.712687Z"
+    },
+    {
+      "id": "8cb331c7339ac9fa8547b5d206048aa3",
+      "title": "EU pools up to \u20ac30 billion",
+      "description": "The European Commission wants to build up to seven AI gigafactories across Europe, backed by around 30 billion euros in public and private funding . For context, major U.S. tech companies alone plan to spend more than $600 billion on computing infrastructure this year . US tech giants spend 20 times more on infrastructure than EU tech giants, according to The Decoder . EU pools up to \u20ac30 billion for AI gigfactories while US tech giant spends $600B on infrastructure .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/07/European-Union-Flag-Glitch-GPT-4o.jpg",
+      "fullArticleLink": "https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-08-01T03:50:37.915911Z"
+    },
+    {
+      "id": "235077565870b2d2d3b9fc4ce1626ab9",
+      "title": "New Deepseek Flash model matches OpenAI's GPT-5.6 Luna",
+      "description": "Deepseek's budget model V4 Flash gets a major boost with the \"0731\" update, jumping ten points to 50 on the Artificial Analysis Intelligence Index . That puts it just one point behind OpenAI's GPT-5.6 Luna, at roughly 60 percent lower cost per task . The model matches OpenAI&#039;s Gpt-5 .6 Luna at roughly .60% lower cost . This summary highlights",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
+      "fullArticleLink": "https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-01T03:50:26.730635Z"
+    },
+    {
+      "id": "ccd87b2655889a3cfde625bf6c4f4f11",
+      "title": "Thinking Machines bets on efficiency over size",
+      "description": "Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small . The open-weights reasoning model scores 40 on the Intelligence Index, one point below Inkling (41), with less than a third of the parameters (276 billion total, 12 billion active) The model handles text, image, and speech inputs, has a 256K-token context window, and ships under Apache 2.0 .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/thinking_machines_inkling_logo.png",
+      "fullArticleLink": "https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-01T03:50:12.803329Z"
+    },
+    {
+      "id": "818c90633d44f40e2099d9baa3bdb682",
+      "title": "Google Deepmind unveils Gemini Robotics 2 to power",
+      "description": "Gemini Robotics 2 is Google's most advanced vision-language-action (VLA) model yet . It combines image recognition, language processing, and action control to help robots operate in physical environments . Deepmind also introduced Gemini Robotics ER 2, a model designed for \"embodied reasoning\" ER 2 acts as a higher-level control system for robots . The new model is available in Google AI Studio. Developers can apply for early access through the waitlist .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Gemini-Robotics-2-brings-whole-body-intelligence-to-robots-0-3-screenshot.png",
+      "fullArticleLink": "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-08-01T03:49:59.374180Z"
+    },
+    {
+      "id": "1c093586a22e38771fdc6a2edea07bf8",
+      "title": "Bayesian Domain Reweighting is a way to optimize",
+      "description": "The performance of Large Language Models is fundamentally influenced by the distributional composition of multi-domain pre-training data . A promising approach is to directly optimize the weighting scheme from data . However, it suffers from unstable optimization trajectory and prohibitive computational overhead . This paper presents a Bayesian domain weighting method to infer the weights from a Dirichlet distribution via introducing Gamma prior information learned from observations . The proposed method could achieve stable and efficient domain weights learning, and identifies optimal mixtures while consuming substantially less data .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27928",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-01T03:49:43.898247Z"
+    },
+    {
+      "id": "e5bc12b19566b6e217a31d9dda0358dd",
+      "title": "ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow",
+      "description": "Physical-Time Flow (\\textbf{PT-Flow), a novel approach that learns a continuous latent velocity field operating in physical time . ODEWorld is a continuous-time latent world model that is both efficient and versatile . Its continuous nature allows for arbitrary temporal resolution and even backward prediction, which is impossible for most discrete-time models . It also enables high-quality image reconstruction even after long-horizon prediction .",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27924",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-08-01T03:49:32.733138Z"
+    },
+    {
+      "id": "ab5ac8d345da43da2de7963e02ecf482",
+      "title": "Exact Action Values Are Not Enough: Rollout-Verified Reinforcement",
+      "description": "Multi-zone variable-air-volume control must balance thermal comfort, indoor air quality, and electricity use across several continuous actuators . Deployment typically requires building-specific modeling or training, limiting scalability . We test whether TD3-guided reinforcement fine-tuning (RFT) can transfer control knowledge into a locally deployable open-weight model . GPT-5 achieved the largest reduction (6.2%) but reduced ventilation margin . This summary highlights",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27914",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-01T03:49:20.453335Z"
+    },
+    {
+      "id": "a32f47993020d40bf6520b2bdff5cb7a",
+      "title": "S-CEReBrO: Breaking the Memory Barrier in Continuous EEG",
+      "description": "Transformer-based architectures face a critical bottleneck: global attention mechanisms couple the attention memory state to the signal duration, causing memory overflow during continuous monitoring . Windowed alternating attention can process signals 100X longer than full self-attention . S-CEReBrO achieves state-of-the-art performance on 7 of 11 downstream tasks, with up to 60% fewer parameters . This work represents a significant step toward the realization of efficient, generalizable, and continuous EEG monitoring .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27913",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-01T03:49:08.275285Z"
+    },
+    {
+      "id": "df5b962ad767d2a9cbf6a6bd011e00bf",
+      "title": "Revisiting Predictive Process Monitoring in the Age",
+      "description": "Predictive process monitoring (PPM) leverages event logs to forecast the future of running process instances . Sequence models consistently perform best for next activity prediction . Tabular foundation models with in-context learning capabilities offer a promising alternative but have not yet been systematically benchmarked for PPM . PPM research in recent years has been dominated by deep sequence models trained from scratch, such as Long Short-Term Memory (LSTM) models .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27797",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-01T03:48:57.526584Z"
+    },
+    {
+      "id": "521c426a9d0c875a5e128cd7f0946aa4",
+      "title": "Train Small, Deploy Large: Zero-Shot GNN Transfer Through",
+      "description": "Graph neural networks (GNNs) can operate on large graphs but become infrastructure-sensitive at the scale of millions of nodes . We introduce a zero-shot transfer protocol in which a GNN is trained on a graph coarse-grained by geometric renormalization (GR) and the resulting weights are transferred directly to the original network . We further find that learned representations and predictive trajectories remain aligned across scales . These findings suggest that structural similarity may be more important than network size in determining GNN transferability .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27767",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-01T03:48:45.656672Z"
+    },
+    {
+      "id": "8df3388d5841472b531b5060cc0f71e5",
+      "title": "ROCS: Request-Oriented Compute Sharing for Efficient Large",
+      "description": "Request-Oriented Compute Sharing (ROCS) exploits a unique property of recommendation inference . Each user request is evaluated against many candidates, while request-side features are shared across candidates . ROCS defers request-candidate interactions as late as possible, isolates candidate-dependent representations, and evaluates substantial portions of the model once per request rather than once per candidate . It has been deployed across large-scale recommendation systems spanning ads and organic surfaces, retrieval and ranking stages .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27744",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-01T03:48:33.159493Z"
+    },
+    {
+      "id": "be0c977252ad72ef29a456e6fae9c599",
+      "title": "Improving the Robustness/Accuracy Tradeoff Against Adversarial Attacks Using",
+      "description": "Deep neural networks (DNNs) have achieved remarkable success in classical machine learning problems . However, they are known to be vulnerable to adversarial attacks . Countermeasures proposed in the literature degrade the classification accuracy on clean inputs . We extend the IBD framework by introducing an extra teacher model (clean teacher) trained with only clean inputs, into the distillation process . The features of both clean and robust teachers are transferred to the student through a cross-layer attention matrix .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27737",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-01T03:48:21.650430Z"
+    },
+    {
+      "id": "9190d6becce94297b30d2f987193b5b7",
+      "title": "Towards joint scaling laws with optimal batch size",
+      "description": "Modern deep learning typically keeps the batch size static throughout training, thus overlooking the joint effect of learning rate and batch size on the training dynamics . In this paper, we study the deep learning dynamics through the lens of convex optimization and derive a joint characterization of loss in terms of both schedules . This characterization yields a closed-form optimal batch size schedule for any prescribed learning rate schedule, and further leads to joint scaling laws that consistently outperform static batch size baselines .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27731",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-01T03:48:11.127989Z"
+    },
+    {
+      "id": "43a283b6719034da77e88d4cc1d502d8",
+      "title": "VESTIGE: A Knowledge-Guided Masking Strategy for Corruption-A",
+      "description": "VESTIGE is a drop-in replacement for the standard MLM collator that aligns the masking distribution with an empirically measured per-position corruption profile . The principle is domain-agnostic: any measurable position- or context-specific corruption profile - FFPE, bisulfite, metagenomic, nanopore - substitutes directly for the PMD array . VESTigE leads MLM at every width (Delta = +4.18 to +10.35 pp) even under damage amplified 10-30x beyond authentic PMD rates .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27712",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-01T03:47:56.489441Z"
+    },
+    {
+      "id": "2e8027065a54ea842e0d203e42f4dd1f",
+      "title": "NMINE: Normalized Mutual Information Neural Estimation . NMINE",
+      "description": "Normalized mutual information addresses this limitation by converting mutual information into a normalized dependency score . The proposed approach combines a MINE-based neural mutual information estimator with MI-NEE-inspired neural marginal entropy estimators . The resulting estimator provides a neural alternative to k-nearest-neighbor-based normalized mutual information estimation {arXiv:2405.04980}. Experiments on Gaussian data from one to eight dimensions show the proposed estimator improves accuracy .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27710",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-01T03:47:44.050686Z"
+    },
+    {
+      "id": "9c14c21e2a20f9ade9f69fb87c681570",
+      "title": "Event-Structured Physics-Informed Neural Networks for Differentiable Critical Clearing",
+      "description": "Transient-stability assessment determines whether a power system can recover after a disturbance . A key metric is the critical clearing time (CCT) which specifies the maximum time available to clear a fault before synchronism is lost . We propose an event-structured physics-informed neural network (ES-PINN) that aligns its representation with the pre-fault, fault-on, and post-clearing swing dynamics . This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27681",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-01T03:47:32.117006Z"
+    },
+    {
+      "id": "e6556d763aae2b843530de80860712af",
+      "title": "Looped Transformers with Source-Centered State Evolution Evolution",
+      "description": "Looped Transformers create useful train- and test-time compute axis by reusing the same Transformer block over recurrent depth . Source-Centered State Evolution (SCSE) is designed to reconcile input conditioning with reference-preserving shared recurrence . SCSE retains input dependence through its learned anchor and initial deviation, allows nonzero deviations to drive recurrent computation while mapping zero deviation to zero, and guarantees exact anchor invariance through its zero-deviation mask .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27656",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-01T03:47:19.924046Z"
+    },
+    {
+      "id": "c400dde48218cb4a3db55c4ed849c393",
+      "title": "Evaluation Protocols and Cross-Subject Generalization in EEG Emotion",
+      "description": "Reported accuracy in electroencephalography (EEG) emotion recognition depends on the complete evaluation procedure, not only the classifier . We separate the target quantity, development procedure, and reporting rule, then use one archived dynamical graph convolutional neural network (DGCNN) pathway on SEED and SEED-IV as an illustrative case . In a protocol-matched subject-dependent check, the SEED result was within 1.47 percentage points of the public reference value .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27655",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-01T03:47:05.147148Z"
+    },
+    {
+      "id": "a5295cccd783d27a3176724fac8072cf",
+      "title": "Kalman Meets Curriculum: Efficient Dynamic Prompt Selection",
+      "description": "Kalman-Guided Prompt Selection method (KGPS) reformulates prompt selection as a dynamic state estimation problem rather than static difficulty prediction . KGPS models each prompt's latent success rate in logit space using a linear-Gaussian state-space model . A Kalman filter maintains a calibrated Gaussian posterior over prompt difficulty, and prompts are selected by maximizing a posterior-expected training utility that favors intermediate-difficulty prompts while naturally revisiting uncertain ones .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.27610",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-01T03:46:52.927679Z"
+    },
+    {
       "id": "d37d1ea256dd2b7c26c94ba7b53ff69c",
       "title": "Aschenbrenner's AI thesis could be correct, but his",
       "description": "Leopold Aschenbrenner's AI hedge fund Situational Awareness had to unload nearly its entire publicly traded portfolio to Ken Griffin's Citadel after racking up heavy losses on leveraged AI stock positions . The fund had reported a six-month return of 439 percent and pulled in fresh capital just days earlier . Then margin calls forced the fire sale . The investment firm's timing and leverage were not right, according to The Decoder .",
