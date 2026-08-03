@@ -1,6 +1,21 @@
 {
   "news": [
     {
+      "id": "80e7e83282c871df9ff0bf6f6e715a88",
+      "title": "Sam Altman and AI\u2019s decels debate over AI's",
+      "description": "Sam Altman recently said that it may be time to \u201cpace the rate of AI development\u201d on TechCrunch\u2019s Equity podcast . Kirsten Korosec, Sean O\u2019Kane, and Anthony Ha discussed Altman's comments on the latest episode of TechCrunch's Equity podcast, which focuses on AI development . The interview was edited for length and clarity by Ha and O'Kane . We asked the question: Is acceleration vs. deceleration the right framework to be thinking about this?",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "fullArticleLink": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-03T03:43:21.981616Z"
+    },
+    {
       "id": "862dc914e18f65e2005318247d398bd4",
       "title": "Snap and LinkedIn are fighting back against",
       "description": "Snap is pulling AI-generated videos from its Spotlight recommendations . Snap wants to keep Spotlight focused on \"authentic creativity from real people,\" it says . Snap isn't alone: LinkedIn has a dedicated \"AI slop\" reporting button . A Kapwing study found that 21 percent of YouTube Shorts are already artificial-generated . LinkedIn has rolled out a dedicated AI slop reporting button for users to spot AI junk .",
