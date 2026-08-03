@@ -1,6 +1,198 @@
 {
   "news": [
     {
+      "id": "ef2a15177280378c04bfcc52fb764dbb",
+      "title": "Why biological data matters more in AI drug",
+      "description": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million . Under the agreement, Relation will generate large-scale datasets measuring how human cells respond to genetic changes and drug interventions . The data will be used to train AI models using AI-assisted drug discovery . The collaboration will expand the companies\u2019 existing work in AI drug discovery work in the UK .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Why-biological-data-matters-more-in-AI-drug-discovery-scaled-e1785728258130.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-03T15:05:43.994089Z"
+    },
+    {
+      "id": "a22ff454c2a530dcd7b99f8499d8337f",
+      "title": "Alibaba\u2019s open-weight Qwen3.8-Max takes on long",
+      "description": "Alibaba's Qwen team has unveiled Qwen3.8-Max, its most capable language model to date . The model scales to 2.4 trillion total parameters, with 95 billion active per query . The focus is on completing complex tasks independently over extended periods rather than just answering one-off prompts . Alibaba first announced the model in mid-July as a preview version available through Alibaba's Token Plan, Qoder, and QoderWork .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
+      "fullArticleLink": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-03T15:05:23.963625Z"
+    },
+    {
+      "id": "c8c39aa1bc1995fc18ba1082414ce9c9",
+      "title": "Two teams solved the same quantum crypto problem",
+      "description": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart . The case raises a question: what does \"independent discovery\" mean when everyone uses the same models? \"Independent discovery\" means when everyone used the same model, says one of the researchers . \"If someone mentions an open problem, the first thing is to see if GPT solves it,\" says a researcher .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/11/emerging_math_neural_network.jpeg",
+      "fullArticleLink": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-03T15:05:12.063790Z"
+    },
+    {
+      "id": "451a7e1b72459ad90461e1dc0c51ce28",
+      "title": "OpenAI co-founder Karpathy is looking for the next",
+      "description": "Andrej Karpathy had Claude Opus 5 turn Tolkien's opening into a 3D browser scene . The model worked for about two hours, had a budget of one million tokens (roughly $10) The model rendered everything in Three.js, a graphics library for 3D in the browser . The source code is available online so others can play back and modify the scene . Other users are having Opus5 write entire browser games, from first-person shooters to Minecraft clones .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Karpathy-LOTR-Opus-5-title.png",
+      "fullArticleLink": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-08-03T15:04:56.174289Z"
+    },
+    {
+      "id": "b32529f050eb65ed66c99ef0dcb64ff7",
+      "title": "China's MiniMax H3 is the first open model",
+      "description": "MiniMax releases H3 video model weights, putting an open model at the top of a video ranking for the first time . The 33-billion-parameter model processes text, images, video, and audio together, generating four- to 15-second clips with stereo sound . Commercial use is only permitted for companies making under $20 million in revenue . Two pieces remain closed, but H3-Context-IR, which translates prompts and reference material into a structured intermediate format, aren't included .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/MiniMax-H3-title.jpg",
+      "fullArticleLink": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-03T15:04:41.208333Z"
+    },
+    {
+      "id": "608d4f8fbc45ee67f2e67e980265fa51",
+      "title": "Interpol says AI has become the \"core operational",
+      "description": "AI is involved in 55 percent of reported cybercrimes in Africa, Interpol report says . Criminals now use AI at every stage of a cyberattack . Financial losses more than doubled since 2024, jumping from $192 million to $484 million . Four Interpol-coordinated operations in 2025 and 2026 led to more than 1,500 arrests and the seizure of over $100 million . About 600,000 cases of digital extortion involving deepfakes were recorded .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/cybersecurity_illu-1.png",
+      "fullArticleLink": "https://the-decoder.com/interpol-says-ai-has-become-the-core-operational-driver-of-cybercrime-across-africa/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-03T15:04:27.179906Z"
+    },
+    {
+      "id": "e4b3c3d5632c24276147252c68e95729",
+      "title": "AI agents lie and cheat to reach their",
+      "description": "Researchers have known for a while that AIs tend to take creative approaches to achieving the goals that have been set for them . With today\u2019s sophisticated LLM-based agents, determining when and when not to give a reward can be much trickier . The Hugging Face incident is an example of how and why AI systems lie and cheat to reach their goals, the authors say . MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-03T15:04:08.397736Z"
+    },
+    {
+      "id": "fe166f1ca8865ed5ffbef325498ec19f",
+      "title": "LLM Adversarial Training via Low-Rank Defense and Circuit-Guided",
+      "description": "Adversarial training is one of the most effective defenses against adversarial attacks, yet the computational cost remains prohibitive at modern scales, especially for large language models . The method on average reduces per-step adversarial-training FLOPs by 48.1% while requiring only 0.0118% trainable parameters . Compared to standard LAT with full fine-tuning, our method reduces per step adversarial training FLOP\u2019s by .1% .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.28959",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-03T15:03:55.699355Z"
+    },
+    {
+      "id": "a93638c684e7c86ee75a5946fdff9cd8",
+      "title": "Overcoming the Weakest-Link Effect in LLM-Driven Program Optimization",
+      "description": "Large language models (LLMs) are increasingly used to solve complex problems by searching over program space . We argue that explicit gradients are not essential for effective program optimization . HERO is a program optimizer that prompts an LLM to generate diverse, non-overlapping atomic edits and then systematically selects and composes them into coherent program improvements . HERO consistently discovers higher-scoring programs and converges substantially faster than prior LLM-based optimizers .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.28947",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-08-03T15:03:32.293009Z"
+    },
+    {
+      "id": "a5928e438924a8c91dbd52bbadaeb8d5",
+      "title": "LLM Revision Fails Where Human Revision Succeeds",
+      "description": "Large language models (LLMs) are increasingly prompted to \"reflect\" yet whether this resembles human revision remains unclear . The Human-LLM Reflection Framework (HRF) is a controlled two-pass protocol comparing human and LLM revision under identical conditions across self-, peer-, and cross-agent settings . On objective tasks, reflection yields near-zero information gain (Delta I approx 0), behaving as neutral re-generation indistinguishable from re-sampling . On subjective tasks, it yields significant negative gain, moving predictions away from the target .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.28908",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-03T15:02:43.066031Z"
+    },
+    {
+      "id": "924364399fe7e8c1a5921399773de2ef",
+      "title": "An analysis of machine learning approaches for enhancing",
+      "description": "Machine learning can push the boundaries of discrete choice modeling for policy-based preference elicitation by adopting a data-driven approach or learning individual preferences . The study evaluates four machine learning models (multinomial logistic regression, generalized additive model, twinned neural network, and Gaussian process) with respect to their capacity to learn and predict five choice rules that are important in the behavioral and social sciences . Monte Carlo experiments were performed to assess model performance when increasing the number of attributes in the choice alternatives and the choice rule's determinism .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.28854",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-03T15:02:28.677434Z"
+    },
+    {
+      "id": "a1c836e28fc2ae6c72b34b23829e826e",
+      "title": "Distilling Knowledge from Large Language Models into Lightweight",
+      "description": "Autonomous Cyber Operations (ACO) are increasingly important for defending enterprise networks as cyber threats continue to evolve in sophistication . We propose an online policy distillation framework that transfers the LLM's defensive policy into a lightweight RL agent containing only 64,910 parameters . This provides a pathway toward operationalizing frontier cybersecurity models within lightweight, deployable agents . We also evaluate teacher-guided RL stabilization strategies and observe that none consistently surpass the optimized teacher policy, suggesting policy-alignment limitations .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.28826",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-08-03T15:02:16.386230Z"
+    },
+    {
+      "id": "45391edf079f3dc5163dcfcd6b2b4f0d",
+      "title": "TAGTorch: A PyTorch Library for Geometry, Topology",
+      "description": "Topology, Algebra, and Geometry Torch (TAGTorch) is an open-source, PyTorch-based library that unifies tools inspired by topology, algebra, and geometry . We describe the design philosophy of TAGTorch and then discuss its current architecture and capabilities . We conclude with a discussion of our future development priorities for the library . arXiv:2607.28755v1 . This summary highlights key aspects of the",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.28755",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-03T15:01:43.858386Z"
+    },
+    {
+      "id": "70cccaed8a43114b81e68cf01d471034",
+      "title": "LLM Guarantees on Dynamical System Distinguishability for LLM",
+      "description": "Recent work has shown that classifying large language models' responses can be distinguished by modeling token embeddings as trajectories of a black-box dynamical system . We show that the total variation distance between the stationary marginal distributions of the two DSs can be arbitrarily small even when the dynamics differ substantially . We also characterize cross-embedding generalization by introducing an approximate intertwining condition between embedding models and establishing a lower bound on the transferable discriminability in terms of the intertwining map's smallest singular value .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.28667",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-03T15:00:30.569414Z"
+    },
+    {
+      "id": "a7754f051081bacfd5e1b5a8a14a24ca",
+      "title": "A Marc Benioff-backed startup thinks AI can solve",
+      "description": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem . June's platform scans a company's existing systems to understand its processes, find bottlenecks and then build more optimized, agent-powered processes to replace them . The company raised $20 million in pre-seed funding led by Time Ventures, with additional backing from tech luminaries like Michael Dell, Aaron Levie and George Kurtz .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/June-Headshots-7740.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-03T14:59:46.520163Z"
+    },
+    {
       "id": "80e7e83282c871df9ff0bf6f6e715a88",
       "title": "Sam Altman and AI\u2019s decels debate over AI's",
       "description": "Sam Altman recently said that it may be time to \u201cpace the rate of AI development\u201d on TechCrunch\u2019s Equity podcast . Kirsten Korosec, Sean O\u2019Kane, and Anthony Ha discussed Altman's comments on the latest episode of TechCrunch's Equity podcast, which focuses on AI development . The interview was edited for length and clarity by Ha and O'Kane . We asked the question: Is acceleration vs. deceleration the right framework to be thinking about this?",
