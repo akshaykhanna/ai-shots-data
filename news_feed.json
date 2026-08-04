@@ -1,6 +1,193 @@
 {
   "news": [
     {
+      "id": "68ff5f4fb839767f46337a7b2ec4f8c1",
+      "title": "OpenAI fires back at Apple's trade secret lawsuit",
+      "description": "OpenAI is pushing back against Apple's trade secret lawsuit and has released iMessage threads from former Apple engineer Chang Liu . The messages appear to show Apple employees reaching out to their former colleague for technical help and internal files after he left the company . OpenAI fires back at Apple&#039;s trade secret suit with chat logs showing Apple employees kept texting their former colleagues after they left . The logs show that Apple employees reached out to Liu for help and files .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
+      "fullArticleLink": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-04T14:40:34.642602Z"
+    },
+    {
+      "id": "aecafa15cd45df108ea630b20b524d32",
+      "title": "Silicon Valley\u2019s rift over open source pushes back",
+      "description": "The Trump administration discussed sanctions and cloud bans targeting Chinese open-source AI models . OpenAI and Anthropic pushed for restrictions, while Nvidia, Google, and Meta fought back . After pushback from Silicon Valley, Washington backed off for now, but a decision is expected before Xi Jinping's visit in September . Decision is expected to be made before the visit of Xi Jinping in September, according to the New York Times .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/china_vs_usa_ai_arms_race.png",
+      "fullArticleLink": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-04T14:40:25.230352Z"
+    },
+    {
+      "id": "e74e16120b0d6a6164d647367c317128",
+      "title": "Deep Learning CNN and Recurrence Analysis for Alpha",
+      "description": "Fragile X Syndrome (FXS) is a neurodevelopmental disorder caused by reduced expression of fragile X mental retardation protein . Electroencephalography (EEG) consistently reveals abnormalities in alpha (8 to 12 Hz) and gamma (30 to 100 Hz) oscillations that relate to inhibitory control, sensory processing, and cognition . This paper proposes a multi representation deep learning framework for automated characterization of FXS EEG phenotypes by integrating convolutional neural networks .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.00835",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-04T14:39:51.044580Z"
+    },
+    {
+      "id": "03421c55d82ac5bae1ff8136cacdd4c9",
+      "title": "AdvPlan-Bench: Adversarial Evaluation of Structured Plan-Generation Agents",
+      "description": "AdvPlan-Bench represents plans as typed action chains with optional branches . It assigns synthetic quality scores, compares opposing plans with BLUE-vs-RED advantage and Nash-gap diagnostics . In 150 synthetic scenarios spanning five planning templates, a sampled best-response policy that draws eight response candidates reduces BLUE advantage from .518 to .486 and BLUE win rate from .900 to .820 relative to a single-sample response .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.00832",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-04T14:39:41.141819Z"
+    },
+    {
+      "id": "7091e8be10c05184bc75e3a97b4873e5",
+      "title": "Generic Vision and Cross-Attention for Reaction Yield Prediction",
+      "description": "Traditional reaction yield prediction is constrained by 1D quantum descriptors that lack explicit spatial information . To address this gap, a dual-modal Vision Cross-Attention architecture is proposed, fusing tabular physical-organic data with 2D molecular topologies . By synergizing both modalities, superior predictive accuracy compared to traditional methodologies is achieved by the optimal cross-attention framework (Test RMSE = 5.27%) This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.00776",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-04T14:39:21.771363Z"
+    },
+    {
+      "id": "2101367aefd72224ccca2b94cc0176b9",
+      "title": "Mitigating Backdoors via Decoy Shortcuts and Knowledge Decoupling",
+      "description": "Backdoor attacks pose a serious threat to deep neural networks, especially when training relies on third-party data . Trapping and Removing (TR) introduces a lightweight shortcut branch as a \"honeypot\" to trap backdoor knowledge . After training, backdoors can be removed by discarding the shortcut, without requiring any additional data. To further enhance backdoor isolation while maintaining benign performance, we design a knowledge decoupling strategy with entropy-based weight assignment .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.00732",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-04T14:39:12.308803Z"
+    },
+    {
+      "id": "22c9fa49f8acfe8f1900c795eac4ca33",
+      "title": "Learning the Pareto Frontier of Predictive Models",
+      "description": "Frontier Learning treats a library of candidate models spanning different training histories and access regimes as complementary sources of information . Frontier Learning constructs a unified target-domain feature by concatenating internal representations from . white-box candidates as well as prediction outputs from black-box . candidates . The resulting hypothesis class contains predictors obtained by . zero-shot reuse, fine-tuning, and direct training as special cases . The largest gains arise when no single baseline is reliable across the range of shift considered .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.00632",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-04T14:39:01.720523Z"
+    },
+    {
+      "id": "397f788049d649c0ca0df6b999bf74c0",
+      "title": "From field-scale to large-scale spectral libraries: Tabular foundation",
+      "description": "Visible and near-infrared (vis-NIR) spectroscopy enables rapid, cost-effective prediction of soil properties . Yet translating high-dimensional, highly collinear spectra into accurate soil property predictions remains challenging, particularly when employing machine learning . TabPFN consistently delivered the best overall performance across scales, including large spectral library tasks with tens of thousands of soil samples . Further improvements were achieved through PLS, which proved to be an effective dimensionality reduction strategy for all models .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.00608",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-04T14:38:41.634245Z"
+    },
+    {
+      "id": "007b6b60842b0142cc799c1d9279a665",
+      "title": "CoSynFlow: Conformal Symplectic Neural Flows for Cross-System",
+      "description": "Many neural operator methods optimize prediction accuracy without explicitly enforcing the geometric structure of the dynamics . We propose CoSynFlow, a conformal symplectic neural flow for learning continuous-time solution maps of dissipative Hamiltonian dynamics . It keeps the structure error at machine precision, attains the lowest long-horizon error, and admits physics-informed training . It is the first time a single trained model predicts solution maps for unseen systems without retraining .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.00571",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-04T14:38:32.601653Z"
+    },
+    {
+      "id": "14ed6fed0a893be5b51eed1b36700ab8",
+      "title": "A Dual-Penalty Evasion Framework for Fooling White-Box Explainable",
+      "description": "Post-hoc model explainers such as LIME, SHAP, and Integrated Gradients are widely deployed to audit models in high-stakes sensitive domains . Adversaries can attempt to conceal algorithmic biases or backdoors using adversarial explanation attacks . These attacks have relied on scaffolding out-of-distribution (OOD) detectors that toggle predictions when queried by an explainer . In this paper, we demonstrate a critical vulnerability by introducing a more potent white-box, gradient-regularized evasion attack framework .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.00566",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-04T14:38:10.922364Z"
+    },
+    {
+      "id": "95f87aee8b92a2a4fa49f2dbe9ef84ff",
+      "title": "Agentic Graph Token Reasoning is an attempt",
+      "description": "Graphs model relational data throughout science and industry, from citation networks to product co-purchase graphs . The most graph-native of these methods use graph tokens: a graph encoder compresses a graph view, such as a node, its k-hop neighbourhood, or a cluster, into a block of continuous tokens that jointly encodes node attributes and topology and is read directly by the model . The model thus reasons step by step in the graph token space, and the tokens it reads are trajectory-dependent .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.00542",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-04T14:37:59.666492Z"
+    },
+    {
+      "id": "04b5c925243d8878377aba387beafd88",
+      "title": "Learning Compositional Meta-Routing for Agentic Workflows: An Executable",
+      "description": "A controller may answer directly, decompose a request, retrieve evidence, execute code, delegate to a specialist, or verify an intermediate result . We introduce an executable benchmark and a budget-aware meta-router that composes heterogeneous operations from raw task text . The benchmark contains 216 training, 72 development, 108 held-out test, and 108 locked lexical-shift challenge tasks across data analysis, frozen-corpus research, and document processing .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.00106",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-04T14:37:08.995207Z"
+    },
+    {
+      "id": "f0c814a03a3b2e107a4c4e0cdf281c6d",
+      "title": "Uncertainty-Aware Simulation-Based Inference for Operations Research with Large",
+      "description": "Deploying large language models for operations research (OR) tasks remains challenging because correctness depends on a coherent modeling process . Standard autoregressive generation operates on a myopic policy, which sometimes fails to anticipate whether a partial formulation can be validly extended into a globally consistent optimization model . Empirical evaluations across multiple OR benchmarks (including NL4OPT, MAMO, and IndustryOR) demonstrate that our framework consistently outperforms both standard and low-temperature baselines .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.00019",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-04T14:36:59.525179Z"
+    },
+    {
+      "id": "b79c480364b48edd25efd2672059994c",
+      "title": "Is the future of data centers portable? Runware",
+      "description": "AI infrastructure company Runware launches its own modular data center called Sonic Inference Pod . Designed as a single transportable unit, the Pod represents a more flexible kind of compute that can sit alongside hyperscalers' massive data center projects . The modular design means it's easy add capacity quickly by creating new pods rather than having to expand a fixed data center . Runware currently has 10 pods in deployment across the U.S., Europe, and Asia-Pacific .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Data-center.png?resize=1196,1200",
+      "fullArticleLink": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-04T14:36:42.561648Z"
+    },
+    {
+      "id": "54ed8f1ef07ccd3efdfc9d9a38f13887",
+      "title": "Apple says more ex-employees may have taken confidential",
+      "description": "Apple says more ex-employees may have taken confidential data to OpenAI . Apple is now seeking a preliminary injunction in its trade secrets case against OpenAI, which aims to stop the AI model maker from moving forward with developing an AI device or other products based on Apple's technology . Apple also notes that its continued investigation has so far revealed 11 other former Apple employees beyond Liu and Tan may have been witnesses or otherwise involved in the case .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-04T14:36:28.473937Z"
+    },
+    {
       "id": "fb58e7d40d64499cf0e782e0aeae01a3",
       "title": "IBM finds 92% of companies hit",
       "description": "IBM's Cost of a Data Breach Report 2026 was based on research by the Ponemon Institute across 602 companies . Among firms that experienced an AI-related incident, 92 percent had inadequate access controls in place . Incidents involving AI cost an average of $5.33 million, compared to $4.70 million for those without an AI component . When attackers themselves used AI, costs jumped to $6.04 million .",
