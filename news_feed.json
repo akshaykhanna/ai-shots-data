@@ -1,6 +1,203 @@
 {
   "news": [
     {
+      "id": "fb58e7d40d64499cf0e782e0aeae01a3",
+      "title": "IBM finds 92% of companies hit",
+      "description": "IBM's Cost of a Data Breach Report 2026 was based on research by the Ponemon Institute across 602 companies . Among firms that experienced an AI-related incident, 92 percent had inadequate access controls in place . Incidents involving AI cost an average of $5.33 million, compared to $4.70 million for those without an AI component . When attackers themselves used AI, costs jumped to $6.04 million .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/10/ibm_logl_neural_network.png",
+      "fullArticleLink": "https://the-decoder.com/ibm-finds-92-of-companies-hit-by-ai-security-breaches-lacked-basic-access-controls/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-04T03:33:53.841607Z"
+    },
+    {
+      "id": "52d111cc848e95430d8b4d0bba68c279",
+      "title": "Alibaba's new Qwen model is also taking your",
+      "description": "Alibaba is marketing its new AI model Qwen 3.8 with a video that shows the AI working while a person enjoys their hobbies . The video is a deliberate contrast to the job loss warnings from OpenAI and Anthropic . Of course, it's still just marketing . Alibaba&#039;s new Qwen model is also taking your job, but this time it&##39;\"s great .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/qwenlogo.png",
+      "fullArticleLink": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-04T03:33:43.706154Z"
+    },
+    {
+      "id": "dc0d90ec364e575f07e2cebb0069df8f",
+      "title": "Trump\u2019s AI protectionism has come for robotics",
+      "description": "The FTC has banned foreign-made humanoids, quadrupeds, and wheeled robots . The move is part of a strategy to align political and industry interests that is much older than the Trump administration . Some US robotics companies are hugely reliant on cheap robots from China to do research . The new ruling \u201ccreates a challenge for US humanoid researchers,\u201d says Aaron Prather, director of market intelligence .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-04T03:33:27.681947Z"
+    },
+    {
+      "id": "22c9047aa589eb8344e2b9876f553cf1",
+      "title": "PiDDM: Physics-Informed Differentiable Degradation Modeling for Lithium",
+      "description": "Accurate prediction of lithium-ion battery state of health (SOH) is essential for reliable energy storage operation . But purely data-driven models may generalize poorly across cycling protocols and produce physically implausible behavior during long-term extrapolation . PiDDM incorporates empirical Arrhenius degradation kinetics associated with solid electrolyte interphase growth and loss of lithium inventory into the training objective, encouraging physically consistent capacity fade under diverse operating conditions .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.29095",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-04T03:33:16.747089Z"
+    },
+    {
+      "id": "693b39eb2c44bb31b458432627566512",
+      "title": "Surgical Risk Stratification and Outcome Prediction: A Scoping",
+      "description": "Machine learning (ML) provides a data-driven approach to model complex clinical patterns . Conventional ML models and simple neural networks predominated, whereas deep learning and multimodal approaches remained uncommon . Benchmark datasets and standardized evaluation protocols were largely absent, hindering cross-study comparisons . This review identifies methodological gaps limiting clinically robust postoperative ML tools and provides a structured reference to support more rigorous, reproducible, and clinically meaningful ML development .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.29090",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-04T03:33:06.588365Z"
+    },
+    {
+      "id": "0c48ee7b9835bca8e20103395f20b6c0",
+      "title": "Federated Foundation Models Fine-Tuning with Heterogeneous Compressed Clients",
+      "description": "FedSLM uses SVD-based decomposition to produce self-contained client models . It then applies a two-stage protocol that synchronizes lightweight adapters within compression groups and fuses full-rank reconstructions across groups via structural alignment . A weak-to-strong elicitation step with auxiliary confidence loss transfers the aggregated knowledge to the full-scale server, while an explicit bias--variance trade-off mitigates compression artifacts . This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.29071",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-04T03:32:54.157921Z"
+    },
+    {
+      "id": "bd02c76328cccc4229be788238ec0866",
+      "title": "Benchmarking Frontier Large Language Models against Official Crash",
+      "description": "Police crash narratives contain information that may supplement structured crash databases, but manual review is labor-intensive . Study benchmarked six frontier LLMs by comparing narrative-derived crash attribute codes with corresponding fields in the Arkansas fatal-crash database . Agreement was highest for non-motorist relation and crash manner and lowest for light condition, roadway surface condition, and work-zone relation . GPT-5.5 High achieved the highest agreement among the evaluated LLMs .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.29064",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-04T03:32:43.016364Z"
+    },
+    {
+      "id": "d1044eed15cf334fc1af387891398f0f",
+      "title": "Autonomous Repair for Multi-Agent Systems via Monte-Carlo Tree",
+      "description": "MARS formulates MAS repair as a Monte Carlo Tree Search (MCTS) process and navigates the vast space of potential repairs via diagnosis-guided expansion with taxonomy-augmented evaluation . MARS consistently outperforms state-of-the-art methods, achieving an absolute improvement from 3.0\\% to 12.1\\% across all settings, while maintaining a comparable token consumption cost . This summary highlights key aspects of the latest developments.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.29055",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-04T03:32:31.651308Z"
+    },
+    {
+      "id": "35f49cd153cf8ed04882ba75e04a8c28",
+      "title": "Learning Optimal Dynamic Matching via Graph Neural Networks",
+      "description": "We develop a value-based reinforcement-learning framework for this problem on finite, evolving weighted graphs . We study an infinite-horizon continuous-time model with stochastic arrivals, node-type transitions, edge realizations, and exogenous exits . We prove an event-time reduction: without loss of optimality, the planner acts immediately after each exogenous event and then waits for the next one . We further show that the optimal edge-wise $Q$-function is characterized by a single continuation-value function on post-decision residual graphs .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.28925",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-04T03:31:27.692935Z"
+    },
+    {
+      "id": "50ac9df72f64d77ad880fdf2d982e212",
+      "title": "Representations from Pretrained Machine-Learning Interatomic Potentials as Coarse",
+      "description": "Generative machine learning is increasingly used for inorganic crystal structure generation . We showcase the power of atom-averaged features from pretrained Machine-Learning Interatomic Potentials (MLIPs), such as MACE, for such tasks . We further show that coarse MACE features can be used as guidance for a material generative model. We showcase CFTD's versatility in capturing crystal-structure quality while also detecting memorization .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2607.28776",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-04T03:31:18.554404Z"
+    },
+    {
+      "id": "d0bd8659148e449b8d0c29bba55aefac",
+      "title": "Congress\u2019s favorite AI tool? ChatGPT",
+      "description": "OpenAI's ChatGPT received roughly 90% of all spending on AI tools by House offices, committees, and institutional accounts during the year ending in March 31 . Congress spent around $100,580 across 798 transactions on chatGPT, out of at least $113,740 in total AI spending . Anthropic's Claude trailed in second place at $13,160 across 37 transactions . Democratic offices accounted for $54,165 in AI purchases, three times the $15,782 spent by Republican offices .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-04T03:29:38.120389Z"
+    },
+    {
+      "id": "bead3af33d16a52098aa0995d1a976fd",
+      "title": "Apple finally fixed Siri, but why does it",
+      "description": "Apple finally has a functional Siri AI assistant, but it's arrived past the time where such a launch feels novel and exciting . Siri understands your personal context, taps into broad world knowledge to answer your questions, and surfaces relevant information stored on your iPhone . Siri now consistently and accurately plays the song, podcast, or audiobook you request on your preferred app . Siri can brainstorm with you, help you refine ideas, learn about a new topic, or explore a recipe \u2014 like suggesting something you can make with random ingredients in your fridge .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=808",
+      "fullArticleLink": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-04T03:29:23.729104Z"
+    },
+    {
+      "id": "29dbca12f879ba885b455ad69df303f3",
+      "title": "Influencers draw backlash for attending OpenAI\u2019s first luxury",
+      "description": "Influencers draw backlash for attending OpenAI's first luxury trip . OpenAI took influencers to a luxury retreat in upstate New York for what was called \u201cSummer Club\u201d There, the creators were treated to farm-to-table dinners, wellness activities like beekeeping, and classes on how to better use OpenAI products . A spokesperson for OpenAI said the event was education-led and sought to give creators hands-on experience with the AI tools .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1502799666.jpg?resize=1200,633",
+      "fullArticleLink": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-04T03:29:09.921752Z"
+    },
+    {
+      "id": "5c210e03771f39bbc885100257e1d238",
+      "title": "Design Arena creators raise $7.9 million to bring",
+      "description": "Design Arena creators raise $7.9 million to bring taste to AI models . The AI tool is now used by 5.3 million people around the world . The real value of the platform comes from the enterprise side, where participating models treat it as a source of instant feedback for their media-generating models . Users tend to be indifferent to which models they're ranking, so their rankings can give critical input to what users really want .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.31.35-PM.jpg?resize=1200,739",
+      "fullArticleLink": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-04T03:28:57.102691Z"
+    },
+    {
+      "id": "8e6013752b7746eea82fb44ad0b76cc8",
+      "title": "Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
+      "description": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist' 'There are Marxist overtones and undertones to our business,' he wrote . PalantIR CEO: AI labs \"want to capture the means of production of their purported partners\" The skyrocketing use of AI helped the company achieve record-breaking results for its second quarter, up 93% over the year-ago quarter and $1.1 billion in profit .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Palantir-Alex-Karp.png?resize=1200,762",
+      "fullArticleLink": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-04T03:28:43.180400Z"
+    },
+    {
       "id": "ef2a15177280378c04bfcc52fb764dbb",
       "title": "Why biological data matters more in AI drug",
       "description": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million . Under the agreement, Relation will generate large-scale datasets measuring how human cells respond to genetic changes and drug interventions . The data will be used to train AI models using AI-assisted drug discovery . The collaboration will expand the companies\u2019 existing work in AI drug discovery work in the UK .",
