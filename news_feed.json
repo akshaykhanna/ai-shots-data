@@ -1,6 +1,206 @@
 {
   "news": [
     {
+      "id": "6905a282dd190e109abab088e5ded6ad",
+      "title": "Anthropic locks in $10 billion of compute",
+      "description": "Anthropic is locking in $10 billion worth of computing capacity from Volta Infra Holdings, a cloud startup that's only a few months old . The compute comes from a data center in Tydal, Norway, where Bitcoin miner Bitdeer Technologies runs hydropower-fed infrastructure packed with Nvidia's latest Vera Rubin chips . Volta was founded in early 2026 by former managers from asset manager Brookfield . The company already has agreements in place with Google and Broadcom, Amazon, SpaceX, and AMD .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_logoreihe.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-08-05T03:29:16.718335Z"
+    },
+    {
+      "id": "ff73e4a119d00a18c9d92d0428d73df9",
+      "title": "Google moves billions in Anthropic chip risk off",
+      "description": "Google is working with Broadcom, Apollo, Blackstone, and Morgan Stanley on a multibillion-dollar financing structure that supplies Anthropic with AI chips and data centers . The setup leaves roughly $200 billion in contracts dependent on Anthropic's continued growth and ability to make its lease payments . Google moves billions in Anthropic chip risk off its balance sheet while keeping most of the risk off Google's balance sheet .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/google_anthropic_finance_illustration.png",
+      "fullArticleLink": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-05T03:29:04.420326Z"
+    },
+    {
+      "id": "f574d5ea7d40b1f02f16234f725d6713",
+      "title": "This year's Pulitzer Prizes saw a record number",
+      "description": "A record eight entries honored at the 2026 Pulitzer Prizes disclosed using AI, including five winners . Newsrooms such as the Wall Street Journal and AP used LLMs mainly to search large document sets faster . Pulitzer administrator Marjorie Miller said AI remains off-limits for writing and editing stories . This year&#039;s Pulitzer . Prizes saw a record number of winners disclose AI use, including 5 winners .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/pulitzer_neural_network-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-05T03:28:53.326876Z"
+    },
+    {
+      "id": "68a0abc0dae723165248c85e74a72d0f",
+      "title": "Policy Optimality Measurement for Multi-Vehicle Decision-Making: From Extr",
+      "description": "Evaluating Multi-Agent Reinforcement Learning (MARL) policies in autonomous driving fundamentally relies on extrinsic statistical indicators (e.g., reward curves and success rates) often mask intrinsic policy degradation and algorithmic blind spots . We formulate a bounded policy optimality score ($\\mathcal{M}_{opt}$) using the forward KL divergence to rigorously penalize fatal collaborative omissions . Crucially, we semantically decouple this metric into lateral and longitudinal dimensions, creating a granular \"semantic microscope\"",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.01133",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-08-05T03:28:37.070936Z"
+    },
+    {
+      "id": "1f85fd6fd7845628559441659dc70ab7",
+      "title": "When Do Surrogate Updates Improve Decisions? A Local",
+      "description": "A broad range of models face the mismatch where they are updated through trajectory losses but are evaluated by downstream task reward . Here, a trajectory is a training instance that induces a surrogate loss whose reduction might not track the model's decision utility update . Theoretically, we ask when one step of trajectory training reduces both population surrogate loss and decision risk . We establish an approximation--calibration trade-off across nested update spaces .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.01130",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-05T03:28:25.882044Z"
+    },
+    {
+      "id": "a631b7b925c2fb9c3a4a5000c4a66ecf",
+      "title": "Logit-Origin Centering for Singleton Test-Time Adaptation . Singleton",
+      "description": "Deep learning models perform poorly when the test data distribution differs from that of that of the training data . PLOC stores only a single running number (the mean of past logits) requires no labels, estimates no priors, and bypasses weight updates entirely. PLOC significantly outperforms strong tabular and entropy-based baselines, according to the authors of arXiv:2608.01074v1 . This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.01074",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-05T03:28:01.935205Z"
+    },
+    {
+      "id": "686395fa26c12c3e201746ff77197381",
+      "title": "Hierarchical Solomonoff Induction: An Unbounded Machine Learning Model",
+      "description": "SolInd provides an ideal unbounded model of a priori sequence prediction but cannot naturally describe extrapolation from a given training dataset . We apply de Finetti's theorem on exchangeable distributions to produce what we call Hierarchical Solomonoff Induction, or HSI . HSI maintains a hyperprior over all Solomonoff priors that can be conditioned on previously observed sequences . We also prove that HSI's excess error on any distribution, compared to its true generator, is bounded by that generator's complexity . This result is directly comparable to SolInd's prediction error being bounded by the Kolmogorov complexity of the sequence being predicted...",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.01005",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-05T03:27:47.111233Z"
+    },
+    {
+      "id": "9f9ba3291f9e311e1d00787a6205c3f5",
+      "title": "A Capability-Taxonomy-Driven Pipeline for Curating Regression Eval Sets",
+      "description": "Platform teams hosting agent-extensibility surfaces face a regression-economics paradox . Every onboarding customer ships an evaluation set tuned to their domain, but the platform's regression set must live under a hard query-count ceiling . We describe a capability-taxonomy-driven curation pipeline applied to declarative agents with custom actions in Microsoft 365 Copilot . The mechanism is taxonomy-agnostic and applies to any regression eval-set curation problem with a typed capability taxonomy .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.01004",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-05T03:27:34.089346Z"
+    },
+    {
+      "id": "33b33f30158dba025f8edd9af2fd6aa1",
+      "title": "XMICD: Explainable Representation of Multiple ICD codes",
+      "description": "Existing approaches often face a trade-off between predictive performance and interpretability . xMICD combines clinically meaningful diagnostic groupings with similarity in a pre-trained ICD embedding space . Instead of using binary group membership, the method assigns codes to groups via similarity-based relative assignments . The resulting features remain clinically interpretable because each dimension corresponds to a recognizable diagnostic group . The method provides a practical way to integrate embedding-based semantic relationships into interpretable clinical feature spaces for machine learning models .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.00935",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-05T03:27:10.328134Z"
+    },
+    {
+      "id": "80e106fe7e7308168e2ca6eac7492b06",
+      "title": "Elon Musk spends half his time talking robots",
+      "description": "Get $100 off your Disrupt 2026 ticket to TechCrunch Disrupt . Elon Musk has been moving decisively to the parts of the AI of the company \u2014 like the Optimus robot and robotaxis as the company projects like the fully autonomous robot . Musk has spent the last few years making the case that Tesla is really an AI robotics company, even if some of its cars are fully-automated . The company shipped nearly half a million cars last quarter .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2171035708.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-05T03:24:19.871653Z"
+    },
+    {
+      "id": "d239bf7b26606f6114ca6fddaa0566a7",
+      "title": "Spotify expands AI remix and covers project",
+      "description": "Spotify again teased the upcoming release of a new product that will allow fans to make covers and remixes of artists' music . Spotify also announced that Merlin, a licensing partner for independent labels and distributors, has now joined Merlin, Universal Universal Music Group (UMG) on the new AI music effort . Spotify has positioned its AI music product as being significantly different from more controversial startups that have been positioned as being different from the controversial startups . Get $100 off your Disrupt 2026 ticket!",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-05T03:24:00.940955Z"
+    },
+    {
+      "id": "a21d180516b22df290a01a2e1c8f1f2b",
+      "title": "Nvidia doesn't mess around: A week after open",
+      "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes Flash Sale and TechCrunch Mobile Logo . TechCrunch 2026 tickets are now on sale for $100 . The week-old Open AI Alliance (OSAA) has already grown to 120 companies . Nvidia doesn't mess around showing progress in open AI, it's already showing progress . The group is presenting proposals for open commentaries for the open AI Exchange Exchange .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-05T03:23:43.349277Z"
+    },
+    {
+      "id": "8cd05edd7a37d5b154da56828af1064c",
+      "title": "Wrinkles is an app that uncovers the hidden",
+      "description": "Meet Wrinkles app is an AI-powered audio tour that reveals hidden history and local stories behind the idea behind the app . Get $100 off your Disrupt 2026 ticket for the TechCrunch Disrupt Disrupt . Meet the 12-month-old app is available on iOS and Android and is available now on both iOS and iOS . Get the latest TechCrunch Flash Sale code for the very first time at 4:34 PM ET today .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Great-British-Image.png?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-05T03:23:25.340490Z"
+    },
+    {
+      "id": "af3fbfe150b00022cd319aa3b04b9280",
+      "title": "Anthropic signs $10B deal with AI cloud startup",
+      "description": "Get $100 off your Disrupt 2026 ticket to get $100 of the $10,000-a-year ticket . TechCrunch has been on a $10 billion deal with AI cloud startup Volta . Volta, founded earlier this year, will reportedly provide AI cloud compute to cloud maker Volta. Bitdeer, a crypto-mining company that will help develop the data center that will be located in Norway and will deliver the data .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-05T03:23:07.187792Z"
+    },
+    {
+      "id": "c30ea359fc494916ec0e12a201a83241",
+      "title": "Open-weight AI models are catching up",
+      "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes Flash Sale and TechCrunch Desktop Logo TechCrunch Mobile Logo . LatestStartupsVentureAppleSecurityAIAppsDisrupt 20 26 EventsPodcastsNewsletters . Disrupt will be on August 4 at 8pm ET on TechCrunch.com/Disrupt.com. Share your photos, videos and techcrunch.com photos with us on Twitter and Facebook.com . This summary highlights key aspects of the latest developments.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Z.ai-GLM-5.2-chat.png?resize=1200,576",
+      "fullArticleLink": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-05T03:22:49.134060Z"
+    },
+    {
       "id": "68ff5f4fb839767f46337a7b2ec4f8c1",
       "title": "OpenAI fires back at Apple's trade secret lawsuit",
       "description": "OpenAI is pushing back against Apple's trade secret lawsuit and has released iMessage threads from former Apple engineer Chang Liu . The messages appear to show Apple employees reaching out to their former colleague for technical help and internal files after he left the company . OpenAI fires back at Apple&#039;s trade secret suit with chat logs showing Apple employees kept texting their former colleagues after they left . The logs show that Apple employees reached out to Liu for help and files .",
