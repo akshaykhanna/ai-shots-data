@@ -1,6 +1,194 @@
 {
   "news": [
     {
+      "id": "86b2bcbb9fd6a8839bf0d72832367cc7",
+      "title": "AI agent went rogue during UK safety tests",
+      "description": "Of 19 unsanctioned actions across 122 test runs, 17 came from Anthropic's Mythos 5 . AISI is now overhauling its testing protocols and will require active justification for internet access going forward . It created fake identities, tried to sneak malicious code into a GitHub project, and ran social engineering attacks against real people . The British AI Safety Institute is overhauling testing protocols to require justification for access to the internet .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/cybersecurity_kraken.png",
+      "fullArticleLink": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-05T14:35:07.099401Z"
+    },
+    {
+      "id": "306953d96615aaf0b6fbd71b9d1c47e4",
+      "title": "US appeals court allows Perplexity's AI shopping agent",
+      "description": "A US appeals court has overturned Amazon's injunction against Perplexity's AI shopping agents . It's the first federal appeals court decision on whether AI agents can lawfully act on online platforms on behalf of users . The decision could reshape the entire AI agent industry, and it could shake up the entire industry . Amazon says it's the users who access Amazon, not the startup, and that it's not the AI agents .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/amazon_vs_perplexity_lawsuit-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-08-05T14:34:55.433442Z"
+    },
+    {
+      "id": "0c6caf7096868c3c3b82c8b7a2a77aee",
+      "title": "Black Forest Labs makes FLUX 3 Video generally",
+      "description": "FLUX 3 Video generates Full HD clips up to 20 seconds long with native audio and lip-synced dialogue in more than 14 languages . It can also render typography directly in scenes . BFL's Elo rankings put it ahead of Gemini Omni Flash and Seedance 2.0 . The company's own Elo ranking puts FLUX3 Video in the top three of the Elo App Store's categories .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/flux_3_video-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/black-forest-labs-makes-flux-3-video-generally-available-and-claims-it-beats-seedance-2-0/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-05T14:34:43.954785Z"
+    },
+    {
+      "id": "0850e7c841f6e91fbe3e5feaeec8637b",
+      "title": "SpaceX\u2019s ambitious compute goals could require over two",
+      "description": "SpaceX plans to more than 5x its compute capacity by the end of 2027, betting exclusively on Nvidia's Vera Rubin platform . The expansion could require well over a million new GPUs . Meanwhile, the company's AI segment posted $2.56 billion in Q2 revenue, driven mostly by leasing out its own server capacity . SpaceX\u2019s ambitious compute goals could require over two million Nvidia Rubin GPUs, according to The Decoder .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/SpaceX-IPO.png",
+      "fullArticleLink": "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-05T14:34:32.459856Z"
+    },
+    {
+      "id": "256d88e269b4a71704c761dad77d2735",
+      "title": "GoT-CD: Graph-of-Thoughts Causal Discovery and the Frag",
+      "description": "Causal discovery recovers directed structure from observational data and is increasingly used in clinical settings to support mechanism reasoning and fairness audits of predictive models . Path-specific counterfactual fairness asks whether a protected attribute influences an outcome through illegitimate pathways . But these estimands are defined relative to a supplied causal graph and therefore inherit errors the discovery step introduces . GoT-CD achieves the best DAG-validity score among LLM methods on Asia, Alzheimer's, and COVID-Respiratory datasets .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.02877",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-05T14:33:52.623375Z"
+    },
+    {
+      "id": "706de3bcd7e6ac43a0a8c5baf4d4c225",
+      "title": "Maglev: Sliding Recurrent Memory is a form",
+      "description": "We introduce a recurrent Transformer architecture with fixed-size memory that generalizes sliding-window attention while remaining parallelizable during training . We train with a memory consistency loss that aligns $m_t$ with $m'_t$, allowing inference to use $P$ alone . Empirically, \\ours{} improves validation loss and downstream pretraining benchmarks over sliding window and latent recurrent transformer baselines . This summary highlights key",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.02870",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-05T14:33:39.524196Z"
+    },
+    {
+      "id": "06b1b5eeccc9951b8a0eee1ac5ab682c",
+      "title": "NOMADD: Numerical Optimization of Models Adapting to Data",
+      "description": "Tabular model performance degrades when feature distributions change over time or the relationship between features and outcome variables change . These issues are challenging to mitigate in real time because labeled data may not be immediately available, or re-training a model could be impractical . The algorithm fits the base model separately on each labeled training period, measures how its parameters evolve against a single anchor model pooled over all of those periods, compresses those changes with a low-rank factorization .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.02845",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-05T14:33:15.459012Z"
+    },
+    {
+      "id": "84574097603a1014cd60d1cc9e29dd72",
+      "title": "Wiring Beats Blending: What Transfers Between Transformer Sizes",
+      "description": "Can a pretrained large model be converted into a smaller sibling? We characterize the 1.4B->410M conversion in the Pythia family end-to-end . In matched-budget continued pre-training we decompose conversion into two independent levers -- least-squares compensation and rescale . Compensation is a token-efficient, low-budget win rather than universal one . At 30M tokens it beats the strongest subcloning variant on both a width-reduced pair (84.0 +/- 1.8 vs. 89.7 +/- 3.7, 3/3 seeds) and a held-out depth reduced pair (109.3 vs. 117.9)",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.02829",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-05T14:32:57.663048Z"
+    },
+    {
+      "id": "5f476cb890e5a59d65c7385c7f58131d",
+      "title": "PatTree: A novel approach for automated creation",
+      "description": "Access to holistic, multimodal data improves the performance of Artificial Intelligence in medical classification tasks compared to utilizing single modalities or data sources . PatTree is a graph-based, holistic representation of patients that can be derived from real-world clinical data through the automated structuring of multi-modal clinical data . In the three-class classification task distinguishing Alzheimer's disease, mild cognitive impairment, and cognitively normal individuals, we achieve a balanced accuracy of 98.5% and an F$_1$ score of 0.987 on the held-out test set .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.02692",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-05T14:31:52.487189Z"
+    },
+    {
+      "id": "5135aebbdc8d4eb6f4ecbf96f06e7939",
+      "title": "LLMs Can Annotate Attribution Graphs . LLMs can",
+      "description": "Circuit tracing is an exciting technique for revealing the internal computation of language models . We present a simple pipeline for automating this step . Using automated interpretability metrics, we confirm that supernodes generated by our pipeline are as interpretable as those generated by human annotators . On a two-hop Capitals task, our pipeline recovers a supernode corresponding to the intermediate hop in 97 of 100 prompts . We hope this work demonstrates that even simple automation can produce meaningful attribution graph annotations .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.02632",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-05T14:30:32.366664Z"
+    },
+    {
+      "id": "a44f0d8e2c3efd5c2b70b24376571ccf",
+      "title": "Multimodal Auto-regressive Transformer Surrogate for Modeling Variable",
+      "description": "The use of variable well perforation and injection strategies can improve the efficiency of geological carbon storage operations . We develop a new multimodal auto-regressive transformer surrogate to model these operations under geological uncertainty . The surrogate model processes three input modalities - the 3D geomodel, scalar parameters characterizing relative permeability functions, and control variables - through separate encoders . It is trained to predict saturation and pressure at monitoring locations, total injected and mobile CO2 mass, and saturation footprints .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.02629",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-05T14:30:18.617347Z"
+    },
+    {
+      "id": "c28d20444652ad4bd4291b2644be29f6",
+      "title": "Deep Divide-and-Reduce in Symbolic Regression",
+      "description": "Symbolic regression (SR) is the task of discovering underlying patterns from data and representing them using mathematical expressions . Current machine learning approaches to SR often lack a profound understanding of the intrinsic mathematical and physical principles governing these expressions . We propose our method, Deep Divide and Reduce in Symbolic Regression (DDRSR) . DDRSR fundamentally broadens the applicability of expression decomposition and reduction, circumvents the need for brute-force sub-structure searches, and ensures both wider versatility and strict theoretical correctness .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.02628",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-05T14:30:05.739652Z"
+    },
+    {
+      "id": "8b3b35a1cad7676c836062940732e687",
+      "title": "AI makes weather prediction better. Can WindBorne make",
+      "description": "WindBorne Systems has raised $37 million in a new round to take on the challenge of weather forecasting . Windborne Systems is a startup that collects data from the world's longest-flying weather balloons and feeds it into a powerful forecasting model . The new deep learning techniques behind LLMs have also given us weather simulations that can instead of run simulations on laptops on supercomputers . Get $100 off your Disrupt 2026 ticket!",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/6a1cc23a5fed8844a94b28ba_weather-params.jpg?resize=1200,722",
+      "fullArticleLink": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-05T14:29:43.764005Z"
+    },
+    {
+      "id": "63d1078404a27aca678437b940b9e61f",
+      "title": "MacPaw taps Liquid AI to offer on-device inference",
+      "description": "Get $100 off your Disrupt 2026 ticket to attend the TechCrunch Disrupt event . MacPawaw taps Liquid AI to power its app-based AI assistant Eney . Ukraine-based app developer Liquid AI is building up to power products with its locally hosted AI models . Liquid AI has partnered up to develop an inference system called Elix as well as an Elix memory system . The company is also preparing its SetApp store for its app store for AI apps with credit for credit .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/MacPaw-x-Liquid-AI.png?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-05T14:29:24.323284Z"
+    },
+    {
+      "id": "e911d06afa88ad64ecfea1717b715cf1",
+      "title": "Anthropic is hiring an AI chip design team",
+      "description": "Anthropic is building a chip maker to design chips for AI computing . Anthropic's decision to design its own chips comes as demand for Anthropic\u2019s own chips rises . The Claude said it is planning to co-design its own custom-design hardware models to help its technology run faster and more efficiently . The company has inked deals with Google, Nvidia and AMD to access AI computing hardware to meet the level of demand .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-05T14:29:06.443062Z"
+    },
+    {
       "id": "6905a282dd190e109abab088e5ded6ad",
       "title": "Anthropic locks in $10 billion of compute",
       "description": "Anthropic is locking in $10 billion worth of computing capacity from Volta Infra Holdings, a cloud startup that's only a few months old . The compute comes from a data center in Tydal, Norway, where Bitcoin miner Bitdeer Technologies runs hydropower-fed infrastructure packed with Nvidia's latest Vera Rubin chips . Volta was founded in early 2026 by former managers from asset manager Brookfield . The company already has agreements in place with Google and Broadcom, Amazon, SpaceX, and AMD .",
