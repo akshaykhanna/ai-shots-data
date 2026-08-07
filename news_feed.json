@@ -1,6 +1,189 @@
 {
   "news": [
     {
+      "id": "913ea00d8139cfdad269da2248863590",
+      "title": "Amazon, Cursor, Microsoft, OpenAI, and Vercel unite",
+      "description": "Amazon, Cursor, Microsoft, OpenAI, and Vercel have jointly created Agent Plugins, an open standard that defines a single package format for AI agent extensions . Version 1.0.0 uses a plugin.json manifest file and supports both agent skills and MCP servers . The Decoder.com is the latest in a long-running series of articles on AI agent plugins and AI agent software.com .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/agent_standard.png",
+      "fullArticleLink": "https://the-decoder.com/amazon-cursor-microsoft-openai-and-vercel-unite-on-a-shared-standard-for-ai-agent-plugins/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-07T13:27:38.255522Z"
+    },
+    {
+      "id": "e1832d608c6b7999c2383edf7bfaec46",
+      "title": "OpenAI's hockey-puck-sized smart speaker with moving parts",
+      "description": "The company's first hardware device will be donut-shaped, roughly the size of a hockey puck . The screenless speaker has parts that move on their own to signal when the device is responding or engaging with the user . The speaker, co-designed by Jony Ive's studio LoveFrom, is expected to ship in 2027 . Separately, Apple is suing OpenAI over allegedly stolen trade secrets related to metalworking .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
+      "fullArticleLink": "https://the-decoder.com/openais-hockey-puck-sized-smart-speaker-with-moving-parts-is-set-to-ship-in-2027/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-07T13:27:26.442306Z"
+    },
+    {
+      "id": "11850b1f2cdfe4320cc3a4e22934af17",
+      "title": "Stanford and Arc Institute scientists used",
+      "description": "Stanford and Arc Institute scientists used artificial intelligence to design new viruses that killed bacteria in the lab . The project marks an early step toward AI-designed life forms, MIT Technology Review reports . The team describe it as the \"first generative design of complete genomes\" in what they describe as what they call the first \"generative design\" of a complete genomes . The researchers say they hope to use AI to create new life-like viruses that kill bacteria .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/09/dangerous_virus_computer_chatbot.png",
+      "fullArticleLink": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-07T13:27:16.402107Z"
+    },
+    {
+      "id": "2c7b793bb15a408ee1c0785fc0bc1d0e",
+      "title": "China's Largest AI Model is being developed",
+      "description": "Bytedance is training an AI model with up to ten trillion parameters, according to the Financial Times . That's three times the size of Moonshot's Kimi K3, currently the largest Chinese model . It would put the TikTok parent company in the same ballpark as Anthropic's top system Mythos 5, which industry estimates place at around eight trillion parameters . The model is in pretraining, a phase that typically takes three to six months .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/02/bytedance_logo_in_ai_data_Stream.png",
+      "fullArticleLink": "https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-07T13:27:04.201305Z"
+    },
+    {
+      "id": "3f20d7a171650c4a5ebbb2c2190f5559",
+      "title": "How Far Do Simple Transformations Translate Translate across",
+      "description": "Understanding how independently trained models organize semantic information is an enabler for AI-to-AI latent communication without decoding into human-readable text . Simple translators recover meaningful shared structure and support transfer for some compatible pairs, but fail sharply for others . Overall, the results show that heterogeneous embedding spaces are not universally related by simple mappings as often suggested in some literature, according to the authors of this article .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.05980",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-07T13:26:52.141229Z"
+    },
+    {
+      "id": "e76bc5f51e1228eb9d2bbe0ceed74a33",
+      "title": "Predicting Task Difficulty Without Rollouts can be done",
+      "description": "Reliable estimates would allow environment designers to calibrate benchmarks and construct progressive training curricula . This becomes increasingly important as agents move into long-horizon domains, where empirical trial-and-error is a severe computational bottleneck . We show that AUC can mask poor difficulty estimates, identify token-level entropy as a useful predictive signal, and show how residuals between expected and observed difficulty can expose hidden environment flaws such as contamination and infeasibility .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.05797",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-07T13:26:23.410724Z"
+    },
+    {
+      "id": "3476075685343ba88a99c4ded713ba4a",
+      "title": "GROM: Gradient-Free Rapid One-Shot Machine Unlearning . GROM",
+      "description": "Machine unlearning has become a critical capability for safely removing specific, sensitive knowledge from large language models . Current state-of-the-art approaches primarily rely on iterative, training-time unlearning via fine-tuning . We propose a novel one-shot unlearning approach . We frame the unlearning process as a ridge-regularized least-squares optimization problem, deriving a closed-form additive update for targeted weight matrices . This",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.05783",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-07T13:26:12.513688Z"
+    },
+    {
+      "id": "7bf2922bcc09aecfcb5f6a910a472345",
+      "title": "Equipment-centric workpiece localization in near real-time using deep",
+      "description": "Continuous workpiece localization is essential for traceability and process coordination in hot forging . Direct tracking is unreliable because of extreme temperatures, surface degradation, and irregular routing . This study presents an equipment-centric framework that infers workpiece locations from handling equipment observed by multiple static 2D cameras . The framework estimates floorplan-space 3D equipment coordinates and recognizes grasp and release activities . Event-driven finite state machines validate these activities as discrete handling events and continuously update workpiece states and locations .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.05744",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-07T13:26:02.906077Z"
+    },
+    {
+      "id": "3bfaa99e0eed188959637e0f434ae693",
+      "title": "CircuitSteer: Geometrically Aligned Multi-Layer Steering via Sp",
+      "description": "CircuitSteer leverages Sparse Autoencoders (SAEs) to identify and manipulate coherent semantic circuits distributed across multiple layers . By constructing a feature flow circuit based on feature co-activation and the geometric alignment of decoder directions, we isolate the specific multi-layer subcircuits responsible for a target behavior . We then synthesize dense steering vectors from these sparse features and apply multi-point interventions to guide the model's internal semantic trajectory .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.05732",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-07T13:25:53.038712Z"
+    },
+    {
+      "id": "cc8a6c39f4e7d2c31f60a180dc328ae1",
+      "title": "SEAM: Global consistency beyond local accuracy in scientific",
+      "description": "Scientific machine learning commonly validates models at the level of a subdomain, a benchmark split, or an explanation for one prediction . Yet such local checks cannot establish whether the resulting explanations can be assembled into one globally admissible explanation . We introduce a framework that makes this local-to-global consistency question computable across regions, sensors, regimes, and model components . We establish theorems for minimum-cost intervention and conservation-contract detectability, together with companion results for identifiability and closure recoverability .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.05702",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-07T13:25:32.951709Z"
+    },
+    {
+      "id": "850099bee91080547c246ca94b59f857",
+      "title": "Reasoning Errors Have a Region and a Direction",
+      "description": "A three-stream detector combines motion with two restricted views of location . This design restores enough state context to interpret the motion without returning to full-state probing . It improves selection accuracy by up to 12% over the displacement-only state of the art and 21% over single-layer probing baselines . Ablations further show that motion, region, and direction provide complementary signals . These results suggest that reasoning validity is better read from state-conditioned motion than from either static states or decontextualized trajectories alone .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.05660",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-07T13:25:22.402799Z"
+    },
+    {
+      "id": "4654b5431a7b4c685c68e08dbe776c71",
+      "title": "Quantum-Structured World Models (QSWMs) for Predictive Latent Dynamics",
+      "description": "Quantum-Structured World Models (QSWMs) are a quantum-inspired framework for predictive world modeling with structured latent states, latent transition operators, and measurement-inspired decoding maps . Results show promising local predictive potential for complex-valued QSWMs, while also revealing limitations in long-horizon rollout, density-matrix variants, according to the paper . We establish three foundational properties: classical inclusion, predictive sufficiency, and structured compactness .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.05371",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-07T13:24:42.556225Z"
+    },
+    {
+      "id": "ea7d9146d579a376c36442a34fefd841",
+      "title": "Disentangling 3D Modeling from Spatial Reasoning is key",
+      "description": "Disentangled Spatial Reasoner (DiSR) is a simple yet effective framework that reconstructs the physical world into structured 3D evidence . Without large-scale 3D VQA training or complex tool-use policies, DiSR achieves competitive performance on popular spatial reasoning benchmarks . DiSR offers improved interpretability, modularity, and computational efficiency, demonstrating that explicit separation of perception and reasoning is a scalable and effective alternative paradigm to end-to-end modeling .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.05242",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-07T13:24:22.835763Z"
+    },
+    {
+      "id": "395853ed34273357117e9d7d70bcf14f",
+      "title": "PPDL: LLM-based Flows as Probabilistic Programs as Prob",
+      "description": "This paper introduces a probabilistic language for programming LLM-based flows . It enables developers to quantify and propagate uncertainty throughout the application's flow, and experiment with different inference scaling techniques without adding a single line of code beyond the flow's logic . We present an experimental study to demonstrate this capability, and a case study building a theorem proving agent for the Rocq theorem prover . arXiv:2608.05234v1 .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.05234",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-07T13:24:03.682987Z"
+    },
+    {
+      "id": "6ddb2de59fa4ffa5d5605dff99c4f4fb",
+      "title": "When Do Corrective Features Help? An Agent",
+      "description": "We study corrective feature discovery: mining interpretable features of a frozen forecaster's residual to drive a lightweight post-hoc corrector . CRAFTER (Corrective Residual Agent with Feature-based Temporal Exploration and Reasoning) surpasses every dedicated feature-engineering system at every feature budget, doubling the improvement achieved by the corrector alone and reducing error of the weakest backbones by up to 27% . This",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.05207",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-07T13:23:54.345775Z"
+    },
+    {
       "id": "ce8a5f8cdf2b17a0cf14590c6bfa5a06",
       "title": "Claude Code is the fastest agent framework framework",
       "description": "Composio tested Deepseek V4 Flash across four agent frameworks on 30 real-world tasks . Success rates were mostly similar, but costs varied by nearly 3x . OpenCode came in cheapest at $0.073 per task, while Claude Code came in fastest . Despite using the fewest tool calls and output tokens, Claude Code cost $00.195 despite using the most tool calls . The choice of framework is mainly a question of price and speed .",
