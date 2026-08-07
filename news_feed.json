@@ -1,6 +1,204 @@
 {
   "news": [
     {
+      "id": "ce8a5f8cdf2b17a0cf14590c6bfa5a06",
+      "title": "Claude Code is the fastest agent framework framework",
+      "description": "Composio tested Deepseek V4 Flash across four agent frameworks on 30 real-world tasks . Success rates were mostly similar, but costs varied by nearly 3x . OpenCode came in cheapest at $0.073 per task, while Claude Code came in fastest . Despite using the fewest tool calls and output tokens, Claude Code cost $00.195 despite using the most tool calls . The choice of framework is mainly a question of price and speed .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/harness_agentic_software-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-07T03:19:13.089213Z"
+    },
+    {
+      "id": "6ea78e8547d21207a9306e70936fcaee",
+      "title": "Microsoft reportedly depends on OpenAI for 70 percent",
+      "description": "Microsoft generated $24.1 billion in AI revenue through OpenAI in the fiscal year ending in June . That's about 70 percent of its total AI business, according to a Bloomberg analysis . The heavy reliance helps explain why a company long known for vendor lock-in has recently been championing open-weight models and pushing back against proprietary isolation, the analysis says . Microsoft has recently pushed back against vendors' proprietary isolation .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/microsoft_openai.png",
+      "fullArticleLink": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-07T03:19:01.443600Z"
+    },
+    {
+      "id": "4091d6c59d73562a03bed8473c37038c",
+      "title": "Deepmind's talent drain likely comes down to chip",
+      "description": "Ex-Google Deepmind CEO Demis Hassabis has reportedly stepped back from day-to-day operations for about a year . Researchers are also complaining about limited access to Google\u2019s own TPU chips, while external customers like Anthropic can purchase the same hardware through Google Cloud . Google's talent drain likely comes down to chip shortages, a conflict of interest, and Google&#039;s bureaucracy .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/deepmind_hassabis.png",
+      "fullArticleLink": "https://the-decoder.com/deepminds-talent-drain-likely-comes-down-to-chip-shortages-a-conflict-of-interest-and-googles-bureaucracy/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-07T03:18:49.744739Z"
+    },
+    {
+      "id": "a67618137f31145c3299a0ce6ebcdb19",
+      "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts",
+      "description": "Free users will get unlimited text chats with the smaller GPT-5.6 Luna starting next week . But the smaller model still falls well short of its bigger siblings . Free users can now use the smaller Luna model to chat with the larger model . The smaller model also has a slider that lets users adjust how deeply the model thinks . The new model has a button that lets Luna reason longer and more focused responses .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/openai_chatgpt.png",
+      "fullArticleLink": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-07T03:18:38.194272Z"
+    },
+    {
+      "id": "68d57ef2dce00c9ccd880d70cbc850dc",
+      "title": "Local Violation Certification for Linear Predict-Then-Optimize Pipelines",
+      "description": "Data-driven decision pipelines combining predictive machine learning models with downstream optimization software are increasingly used to make high-stakes operational decisions . Traditional scenario generation methods rely on repeated random testing, which becomes computationally prohibitive when failure events are rare and offers little insight into why failures occur . We mathematically demonstrate that standard sampling methods fail efficiently for rare violations . We show that the local risk of failure can be calculated directly in closed form using a single optimization solve .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.04474",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-07T03:18:23.530624Z"
+    },
+    {
+      "id": "95befc3151becab57b0393f25081586c",
+      "title": "MESH: Memory-Efficient Sinkhorn Optimization for Mixture-of",
+      "description": "SAGE/Sinkhorn hybrid reduces optimizer state from 0.883GB to 0.331GB but degrades evaluation loss to 3.8265 . MESH restores a temporal first-moment signal through the gradient-buffer lifecycle . Block/neuron preconditioning can improve the memory-quality frontier, but not established as universally necessary. MESH is optional block-preconditioned variant that adds a coarse neuron/block inverse-RMS multiplier . This summary highlights key aspects of the",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.04407",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-07T03:17:46.995730Z"
+    },
+    {
+      "id": "d695d6f36e38a77ea7edc4e866521d6e",
+      "title": "Training-Free Hashing-Based Attention via Binary Principal Components",
+      "description": "Long-context large language models (LLMs) are increasingly deployed in real-world applications . Self-attention remains a major efficiency bottleneck due to the necessity of repeatedly processing ever-growing key-value caches . Unlike Locality-Sensitive Hashing (LSH) with data-independent random projections or learned non-linear hashing methods, BinaryPC constructs binary codes that explicitly preserve structural information of data without requiring gradient-based training . This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.04405",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-07T03:17:35.876183Z"
+    },
+    {
+      "id": "4324a828d56bdef0b1dd4e74b7a578ac",
+      "title": "A Comparative Study of Feature Selection Methods",
+      "description": "Large feature sets increase computational burden and overfitting risk, leading to limited usefulness in clinical settings . NTK sensitivity provides the best overall balance of accuracy and stability . LLM-guided selection contributes complementary clinically meaningful signals despite lower standalone performance . Results demonstrate that performance improves with larger feature budgets with diminishing returns beyond a moderate size . arXiv:2608.04180v1 Announcement: Feature selection is a critical step in electronic health record (EHR)-based predictive modeling .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.04180",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-07T03:16:11.863849Z"
+    },
+    {
+      "id": "300e0702a7117eeb5021c6b67e76bb9d",
+      "title": "Understanding Fault Tolerance of Adversarially Robust Pruned Models",
+      "description": "Deep neural networks deployed on resource-constrained neuromorphic hardware face three concurrent challenges . Pruning, adversarial training, and hardware fault injection interact to affect the robustness of convolutional neural networks . Contrary to intuition, pruning did not significantly increase fault sensitivity, and varying the pruning level had little effect across fault rates and attack strengths . These results highlight the need to jointly consider adversarial robustness and hardware reliability .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.04173",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-07T03:16:00.280016Z"
+    },
+    {
+      "id": "4a58e54b7208bf76b5ed80e73115228b",
+      "title": "LiNC: Lightweight Noise Correction via Per-Sample Trust",
+      "description": "Label noise is common in medical imaging datasets due to factors such as inter-rater variability, annotation errors, and ambiguous cases . Lightweight Noise Correction (LiNC) adds a single trainable trust parameter per training sample and learns when to use the observed label and when to defer to the model . LiNC adds negligible asymptotic overhead . Experiments on ten 2D datasets from MedMNISTv2 show consistent gains in accuracy and strong mislabel detection .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.04147",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-07T03:15:48.320464Z"
+    },
+    {
+      "id": "509f06b265ecd8000210b78adbc1c079",
+      "title": "DeepMind says its AI can predict Hurricanes earlier",
+      "description": "DeepMind's WeatherNext model can accurately predict a storm\u2019s track and intensity using lower-resolution weather data . It gives forecasters a day more lead time than existing models . Hurricane Melissa was catastrophic, but the AI model helped forecasters give an earlier warning to communities in its path, so they could better prepare . On the ground, that extra day can mean a lot for communities in the storm's path .",
+      "imageUrl": "https://media.wired.com/photos/6a748489077eac6832213fd9/191:100/w_1280,c_limit/AICyclone.jpg",
+      "fullArticleLink": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-07T03:14:16.588077Z"
+    },
+    {
+      "id": "c73ffcd8d928bf4e11571f0961c69902",
+      "title": "OpenAI says Apple\u2019s own security practices undermine its",
+      "description": "Get $100 off your Disrupt 2026 ticket . LatestStartupsVentureAppleSecurityAIAppsDisrupt 20 26 EventsPodcastsNewsletters . Apple's motion to dismiss Apple's trade secrets against OpenAI's request to expedite discovery . OpenAI says Apple's own security practices and security procedures weaken its own security procedures off-boarding procedures off of its trade secrets . The lawsuit accuses OpenAI of orchestrating a scheme to obtain confidential hardware information from former Apple engineers .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-07T03:13:57.406531Z"
+    },
+    {
+      "id": "a1d4b198486ef26533b335a94072b2ae",
+      "title": "Gen Z dating apps like Ditto ditch swiping",
+      "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes Flash Sale and TechCrunch Desktop Logo TechCrunch Mobile Logo . Ditto co-founders Eric Liu and Eric Wang set out to build something that would help their peers connect without having to spend hours navigating the messiness of apps like Tinder and Tinder . \u201cWe see that people are getting super tired of super-super-tired with how people are connecting with each other,\" Wang told TechCrunch. \u201cAs Gen Zony, we were witnessing the behavioral shift in terms of how people connect with other terms\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/ditto-ai-app.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-07T03:13:37.069133Z"
+    },
+    {
+      "id": "230504609d1eab92a1c0205866bb5d85",
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "description": "OpenAI is removing text-based chats for all users on ChatGPT, which recently crossed the 1 billion user limit . The new GPT-5.5-56 model will replace the default model for Free and Go Go users replacing GPT . Users will also get a new \"Think\" button that lets them select higher levels of text-free chats . Get $100 off your Disrupt 2026 ticket .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-07T03:13:20.121456Z"
+    },
+    {
+      "id": "93553c6ca62b0cfb31a11cf4839e28bd",
+      "title": "OpenAI\u2019s new AI smart speaker will reportedly sell",
+      "description": "Get $100 off your Disrupt 2026 ticket to attend Disrupt . TechCrunch Desktop Logo TechCrunch Mobile logo TechCrunch mobile logo . Latest startupsVentureAppleSecurityAIAppsDisrupt 20 26 eventsPodcastsNewsletters . Get $10 off your ticket to Disrupt Disrupt in New York City, New York, Silicon Valley, San Francisco and Silicon Valley conference 2026. Visit Disrupt.com/disrupt/2026 . This summary highlights key aspects of the",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-07T03:13:02.498145Z"
+    },
+    {
       "id": "4dd27a39d5064a7443dc2f835f19249e",
       "title": "OpenAI developer warns the \"tireless eagle eyes",
       "description": "OpenAI developer \"roon\" warns on X that AI models could soon start scanning for exposed API keys, crypto wallets, and login credentials at scale . His warning follows OpenAI's autonomous Hugging Face hack, which he called a \"warning shot\" The developer warns the .tireless eagle eyes of a million models&quot; are coming for your exposed API . keys and crypto wallets at scale, he says .",
