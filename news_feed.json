@@ -1,6 +1,163 @@
 {
   "news": [
     {
+      "id": "11864555477a920e036243176f2cd79a",
+      "title": "EU AI Act Article 50 transparency rules enter",
+      "description": "Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc . Enterprises running generative AI tools now have to comply with Article 50, which requires them to tell people when they're interacting with a machine, and to tell them when they are interacting with the machine . The rules will also apply to providers of certain AI systems to tell the public when they interact with them .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/eu-ai-act-article-50-transparency-rules-governance-artificial-intelligence-european-commission-union-generative-europe-deepfakkes.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-08T13:08:47.958209Z"
+    },
+    {
+      "id": "6de11ca0053fcc0f723505b8929b042a",
+      "title": "Red Hat, NVIDIA, IBM, IBM back project turning",
+      "description": "Red Hat, NVIDIA, IBM back project turning AI policy into production-ready deployment code . Project describes itself as an automated, auditable workflow that connects the \"fragmented steps, tools, and requirements\" of engineering and compliance teams . With regulation such as the EU AI Act now taking effect, Red Hat has launched asago, an open-source community project that aims to turn AI governance policy into code .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/red-hat-nvidia-ibm-ai-policy-governance-code-eu-ai-act-compliance-enterprise-open-source-safety-security-asago.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-08T13:08:37.593084Z"
+    },
+    {
+      "id": "988bb76127f0aeeda659607393b1efde",
+      "title": "Alibaba, DeepSeek push China\u2019s AI model race towards",
+      "description": "Qwen3.8-Max has 2.4 trillion parameters and uses a mixture-of-experts architecture, which activates only part of the model for each request . Alibaba said around 95 billion parameters are active with 95 billion of them active . DeepSeek\u2019s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems, Alibaba said in a blog post earlier this month .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Alibaba-DeepSeek-push-Chinas-AI-model-race-towards-lower-costs-scaled-e1785910195171.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-08T13:08:27.001854Z"
+    },
+    {
+      "id": "ce706af5ae21567a45ad9df76926cb96",
+      "title": "PRISM2 model uses clinical dialogue to interpret pathology",
+      "description": "PRISM2 reads whole-slide images through a perceiver-based encoder trained on tissue tiles and clinical dialogue drawn from pathology reports . The model aggregates thousands of tile embeddings per slide into one representation, then generates text that answers diagnostic questions rather than simply classifying pixels . Training data spans 2.3 million whole-Slide images, with training data spanning 2.2 million slide images .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/prism2-paige-ai-model-microsoft-pathology-healthcare-medical-biomarket-multimodal-artificial-intelligence.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-08T13:08:16.148442Z"
+    },
+    {
+      "id": "343eb4990a175ca60d69d594047fb6a8",
+      "title": "Why health AI interfaces must adapt to user",
+      "description": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them . When applied to skin disease diagnosis, non-experts improved their accuracy with AI assistance, although the improvement largely came from deferring to the model . Primary care providers showed a different pattern: they performed better with AI help than those who deferring it to a model, MIT researchers say .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/health-ai-interfaces-healthcare-medical-computer-vision-bias-artificial-intelligence-patient-safety.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-08T13:08:06.295678Z"
+    },
+    {
+      "id": "004bd258b033c28c8038de54087b80cc",
+      "title": "Alibaba tests new business model for Qwen open-source",
+      "description": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model . The arrangement would require larger companies that generate revenue from offering the model as a service to reach a commercial agreement with Alibaba . The exact revenue-share rate has not been disclosed, sources say . Alibaba tests new business model for open-source AI with Qwen, Reuters reports . The company is testing new business models for Qwen .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Qwen.jpeg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-08T13:07:55.275657Z"
+    },
+    {
+      "id": "700c939878dad4992894aa681bcce735",
+      "title": "How AI is changing Instagram engagement without replacing",
+      "description": "Every post you see, every Reel that autoplays, and every \u2018Explore\u2019 page suggestion on Instagram is now decided by its AI system . With over three billion people using it, that\u2019s not a small detail; it's the whole algorithm . The more AI controls over how you see the content, the more it can be controlled by the algorithm . But here's the point: the more AI can be used to change engagement without replacing the human touch .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/instagram-ai-engagement-social-media.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-08T13:07:43.824427Z"
+    },
+    {
+      "id": "8deadbb2e7e90672b57341517cfe1f9c",
+      "title": "Stanford Evo 2 AI model generates phages against",
+      "description": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model . Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity . The work centres on bacteriophage \u03a6X174, pronounced \u2018FYE-ex-1-7-4\u201d. The model generates phages against E.coli . This summary highlights key aspects of the latest developments. Industry",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/stanford-evo-2-AI-model-phages-against-E-coli-bacteria-science-synthetic-biology-genome-design-drug-resistance-health.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-08T13:07:32.178095Z"
+    },
+    {
+      "id": "eb946aba55dfdc9517f9f3b72c7e0da8",
+      "title": "XAI's Imagine Image 2.0 lands just behind OpenAI's",
+      "description": "xAI has released Imagine Image 2.0 as a new image generator for Grok . The model ranks second in the Arena benchmarks, just behind OpenAI's GPT-Image-2.0 . New editing tools like Magic Wand and Multi-Ref Editing target practical creative workflows . xAI&#039;s Imagine Image has been released as a toolkit for the Grok platform for developers . This summary highlights",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wall-2.png",
+      "fullArticleLink": "https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-08T13:07:18.778167Z"
+    },
+    {
+      "id": "d9fd2fd1b63dc662bf9ef9eed15ef3a7",
+      "title": "AI agents use roughly 600 times more energy",
+      "description": "Climate scientist Zeke Hausfather tracked his Claude Code usage over eight weeks: 3.2 billion tokens and about 170 kWh of data center electricity . Per prompt, that's roughly 600 times more than a typical AI chat . His data shows how much the low figures reported by Google and OpenAI distort the reality of agent-based AI, he says . The data shows that low figures by Google or OpenAI are misleading .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/climate_change_energy_usage_AI.png",
+      "fullArticleLink": "https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-08T13:07:06.966985Z"
+    },
+    {
+      "id": "82773393b7fea75afdad6c4528dad562",
+      "title": "Fields Medalist who published a paper on AI-driven",
+      "description": "Fields Medalist Jacob Tsimerman is leaving the University of Toronto to join OpenAI and work on AI safety . In a recent paper, he analyzes scenarios where AI could contribute to human extinction and calls for far more investment in safety research . He has published a paper on AI-driven human extinction now works for OpenAI . In the paper he calls for more funding of AI-related safety research in the future .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/math_blackboard_illustration.png",
+      "fullArticleLink": "https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-08T13:06:56.197023Z"
+    },
+    {
+      "id": "5559368a59cf8e10fb348ccbf128c04b",
+      "title": "Backflip AI turns 3D scans into editable CAD",
+      "description": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours . The startup offers its tool as an add-in for Autodesk Fusion . Most factories have digital models for less than one percent of their parts, CEO Greg Mark says . The company, backed by $30 million in funding, has released an AI model that converts 3D scan into fully editable, parametric CAD models .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/backflip-AI-logoreihe.png",
+      "fullArticleLink": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-08-08T13:06:45.002370Z"
+    },
+    {
+      "id": "5c9f5cbc8789199dd3bc7757b29d6a8e",
+      "title": "Claude Code sessions can now talk to each",
+      "description": "Claude Code sessions on macOS and Linux can send messages to each other . Anthropic says this works both ways: You can ask another session a question and get the answer back directly . It's not available on Amazon Bedrock, Google Cloud Agent Platform, or Microsoft Foundry . The documentation lists typical use cases like sharing insights, coordinating parallel workflows, and checking status updates on long-running tasks . Admins can lock this feature down via settings, and only responses are possible in that case .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/claude_logo-1.png",
+      "fullArticleLink": "https://the-decoder.com/claude-code-sessions-can-now-talk-to-each-other-and-share-context-across-terminals/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-08T13:06:31.041711Z"
+    },
+    {
       "id": "2b2382549dcbd4ead13e028460a36e18",
       "title": "OpenAI's first smart speaker is expected in 2027",
       "description": "OpenAI's AI hardware is set to arrive in 2027 at a price above $300 . The device is a screenless smart speaker shaped like a donut, roughly the size of a hockey puck . Apple accuses OpenAI of stealing hardware trade secrets by poaching more than 400 employees . Even if the suit fails, it could slow the startup's plans enough to put the startup in a tight spot . More hardware products are planned to follow .",
