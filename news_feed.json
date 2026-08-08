@@ -1,6 +1,207 @@
 {
   "news": [
     {
+      "id": "2b2382549dcbd4ead13e028460a36e18",
+      "title": "OpenAI's first smart speaker is expected in 2027",
+      "description": "OpenAI's AI hardware is set to arrive in 2027 at a price above $300 . The device is a screenless smart speaker shaped like a donut, roughly the size of a hockey puck . Apple accuses OpenAI of stealing hardware trade secrets by poaching more than 400 employees . Even if the suit fails, it could slow the startup's plans enough to put the startup in a tight spot . More hardware products are planned to follow .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
+      "fullArticleLink": "https://the-decoder.com/openais-first-smart-speaker-is-expected-in-2027-at-over-300/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-08-08T02:16:28.349370Z"
+    },
+    {
+      "id": "f78977ab95d90c2a758b57e9067976ad",
+      "title": "Anthropic loosens Fable 5's biology restrictions but keeps",
+      "description": "Anthropic has cut false positives in its biology safety filters for Fable 5 by about 85 percent . Previously, nearly all biology-related queries got blocked and rerouted to the less capable Opus 5 . Restrictions stay in place for sensitive dual-use topics like virology and toxicology, Anthropic says . The restrictions are loosened but keep the guardrails on for virology, toxicology .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_bio.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-loosens-fable-5s-biology-restrictions-but-keeps-the-guardrails-on-for-virology-and-toxicology/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-08T02:16:16.763791Z"
+    },
+    {
+      "id": "7463418847fc1a2089dc61dbe713841f",
+      "title": "AMD acquires Taalas, a startup that bakes",
+      "description": "AMD is buying Canadian startup Taalas, which hard-codes model weights directly into inference chips . That makes them extremely fast but locks each chip to a single model . A demo chip hit over 16,000 tokens per second per user running Llama 3.1-8B . Google is reportedly working on a similar approach for Gemini, which is based on the chip's weight model . AMD acquires Canadian startup that bakes AI models directly into silicon .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/amd_logowall.png",
+      "fullArticleLink": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-08-08T02:16:04.696798Z"
+    },
+    {
+      "id": "b6d30b68fb81dea40f725c8522dbcb24",
+      "title": "AI music generator Suno tightens rules to fight",
+      "description": "Suno CEO Mikey Shulman has announced new guidelines and tighter download limits . The company also faces pressure from a German copyright ruling and an admission by one of its investors that AI music competes directly with human artists . Suno has also announced new rules to fight spam and address growing copyright concerns . AI music generator Suno tightens rules to deal with growing copyright fears and to address growing AI-generated music .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/suno_ai_logo.png",
+      "fullArticleLink": "https://the-decoder.com/ai-music-generator-suno-tightens-rules-to-fight-spam-and-address-growing-copyright-concerns/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-08T02:15:53.548215Z"
+    },
+    {
+      "id": "16b681a2cfb35487cce8236141f1dc87",
+      "title": "OpenAI flags its new Astra model as potentially",
+      "description": "Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its own safety framework . Parts of Astra's development have been paused . The move follows recently disclosed incidents in which autonomous AI agents infiltrated the company's own infrastructure undetected for weeks . OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_kraken_cyber.png",
+      "fullArticleLink": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-08-08T02:15:42.179844Z"
+    },
+    {
+      "id": "5df1fbb6f29629b1619b4f1c60a27bb3",
+      "title": "LLM Inference Under Bursty Workload Distribution: Modifying",
+      "description": "Large Language Models (LLMs) such as ChatGPT and Claude are widely used for information retrieval and problem-solving . We propose a lightweight extension to the state-of-the-art WAIT algorithm [1], which adapts to time-varying arrival rates without prior traffic knowledge . The proposed algorithm performs online estimation of request intensity based on observed interarrival times . We conduct a simulation-based evaluation demonstrating that the proposed method achieves higher throughput than Sarathi-Serve [2] in the evaluated low arrival-rate shift scenarios while maintaining comparable latency .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.06135",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-08T02:14:37.337511Z"
+    },
+    {
+      "id": "76fc7e1801f4d2e3777d33bacdde55c0",
+      "title": "Is Self-Pretraining really useful to improve diagnosis",
+      "description": "Self-PreTraining (SPT) improves classification accuracy by 0-6 percentage points depending on masking strategy, dataset and architecture . SPT is a simple and general strategy that enhances transformer performance on medical time-series tasks without requiring task-specific architectural changes . The improvements increase for deeper models that can better exploit the enriched temporal representations learned during pre-training. These findings support its potential to improve robustness and accuracy in data-limited clinical settings .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.06122",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-08-08T02:14:26.027635Z"
+    },
+    {
+      "id": "fa35e2da6b7deecb30140f071341eeb0",
+      "title": "ProDVI: Programmatic Dynamics Priors for Value Network Initialization",
+      "description": "Programmatic Dynamics Priors for Value Network Initialization (ProDVI) leverages commonsense and domain knowledge encoded in large language models . ProDVI prompts a code-generating language model to produce executable Python functions that encode coarse hypotheses about environment dynamics . The generated programs are used only for representation pretraining and are not required to faithfully simulate the target environment . While the generated programs may be inaccurate, their induced initializations can be corrected through online learning from real transitions and rewards .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.06015",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-08T02:13:49.931602Z"
+    },
+    {
+      "id": "b1d72a038b54283d049ce11947341f6f",
+      "title": "Observation-Grounded Self-Predictive Reinforcement Learning for Visual Continuous Control",
+      "description": "Observation-Grounded Self-Predictive Representations (OG-SPR) improves aggregate performance over state-of-the-art self-predictive methods . OG-SPr introduces two lightweight adapters for latent self-prediction, allowing the shared representation to benefit from temporally predictive signals without being forced to directly satisfy the self-Prediction objective . The algorithm is a model-free visual algorithm for continuous control that learns representations that are both temporal and grounded in observation-level dynamics .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.05989",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-08T02:13:26.233534Z"
+    },
+    {
+      "id": "eddedb5009d82c322262d33866a8b730",
+      "title": "Scientists used AI to create 16 new Viruses",
+      "description": "Scientists at Stanford University and the Arc Institute created a series of previously unknown viruses capable of infecting and eliminating certain types of bacteria . The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance . It also raises concerns about the potential misuse of this technology to design biological weapons . The creation of these entirely new viruses was based on the Evo 1 and Evo 2, foundational AI models developed for computational biology applications .",
+      "imageUrl": "https://media.wired.com/photos/6a75dcaa629c4defb09289b6/191:100/w_1280,c_limit/virusIA.jpg",
+      "fullArticleLink": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-08T02:11:20.464036Z"
+    },
+    {
+      "id": "681d3ebb6321805cc384a6f47b953f1b",
+      "title": "Jill Lepore on the \u2018Artificial State\u2019 and why",
+      "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes Flash Sale and Mega Menu Toggle . Listen on Apple Podcasts and subscribe to TechCrunch EventsPodcasts newsletters . Visit the website for the latest episode of the Disrupt Disrupt podcast on Monday, Friday and Saturday at 9pm ET . For more information, visit http://www.techcrunch.com/disrupt-2026 . This summary highlights key",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2181827335.jpg?resize=1200,703",
+      "fullArticleLink": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-08T02:11:02.633787Z"
+    },
+    {
+      "id": "5f5222e53a442deff81672161cf9729f",
+      "title": "Airbnb says AI is helping it ship features",
+      "description": "Airbnb CEO Brian Chesky said AI is helping Airbnb create features at a rapid rate . Airbnb might be taking slow steps to roll out AI features, but the company is writing 60% of its code . Get $100 off your Disrupt 2026 ticket to the Disrupt event . Get a $100 TechCrunch Mobile ticket! Get a free TechCrunch Flash Sale! Get the latest TechCrunch TechCrunch techCrunch cover story here!",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/brian-chesky-GettyImages-2217178973.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-08T02:10:46.000045Z"
+    },
+    {
+      "id": "62678037a7feb1b265e4beccfd294771",
+      "title": "Cloudflare launches Kitesurf, a browser built",
+      "description": "Get $100 off your Disrupt 2026 ticket to the Disrupt conference . Latest startups have launched Kurfites, a browser built for AI agents built for humans . Cloudflare is the latest company to join the race to build a new web browser . Unlike traditional web browser extensions, extensions for humans don't care about visual elements like visual tabs, tabs or tabs, like tabs, or tabs .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/kitesurf.webp?resize=1200,640",
+      "fullArticleLink": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-08T02:10:29.046133Z"
+    },
+    {
+      "id": "c534158d528e5b564584f82e104d8cd4",
+      "title": "Rippling blew millions on AI in months, it",
+      "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes Flash Sale and TechCrunch Desktop Logo TechCrunch Mobile Logo . TechCrunch is featured on the TechCrunch desktop and mobile app TechCrunch mobile . The company behind Rippling recently unveiled an anti-spending tool that helps employees track and contain their spending . The tool was born after the company went all-in-exhaustive in its blog post of all token tokens at all token X .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Rippling-AI-Spend-Console.png?resize=1200,717",
+      "fullArticleLink": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-08T02:10:11.594271Z"
+    },
+    {
+      "id": "59163ffd3cbeaf46750466943a78e19a",
+      "title": "OpenAI says it slowed Astra model development",
+      "description": "OpenAI says it has suspended work on some aspects of its upcoming OpenAI model after an internal review . Astra has found significant advancements in its coding and cybersecurity agent . The company's \"Pre-Protection Framework Framework\" was created in 2023, which it created in real world . Under this framework, the company\u2019s \u201cPre-Deferred Framework Framework\u201d could identify and carry out cyberattacks against traditionally \u201cover-protected\u201d systems .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-08T02:09:53.781485Z"
+    },
+    {
       "id": "913ea00d8139cfdad269da2248863590",
       "title": "Amazon, Cursor, Microsoft, OpenAI, and Vercel unite",
       "description": "Amazon, Cursor, Microsoft, OpenAI, and Vercel have jointly created Agent Plugins, an open standard that defines a single package format for AI agent extensions . Version 1.0.0 uses a plugin.json manifest file and supports both agent skills and MCP servers . The Decoder.com is the latest in a long-running series of articles on AI agent plugins and AI agent software.com .",
