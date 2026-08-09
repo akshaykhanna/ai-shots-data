@@ -1,6 +1,80 @@
 {
   "news": [
     {
+      "id": "9345783843e0e9a18fc5ec28f96fb1ab",
+      "title": "Google dismantles Deepmind and bets on a fresh",
+      "description": "Google Deepmind founder Demis Hassabis may leave the AI lab for good in the coming months . Koray Kavukcuoglu will take over day-to-day operations without the CEO title . All Gemini development is moving to the Bay Area . Google is apparently struggling with serious problems training frontier models, even as its cloud business generates billions . The question is whether the company is deliberately betting on infrastructure or simply can't catch the leaders .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-09T13:10:01.204517Z"
+    },
+    {
+      "id": "1392a46a39d0e0ba2e0d59be23688282",
+      "title": "AI's energy appetite drives Nvidia and Amazon",
+      "description": "The AI industry's hunger for power keeps growing . Nvidia is investing up to $3 billion in Lancium, a power infrastructure developer that already has four gigawatts under contract in Texas . Amazon, meanwhile, is building a gas-fired power plant in the state with a capacity of up to 7.65 gigawatts that could emit 33 million tons of CO\u2082 per year, making it the dirtiest in the country .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-09T13:09:46.263757Z"
+    },
+    {
+      "id": "5d06abdb2bd3d5c600ca6e0f0de272a2",
+      "title": "Google's DiffusionGemma proves you don't need to train",
+      "description": "Google DeepMind retrofitted Gemma 4 into a diffusion model using less than 10 percent of the original training budget . DiffusionGemma generates 256 tokens in parallel instead of one at a time, hitting about 1,500 tokens per second . Quality still trails the original autoregressive model in benchmarks, especially on reasoning tasks, especially in reasoning tasks . The new model generates 256 token generators in parallel, generating 256 tokens a second .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-09T13:09:31.189688Z"
+    },
+    {
+      "id": "1ac1c3a22bf12114a9facb104f22e196",
+      "title": "AI is flooding Britain's employment courts with lawsuits",
+      "description": "Britain's employment courts saw 39 percent more claims in the year through March 2026, many written with ChatGPT or Grok . The Economist calls it a \"tragedy of the commons, AI edition,\" where workers with real grievances wait longer for justice . The backlog jumped 55 percent to 64,000 unresolved cases, with AI-generated filings often running hundreds of pages and citing fabricated laws, The Economist says .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/lawyer_ai_slop_spam.png",
+      "fullArticleLink": "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-09T13:09:19.220062Z"
+    },
+    {
+      "id": "b77fc83c54cc9f6437125f09ab53efbc",
+      "title": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity",
+      "description": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time . It uses a data grid where each point covers about 28 kilometers, roughly a hundred times coarser than specialized regional models . WN-C is 3.75 knots (about 4.3 mph) more accurate than HAFS on three-day intensity forecasts . The improvement roughly matches the progress traditional weather models have made over the past decade .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/cyclone-eye-google-deepmind-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-08-09T13:09:03.052039Z"
+    },
+    {
+      "id": "f9269aba2792f90c7462d3ff1c4c32dd",
+      "title": "Scammers are enrolling fake students at US community",
+      "description": "Scammers enroll fake students in courses, use AI to complete assignments, and pocket the financial aid . History professor David Roach asks, \"Was it always the case that half of our students would cheat if it were easy enough?\" AI-powered cheating is spreading at US community colleges, according to The New Yorker . The Decoder.com: Scammers are enrolling fake students at community colleges and using AI to collect financial aid.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/10/chatgpt_openai_chalkboard_classroom_design_illustration.png",
+      "fullArticleLink": "https://the-decoder.com/scammers-are-enrolling-fake-students-at-us-community-colleges-and-using-ai-to-collect-financial-aid/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-09T13:08:51.959252Z"
+    },
+    {
       "id": "2f08882d253ae392fc1dd69439a705cb",
       "title": "Readers rate AI-generated short stories higher than human",
       "description": "People can't tell ChatGPT-generated short stories from human-written ones, according to a new study . More than 2,500 participants performed no better than chance . The AI-generated texts were actually rated higher, but scores dropped as soon as participants learned a machine wrote them . The study was published in the journal The Decade, which is published by The Deaconium, on Monday, at 10.30am .",
