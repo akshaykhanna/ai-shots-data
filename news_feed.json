@@ -1,6 +1,196 @@
 {
   "news": [
     {
+      "id": "89df26b4bad87257ec9e04eb57804753",
+      "title": "Meta Muse Glimmer brings local AI agents",
+      "description": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU . Superintelligence Labs has released the 30-billion-parameter model\u2019s weights on Hugging Face . Developers can use it for local coding, function calling, local agents, and LLM-as-a-judge evaluation . The release targets an operational use of an operational [operational] model .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/meta-glimmer-local-ai-model-consumer-gpu-agent-artificial-intelligence.jpeg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-11T13:31:18.048784Z"
+    },
+    {
+      "id": "8e4ff1ddcf0a8e4e593fd1db588ab926",
+      "title": "How AI is changing the vulnerability response timeline",
+      "description": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook . Minimus analysis considers how container composition, dependency records and rebuild speed affect the response after an unknown flaw is exposed . The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus study considers how containers composition and dependency records are affected by how AI is changing the response response timeline . Faster analysis helps only, but faster analysis can only help only, says Minimus .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/7e7614a5-5227-447d-b562-7b9c5263f036-scaled.jpeg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-11T13:31:07.766970Z"
+    },
+    {
+      "id": "485d42d301c2d7a2d93c0432488cc414",
+      "title": "Novo Nordisk and AWS bring agentic AI into",
+      "description": "AWS will become Novo Nordisk\u2019s preferred cloud provider and strategic AI partner . The companies have also created a co-innovation hub at the company's existing London HQ . The agreement was announced in a joint statement on Monday . Novo will use AI agents for target identification, therapy design, and research workflows, the companies said in a statement . The two companies also announced they will co-developer a hub at their existing London hub .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Novo-Nordisk-and-AWS-bring-agentic-AI-into-drug-discovery-scaled-e1786419398359.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-11T13:30:57.776628Z"
+    },
+    {
+      "id": "96785fb1514c1ae081e3e2fba9272a2c",
+      "title": "Anthropic watermarks all Claude outputs globally with marks",
+      "description": "Anthropic will embed invisible watermarks in all Claude-generated text and sign files using the C2PA standard . New models shipping from August 2026 onward will have labeling built in from day one . The policy applies worldwide, and Anthropic plans to provide detection tools for third-party verification . The marks that may persist through some editing will persist through editing, Anthropic says . The company plans to use detection tools to verify the marks .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_logo_wall-1.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-11T13:30:45.136278Z"
+    },
+    {
+      "id": "b1225e4eea7108a27b9510bf309f3969",
+      "title": "Nvidia guarantees its own chips' value to unlock",
+      "description": "Nvidia is teaming up with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to mobilize over $500 billion for AI infrastructure . To win over investors, chipmaker is guaranteeing up to 25 percent of the residual value of its own hardware . Bank of England is already warning of systemic risks if the AI sector takes a hit . Nvidia guarantees its own chips&#039; value to unlock $500billion in AI infrastructure financing .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Nvidia-Wall-Street-Money.png",
+      "fullArticleLink": "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-11T13:30:34.058742Z"
+    },
+    {
+      "id": "63a08c85af1d3db0b8beb7c1e3f7d8b6",
+      "title": "Anthropic signs $9.1 billion data center deal",
+      "description": "Anthropic is leasing $9.1 billion worth of data center capacity from Bitcoin miner Riot Platforms in Texas . The deal covers 191 megawatts at Riot's Rockdale site, with extension options that could push the total value to $16.1billion . It's the latest in an aggressive infrastructure push that spans partners from Amazon to SpaceX to Google . The agreement is part of Anthropic's push to build infrastructure around the world .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-11T13:30:23.714514Z"
+    },
+    {
+      "id": "5506ffb00e1cf40a8fc6681e3a5dd7dd",
+      "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business",
+      "description": "OpenAI is rolling out \"Premium Seats\" for ChatGPT Business customers at $125 per user per month, five times the price of the existing Standard Seats . In return, users get significantly more capacity and no five-hour usage limit . The move signals that flat-rate pricing AI providers have offered so far was never going to last, says OpenAI . Move signals that the flat rate pricing AI provider has offered is never likely to last .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_chatgpt_pattern_logo.png",
+      "fullArticleLink": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-11T13:30:13.032572Z"
+    },
+    {
+      "id": "4c2afe5b1aa18b6e08d726cc22dcdf87",
+      "title": "Anthropic's planned mega-IPO faces investor skepticism over Chinese",
+      "description": "Anthropic is preparing an IPO for September or October, according to the Wall Street Journal . The company, valued at $965 billion, is fielding tough questions about Chinese competition, tensions with the Trump administration, and protests against data center construction . Anthropic's IPO valuation will likely set the benchmark for how the entire AI industry gets valued, the WSJ says . It is expected to be the largest ever IPO for the company .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_rocket-1.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-planned-mega-ipo-faces-investor-skepticism-over-chinese-rivals-and-political-headwinds/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-11T13:30:02.610659Z"
+    },
+    {
+      "id": "749c5ffe39be50ad255b81408b541ba0",
+      "title": "LLM-Generated Explanations for Credit Risk: Multi-Scale Stacking",
+      "description": "Credit scoring increasingly relies on models whose decision logic cannot be read off their parameters . A common proposal would compute feature attributions, hand them to an LLM and let it write the rationale . We build such a system end to end and test whether the second half of the promise holds . The ranking gain is real but operationally small: at the F1-optimal threshold the ensemble avoids only six additional missed defaults out of 1,422 against a tuned random forest, cutting cost-weighted loss by under 2%.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.08126",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-11T13:29:35.051606Z"
+    },
+    {
+      "id": "3fe646d0e4c5efe8e545668976391de6",
+      "title": "Do All LLMs Know When They're Being Harmful?",
+      "description": "Khatri et al. show that lightweight MLP probes on final-layer activations of a single 8B model (LLaMA-3.1-8B) detect harmful prompts at F1 competitive with guard models 1000x larger, using one probe per benchmark . We reproduce this pipeline end-to-end and extend it along two axes the original study leaves open . We test whether the result generalizes across other model architecture and scale .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.08029",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-11T13:29:15.015034Z"
+    },
+    {
+      "id": "4c72eb6912834ade4db535ae15b69f14",
+      "title": "Persistent Semantic Entities in Tool-Augmented LLM Systems",
+      "description": "Tool-augmented LLM agents can harbor implicit state that persists across sessions, activates through events, and propagates across agent boundaries . We formalize this as Persistent Semantic Entities (PSEs) constructs defined by name binding, event triggering, and cross-boundary propagation . We evaluate them across 24 models from 11 families (1.5B--1T parameters) First, every tested model is susceptible (20--100% on the 20-model susceptibility panel) with name binding as the necessary and dominant mechanism .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.07952",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-11T13:28:31.808634Z"
+    },
+    {
+      "id": "ee202b568f8d618d3d9947e55f8ac941",
+      "title": "SPECTRA: Pushing the KV Cache Beyond the 2-Bit",
+      "description": "Large language models (LLMs) increasingly read long inputs in agentic era, from whole documents and codebases to conversations across many turns . Their inference memory is dominated by the key-value (KV) cache, the stored attention keys and values of every token the model has read and generated . Because the cache grows with context length and is re-read in full at every generated token, a longer context means more GPU memory .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.07915",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-11T13:28:10.707399Z"
+    },
+    {
+      "id": "85fce6978119bfcd85be26626f45956e",
+      "title": "SkillConsist: Detecting Inconsistencies in Agent Skills via Bidirectional",
+      "description": "SkillConsist achieves 86.85% precision, 89.03% recall, 87.93% F1 for package-level detection, improving F1 over the best baseline by 20.43 percentage points . The benchmark is based on ClawHub's 500 most-downloaded public Skills and 133 Skill-Inject packages . It uses an LLM-based model to learn consistency across metadata, instructions, and resources . This summary highlights key aspects of the latest developments.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.07639",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-11T13:26:59.184590Z"
+    },
+    {
+      "id": "c449bb04da9122edde0d719f0f6f0bc6",
+      "title": "AI is helping to solve the genetic puzzle",
+      "description": "A study published in Nature Genetics provides one of the most detailed pictures to date of the genetic architecture of schizophrenia . The team identified 766 genes associated with schizophrenia, including 641 that had not appeared in previous transcriptomic analyses . The World Health Organization estimates that schizophrenia affects about 23 million people worldwide\u2014approximately one in every 345 . There does not appear to be a single gene responsible, but rather an extensive network of interacting processes .",
+      "imageUrl": "https://media.wired.com/photos/6a74f6a1ee5313e488f90591/191:100/w_1280,c_limit/esquizofrenia.jpg",
+      "fullArticleLink": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-11T13:26:13.677028Z"
+    },
+    {
+      "id": "387a273ab49a595d3a8090c857a3d352",
+      "title": "Anthropic says it will watermark text generated",
+      "description": "Anthropic says it will watermark text generated by its AI models . EU AI Act's Transparency Code requires AI companies to mark AI-generated or edited content in a way other systems can identify them . Anthropic said that all models released after August 2 will automatically have tech to watermark both computer-generated text and files . Platforms are now rushing to use watermarking after backlash from users and to avoid regulatory scrutiny .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "fullArticleLink": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-11T13:25:44.130692Z"
+    },
+    {
       "id": "f1e5495411e3dfc03fcc65d01333c9a9",
       "title": "Meta returns to open models with Zuckerberg's",
       "description": "Meta has released Muse Glimmer, the first open model from its new Superintelligence Labs . It's a 30B agent model that runs on consumer hardware once the weights are compressed, needing less than 20 GB of memory . Mark Zuckerberg mounts an aggressive defense of distilling other labs' models and calls for fewer restrictions on US labs . An open-weight version of Muse Spark 1.2 should follow soon, according to the Wall Street Journal .",
