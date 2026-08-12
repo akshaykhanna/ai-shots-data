@@ -1,6 +1,190 @@
 {
   "news": [
     {
+      "id": "48f7d024bec8a7259559b2eb3b1fb323",
+      "title": "The limits of physics AI: where Siemens says",
+      "description": "Physics AI can explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them . Siemens says the technology has a firm limit on what it can do, but it cannot sign off a safety-critical part . The limits of physics AI are where the human stays in charge, and Sam Mahalingam, the AI expert, says he will not be able to use the technology in the future .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/lenny-kuhne-jHZ70nRk7Ns-unsplash-scaled.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-12T13:34:10.368486Z"
+    },
+    {
+      "id": "f2b1b48ef779e196cd8e18305bb81670",
+      "title": "Mistral now offers EU data processing and priority",
+      "description": "Mistral is giving customers the option to route AI requests through servers in either Europe or the US . Both come with a surcharge, and the regional routing doesn't cover all features or data . Mistral now offers EU data processing and priority access, but both come with important limits . The company is also offering priority queue access during peak traffic in Europe and the US during the peak of the day, but there are limits .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Mistral-third-party-models.webp",
+      "fullArticleLink": "https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-12T13:33:56.826638Z"
+    },
+    {
+      "id": "cfb28e3ca4dd3b2a0e0c2e4f6040a8e0",
+      "title": "Microsoft's new MAI Code 1.1 Flash gets crushed",
+      "description": "MAI Code 1.1 Flash is said to be 25 percent more token-efficient at a quarter of the cost of its predecessor . In benchmarks, it gets crushed by the cheaper Deepseek V4 Flash . The move fits a pattern: Microsoft talks up open AI, then bakes worse proprietary models into its apps to protect margins . Microsoft has released a code model for GitHub Copilot that's said to have been 25 percent better .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_logo_red_pink.png",
+      "fullArticleLink": "https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-12T13:33:43.915488Z"
+    },
+    {
+      "id": "85c109f8cd82d34349aaa8ce794a977a",
+      "title": "Nvidia's Nemotron 4 aims for one trillion parameters",
+      "description": "Nemotron 4 is a new open-weight model designed to compete with the best freely available models in the world . The largest model in the family will have at least one trillion parameters, twice the size of the current model . Nvidia has tripled its cloud spending on in-house model training to $28 billion through 2031 . The earliest possible release would be this fall, with the largest model expected to be released in the fall .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+      "fullArticleLink": "https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-12T13:33:15.820544Z"
+    },
+    {
+      "id": "3e24a4370a070892daeee4ff7816c61a",
+      "title": "MERA: Model Evolution and Routing with Skill Adaptation",
+      "description": "LLM agents execute heterogeneous sequences of model calls within a single task . Some invocations require careful reasoning, while others are structured steps such as formatting or tool-argument construction . Prior routing methods exploit this asymmetry by assigning easy invocations to a cheaper small model and difficult ones to a large model . MERA instead improves the small model itself, using a single model invocation as the unit of adaptation . The improved student is served behind a cost-calibrated router with verifier-backed fallback, and the candidate SkillBook, adapter, or router is admitted only when joint replay preserves task quality .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.10333",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-12T13:32:45.355148Z"
+    },
+    {
+      "id": "ddf07a779b47184681ffd3e0ea04904e",
+      "title": "Power law graph attention: exact generalization of scaled",
+      "description": "The Large Language Model from Power Law Decoder Representations (PLDR-LLM) and its attention, Power Law Graph Attention (PLGA) replace the fixed bilinear form of scaled dot-product attention (SDPA) The architecture is fully specified, verified against pinned reference releases . Claims are labeled theorem, conditional theorem, measurement, or conjecture . PLGA contains SDPA exactly at $G_{LM}=I$; $A_P$ are strictly entrywise positive, with Perron-Frobenius structure .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.10288",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-12T13:32:31.307460Z"
+    },
+    {
+      "id": "f7457e2bd19723dca402d47dbb94e14a",
+      "title": "Toward Human Rights Benchmarking for LLMs: A Pilot",
+      "description": "Large language models increasingly mediate legal determinations over what human rights are realized, and how . Yet, no evaluation benchmark exists to assess whether they can reason correctly about human rights law . To this end, we report our efforts to develop a robust and scalable methodology for creating HumRightsBench . We adapt the IRAC framework for legal reasoning to better suit the unique reasoning patterns of human rights work . We also produce a pilot series of authentic scenarios designed to implicate the many dimensions of real-world human rights issues .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.10268",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-12T13:32:18.906702Z"
+    },
+    {
+      "id": "78cc8b7bdbd0b95a098111d50cc07190",
+      "title": "Intrinsic Structure: Spectral Identifiability for Mechanistic Interpretability",
+      "description": "Mechanistic interpretability explains models by identifying circuits inside them, but has no way to tell whether a circuit is a property of the model or an artifact of the method that found it . We put dictionary learning for interpretability on an identifiability footing . We prove the spectrum is recoverable from $M$ calibration samples at rate $M^{-1/2}$ up to permutation . The Koopman spectrum is an identifiable, model-intrinsic fingerprint with a stated error bar, not a legible decomposition .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.10172",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-12T13:31:30.395521Z"
+    },
+    {
+      "id": "1b7ecffa7129e9260dfad06f923be41b",
+      "title": "LLM Reasoning-based Ensemble Learning for Adaptive Time Series",
+      "description": "REATS leverages LLM reasoning capabilities as an intelligent ensemble router that jointly processes textual temporal pattern descriptions and numerical features to produce interpretable, sample-adaptive ensemble weights . REATS outperforms competitive ensemble baselines while providing natural language explanations and demonstrating strong transfer learning and out-of-domain generalization to unseen candidate models . We propose a structured input pipeline that transforms raw time series into hybrid textual--numerical representations with fixed token cost .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.10149",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-12T13:31:18.410767Z"
+    },
+    {
+      "id": "be44a375e24bc524fc766847ae52d944",
+      "title": "ChronoSSM: Training for Temporally Aware Representations in Autoregressive",
+      "description": "ChronoSSM is an autoregressive State Space Model that jointly models events and timestamps with a shared backbone trained using combined token and temporal generation objectives . The joint training consistently makes inter-arrival information more recoverable from frozen representations without any systematic degradation in content-generation quality overall . In data-mining settings where events are associated with explicit timing information, this separation can limit temporal reasoning, anomaly detection, and faithful reconstruction of event chronology .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.10120",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-12T13:30:54.401754Z"
+    },
+    {
+      "id": "05db1d5df0485c8f8743f1d278ebb208",
+      "title": "Physics-Informed Machine Learning in Prognostics and Health Management",
+      "description": "Physics-Informed Machine Learning (PIML) helps mitigate limitations by incorporating prior physical knowledge directly into the ML pipeline . The literature is heavily skewed toward lithium-ion batteries and bearings, and dominated by problem-specific solutions . Future research should prioritize transferable design patterns, benchmarks comparing integration strategies, and uncertainty-aware models that are lightweight and robust enough for online deployment in real-world settings, authors say .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.10047",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-12T13:30:29.825391Z"
+    },
+    {
+      "id": "7d24283cfcdad0f864cab7945595c679",
+      "title": "Finding the Signal in the Spam: Jointly Learning",
+      "description": "The problem of learning from pairwise comparisons has been widely studied across many domains such as recommendation systems, social choice, and fine-tuning large language models . In many scenarios, these comparisons are elicited from crowdworkers using platforms such as Amazon Mechanical Turk, Scale AI, etc. However, crowdworkers are often unreliable due to limited domain knowledge or revenue-maximizing (spamming) behavior . In this work, our goal is to understand whether worker reliability (competency) can be learned jointly with item rewards .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.10045",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-12T13:30:02.496737Z"
+    },
+    {
+      "id": "b03df7cbd369fb00161f0a906cb5399f",
+      "title": "UserToolBench: A User-Profile-Hidden Benchmark for Personalized Decision Making",
+      "description": "UserToolBench is a benchmark for personalized decision making in tool-use LLMs . It tests whether a model can infer latent user preferences from interaction history . The benchmark is built from privacy-sanitized real interaction traces and combines structured persona profiles, public API-style tool ecosystems, and long-horizon multi-turn trajectories . Multi-tool coordination, missing-constraint inference, and behavioral consistency remain major bottlenecks .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.10042",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-12T13:29:50.207464Z"
+    },
+    {
+      "id": "e017a5b071a606e809e40aedf3c7c612",
+      "title": "DOCSCHISEL: Adaptive Tool Documentation Optimization Framework for LLM",
+      "description": "Large language models increasingly rely on external tools to accomplish complex real-world tasks . Little is known about how tool documentation affects agent performance across different settings . DocsChisel analyzes failed execution traces of a target LLM agent to identify documentation-related issues . It improves the task success rate of LLM agents by 95.89% over the original tool documentation and by 75.15% over existing baselines .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.10037",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-12T13:29:26.118251Z"
+    },
+    {
+      "id": "39b82df6ad6a792cb2b189b6e4eb5e98",
+      "title": "Uncertainty-Aware Ensemble Deep Randomized Neural Networks for Classification",
+      "description": "The current state-of-the-art (SOTA) deep randomized neural networks treat all training samples uniformly, which limits their robustness and effectiveness when applied to real-world datasets containing noise and outliers . The proposed models unify intuitionistic fuzzy theory to exploit sample neighborhood information in the kernel space by jointly considering membership and non-membership degrees for each sample . These measures are employed to assign adaptive weights to training samples, enabling effective discrimination among clean, noisy, and outlier data points . Extensive experiments conducted on UCI and KEEL benchmark datasets, with and without the presence of Gaussian noise, demonstrate the superiority of the...",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.10007",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-12T13:29:10.261767Z"
+    },
+    {
       "id": "fa238496478de96d367742178eab1028",
       "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed",
       "description": "Nvidia's Nemotron 3.5 Lightning is an open-weights model with just 3.6 billion active parameters that matches OpenAI's gpt-oss-120b on the Intelligence Index . At nearly 670 tokens per second, it's also the fastest model in the comparison, showing Nvidia is betting on efficiency over raw size . The model is four times smaller than the OpenAI model that matches its Intelligence Index despite being smaller .",
