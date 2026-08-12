@@ -1,6 +1,210 @@
 {
   "news": [
     {
+      "id": "fa238496478de96d367742178eab1028",
+      "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed",
+      "description": "Nvidia's Nemotron 3.5 Lightning is an open-weights model with just 3.6 billion active parameters that matches OpenAI's gpt-oss-120b on the Intelligence Index . At nearly 670 tokens per second, it's also the fastest model in the comparison, showing Nvidia is betting on efficiency over raw size . The model is four times smaller than the OpenAI model that matches its Intelligence Index despite being smaller .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+      "fullArticleLink": "https://the-decoder.com/nvidias-open-weight-nemotron-3-5-lightning-prioritizes-speed-over-maximum-intelligence/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-12T02:40:46.949148Z"
+    },
+    {
+      "id": "a5aa414cacc851fcb6bf4ef6cc08c65f",
+      "title": "ChatGPT's hidden reasoning is based on leaked passwords",
+      "description": "Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between models . A scan of public sessions turned up dozens of passwords and API keys . The traces also show that the reasoning summaries users see often hide what the models are actually doing . The vulnerability was discovered by security researchers in ChatGPT and Anthropic and OpenAI's chatGPT .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/marinade.png",
+      "fullArticleLink": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-12T02:40:36.167863Z"
+    },
+    {
+      "id": "63063b95202cdefbc7a7a218a7e88fd9",
+      "title": "OpenAI lets employees cash out another $7 billion",
+      "description": "OpenAI ran a similar $6.6 billion stock buyback in October 2025 . The move is meant to ease pressure on employees waiting for liquidity ahead of a potential IPO . Current and former employees let employees sell shares at the company's $852 billion valuation . The company is set to launch an IPO in 2018, which could be worth $1.2 billion . It is the first time OpenAI has allowed employees to cash out another $7 billion in stock .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
+      "fullArticleLink": "https://the-decoder.com/openai-lets-employees-cash-out-another-7-billion-in-stock/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-12T02:40:24.632178Z"
+    },
+    {
+      "id": "ecaa654cda4b44a8d56c4df0e256bc36",
+      "title": "Spectral Outliers Reveal Dominant Learned Structure in Transformer",
+      "description": "We apply Marchenko-Pastur (MP) random matrix theory to pre-trained attention weights in order to separate each projection matrix into a random-like bulk and a set of spectral outliers . Zeroing the MP-identified outliers (signal) in Mistral-7B drives HellaSwag, MMLU, and PIQA close to random-chance performance . We close by outlining how these observations could inform parameter-efficient fine-tuning and structured pruning .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.07921",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-12T02:38:10.708806Z"
+    },
+    {
+      "id": "6ba0b9f3b7b91915759b8405ef78ebb7",
+      "title": "V-Simba: Unleashing the Architectural Potential of RL",
+      "description": "V-Simba is a simple yet effective visual RL architecture inspired by the Simba architecture from state-based RL . It modifies the architecture by adding normalization layers to stabilize training and using pointwise convolutions to reduce computation . It matches or outperforms the state-of-the-art methods across the DMC, Adroit, and Meta-World benchmarks, while being more computationally efficient than DrQ-v2 . This",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.07870",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-08-12T02:37:48.625727Z"
+    },
+    {
+      "id": "5ef297f933a6928062c5867b3a9dea31",
+      "title": "TEMPER: Tensorized Efficient Manifold-constrained Param",
+      "description": "Residual connections rely on a static residual pathway and are essential for training deep neural networks . TEMPER matches or outperforms existing methods across language modeling and commonsense reasoning tasks, while requiring substantially fewer additional parameters . It also promotes interpretability and intuition, as: i) tensor ranks control the dimensionality of the learned routing subspace, with full ranks recovering dense routing; ii) the generator approximation errors bound differences in routing logits and in the routed-block outputs .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.07851",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-12T02:37:35.878945Z"
+    },
+    {
+      "id": "cc090382a2791f31c340babddf21fe25",
+      "title": "From Benchmark Performance to Tool Deployment: Human-in-the-Loop",
+      "description": "Automated anomaly detection methods often report strong performance on academic benchmarks, but their behavior under real-world industrial conditions is less clear . In contrast to benchmark results, we observe that model performance is less stable than typically reported on standard benchmarks such as MVTec AD . We developed and initially deployed a unified human-in-the-loop framework for manufactured-part inspection that combines image annotation, AI-assisted defect detection, and an integrated validation engine .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.07770",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-12T02:37:13.503853Z"
+    },
+    {
+      "id": "a70ad4832fced0c16542e9a940057d0f",
+      "title": "AI is Dead. AI is dead. Organoids",
+      "description": "Every cell in your body has the potential to get smarter . Mini human brains are being grown in labs all over the world . At the University of San Diego, organoids are guiding spidery robots through mazes and taking hero doses of psychedelics . At Johns Hopkins, they\u2019re forming the basis of novel biocomputing systems . In the future, artificial intelligence won\u2019t be artificial at all. It\u2019ll be built from the stuff of life itself .",
+      "imageUrl": "https://media.wired.com/photos/6a7a2641ddfb8a809864e7f8/191:100/w_1280,c_limit/IN-LINE_LILAC.png",
+      "fullArticleLink": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-12T02:36:10.226659Z"
+    },
+    {
+      "id": "ed34919f1d84f52009e28249659c2ae3",
+      "title": "AI could help Fossil Fuel companies create more",
+      "description": "New research from former Microsoft sustainability workers cautions that the way artificial intelligence enhances productivity in the oil and gas industry could be much more damaging to the planet . By making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent . That increase in emissions outweighs the benefits AI provides to developing solar, wind, and other clean technologies . The relationship between technology companies and fossil fuels is \u201ca self-reinforcing effect between supply and demand\u201d",
+      "imageUrl": "https://media.wired.com/photos/6a7a2036c58ed7121c9fbad3/191:100/w_1280,c_limit/AIEmission.jpg",
+      "fullArticleLink": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-12T02:35:54.002902Z"
+    },
+    {
+      "id": "636a0618aace15d2ae3e463030889451",
+      "title": "Spotify will label \u2018AI Persona\u2019 profiles and exclude",
+      "description": "Spotify will label AI-generated artists with \"AI Persona\" profiles and exclude their music from recommendations . Artists will be able to identify themselves as AI Personas starting on August 11, 2026, through Spotify for Artists . The move is the latest expansion of Spotify's AI policies, first announced in September 2025, and bans unauthorized AI voice clones and deepfakes from its platform . Spotify is attempting to balance innovations driven by AI, like its own Prompted Playlists, AI DJ, and chat, and forthcoming AI remixes .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/AI-Personas-Header.jpg?resize=1200,683",
+      "fullArticleLink": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-12T02:35:36.619524Z"
+    },
+    {
+      "id": "a3990db1706fbc22447a7992be4f6b5a",
+      "title": "Anthropic model made progress on one of math\u2019s",
+      "description": "An unreleased Anthropic model made progress on one of math's biggest unsolved problems . The Riemann hypothesis has stood as one of the major unsolved problems in math for more than 150 years . Anthropic announced that an as-yet-unreleased model had made significant progress on the hypothesis . The finding is the latest in a string of mathematical breakthroughs led by large language models, or LLMs . A number of Erdos problems have been solved by AI models this year .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-12T02:35:21.267868Z"
+    },
+    {
+      "id": "3571ff97a4b1f223f5c01fb95a2362eb",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River",
+      "description": "General Catalyst leads $1.1B round into 2-month-old River AI . Founder Igor Babuschkin wants to reinvent AI from scratch . He wants to turn agents into personally trainable assistants, rather than human worker replacements . \"Capable agents will be a normal part of everyday life,\" he said in his launch blog . River already offers an API, billed per 1 million tokens, with rates dependent on the model used .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/River-AI-Igor-Babuschkin.jpeg?resize=1197,1200",
+      "fullArticleLink": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-12T02:35:06.370177Z"
+    },
+    {
+      "id": "b8d07c245c74a0b30a4e47a0fcfa3086",
+      "title": "Brad Lightcap, OpenAI\u2019s longtime COO, is leaving",
+      "description": "Brad Lightcap, OpenAI's longtime COO, is leaving to &#8216;start something new' Lightcap joined the company in 2018 and served as COO from 2022 until earlier this year . Lightcap also hinted at a future venture while giving scant details as to what it might be . As OpenAI prepares for an IPO of industrywide significance, the company has been undergoing a shakeup of top-level executives .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-12T02:34:52.142200Z"
+    },
+    {
+      "id": "61f03f2379bc9dfa6cd3858879b03c3e",
+      "title": "Google\u2019s Gemini app surges to 1 billion users",
+      "description": "Google\u2019s Gemini app surges to 1 billion users . CEO Sundar Pichai announced it was the 14th Google product to hit the 1 billion mark . With this rapid growth, Gemini is keeping pace with OpenAI's ChatGPT, which hit 1 billion monthly active users back in June . Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-12T02:34:37.741659Z"
+    },
+    {
+      "id": "c836abb2e39288469fe6dcdaef605b3d",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "description": "OpenAI has launched a dedicated ChatGPT app for Linux . The company says Linux has been one of the most-requested platforms for the chatbot app . The release is worldwide, as of Tuesday . The app will be available for desktop variants of Ubuntu 24.04 and 26.04 LTS, Debian 13, and Fedora 43 and 44 . The new app is being released in preview, and will give Linux users the ability to use it on a number of different distributions .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-12T02:34:24.593007Z"
+    },
+    {
       "id": "89df26b4bad87257ec9e04eb57804753",
       "title": "Meta Muse Glimmer brings local AI agents",
       "description": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU . Superintelligence Labs has released the 30-billion-parameter model\u2019s weights on Hugging Face . Developers can use it for local coding, function calling, local agents, and LLM-as-a-judge evaluation . The release targets an operational use of an operational [operational] model .",
