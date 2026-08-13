@@ -1,6 +1,212 @@
 {
   "news": [
     {
+      "id": "bb6d6bfcce4d4a6e0c77eba527236723",
+      "title": "Google tests AMIE for clinical video consultations",
+      "description": "Google\u2019s research medical AI system, AMIE (Video) conducted synchronous video consultations with professional patient actors . Fifteen trained actors portrayed conditions across cardiopulmonary, abdominal, HEENT, neurological or psychiatric, and musculoskeletal presentations . Google says studies involving real patients and their own health involve real patients . Google's AMIE received clinical evaluator ratings on par with primary care physicians . This",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/google-amie-clinical-video-consultation-healthcare-medical-telehealth-artificial-intelligence-primary-care-ai.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-13T02:43:47.166328Z"
+    },
+    {
+      "id": "ff1c927176b5e880afa5c4a8abfec87c",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "description": "The preview version of OpenAI's ChatGPT desktop app is available on Linux . Native computer use is missing, but voice commands for desktop apps won't be available at launch . It runs on Ubuntu 24.04 and 26.04 LTS, Debian 13, and Fedora 43 and 44, with .deb and .rpm packages for both x64 and ARM64 . The Mac and Windows versions shipped in July .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/linux.png",
+      "fullArticleLink": "https://the-decoder.com/openai-launches-chatgpt-desktop-app-for-linux/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-13T02:43:31.961762Z"
+    },
+    {
+      "id": "90ca4dd1704352bf626903b8db385334",
+      "title": "Anthropic founder Robert Mahari joins Anthropic to lead",
+      "description": "Anthropic has unveiled twelve legal plugins for Claude and announced partnerships with more than 20 legal tech companies . Robert Mahari is Anthropic's first \"Head of Claude for Legal,\" responsible for deploying and expanding the Claude AI model across the legal industry . Anthropic watermarks all Claude output globally with marks that \"may persist through some editing\" The legal market is drawing more attention from major tech companies, including Amazon and Microsoft .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/07/claude_education.png",
+      "fullArticleLink": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-13T02:43:18.919765Z"
+    },
+    {
+      "id": "efb3047effab32f2277c36d4959f8f3e",
+      "title": "Google's Gemini is losing market share to ChatGPT",
+      "description": "Google's Gemini is losing AI market share to ChatGPT and Claude according to new market data . Pangram reports a drop from 12 to 1.9 percent, while OpenAI holds over 50 percent of the market . Anthropic grew from 4.3 to 14.9 per cent, Similarweb and OpenRouter confirm the trend . OpenAI is currently holding over 50 per cent of the AI market .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
+      "fullArticleLink": "https://the-decoder.com/googles-gemini-is-losing-market-share-to-chatgpt-and-claude-according-to-new-market-data/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-13T02:43:08.078554Z"
+    },
+    {
+      "id": "c8124e03ce4897535d0e5d1fa3049a49",
+      "title": "Researchers can reverse-engineer LLM prompts from output text",
+      "description": "Researchers at IIT Bombay and Adobe Research have built an inverse language model that reconstructs the original prompt from an LLM's output with near-perfect accuracy . Their method, called \"Previous-Token Prediction,\" doesn't need access to model weights and works across different models . For companies relying on proprietary system prompts, this could be a serious security risk . Researchers can now reverse-engineer LLM prompts from output text with near perfect accuracy .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/prompt_extracting.png",
+      "fullArticleLink": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-13T02:42:46.064118Z"
+    },
+    {
+      "id": "c438dff959bb6a2518ddcad6f73c6798",
+      "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model",
+      "description": "xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5 . On agentic tasks, it completes complex workflows in about 53 steps, while ClaudeOpus 5 needs 103 . At a price more than 60 percent lower, the model matches OpenAI's best model and undercuts it on price .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/grok_xai_logo.png",
+      "fullArticleLink": "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-13T02:42:34.753798Z"
+    },
+    {
+      "id": "afc23a12a580d45a5cd6ffebce6a1b69",
+      "title": "Scaling AI agents with trustworthy data is key",
+      "description": "AI agents need data from across the enterprise, in all its structured and unstructured forms, and with the right business context . Gartner\u2019s prediction that AI agents will augment or automate 50% of business decisions by 2027 proves correct . Only half of surveyed organizations trust that the decisions their AI agents make are accurate and relevant . Within two years, 100% of respondents plan to be using agentic AI within two years .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Google-Social-Card-cover.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Startup"
+      ],
+      "pubDate": "2026-08-13T02:42:17.509162Z"
+    },
+    {
+      "id": "ede20b26ebff40c1d75e30bceacacd40",
+      "title": "ProbGuard: Calibrated Safety Risk Estimation from LLM Output",
+      "description": "Large Language Model (LLM) safety has widely adopted guardrails to identify unsafe LLM outputs . We propose the first completely probabilistic architecture-agnostic guardrail to leverage the LLM early output distributional signals for estimating and calibrating the safety probability . The new guardrail reduces the average Brier score and ECE by 79.6\\% and 71.9\\% over the best baseline . It limits the attack success rate to at most 1\\% across six representative jailbreak attacks .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.10621",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-13T02:41:53.235559Z"
+    },
+    {
+      "id": "03edefd34614602b0a4d396f73a01d02",
+      "title": "Detecting an Effect Is Not Learning to Act",
+      "description": "Many pipelines can pay a per-example cost to acquire an auxiliary, model-derived observation -- an LLM's structured reasoning, a slow oracle, an expensive measurement -- and then must decide when the acquired signal is worth using . Even when the signal is faithful and an in-sample oracle picking the top-b examples by realized reward shows a sizable apparent gain, no deployable policy can learn when to acquire it . The apparent \"learnable structure\" is order statistics of noise .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.10441",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-08-13T02:41:16.084477Z"
+    },
+    {
+      "id": "618c36a0317edf70cd221d19ea7d49eb",
+      "title": "AI code-testing startup Blacksmith\u2019s valuation jumps almost 10x",
+      "description": "AI code-testing startup Blacksmith's valuation jumps almost 10x in less than a year . Blacksmith helps companies build, test, and verify software before it reaches production . The startup now serves more than 5,000 customers, including Mercury, Supabase, Clerk, Ashby, and Expensify . The rise of AI coding tools such as Cursor, OpenAI's Codex, and Anthropic's Claude Code has made it significantly easier for software teams to generate code .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/blacksmith-logo.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-13T02:37:59.617437Z"
+    },
+    {
+      "id": "6a49c4b6a0a3e412228f48912489913b",
+      "title": "Made by Google \u201926: Pixel 11, Pixel Watch",
+      "description": "Made by Google 2026 event unveils Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini-powered features . The tech giant also announced a competitor to Apple\u2019s AirTag, a small tracking tag . The Pixel 11 is 40% thinner and more durable than its predecessor, Google says . Google also introduced \u201cRambler\u201d a new voice-input feature designed to better understand the way people actually talk .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Portfolio-3-1.png?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-13T02:37:44.705455Z"
+    },
+    {
+      "id": "2fd40c918be855216ae767e5bb820dfe",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring",
+      "description": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise . Part of the deal involved OpenAI sending employees to work with Thrive\u2019s companies to accelerate AI adoption . The firm is a spinout of Thrive Capital, one of OpenAI's major investors . The raise comes off the back of proven success for Thrive's companies, which has surpassed 70 businesses on platforms .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/holdings_all_team.jpg?resize=1200,407",
+      "fullArticleLink": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-13T02:36:43.461522Z"
+    },
+    {
+      "id": "b77f0ff8e5502479a3562eebb6197be2",
+      "title": "As AI safety concerns mount, three pioneers make",
+      "description": "As AI safety concerns mount, three pioneers make the case for staying open . Nobel Prize winner Geoffrey Hinton, World Labs CEO Fei-Fei Li, and Coursera co-founder Andrew Ng spoke out at Ai4 conference in Las Vegas . Hinton: \"Open source is great. You show people the code, and lots of people look at the lines of code and say, &#8216;Oh, there's a bug\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/HALL1410.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-13T02:36:28.631736Z"
+    },
+    {
+      "id": "fedb51cc07b1d84a5a94c18edffe77f9",
+      "title": "AI coding startup Cognition reportedly already in talks",
+      "description": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation . Devin, maker of the AI coding agent, is reportedly already talking to investors about raising another funding round with a big leap in valuation . The company raised $1 billion at a $26 billon valuation in May . Devin is often tasked with doing long-tail grunt-work that programmers dislike, such as bringing old software up to date or moving applications off one platform and onto another .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?resize=1200,1004",
+      "fullArticleLink": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-13T02:36:15.865420Z"
+    },
+    {
+      "id": "79ba0d5b9ddaf8f20889938c97813c60",
+      "title": "Claude users are mad that Anthropic\u2019s new watermarks",
+      "description": "Anthropic recently made the decision to watermark Claude's output, inserting invisible code into the chatbot's editorial text that marks it as AI-generated . Some Claude users are mad that Anthropic's new watermarking system will catch them using it at their jobs . Anthropic rolled out this new policy to satisfy the EU AI Act\u2019s Transparency Code, which now requires tech companies to label content that has been AI generated or edited in a manner identifiable to computer systems .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-13T02:36:00.145163Z"
+    },
+    {
       "id": "48f7d024bec8a7259559b2eb3b1fb323",
       "title": "The limits of physics AI: where Siemens says",
       "description": "Physics AI can explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them . Siemens says the technology has a firm limit on what it can do, but it cannot sign off a safety-critical part . The limits of physics AI are where the human stays in charge, and Sam Mahalingam, the AI expert, says he will not be able to use the technology in the future .",
