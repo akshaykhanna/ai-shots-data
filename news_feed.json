@@ -1,6 +1,197 @@
 {
   "news": [
     {
+      "id": "17346b57eb8c81589582dec2c2403977",
+      "title": "Okta targets AI agent token costs with MCP",
+      "description": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs . Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server . Okta calls the resulting prompt overhead the \u201ctool tax\u201d: tokens consumed as a model considers tools, including tools, such as the tool list .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/okta-ai-agent-token-costs-mcp-model-context-protocol-agentic-cyber-security-agents-infosec-server-governance-enterprise.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-13T13:43:43.941134Z"
+    },
+    {
+      "id": "d5a54d5944c7b9f1b5a648f0796c24ff",
+      "title": "AI tools for breast cancer detection fall short",
+      "description": "About half of 215 surveyed members of the Society of Breast Imaging already use FDA-approved AI tools for breast cancer detection . Only 35 percent report lower recall rates, while 59 percent had expected them . The gap between promise and reality runs through every category measured, according to the survey . The results fall short of expectations, with only 35 percent of radiologists having expected them, the survey found . The survey was conducted by The Decoder .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/radiology_AI-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-13T13:43:29.769512Z"
+    },
+    {
+      "id": "f186cb38530e6ac05a266b89c64fc446",
+      "title": "Anthropic brings Claude Cowork to its Chrome extension",
+      "description": "Anthropic's Claude Cowork extension now runs directly in the side panel of the Chrome Web Store . The extension already existed, but a full Cowork session now runs inside the panel . Anthropic lists a few use cases: pulling metrics from analytics dashboards, organizing Google Drive, or logging sales calls in Salesforce . The update is available now for all paid plans through the Google Web Store, with no extra setup .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/08/ClaudeBrowsing.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-13T13:43:15.937777Z"
+    },
+    {
+      "id": "30e4ea0b1964bf616e419137a51f0823",
+      "title": "Top AI lab researchers warned about automated",
+      "description": "IAPS fellow Severin Field interviewed 25 researchers from OpenAI, Anthropic, Google Deepmind, Meta, and US universities about recursive self-improvement . Several of the milestones those researchers named have already been hit, Field says in a new blog post . He takes stock of the progress made by the researchers in a blog post on The Decade, which he says has already fallen on some of their predicted milestones .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/02/Huginn-RM-title-1200x673.png",
+      "fullArticleLink": "https://the-decoder.com/top-ai-lab-researchers-warned-about-automated-ai-research-and-several-of-their-predicted-milestones-have-already-fallen/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-13T13:43:04.318616Z"
+    },
+    {
+      "id": "5622801067d7c9d3fca9c7eb3ef3fad7",
+      "title": "Fable 5's slow adoption suggests corporate willingness",
+      "description": "Anthropic's Fable 5 is considered the most powerful AI model on the market, but U.S. companies are barely buying it . The model's steep price tag suggests corporate AI spending may have hit a ceiling, at least as long as performance gains don't translate into measurable everyday value . The slow adoption suggests corporate willingness to pay for frontier AI has reached a ceiling . The Decoder.com: Fable .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/01/openai_anthropic-2.jpeg",
+      "fullArticleLink": "https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-13T13:42:51.341918Z"
+    },
+    {
+      "id": "599ea52fc1f6bec35e8ff8a758bd5015",
+      "title": "How kids feel about AI, in their own",
+      "description": "How kids feel about artificial intelligence, in their own words, in MIT Technology Review . Teens are over four times more likely to be using AI in innocuous ways than potentially harmful ones . Pew Research Center found that 57% of teens in the US had used chatbots to search for information, 54% tapped them to help with schoolwork, 47% had used them for fun or entertainment . Some are even using it to build things, whether it\u2019s a character, a tech platform, or a tutor to help other kids study .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-08-13T13:42:30.075781Z"
+    },
+    {
+      "id": "d2a0ce9daf7ca39cb35144709954ef89",
+      "title": "Transferable Above-Ground Biomass (AGB) Estimation Model from Multi",
+      "description": "Spatially continuous quantification of forest above-ground biomass (AGB) is what makes carbon accounting credible and mitigation strategies actionable . This paper presents an operational framework centered on a single globally trained convolutional neural network (CNN) The global model combines optical (Sentinel-2), C-band SAR, L-Band SAR (ALOS-2 PALSAR-2) data and terrain (DEM) data . This summary highlights key aspects of the",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.11638",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-13T13:42:16.155200Z"
+    },
+    {
+      "id": "82e1d7631b227c8c17725f75e359881c",
+      "title": "A Local Sinkhorn Framework for Conditional Distribution Reconstruction",
+      "description": "In this paper, we propose a local Sinkhorn divergence framework for conditional distribution reconstruction of multidimensional random fields . The proposed framework provides a scalable alternative to exact local optimal transport . It offers a practical compromise between geometric fidelity, statistical efficiency, and computational scalability for uncertainty quantification and probabilistic scientific machine learning . arXiv:2608.11613v1 Announcement: Proposal a differentiable and computationally efficient local distribution matching objective to train stochastic networks .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.11613",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-13T13:41:49.968498Z"
+    },
+    {
+      "id": "3836fb887aaaa20decbefbef58794f84",
+      "title": "FLARE++: Low-rank attention with dynamic attention routing",
+      "description": "Full self-attention is a strong token mixer for PDE surrogates on irregular domains, but its quadratic cost limits its use on high-resolution problems . We remove that restriction with FLARE++, a low-rank attention architecture with dynamic token routing . FLARE+ is competitive across a set of standard PDE benchmarks, improving on fixed-query FLARE by 24% on average, and it gains 2.3 points of average accuracy on Long Range Arena .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.11519",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-13T13:41:13.659408Z"
+    },
+    {
+      "id": "2ce6c79ca4f1b8c60e9a191db8b24d3b",
+      "title": "Dual Primal Graph VAEs for Noisy Label Aggregation",
+      "description": "Inferring the ground-truth from noisy crowdsourced labels is an important theoretical and practical problem . We propose a graph VAE architecture in which the decoder and encoder use GAT-based message passing on the adjacency graph of a crowdsourced dataset and its dual . We show our model achieves state of the art performance on crowdsourcing benchmarks . We then demonstrate the generality of our approach by showing how the original crowdsourcing graph can be augmented to incorporate side information such as representations from neural network classifiers trained on noisy labels to substantially boost their classification performance at test time .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.11473",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-13T13:40:22.012673Z"
+    },
+    {
+      "id": "a66bc38ab24d169a243386f35dc21d24",
+      "title": "Federated Learning for Distributed CNC Tool Wear Prediction",
+      "description": "Machine learning methods have shown potential for this task, but their use in industrial environments is limited by the distributed nature of machining data . Federated learning offers a suitable framework for this setting by enabling collaborative model training without transferring raw operational data . Results show that federated learning achieves performance close to centralized learning and improves significantly over local client models . These findings indicate that Federated Learning can support collaborative tool wear prediction in distributed CNC manufacturing environments .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.11281",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-13T13:38:54.178037Z"
+    },
+    {
+      "id": "d9dba6737bd8cf1d4fc2c368620c4807",
+      "title": "There\u2019s a Fatty Liver Epidemic. AI could help",
+      "description": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems . Researchers think AI tools can spot the condition and help stop it early enough to save lives . If fatty liver disease can be identified early, much of the damage is highly reversible, says Jeffrey Lazarus, a professor at the CUNY Graduate School of Public Health and Health Policy . The condition typically develops without noticeable symptoms so it is rarely detected at an early and treatable stage .",
+      "imageUrl": "https://media.wired.com/photos/6a7a380554cb34d4d120f360/191:100/w_1280,c_limit/Theres-a-Fatty-Liver-Epidemic-Science.jpg",
+      "fullArticleLink": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-13T13:37:58.848921Z"
+    },
+    {
+      "id": "d1915a50c5cc392a49e4d2bd88130c9c",
+      "title": "Sandbar thinks it\u2019s voice-enabled ring can avoid",
+      "description": "TechCrunch's Equity podcast talks with Sandbar, the startup behind the private voice ring Stream . Sandbar co-founder and CEO Mina Fahmi talks about why he thinks so many voice hardware devices before Stream struggled to break through, and why he's betting that keeping the human firmly in control is what it'll take to get wearable tech right . Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/11/Sandbar_stream_ring-feat.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-13T13:37:40.279861Z"
+    },
+    {
+      "id": "d4e662e0ffa5f326b2b1a3705ed78cf3",
+      "title": "Streamring-ring-maker Sandbar says the future of AI wearables",
+      "description": "Why Stream ring-maker Sandbar says the future of AI wearables is voice . Sandbar is the startup behind the private voice ring Stream, which has raised $36 million to date . On this episode of TechCrunch's Equity podcast, Rebecca Bellan talks with Sandbar co-founder and CEO Mina Fahmi about why he thinks so many voice hardware devices before Stream struggled to break through, and why he's betting that keeping the human firmly in control is what it'll take to get wearable tech right .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0402.CR3_.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-13T13:37:22.547525Z"
+    },
+    {
+      "id": "667e84b17d073839a17b76fc1a655b83",
+      "title": "Mesh, Automattic\u2019s CRM for everyone, comes to Android",
+      "description": "Mesh, Automattic's CRM for everyone, comes to Android . The relationship manager and personal CRM was acquired by WordPress.com's parent company last year . On Android, the company customized Mesh's app to work with key platform features, like split-screen and pop-up views . It also supports keyboard shortcuts for foldables and tablets, in-app search, home screen widgets and real-time sync across devices .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/android_header.webp?resize=1200,854",
+      "fullArticleLink": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-13T13:37:07.166336Z"
+    },
+    {
       "id": "bb6d6bfcce4d4a6e0c77eba527236723",
       "title": "Google tests AMIE for clinical video consultations",
       "description": "Google\u2019s research medical AI system, AMIE (Video) conducted synchronous video consultations with professional patient actors . Fifteen trained actors portrayed conditions across cardiopulmonary, abdominal, HEENT, neurological or psychiatric, and musculoskeletal presentations . Google says studies involving real patients and their own health involve real patients . Google's AMIE received clinical evaluator ratings on par with primary care physicians . This",
