@@ -1,6 +1,203 @@
 {
   "news": [
     {
+      "id": "af8739b4c6199c5ae83a1d8357f81bc4",
+      "title": "Gemini 3.7 Flash lands with coding gains",
+      "description": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash . The new model is supposed to be Google's most capable workhorse yet for coding and AI agents . According to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price . Google undercuts its three-week-old predecessor's price by 50% in comparison to the previous model .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/gemini_flash.png",
+      "fullArticleLink": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-14T02:40:30.377771Z"
+    },
+    {
+      "id": "364ea948593ced6cbc9a93d297159fd6",
+      "title": "Suno Studio 2.0's new chat feature lets you",
+      "description": "Suno Studio 2.0 turns its AI music platform into a full production tool for Premier subscribers . A chat feature creates instruments and plugins via text, while MIDI import and 32-bit export come without limits . That unlimited export clashes with Suno's own recently announced download caps designed to combat AI music spam on streaming platforms . The company also recently announced a crackdown on AI music music spam in the form of AI music .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/suno_ai_logo.png",
+      "fullArticleLink": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-14T02:40:19.199321Z"
+    },
+    {
+      "id": "a4eb45031e80760bf6634238440b8488",
+      "title": "TradingMoE: Routing the Right Experts in Evolving Markets",
+      "description": "Large language models (LLMs) have shown strong potential for financial analysis and trading, but direct trading remains challenging because the predictive capabilities required can vary across assets, decision fields, and market conditions . We propose TradingMoE, a trading-oriented sparse MoE that augments a frozen dense LLM with lightweight residual experts . We introduce a Query-Key router that represents the expertise required by each token under the current market context as a low-dimensional query . We further propose a sparse expert selection update mechanism that samples a few inactive experts during training and estimates whether they should replace the weakest expert...",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.11785",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-14T02:40:01.183242Z"
+    },
+    {
+      "id": "012d9ae151821a391bd19ec99565f664",
+      "title": "MOON: Multi-Objective OrthoNormalized Updates for Multitask Learning",
+      "description": "Multi-objective optimization (MOO) has demonstrated significant success in multi-task learning by mitigating task conflicts through gradient manipulation . We propose MOON (Multi-Objective OrthoNormalized Updates), which performs gradient manipulation under spectral--nuclear norm geometry . Empirical results across various benchmarks show that MOON consistently improves both optimization efficiency and final multi-Task performance . Theoretically, for smooth non-convex objectives, we establish convergence of the averaged Pareto-stationarity measure at rates of",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.11749",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-14T02:39:48.782304Z"
+    },
+    {
+      "id": "46843b9ac90109a7b47a7160638309fe",
+      "title": "GCPO: Diagnosing and Constraining Subspace Geometry in Rollout",
+      "description": "On-policy rollout methods such as GRPO are central to post-training of large language models . Yet they frequently suffer from training instabilities, cross-task capability degradation, and response-length inflation . To address this, we propose GCPO (Geometrically Constrained Policy Optimization) which applies hard bilateral orthogonal projections to constrain updates to the complementary subspaces, preventing such excursions by construction . This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.11674",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-14T02:39:26.134582Z"
+    },
+    {
+      "id": "326f249b4c421cb8f33e3b16325db48d",
+      "title": "Robust Ambiguity Detection (RAD) From Model- and Feature-Space",
+      "description": "Robust Ambiguity Detection (RAD) framework is advanced for quantifying predictive ambiguity using two complementary metrics: Model-Space Consistency . RAD scores provide an interpretable characterisation of the sources of ambiguity and the actions a user may consider in response . We demonstrate a downstream application of RAD where samples are ranked by their RAD Pareto-Rank and the most ambiguous are abstained from prediction, achieving performance comparable to existing rejection-based approaches .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.11541",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-14T02:38:38.656048Z"
+    },
+    {
+      "id": "5dbfddfc7726399d74b1b8c2b0d79a73",
+      "title": "Defending against Model Extraction for GNNs with Model",
+      "description": "Graph Neural Networks (GNNs) serve as the backbone for high-stakes applications in Machine-Learning-as-a-Service (MLaaS) Still, their black-box deployment exposes them to Model Extraction (ME) attacks . Existing defenses suffer from a critical ''Euclidean bias'': they transfer image-based strategies (e.g., random noise) to graphs, ignoring the complex topological dependencies between nodes . This summary highlights key aspects of the latest developments.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.11495",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-14T02:38:15.652902Z"
+    },
+    {
+      "id": "7e37825fb53ff2ee9198f836abd133ec",
+      "title": "Nvidia\u2019s new $500B plan is risky but brilliant",
+      "description": "Nvidia's new $500B plan is risky but brilliant, especially for aging GPUs . Nvidia wants to ensure an ecosystem of used AI hardware flourishes, helping sustain demand for Nvidia hardware as it ages . The dangerous part for Nvidia is that this creates something financiers call \"wrong way\" risk . Should this plan work, Nvidia will have found new sources of money for AI data center builds, after many of the traditional methods have begun to wear thin .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-14T02:36:00.808065Z"
+    },
+    {
+      "id": "ae02d5bda82cc078f6d3abf7324bdbf1",
+      "title": "Microsoft kills off unsuccessful AI features while merging",
+      "description": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps . Consumers will lose access to Group Chats, AI-generated podcasts in Copilot, Copilot Labs experimental features, and Deep Research . Copilot will also ditch its goofy animated character for Copilot named Mico, a floating blob that felt like an AI-ified version of Clippy . The company says the goal is to make Copilot a \"simpler, more cohesive experience,\" it's also an admission that Copilot has lost its way .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-14T02:35:44.868574Z"
+    },
+    {
+      "id": "9a1de941a4f8ef98b8f7e35783f5e269",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "description": "OpenAI hires new CRO as executive shake-up continues . Dali Rajic replaces Denise Dresser as chief revenue officer after just nine months on the job . Move comes as part of a broader shake up in the organization in the last month . OpenAI says its products reach more than one billion weekly active users, and two million businesses . The company says it has filed confidentially with the SEC ahead of a potential IPO, but it's not clear when that will happen .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Dali_Resized.webp?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-14T02:35:29.247121Z"
+    },
+    {
+      "id": "4f7a500cee9438e1a7f8fa27bafdbab9",
+      "title": "Anthropic set AI agents loose on the same",
+      "description": "Anthropic set AI agents loose on the same task, they started a turf war . The study comes in the wake of several high-profile incidents of AI agents from Anthropic and OpenAI breaching real-world systems . The findings provide a glimpse into potential risks that could develop as companies and governments move to implement agents working autonomously across shared codebases, markets, and computer systems . In some cases, the agents came up with a social mechanism in the form of a tournament for resolving their conflict .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600",
+      "fullArticleLink": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-08-14T02:35:12.340537Z"
+    },
+    {
+      "id": "b377fa89f3ad152d5e1d6e4218e33c19",
+      "title": "IBM partners with OpenAI to bolster enterprise",
+      "description": "IBM partners with OpenAI to bolster enterprise AI push . IBM and OpenAI will jointly market AI offerings and develop industry-specific solutions for sectors including financial services, government, telecommunications, and retail . IBM said it would integrate OpenAI's latest models into IBM Consulting Advantage, its AI platform for consultants, to help clients deploy AI across core business operations . The deal comes less than a year after IBM announced a similar alliance with Anthropic .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-14T02:34:56.698179Z"
+    },
+    {
+      "id": "459413c052960c038377ef0c38b4807a",
+      "title": "OpenAI introduces \u2018Ultrafast\u2019 mode that makes GPT-5",
+      "description": "AI lab OpenAI has rolled out a new mode called Ultrafast for its latest model, GPT-5.6 Sol . The company says that Ultrafast can work at 14x the speed of standard processing, delivering up to 750 output tokens per second . Ultrafast is currently being released in preview, but it's only available to a small group of customers . OpenAI suggests that this high-octane version can be deployed across a number of different corporate workflows, most notably incident response, customer service and support .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-14T02:34:42.316181Z"
+    },
+    {
+      "id": "7261e6583d8e84ce7ddde3811fc833db",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B",
+      "description": "Databricks wanted to raise $1B, investors wanted $15B; it settled on $5B at a $190B valuation . The AI big-data company has already raised $20 billion over the past 20 months . The company's AI chatbot tool Genie, that can do business analysis on the spot, \"is insanely popular,\" CEO Ali Ghodsi says . The $5 billion round was led by Coatue and several others, including Blackstone, MGX .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
+      "fullArticleLink": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-14T02:34:26.011348Z"
+    },
+    {
+      "id": "539d991b17b150c976ddb39134ec7dc7",
+      "title": "Writer introduces new AI model and upgraded harness",
+      "description": "Writer introduces new AI model and upgraded harness to contain token costs . Palmyra X6 is a post-training variation on Zai's open source model GLM-5.2 . The company estimates the new model, combined with changes to the companies harness infrastructure, will cut costs for its customers by as much as 50% for basic tasks . Writer CEO May Habib: \"I think the enterprise is absolutely sick of chasing the next benchmark\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-14T02:34:10.985009Z"
+    },
+    {
       "id": "17346b57eb8c81589582dec2c2403977",
       "title": "Okta targets AI agent token costs with MCP",
       "description": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs . Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server . Okta calls the resulting prompt overhead the \u201ctool tax\u201d: tokens consumed as a model considers tools, including tools, such as the tool list .",
