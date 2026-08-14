@@ -1,6 +1,188 @@
 {
   "news": [
     {
+      "id": "a49722b6b09c38a73ca30c82696a4f12",
+      "title": "Google AI health coach to use Abbott glucose",
+      "description": "Abbott and Google are linking continuous glucose monitoring data with Google\u2019s AI-powered health coaching tools . Users will be able to view glucose trends alongside data from the Google Health app . Under a multiyear agreement, data from Abbott's Lingo continuous glucose monitor will be integrated into the Google app . Google's Gemini-powered service will access to another source of personal health information from Abbott\u2019S Lingo .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Google-AI-health-coach-to-use-Abbott-glucose-data-scaled-e1786677715851.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-14T13:29:51.232587Z"
+    },
+    {
+      "id": "6d4228dfe746f34cd6b73e4128d083bf",
+      "title": "Zhipu AI releases GLM-5.3, claims it's the strongest",
+      "description": "GLM-5.3 helped security teams find 2,436 vulnerabilities across 269 projects . The model weights are set to go open source in two weeks . It is the most powerful open-weights coding model, with a 50 percent improvement over its predecessor through post-training alone . The new model weights will go open-source in the next two weeks, according to Zhipu AI's own benchmarks, with the model weights going open source .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/zhipu-ai-logo-wall.jpg",
+      "fullArticleLink": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-14T13:29:37.812954Z"
+    },
+    {
+      "id": "4e325eb27e622df5ea5871355a0edb5f",
+      "title": "Claude Code now runs daily maintenance on Anthropic's",
+      "description": "Anthropic is testing whether Claude Code can handle daily maintenance of its own apps . Anthropic created 388 pull requests, and 46 percent were merged after human review . In a few weeks, the AI created 388 pulled requests and merged 46 percent of those requests . Inventor Boris Cherny sees this as \"early signs of life\" that this might be possible, Cherny says . The algorithm now runs daily maintenance on Anthropic&#039;s software with 46 percent merge rate .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/claude_logo-1.png",
+      "fullArticleLink": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-14T13:29:25.561939Z"
+    },
+    {
+      "id": "ae87b21bb098e9ab1933fddaf5753c33",
+      "title": "HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment",
+      "description": "Large language models (LLMs) remain vulnerable to harmful requests and jailbreak attacks . Parameter-efficient safety alignment methods based on prompt tuning typically rely on a single global prompt or externally selected prompt modules . HiRoute trains a lightweight hierarchical router on representations extracted from a frozen LLM to jointly detect harmful intent and predict multi-label risk scores . It then freezes both the backbone model and the router and uses preference optimization with alternating gradient updates . At inference time, benign inputs bypass the safety branch, whereas risky inputs are processed using the shared prompt .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12821",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-14T13:29:09.095486Z"
+    },
+    {
+      "id": "b68875ba0570474dc6e4b7b20c777fd7",
+      "title": "CoMedBench: A Multi-Source Benchmark of Synthetic Medical Data",
+      "description": "CoMedBench is a reproducible benchmark that evaluates a family of generators under a common clinical-validity framework and one shared training and evaluation engine . The benchmark spans 37 dataset-task pairs across two modalities consists of 20 static tabular and 17 temporal ICU time-series . The reference generator CoMed-CTGAN retains a mean AUROC utility (the synthetic-to-real performance ratio) of 90.6% (AUROC) on tabular tasks .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12805",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-14T13:28:55.333553Z"
+    },
+    {
+      "id": "2a27db66df3b21c08c93f8f9f9c2073d",
+      "title": "Perturbation-based Regional Interpretability through Subtraction Mapping (PR",
+      "description": "PRISM (Perturbation-based Regional Interpretability through Subtraction Mapping) is a falsifiable test of functional-specialization claims in transformer language models . PRISM maps the seven clinical Philadelphia Naming Test categories, subtracts error classes pairwise, and treats each perturbation seed as a subject in a group analysis . Both substrates recover a robust phonemic-favoring dissociation, a deep layer cluster and a frontal-perisylvian cortical cluster .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12717",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-14T13:28:30.554611Z"
+    },
+    {
+      "id": "7555fee3a8f396e51cf33967a5dd6862",
+      "title": "Federated Compositional Muon Optimizer for Matrix-Wise Models",
+      "description": "Muon, a more recently developed optimizer, is useful for matrix-wise models in AI areas . We propose a variance reduced variant of Muon (FedCoMuon-VR) based on a momentum-based variance reduced technique . In theory, we analyze the convergence properties of our algorithms under the non-i.i.d. and non-convex settings . In particular, we prove that our FedCoMuons-VR obtains a lower sample complexity of $O(\\epsilon^{-3)$ than the existing FedMuon algorithms . Extensive numerical experiments show that our proposed methods are competitive with existing compositional baselines .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12710",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-14T13:28:15.064689Z"
+    },
+    {
+      "id": "08ce058c977d95c979850a65a438c94e",
+      "title": "The Impact of Temporal Context Length and Encoding",
+      "description": "Self-supervised electrocardiogram (ECG) models are often trained on a few seconds of ECG signal and, increasingly, on discretized token sequences . It remains unclear whether these choices sacrifice information needed for rhythm inference and longitudinal consistency in real-world ambulatory recordings . We present a controlled study on the Icentia11k single-lead dataset that varies (i) the input horizon and (ii) the front-end representation (continuous convolutional patch embeddings)",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12695",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-14T13:27:49.645782Z"
+    },
+    {
+      "id": "45826476b288adeba7eb8d2d4a45da17",
+      "title": "Training Under Challenge: Executable Certificates and Challenge-Closed Optimality",
+      "description": "A flat training curve does not reveal whether a neural network has reached a global optimum, is locally trapped, is representation-limited, or is mismatched to its trainer . We introduce Training Under Challenge, an executable-certificate framework . We define a resource-indexed challenge-power modulus that characterizes the largest gap compatible with passage . We prove the converse frontier: without coverage, a first-order ReLU trainer can reach infinitely many exact conditional head optima while converging to a non-global point .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12655",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-14T13:27:36.413634Z"
+    },
+    {
+      "id": "0bf25f4380c8f1f912b351def8efcc9a",
+      "title": "CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution",
+      "description": "CAKE is a compiler-agent co-design in which agents author CAKE IR, a typed, hardware-explicit schedule representation . CAKE exposes warp roles, memory movement, synchronization, and pipelines . The harness itself evolves: recurring failures become verifier rules, IR primitives, model calibrations, and reusable optimization tactics . Dispatcher-backed KNN and KMeans improve performance by 1.42x to 2.12x across more than 400 shapes .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12629",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-14T13:27:24.151324Z"
+    },
+    {
+      "id": "ece928cb20d41cff56cb9a7dbcc37752",
+      "title": "When Random Low-Dimensional Reparameterizations Train Neural Networks, they",
+      "description": "Neural networks can often be trained or fine-tuned through random low-dimensional reparameterization . This raises a practical question: how large must the latent search space be to reach a low-loss region? We express the known accessibility transition in an equivalent conic form, centered for compact convex targets at the statistical dimension of the polar cone . Building on this analysis, we introduce Random Mapping Networks (RaMaN) which instantiate the predicted latent dimension using structured Hadamard or seed-regenerated Gaussian maps .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12597",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-14T13:26:58.208945Z"
+    },
+    {
+      "id": "52786fe1577a2db070ff23c3982e8418",
+      "title": "Scaling Automatic Research Agents via World Models",
+      "description": "World Model RL (WMRL) replaces environment execution with a world model to remove this bottleneck . Empirically, WMRL accelerates training by 3-4x on various tasks at different agent scales, while exceeding the performance of standard RL baselines . Our post-trained 4B and 9B agents outperform much larger open-weight agents of 48B and 120B on held-out benchmarks . We further equip WMRL with two mitigations, Online Debiasing and Inverse-Variance Denoising .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12564",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-14T13:26:17.085718Z"
+    },
+    {
+      "id": "5624057ebf41dcbbbf7b469583eab2a6",
+      "title": "Dual Spatial-Temporal attribution: Architecture-Aligned Post-Hoc Explain",
+      "description": "Deep learning detectors for anomalies in dynamic graphs have reached strong accuracy, yet they remain opaque . When an edge is flagged, the analyst receives a score but no reason . We present a strictly post-hoc explainability framework, X-AddGraph, built on a Dual Spatial-Temporal attribution (DSTA) mechanism . On UCI Message benchmark, our trained AddGraph baseline reaches an average per-snapshot AUC of 0.8705, exceeding the originally published result . X-addGraph reproduces every score identically while adding explanations where none existed .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12441",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-14T13:25:27.679260Z"
+    },
+    {
+      "id": "7bcc3f2fa3a37cf9fad79fd4635925c4",
+      "title": "March: Scaling Recurrent Memory with Content-Routed State Anchors",
+      "description": "Transformers owe much of their strong long-context retrieval capability to a token-level memory that grows with context length . This flexibility incurs a quadratic computation complexity during training and a key--value cache that grows linearly during autoregressive inference . Memory-Anchor Routing across Context History (MARCH) is a network architecture that effectively scales state-space models beyond a fixed-size dimension . This",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12435",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-14T13:25:16.118928Z"
+    },
+    {
+      "id": "26329c78bec0bfd3037553bcadd3dabf",
+      "title": "LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory",
+      "description": "Large language models (LLMs) have achieved remarkable breakthroughs across various applications . However, their architectures remain inefficient in pretraining due to two main limitations . To overcome these limitations, we propose LoKiFormer, a novel LLM architecture that augments the standard decoder with two dedicated modules: Local Fusion Attention (LFA), which incorporates a convolutional fusion to attention, explicitly capturing local patterns and allowing attention to operate on more informative representations .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12419",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-14T13:25:04.514964Z"
+    },
+    {
       "id": "af8739b4c6199c5ae83a1d8357f81bc4",
       "title": "Gemini 3.7 Flash lands with coding gains",
       "description": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash . The new model is supposed to be Google's most capable workhorse yet for coding and AI agents . According to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price . Google undercuts its three-week-old predecessor's price by 50% in comparison to the previous model .",
