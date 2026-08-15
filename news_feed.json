@@ -1,6 +1,203 @@
 {
   "news": [
     {
+      "id": "893e4fe5644ed7889115a4413ba6ca17",
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "description": "Samsung Research America\u2019s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals . The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity . The company discussed its Connected Care vision at the Health Forum during Galaxy Unpacked in July 2026 . Samsung described a future of the Connected Health Forum at the end of the year .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/samsung-galaxy-watch-health-AI-models-analyse-wearable-biosignal-data-ecg-heart-digital-foundation-artificial-intelligence.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-15T01:50:37.949196Z"
+    },
+    {
+      "id": "4aff58fd6db060d9a322b65b27b761f4",
+      "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches",
+      "description": "OpenAI is launching \"Ultrafast,\" a new inference mode that delivers GPT-5.6 Sol at up to 750 output tokens per second . Ultrafast mode is powered by Cerebras hardware from their $10 billion partnership . Together with \"Standard\" and \"Fast,\" Ultrafast creates a three-tier pricing structure that turns inference speed into its own product . The U.S. tech giant is launching a new \"ultrafast\" inference mode .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/openai_ultrafast.png",
+      "fullArticleLink": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-15T01:50:23.630246Z"
+    },
+    {
+      "id": "f07d42c202ccf63eb27601bfdc949917",
+      "title": "Study contradicts Anthropic and OpenAI claims that autonomous",
+      "description": "AI agents using Claude Opus 4.8 and GPT-5.6 Sol were given six days, $3,000 in API credits, and GPU access to independently write AI research papers . The original authors of unpublished NeurIPS papers rated the results as \"Reject\" According to the study, frontier models can handle the full research engineering process but fall short on research judgment, creative problem-solving .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/ai-assisted-science-rejected-papers-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-15T01:50:11.595724Z"
+    },
+    {
+      "id": "57e8da1836beb2080fbb88603e3f44c3",
+      "title": "OpenAI's Computer History turns your clicks and keystrokes",
+      "description": "OpenAI's Computer History records clicks, keystrokes, and app switches on Mac and turns them into a searchable timeline for ChatGPT and Codex . The data is stored locally as unencrypted Markdown files . OpenAI says it's not used for AI training, but memories that feed into chats may still end up as training data . The company says it doesn't use it for training purposes, but it may still be useful .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/computer_history.png",
+      "fullArticleLink": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-15T01:49:59.730390Z"
+    },
+    {
+      "id": "3cc389ce23d0b3b5a26bddd145445ffe",
+      "title": "Alibaba's Qwen team releases Qwen 3.8 models",
+      "description": "Alibaba's AI team Qwen has released new open model weights under the Apache 2.0 license . The dense 27-billion-parameter model is designed to outperform the larger Qwen 3.7 Plus in coding and office tasks . With this release, Qwen is targeting developers building local and agent-based applications . The Qwen model natively processes up to 262,000 tokens of context in a single hour .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/qwen_logo-2.png",
+      "fullArticleLink": "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-15T01:49:47.759600Z"
+    },
+    {
+      "id": "723be7d410a95bd8e4faec68450aa11d",
+      "title": "Anthropic announces watermark detection API that will let",
+      "description": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude . The technology builds on Google's SynthID method and tweaks the randomness during word selection without affecting text quality, Anthropic says . The approach has limits with fact-heavy text, code, and heavy rewriting, the company says, but it can be used to detect text that is written by the AI .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-15T01:49:36.219806Z"
+    },
+    {
+      "id": "9f6e80456c41a5a83f57fe40c427c750",
+      "title": "Relational Deep Learning is a form of deep",
+      "description": "Relational Deep Learning (RDL) models multi-tabular databases as temporal heterogeneous graphs to enable end-to-end representation learning . We present multiple incremental training regimes for fine-tuning the models and demonstrate that transfer learning is both feasible and highly effective in the RDL setting . We show that our models consistently outperform the standard, expensive, from-scratch trained baselines . arXiv:2608.13023v1 . This",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.13023",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-15T01:49:10.536131Z"
+    },
+    {
+      "id": "a0633e3489c2f1c101fb168d8967b29c",
+      "title": "Balanced Adaptive Prototype Selection for Scalable TabPFN Inference",
+      "description": "Paper introduces Balanced Adaptive Prototype Selection (BAPS) framework for constructing compact, information-preserving contexts for scalable TabPFN inference . Without modifying or retraining the pretrained model, BAPS preserves representative structure, informative decision boundaries, local density, class balance, and feature-space diversity . Experiments on the million-row HIGGS and SUSY datasets show that 512 prototypes retain strong predictive performance and reliable calibration .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12989",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-15T01:48:59.413185Z"
+    },
+    {
+      "id": "4d9136a1de8ef09cee61f6763294ed6d",
+      "title": "The Objective Is the Bottleneck: Latent World Models",
+      "description": "Cross-entropy-method planning minimises squared latent distance, which tracks true distance at r = 0.426, saturates by about eighty arena units and decreases beyond a hundred and twenty . The pathology is the method's, not one reimplementation's. It is present in the authors' released weights, and across four checkpoints long-horizon success rank-orders exactly with metric quality and inversely with prediction accuracy .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12959",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-15T01:48:23.342519Z"
+    },
+    {
+      "id": "57b8773002973afb66d799097f0f41c0",
+      "title": "CardioState-JEPA: Delay-Aware Cross-Modal Learning",
+      "description": "Electrocardiography (ECG), photoplethysmography (PPG), and phonocardiography (PCG) provide complementary views of the same cardiac cycle . We introduce CardioState-JEPA, a cardiac foundation model to learn a single shared representation jointly across ECG, PPG, and PCG, built on a physiology-aware joint-embedding predictive architecture . The model maps heterogeneous waveforms into a common token space . This summary highlights key aspects of",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.12944",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-15T01:48:11.164922Z"
+    },
+    {
+      "id": "81e5cc10e8e1ab9793207cb3636bb1ec",
+      "title": "Meta\u2019s \u2018open\u2019 AI, and a $250M",
+      "description": "Equity takes a look at Meta's open-weight AI model Glimmer, Mark Zuckerberg\u2019s 6,500-word manifesto . Find out why people don't have to have twice as many hours to make sure they don\u2019t have the same energy as many others . Learn about the true cost of the AI industry's energy needs and a $250M acquisition gone very wrong . Read the full transcript of this episode of the Equity podcast .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-15T01:45:09.824910Z"
+    },
+    {
+      "id": "0fccedf8ea195bfb949e8a73d9fa413e",
+      "title": "Hyperscalers might regret embracing natural gas if new",
+      "description": "Hyperscalers like Amazon, Google, Meta, and Microsoft are betting that natural gas will power the data centers behind their lofty AI ambitions . But a new research report suggests they may regret their newfound affinity for the fossil fuel . Natural gas prices could triple in some parts of the U.S. in the coming years, according to Noreva, an energy research firm . Cheap gas has pushed hyperscalers to lock up part of the market .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-15T01:44:53.228709Z"
+    },
+    {
+      "id": "042796346f67c2669c5cbfa732f34119",
+      "title": "Kog is going deeper to squeeze more inference",
+      "description": "French startup Kog is going deeper to squeeze more inference out of GPUs . CEO Ga\u00ebl Delalleau is confident the same approach can work just as well with LLMs, whose size can be a challenge for inference chips . Kog's demo showed an impressive 3,000 per-request tokens per second (TPS) - but with a purpose-built small model with only some 2 billion parameters, the now open sourced Laneformer 2B .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Kog-CEO-Gael-Dellalleau-at-AMD-AI-DevDay.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-15T01:44:37.345683Z"
+    },
+    {
+      "id": "d0a06ebad8a62813c06f0091c01ce040",
+      "title": "Does Mark Zuckerberg really believe AI is \u2018for",
+      "description": "Meta released Glimmer, an open-weight AI model anyone can download and run on their own hardware . Mark Zuckerberg argued AI should be \u201cfor everyone\u201d rather than controlled by a handful of labs . TechCrunch's Equity podcast hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan take a look at Zuckerberg\u2019s 6,500-word AI manifesto, and more of the week's headlines .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-15T01:44:21.998000Z"
+    },
+    {
+      "id": "0e0aa648101264aa2f9a823cf309735c",
+      "title": "Google will now allow users to remove visible",
+      "description": "Google will now allow users to remove visible watermark from its AI generations . Users will be able to go to Settings > Media Watermark to turn the visible mark on or off . The change reflects an evolving approach to labeling AI-generated media, as visible watermarks can often make content less useful for professional and creative work . Google is also open sourcing a new library called Credentio to let developers embed a local validation mechanism in their apps .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-15T01:44:08.521667Z"
+    },
+    {
       "id": "a49722b6b09c38a73ca30c82696a4f12",
       "title": "Google AI health coach to use Abbott glucose",
       "description": "Abbott and Google are linking continuous glucose monitoring data with Google\u2019s AI-powered health coaching tools . Users will be able to view glucose trends alongside data from the Google Health app . Under a multiyear agreement, data from Abbott's Lingo continuous glucose monitor will be integrated into the Google app . Google's Gemini-powered service will access to another source of personal health information from Abbott\u2019S Lingo .",
