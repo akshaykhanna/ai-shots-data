@@ -1,6 +1,67 @@
 {
   "news": [
     {
+      "id": "eb5bb4240827373125a6aeb26989b11d",
+      "title": "New benchmark confirms AI models still perform poorly",
+      "description": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see\" separate from logical reasoning . No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin . Many supposed reasoning errors actually happen as early as the image-reading stage . Many real reasoning errors happen as well as the reasoning errors, according to Moonshot's Perception Benchmark . The benchmark is a benchmark for how well multi-engineers can \"see,\" separate from logic .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/perceptionbench-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-15T12:54:48.568178Z"
+    },
+    {
+      "id": "4ec954fb1fb2c7aadffb937a1bf3b948",
+      "title": "The \"tragedy of the cognitive commons\" explains how",
+      "description": "A new research paper frames AI adoption as a \"tragedy of the cognitive commons\" Every company that cuts entry-level jobs benefits individually, but the collective expertise of entire professions erodes . The consequences may not become visible until 2030 to 2045, when today's missing junior talent should have become tomorrow's experienced workforce . Today's missing young talent should've become the experienced workforce, according to the paper . The paper argues that rational AI adoption could destroy entire professions .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/ai_jobs_young_people_cognitive_decline.png",
+      "fullArticleLink": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-15T12:54:36.607945Z"
+    },
+    {
+      "id": "8abd923c9cdb7383c50624ef626b6333",
+      "title": "World Labs turns one real-world robot task into",
+      "description": "From a single real-world task, the system generates thousands of controlled variations . The trained models then ran for one hour each on five different robot platforms without human intervention . How well the results hold up in more complex everyday situations remains to be seen . World Labs, founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments . The results remain a mystery as to whether they will hold up more complex situations .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/worldlabs-r2s2r-06-scenix-brand.jpg",
+      "fullArticleLink": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Startup"
+      ],
+      "pubDate": "2026-08-15T12:54:24.878149Z"
+    },
+    {
+      "id": "fd929727e40719a0fceecc642a1cf099",
+      "title": "Plaintiff hid invisible AI instructions in court filings",
+      "description": "A plaintiff in Connecticut embedded invisible prompt injections in court filings to manipulate a potential AI review system . Judge Spader compared the attempt to secretly tampering with a jury and revoked the plaintiff's electronic filing privileges . Connecticut doesn't use AI to review filings, but the intent alone was enough to warrant sanctions . The court stressed that Connecticut . doesn't . use AI . to review . filings, however, it was not necessary to do so .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/trojanisches-pferd-prompt-injection-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-15T12:54:13.418284Z"
+    },
+    {
+      "id": "b59bbdfdda5eb5d9d098aedc28f4df19",
+      "title": "AI-generated books are flooding Amazon and tanking sales",
+      "description": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales . Revenue per book is dropping for human-written titles too, in seven of eight genres . The findings could give copyright plaintiffs the market-harm data their cases against AI companies have been missing . Findings could help copyright plaintiffs get the data they've been missing in court cases against the AI companies .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/AI-generated-books-dilute-Amazon-Kindle-Nano-Banana-Pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-15T12:54:02.586689Z"
+    },
+    {
       "id": "893e4fe5644ed7889115a4413ba6ca17",
       "title": "Samsung health AI models analyse wearable biosignal data",
       "description": "Samsung Research America\u2019s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals . The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity . The company discussed its Connected Care vision at the Health Forum during Galaxy Unpacked in July 2026 . Samsung described a future of the Connected Health Forum at the end of the year .",
