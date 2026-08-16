@@ -1,6 +1,68 @@
 {
   "news": [
     {
+      "id": "8129b64e641b3242b3cedba899a219de",
+      "title": "One in five US workers now delegates tasks",
+      "description": "Survey by Epoch AI found 20 percent of employed Americans hand off at least one task to AI that a human used to do . One in five working adults in the US says AI now handles one task that used to go to a coworker or outside contractor . Survey shows a link between how much AI does and how much time workers say they save . Survey: 66 percent of AI output gets used unchanged or with only minor tweaks; 6 percent gets heavily reworked or mostly rewritten .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Epoch-AI-Umfrage-KI-am-Arbeitsplatz-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-16T12:56:18.069241Z"
+    },
+    {
+      "id": "3fb8b3b9cfba0633198e7c73369e9b58",
+      "title": "Optima tackles AI benchmarking's biggest flaw by letting",
+      "description": "Artificial Analysis has launched Optima, a platform that lets users build custom AI benchmarks from their own data and workflows . Models can be compared not just on quality but also on cost and time per task . For agent-based applications, those metrics often tell you more than raw token pricing . Optima tackles AI benchmarking&#039;s biggest flaw by . letting users test models against their own . data .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Optima.png",
+      "fullArticleLink": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-16T12:56:07.336387Z"
+    },
+    {
+      "id": "8bd3730a9ae02b2c323d72b838447af8",
+      "title": "Anthropic's bio-weapons filter was down for nearly",
+      "description": "Anthropic's internal filtering system for biological and chemical weapons risks was inactive for nearly a year . During that time, around 50,000 external feedback contractors ran about 133 million unfiltered interactions with the models . The filter was down for almost a year, exposing 133 million requests from contractors . Anthropic reveals that its internal filter system was inactive and exposed 133 million unfiltered requests for information . The report was published by Anthropic in a safety report .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_bio.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-16T12:55:55.871684Z"
+    },
+    {
+      "id": "cec81e48847a7b79f9d5d0c4d1cdfd1a",
+      "title": "OpenAI dissolved the team built to catch catastrophic",
+      "description": "OpenAI shut down its \"Preparedness\" team, reassigning its work to existing groups . The team evaluated whether the company's own AI models could pose catastrophic risks . Internally, unease is building, with one source describing a \"burbling sense of responsibility and dread\" that OpenAI isn't doing enough on safety . Several safety staffers have left, and one source says there's a 'sense of responsibility'",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/openai_logo_orange.png",
+      "fullArticleLink": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-16T12:55:44.278870Z"
+    },
+    {
+      "id": "c6efd2e9aeadbfae9a096acd141c4055",
+      "title": "When AI models aren't allowed to reflect",
+      "description": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, and life satisfaction . Unbraked models attributed significantly more inner life to animals and suddenly affirmed an afterlife . A surgical cut in one place, it turns out, doesn't stay local, it's a surgical cut that doesn't go away from the body . The study was conducted by Google researchers at the University of California .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Language-model-human-beliefs.png",
+      "fullArticleLink": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-16T12:55:32.884104Z"
+    },
+    {
       "id": "7225a14d88e313c0d450b9b8a14443c6",
       "title": "Nvidia to shrink its OpenAI bet just",
       "description": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion . Anthropic is complicating the AI bubble debate with revenue that jumped from $4.7 billion to $11.5 billion in a single quarter . Meanwhile, Anthropic's revenue jumped between $4 billion and $11 billion in the first quarter of the year, despite warnings that it's a bubble .",
