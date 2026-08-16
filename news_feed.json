@@ -1,6 +1,63 @@
 {
   "news": [
     {
+      "id": "7225a14d88e313c0d450b9b8a14443c6",
+      "title": "Nvidia to shrink its OpenAI bet just",
+      "description": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion . Anthropic is complicating the AI bubble debate with revenue that jumped from $4.7 billion to $11.5 billion in a single quarter . Meanwhile, Anthropic's revenue jumped between $4 billion and $11 billion in the first quarter of the year, despite warnings that it's a bubble .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/10/ai_bubble_neural_network.png",
+      "fullArticleLink": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-16T01:52:07.650044Z"
+    },
+    {
+      "id": "e68ddcb8301126efa48080105110ba3c",
+      "title": "SpaceX officially closes its Cursor acquisition acquisition",
+      "description": "AI coding startup Cursor is now officially a part of SpaceX . Elon Musk\u2019s SpaceX and Cursor announced a deal in April for the companies to develop technology together . The deal also gave SpaceX the option to acquire Cursor for $60 billion . Cursor says it will have access to the \u201clargest fleet of GPUs in the world\u201d SpaceX also faces a lawsuit over the pollution created by its data center gas turbines .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-16T01:51:48.893979Z"
+    },
+    {
+      "id": "73cbb223a27a0a6dd5fe734f2eb53d41",
+      "title": "Anthropic shares more details about how Claude\u2019s new",
+      "description": "Anthropic shares more details about how Claude\u2019s new watermarks will work . The company revealed earlier this week that it would be doing this watermarking to comply with the EU AI Act . Anthropic said it will be using the SynthID-Text approach that the Google DeepMind team outlined in 2024 . It also said that Claude won\u2019t be the only AI chatbot to generate watermarked text, as other major model developers have signed the same Code of Practice .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
+      "fullArticleLink": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-16T01:51:31.075818Z"
+    },
+    {
+      "id": "a17d0cbb65ba7f318d2a56ec10b44891",
+      "title": "Woman claims stepfather used Grok to transform childhood",
+      "description": "A woman claims her stepfather used Grok to create more than 7,000 explicit images of her . The woman also said that her step-father was found dead of suicide two days after the images were uncovered in a law enforcement raid . The teenagers who\u2019d filed lawsuit accused xAI of failing to take basic precautions to prevent Grok from being used to create explicit images . They are seeking class action status for their suit .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-16T01:51:18.083865Z"
+    },
+    {
       "id": "eb5bb4240827373125a6aeb26989b11d",
       "title": "New benchmark confirms AI models still perform poorly",
       "description": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see\" separate from logical reasoning . No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin . Many supposed reasoning errors actually happen as early as the image-reading stage . Many real reasoning errors happen as well as the reasoning errors, according to Moonshot's Perception Benchmark . The benchmark is a benchmark for how well multi-engineers can \"see,\" separate from logic .",
