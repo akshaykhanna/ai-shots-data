@@ -1,6 +1,63 @@
 {
   "news": [
     {
+      "id": "b24034661cf24e4b10afd27bf4298e57",
+      "title": "Top mathematicians say LLMs are strong calculators but",
+      "description": "Mathematicians Timothy Gowers and Peter Sarnak credit large language models with serious math skills but see hard limits for genuinely new ideas . Gowers argues current models are good at combining known methods and trying many search paths but lack intuition to pick the few productive routes in a vast search space . DeepMind researcher Tom Zahavy pins the bottleneck on \"manipulative abduction,\" the ability to invent new foundational assumptions with no linguistic precedent .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/neural_network_math-2-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-17T01:50:11.887849Z"
+    },
+    {
+      "id": "9eeacf6b78b6dd6218f6848794b849e1",
+      "title": "Anthropic CEO says AI backlash is \u2018fundamentally",
+      "description": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019 Dario Amodei says he's been painting an overly pessimistic picture of artificial intelligence and how it might shape the future . He says the public has a negative view of AI and he agreed that \u201cthis is a big problem.\u201d But he said that ordinary people don't trust companies, governments, or the tech industry and always suspect that we are cooking up some new way to screw them over .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-17T01:49:47.977740Z"
+    },
+    {
+      "id": "30514dd888ea36f4401edc9b92ac9eb4",
+      "title": "Mark Zuckerberg\u2019s AI future is in the works",
+      "description": "Mark Zuckerberg published a 6,500 word essay this week declaring that \u201cThe Future is for Everyone\u201d and painting an optimistic picture of a future powered by AI . On the latest episode of TechCrunch\u2019s Equity podcast, Kirsten Korosec, Rebecca Bellan, and Anthony Ha discussed why not everyone is buying Mark Zuckerberg's vision . The problem, however, is Zuckerberg and Meta's history .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-17T01:49:31.351214Z"
+    },
+    {
+      "id": "7430ad56634d75f96ac27c8711820bbd",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter",
+      "description": "Bloomberg: Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+ . The company helps customers select different AI models to perform different tasks, depending on their specific needs and budget . The Wall Street Journal reported last month that Stripe and the startup were in acquisition talks . A Stripe spokesperson told TechCrunch that the company does not comment on rumors or speculation . At the time, CEO Alex Atallah described the company as the equivalent of Stripe for AI .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
+      "fullArticleLink": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-17T01:49:18.196671Z"
+    },
+    {
       "id": "8129b64e641b3242b3cedba899a219de",
       "title": "One in five US workers now delegates tasks",
       "description": "Survey by Epoch AI found 20 percent of employed Americans hand off at least one task to AI that a human used to do . One in five working adults in the US says AI now handles one task that used to go to a coworker or outside contractor . Survey shows a link between how much AI does and how much time workers say they save . Survey: 66 percent of AI output gets used unchanged or with only minor tweaks; 6 percent gets heavily reworked or mostly rewritten .",
