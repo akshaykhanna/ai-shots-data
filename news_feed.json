@@ -1,6 +1,193 @@
 {
   "news": [
     {
+      "id": "c8d0e7c2e119a6e2c54c7344cb86314a",
+      "title": "AI and data centers have leapfrogged Israel, racism",
+      "description": "A Washington Post analysis of more than 1,200 websites from active candidates found that AI comes up in nearly 40 percent of all races for the House, Senate, and governor seats . Data centers and their impact on local electricity costs, water use, and land use dominate the conversation . Democratic candidates bring up AI twice as often as Republicans, according to the analysis . Separate polls show that a majority of Americans are skeptical of AI and worry about job losses .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-17T13:05:24.353140Z"
+    },
+    {
+      "id": "f505cf5dad53d2be50b74933b6b903cf",
+      "title": "Anthropic watermarks Claude's output, but critics question",
+      "description": "Anthropic's text watermarking for Claude is supposed to make AI-generated content detectable . The method is based on Google's SynthID-Text approach and tweaks the randomness source for word selection during text generation . Blogger John Gruber argues that no two synonyms carry the exact same meaning . Anthropic insists that the system has no effect on content, creativity, or readability . Legal trade publication Artificial Lawyer examined what watermarks mean for law firms .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-17T13:05:06.728101Z"
+    },
+    {
+      "id": "0c3e7b3f060b78fb9db02dc7dbaec359",
+      "title": "What happens when a kid\u2019s robot best friend",
+      "description": "AI companion toys for neurodivergent children promise connection and therapy, but can they deliver for the long haul? Moxie is a robot that looks a bit like a blue, legless astronaut . She's one of an increasing number of artificial-intelligence-powered devices marketed as interactive playmates for children . Critics say critics say critics will inevitably see these toys fall victim to the pitfalls of AI toys that promise connection, therapy .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/gettyimages-1289357458-social.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-17T13:04:48.450694Z"
+    },
+    {
+      "id": "849848e85d59f2079b2dd499fb4a9f07",
+      "title": "Revisiting Energy-based Tabular Anomaly Detection: Energy and Reconstruction",
+      "description": "Tabular anomaly detection is dominated by density-proxy methods (Isolation Forest, OCSVM, LOF), reconstruction-based detectors (Autoencoders, VAEs) and modern non-parametric scorers (COPOD, ECOD, Deep SVDD) We evaluate a two-hidden-layer DBM on two tabular benchmarks spanning distinct domains (UCI Bank Marketing and NSL-KDD) against eight classical and modern baselines across twenty random seeds . The DBM mean-field energy matches the strongest baseline (the Autoencoder) on Bank Marketing .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14186",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-17T13:04:31.194277Z"
+    },
+    {
+      "id": "1aa8ab86ae6d363b02e3ad810554c137",
+      "title": "Structure-Guided Spatiotemporal Attention Graph Neural Network for Traffic",
+      "description": "Structure-Guided Spatiotemporal Attention Graph Neural Network (SGSAN) uses a static Directed Dependency Graph (DDG) to identify the invariant macroscopic propagation paths of traffic states . SGSAN achieves state-of-the-art predictive accuracy while providing built-in interpretability that organically aligns with the physical logic of traffic networks . The paper proposes a new model that offers mechanistic account of the model's decision-making process while ensuring robust forecasting .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14177",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-17T13:04:18.132213Z"
+    },
+    {
+      "id": "d6631010d1ccd0e3bdc3b55010d1de24",
+      "title": "Smart routes is a system for development",
+      "description": "The problem of route optimization with realistic constraints is becoming extremely relevant in the face of global urban population growth . We demonstrate that for problem of size 50 deep learning and classical heuristic solutions became close to SCIP exact solution but requires less time . For problems with size 100, SCIP methods around 13 times slower that neural and classical . heuristics with the same route cost and on around 50% worse for the first feasible solution on the same time .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14140",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-17T13:04:06.878214Z"
+    },
+    {
+      "id": "2eadcbf10aeb9e7a1249628359dcfd67",
+      "title": "Overcoming Shortcut Learning in Graph Neural Networks through",
+      "description": "Graph Neural Networks (GNNs) can solve prediction tasks by unintentionally exploiting shortcuts . These shortcuts compromise reliability in out-of-distribution tasks . We introduce XIGL, an architecture-agnostic human-in-the-loop strategy for removing such shortcuts from GNNs . Expert users can provide tailored corrective feedback, which helps deconfound the model, we say . We showcase the effectiveness of XigL, including both existing and proposed explanation-based strategies, on several GNN architectures .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14121",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-17T13:03:54.792884Z"
+    },
+    {
+      "id": "8a52079f8e0aa987b4083a3736837ee9",
+      "title": "QUASAR: Lowering the Loss Floor of Quantization-Aware Training",
+      "description": "QUASAR is a QAT method that continuously performs lightweight, loss-aware reconstruction in the training loop to lower the loss floor and improve the resulting low-bit model . At 2 bits, it improves average accuracy across eight tasks by 3.5-4.3 percentage points over strong QAT and PTQ baselines . The method modifies only the training procedure and supports standard deployment formats, including integer quantization and NVFP4 .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.13966",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-17T13:03:42.507983Z"
+    },
+    {
+      "id": "187b7a09dfecba7d434c1b341171c500",
+      "title": "Probabilistic indirect models for undrained shear strength: addressing",
+      "description": "Study uses CLAY/10/7490 global database to develop probabilistic indirect models to predict su based on Atterberg limits and piezocone cone penetration (CPTU) measurements . The model is built by integrating a multi-head attention (MHA) mechanism into an artificial neural network (ANN) to enhance information extraction from limited data . The proposed MN-enhanced MHA-PNN model substantially outperforms other models in both prediction accuracy and uncertainty quantification .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.13934",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-17T13:03:29.119911Z"
+    },
+    {
+      "id": "c8ca15465465b5bfe84cfd48949dfad3",
+      "title": "Geometric Filtering of LLM-Generated Samples for Few-Shot Text",
+      "description": "Large language models can generate synthetic training data for text classification, but quality of generated samples is heterogeneous . We propose a geometric filtering framework that evaluates each LLM-generated sample by its Euclidean distance to real class examples in a sentence embedding space . A soft weighting mechanism transforms filter scores into sample weights for classifier training . The approach generalizes to named entity recognition (+9.26pp, 100% win rate) without filter modification, and is robust across 5 LLMs from 4 providers .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.13866",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-17T13:03:04.709777Z"
+    },
+    {
+      "id": "77b72c5e78b2b794294e8dce9a0be685",
+      "title": "Federated Prompt Learning: A Unified Framework, Empirals Analysis",
+      "description": "Large language models (LLMs) have become core components of cloud-based intelligent services in academia and industry . Federated learning (FL) offers a decentralized training paradigm that enables clients to collaboratively train a learning model without sharing raw data . This paper presents a comprehensive survey of federated prompt learning (FPL) to review recent advances in integrating the federated learning paradigm and large language models . It also discusses security, privacy, robustness, and system challenges, along with key future research directions .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.13844",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-17T13:02:51.837331Z"
+    },
+    {
+      "id": "7d69f3b38c872d220a395374e8081679",
+      "title": "CutClean: Neural Network Pruning for Privacy-Preserving Inference",
+      "description": "Neumatic networks are increasingly deployed in high-stakes applications with growing privacy leakage concerns . We show that this privacy leakage can occur even in the absence of representation imbalances that lead to traditional dataset biases . We propose CutClean, a privacy-aware pruning method that allows to reduce privacy information flow through the network, while increasing its sparsity . Our approach employs auxiliary linear privacy heads placed at each network's block to quantify information leakage, and applies increasing levels of sparsity to remove the private attribute leakage .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.13773",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-17T13:01:37.788142Z"
+    },
+    {
+      "id": "3ce75cbdf8aa50bdf486ff1c1c96a5d8",
+      "title": "SAGE: Surrogate-gradient Adaptation via Attention-Guided Entropy",
+      "description": "Spiking neural networks offer an energy-efficient alternative to conventional deep neural networks by exploiting sparse event-driven computation . SAGE estimates block-level uncertainty from normalized self-attention entropy and uses this signal to adapt the surrogate-gradient slope during training while leaving the inference model unchanged . By modulating only the training-time surrogate parameter, the proposed method preserves the original architecture and deployment cost while improving optimization flexibility . Experiments on CIFAR-10/100 demonstrate SAGE achieves improved accuracy over fixed-surrogate baselines .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.13702",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-17T13:01:09.945400Z"
+    },
+    {
+      "id": "14ebb725af7ecd7e0d105cbdac0f9d2f",
+      "title": "From BERT to Frontier Agents: Eight Years",
+      "description": "Between October 2018 and July 2026 AI models progressed from simple systems like BERT to massive agents that solve complex math and write software . The ability to resolve real coding issues improved by nearly six times per year since late 2024 . During this time costs dropped sharply with OpenAIs budget model GPT 5 point 6 Luna matching flagship capabilities for just one to six dollars per million tokens beating older versions at a fraction of the price .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.13675",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-17T13:00:44.131339Z"
+    },
+    {
+      "id": "a8faed1db0f562752ac0e036e15baf0b",
+      "title": "Don't Claim Benchmark-Oriented Optimization Improves General Coding Cap",
+      "description": "Post-training papers, model cards, and blog posts often treat scores on a small set of coding benchmarks as evidence of broad coding capability . We argue that optimization for these benchmarks leads to measuring task-specific performance . We conclude that a small number of benchmarks is insufficient for evaluating diverse models under benchmark optimization pressure . We encourage the community to use holistic evaluation - holistic assessment for frontier models, multi-task suites for research, and human-in-the-loop studies for narrow task applications . Finally, we argue for creating a capability taxonomy and sustained benchmark maintenance .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.13566",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-17T13:00:29.981991Z"
+    },
+    {
       "id": "b24034661cf24e4b10afd27bf4298e57",
       "title": "Top mathematicians say LLMs are strong calculators but",
       "description": "Mathematicians Timothy Gowers and Peter Sarnak credit large language models with serious math skills but see hard limits for genuinely new ideas . Gowers argues current models are good at combining known methods and trying many search paths but lack intuition to pick the few productive routes in a vast search space . DeepMind researcher Tom Zahavy pins the bottleneck on \"manipulative abduction,\" the ability to invent new foundational assumptions with no linguistic precedent .",
