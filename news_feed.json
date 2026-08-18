@@ -1,6 +1,198 @@
 {
   "news": [
     {
+      "id": "6b203e98e0f01c8012ad60c5c82da775",
+      "title": "Reading Zhipu\u2019s GLM-5.3 results past the headline",
+      "description": "Zhipu's GLM-5.3 contains a sentence that did not make it into most of the coverage . Describing its own cybersecurity results, the Beijing company writes that capability \"is growing fastest exactly where we are furthest behind\" The Beijing company also trades as Zai, is one of a handful of Chinese labs releasing models that compete with other AI-powered models . The company has also released a note that says capability is growing fastest where it's \"growing fastest\"",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-3.04.48-PM.png",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-18T13:10:17.364562Z"
+    },
+    {
+      "id": "ae374bc00228160975e78d3001a6f6c3",
+      "title": "Alvys launches AI agents for freight TMS workflows",
+      "description": "Alvys launches agentic AI platform that allows carriers and brokers to automate operational tasks . Alvys Foundry supports pre-built and custom AI agents that work with freight data and workflows already held within the TMS . Foundry includes more than 20 pre-builds and custom agents . The platform is called Alvys foundry by Alvys, a freight software provider, based in New York City, New York .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Alvys-launches-AI-agents-for-freight-TMS-workflows-scaled-e1787045759798.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-18T13:10:07.545145Z"
+    },
+    {
+      "id": "21aa03acd8e6841763f95e53728d81c0",
+      "title": "Anthropic increases revenue sevenfold, hits annualized rate above",
+      "description": "Anthropic could go public as early as fall 2026 at a $1 trillion valuation, potentially beating OpenAI to market . Anthropic has hit an annualized revenue rate above $65 billion, based on performance through the end of July 2026 . The company reportedly projects $190 to $200 billion in revenue for 2028 . The big question is whether Anthropic can sustain this trajectory, given the infrastructure spending that depends on continued expansion .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/claude_logo-1.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-18T13:09:53.283959Z"
+    },
+    {
+      "id": "5bbeef6fedc5454171b3aaef80ea654f",
+      "title": "Claude Code gets a /design command that lets",
+      "description": "With the /design command, Anthropic brings a visual design workflow directly into Claude Code . Developers can generate UI mockups as artboards right in the terminal before writing any code . Claude reads the existing codebase and matches the current UI style . Anthropic uses the command to create mockups in Claude Code and create artboards for the user to use in-built mockups . Claude Code gets a command that lets developers create UI mockup right into the terminal .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude_design.png",
+      "fullArticleLink": "https://the-decoder.com/claude-code-gets-a-design-command-that-lets-developers-create-ui-mockups-right-in-the-terminal/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-18T13:09:27.209782Z"
+    },
+    {
+      "id": "c26b3d2720bfdacc211e3759dbda9e0e",
+      "title": "Anthropic's per-token cost runs 4.4 times the average",
+      "description": "Anthropic accounts for 65.1 percent of spending on Vercel's AI Gateway but only 30 percent of tokens . Its per-token cost runs 4.4 times the average of every other provider, meaning the company earns far more per use than its competitors . Fable 5 quickly climbed to 13.2 percent of Gateway spending, second only to Opus 4.8 . Vercel reads as a sign that the model is attracting fresh users and that willingness to pay for premium models remains strong .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/anthropic_office_work.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-per-token-cost-runs-4-4-times-the-average-on-vercel-and-developers-keep-paying/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-18T13:09:13.668064Z"
+    },
+    {
+      "id": "6288b9c5540ee6687b4262a979f6f60d",
+      "title": "OpenAI launches a ChatGPT version built for teens",
+      "description": "OpenAI is shipping a version of ChatGPT tailored to users aged 13 to 17 . The teen variant has stricter safeguards around topics like suicide, self-harm, eating disorders, and sexual content . The chatbot is also prohibited from pretending it has emotions . Florida became the first U.S. state to file suit against the company in June after their children saw harmful content and injured themselves or died . The move comes amid growing legal pressure .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/openai_chatgpt.png",
+      "fullArticleLink": "https://the-decoder.com/openai-launches-a-chatgpt-version-built-for-teens/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-18T13:09:00.680415Z"
+    },
+    {
+      "id": "40b814b2de553ab4b5fc73685cfdf57f",
+      "title": "As AI beats doctors, regulators shouldn't force",
+      "description": "Autonomous AI will soon outperform any doctor-AI team at medical reasoning tasks, JAMA argues . Authors warn against writing a doctor's final say into regulation . Almost all the evidence comes from simulations, not real patient care, they say . Authors concede that almost all of the evidence come from simulations not patient care . JAMA: As AI beats doctors, regulators shouldn&#039;t force a human into the loop, Jama piece says .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/AI-Healthcare-2.png",
+      "fullArticleLink": "https://the-decoder.com/as-ai-beats-doctors-regulators-shouldnt-force-a-human-into-the-loop-jama-piece-says/",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-08-18T13:08:38.892538Z"
+    },
+    {
+      "id": "a0a0ac4f7f8426bdab1fb2828544fc19",
+      "title": "Anthropic CEO says open models just shift power",
+      "description": "Anthropic CEO Dario Amodei says regulation could also limit corporate power . He says open models alone would merely shift power to the players with the most computing power . The debate has erupted on X: Investor Gavin Baker, former White House advisor David Sacks, and Meta researcher Yann LeCun accuse Anthropic of using fear-mongering to gain a regulatory advantage . The Decoder.com airs on The Decoder .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/01/Amodei-WSJ-Interview-title.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-18T13:08:27.398062Z"
+    },
+    {
+      "id": "89f9a699f7b860d9c37f31cab89b0c56",
+      "title": "AI\u2019s recursive self-improvement might not come so quickly",
+      "description": "Researchers say AI agents are not yet capable of conducting open-ended AI research . They found they could solve engineering problems but lacked the judgment and creativity to produce original research . The gap suggests that some of the hyped-up timelines for automating AI research may be running ahead of the evidence, the researchers say . The agents were capable of all the engineering required to conduct the research, but were unambiguously bad at carrying out the research itself, they say .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-18T13:08:10.000437Z"
+    },
+    {
+      "id": "776665834bfa0c13a2f30ba777255af8",
+      "title": "We still don\u2019t know how people are really",
+      "description": "A new study shows that work use cases make up less of the picture than AI companies claim . The AI Observatory aggregated and analyzed real AI conversations with popular models like Claude and Gemini . The Observatory's intent is to provide independent sources of information for researchers and policymakers to assess how people are using generative AI . Stakeholders are currently making highly consequential decisions about AI\u2019s benefits and risks based on very limited data, says Anka Reuel .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-18T13:07:55.301988Z"
+    },
+    {
+      "id": "769cc1726b6893f754a4eed4e6670892",
+      "title": "Diagnosing and Mitigating Perception-Decision Misalignment in Omni-LLMs",
+      "description": "Omni-Large Language Models (Omni-LLMs) power complex multi-modal reasoning in applications like World Action Models and autonomous agents . However, their strong performance often masks a profound Perceptual-Decision Misalignment (PDM) where decisions remain unfaithful to multidimensional perceptions . We formalize Causal Modality Sensitivity (CMS), operationalized via a dual-lens framework: Answer Retention Rate (ARR) at the macro behavioral level and Logit Angular Discrepancy to track microscopic distribution shifts .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14655",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-08-18T13:06:56.360658Z"
+    },
+    {
+      "id": "2619b937d31331c296b1c5eec58184a3",
+      "title": "A Systematic Study of Uncertainty-Aware Decoding with Rollback",
+      "description": "Prediction uncertainty is a widely adopted metric for quantifying model confidence . We study uncertainty-aware rollback decoding, an inference-time strategy that uses uncertainty signals to identify unreliable generation regions . We evaluate this framework on seven code LLMs, five code generation benchmarks, and eight token-level uncertainty signals under a unified decoding setup . Our results show that the complete rollback framework improves over equal-budget restart across the evaluated benchmarks and model settings .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14653",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-18T13:06:45.328876Z"
+    },
+    {
+      "id": "c07d8fd9a70d4fd5b140905262edd674",
+      "title": "Explaining Reinforcement Learning Decisions in Self-adaptive Systems",
+      "description": "Explanations using Alternative Realities for Reinforcement Learning (EARL) is a Python library to produce counterfactual explanations in RL settings . This library allows the user to produce explanations by exploring What-if scenarios to clarify agent behavior by comparing possible outcomes . EARL has been shown to be intuitive and user-friendly in psychology research, but have only recently been explored in RL, with existing implementations usually limited to toy examples and benchmarks .",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14620",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-08-18T13:04:50.311197Z"
+    },
+    {
+      "id": "c40b085be6233c81eea23d020ea795ea",
+      "title": "LLaMA-70B on $60 GPUs . DumpsterCluster",
+      "description": "As AI datacenters retire functional GPUs, vast quantities of still capable accelerators enter secondary markets . We physically built a 128-GPU DumpsterCluster from scratch using only second-hand components and ran it for one year . At current market prices, the economic advantages are substantial . Older GPUs consume significantly more energy per token, making total cost of ownership favorable only in regions with inexpensive electricity . Second-hand systems can produce approximately 4x higher total carbon emissions per token for 8B models, and 40x for 70B models .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14614",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-18T13:04:26.378614Z"
+    },
+    {
+      "id": "cfa13b8c02242acfe29fcdf2d0e3463b",
+      "title": "Forward Pass Domain Adaptation (Without Cross-Layer Backpropagation) Forward",
+      "description": "Forward-Pass-Only MLP training (FPO) adapts large language models without a backward pass through the model body . FPO achieves 2.7--3.2x the throughput of standard fine-tuning at 40% less peak training memory, while leaving off-domain benchmarks within seed-noise of baseline . No signal is propagated between layers, and no autograd graph is constructed at any point . This summary highlights key",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14563",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-18T13:04:04.012428Z"
+    },
+    {
       "id": "3869d85a4e52726e577ace975bca7362",
       "title": "Stripe reportedly acquiring AI startup OpenRouter for more",
       "description": "Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion . CEO had described the company as \"Stripe for AI\" CEO described the startup as \"stripe-for-AI\" The company offers access to over 400 AI models, has eight million users, and its CEO had called the company 'Stripes for AI' The company is reportedly valued at $1.3 billion .",
