@@ -1,6 +1,202 @@
 {
   "news": [
     {
+      "id": "3869d85a4e52726e577ace975bca7362",
+      "title": "Stripe reportedly acquiring AI startup OpenRouter for more",
+      "description": "Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion . CEO had described the company as \"Stripe for AI\" CEO described the startup as \"stripe-for-AI\" The company offers access to over 400 AI models, has eight million users, and its CEO had called the company 'Stripes for AI' The company is reportedly valued at $1.3 billion .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/tokenization-1.png",
+      "fullArticleLink": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-08-18T01:51:19.014958Z"
+    },
+    {
+      "id": "9c141f696414404ac904748fa7118aa8",
+      "title": "AI video market has bounced back from Sora's",
+      "description": "Netflix already uses AI in 300 of its 1,000 titles, and the startup Higgsfield now carries a $5.4 billion valuation . AI production companies like Promise are setting up shop around Hollywood's historic studios, using real-time backgrounds and other AI tools to cut film costs . What was once a tech demo has grown into its own industry, complete with valuations, job titles and fights over who gets a cut .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/03/sora_balloon_man-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-08-18T01:51:07.156270Z"
+    },
+    {
+      "id": "b53dd2f1460d05c0ca2149933722771e",
+      "title": "OpenAI signs record Ohio data center lease",
+      "description": "OpenAI has signed a 20-year lease for an 8-gigawatt data center in Ohio . Nvidia is guaranteeing up to $105 billion for the residual value of the facilities and becomes the exclusive chip supplier . Nine tech companies now hold around $3 trillion in AI commitments that don't appear on any balance sheet . According to the Wall Street Journal, nine tech companies hold around . $3 Trillion AI commitments .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png",
+      "fullArticleLink": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-18T01:50:54.805218Z"
+    },
+    {
+      "id": "65fe89a27b6549e77feffcea7f24d28f",
+      "title": "Amazon destroys rare rare books for AI training",
+      "description": "Amazon buys books in bulk, scans them for AI training data, and destroys them in the process . Booksellers suspect that AI companies are trying to systematically scan every book by ISBN number . Anthropic bought books on marketplaces, cut off their spines, and digitized them . The practice is controversial because they destroy originals that may be irreplaceable, pulling knowledge off public shelves and locking it inside the closed AI models .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Destructive-Book-Training-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-18T01:50:39.851901Z"
+    },
+    {
+      "id": "dc51f568c245093ff38c4485e985800d",
+      "title": "What Flock\u2019s defenders are missing? Flockers are missing",
+      "description": "Flock announced some changes to its platform last week to prevent officers from using the platform for illegal or illegitimate purposes . The Washington Post recently identified 50 cases in which officers misused systems from Flock and its competitors, often to stalk and harass women . Flock's network works the way it does because of a series of decisions about what information to collect, who can search it, how long to keep it, and how widely to share it .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26153043646326.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-18T01:50:21.358858Z"
+    },
+    {
+      "id": "7c153cce751ff2bf09edc5fc38acde4e",
+      "title": "LP-NAS: Linear Programming-based Neural Architecture Search",
+      "description": "Differentiable NAS has gained prominence due to its efficiency and accuracy compared to conventional NAS approaches . LP-NAS formulates a linear program (LP) using the validation-loss gradient and the training-loss Hessian to compute an architecture update direction that improves generalization while preserving the optimality of the model parameters . Both variants achieve faster convergence and significantly higher validation performance during the early search iterations than the standard DARTS algorithm .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14472",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-18T01:50:05.993438Z"
+    },
+    {
+      "id": "f3a1346e2bdce67a54982c6c52f0b9eb",
+      "title": "CytoBERT: A Foundation Model for Cytometry Data Data",
+      "description": "CytoBERT is a self-supervised model for single-cell cytometry data with variable marker panels . It is pretrained on a large-scale cytometry corpus (15 human datasets with heterogeneous marker panels and more than 50 million cells) curated through marker standardization, enabling it to learn transferable inter-marker relationships within cells . Code is available at GitHub and code is available in the open-source code .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14414",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-18T01:49:42.056616Z"
+    },
+    {
+      "id": "9cf00a4236f36e27ea68eb13d375eab6",
+      "title": "DeaMoE: Efficient MoE Structure for Fast Small-Batch Dec",
+      "description": "Mixture-of-Experts (MoE) models have been widely adopted in real-time interactive applications such as coding assistants and audio-video interaction systems . DeaMoE reduces per-step loaded weights by up to 50.9% and achieves up to 1.33 end-to-end TPOT speedup for the pre-trained 7B model on A40 and DeepSeek-V3 in microbenchmarks . This summary highlights key aspects of the latest developments. Industry analysts",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14385",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-18T01:49:30.173454Z"
+    },
+    {
+      "id": "28b3f67248e773cc3d2e8d664067cf47",
+      "title": "Mind the Long Tail: Understanding the Difficulty",
+      "description": "The early detection of delayed cases in business processes is a critical capability for organizations . Existing models capture mode of this distribution well but perform poorly on high-delay cases . Key underlying problem may not be imbalance but higher uncertainty associated with delayed cases . We show that this correlation can be exploited to substantially improve the identification of late cases . The work provides new insights into the sources of difficulty in delay detection and identifies uncertainty-aware modeling as a promising direction for future PPM research .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14367",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-18T01:49:06.094817Z"
+    },
+    {
+      "id": "862f7f0e5ea4f28a49a8e706f2b01877",
+      "title": "Multi-Objective Bayesian Optimization for Model Merging . Multi-objective",
+      "description": "MOBO-Merge uses multi-objective Bayesian optimization to approximate the Pareto front under a limited evaluation budget . No merge operator is uniformly best: TIES leads in three of four family-setting combinations . Block-Linear 4x is strongest for the Llama three-model merge, while TIES is best in three family-set combinations . The gain is small for one-dimensional Linear interpolation but substantially larger for several TIES, block-wise searches .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14264",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-18T01:48:19.398740Z"
+    },
+    {
+      "id": "0dccda6e63b06f1eeb4e141411cc4185",
+      "title": "How to tell if your AI platforms\u2019 accounts",
+      "description": "TechCrunch has created a comprehensive guide to help you protect yourself if you suspect someone has broken into your account on one of the internet\u2019s most popular platforms, social networks, or social networks . Get $100 off your Disrupt 2026 ticket to Disrupt this month . TechCrunch is hosting a Flash Sale at 10:10:10 a.m. ET on August 15, 20, 2026 .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/broken-lock.jpg?resize=1200,823",
+      "fullArticleLink": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-18T01:45:51.133209Z"
+    },
+    {
+      "id": "40a9816ea4807c41537ebafde4a9f711",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer",
+      "description": "Get $100 off your Disrupt 2026 ticket . Nvidia said Monday that it will invest $1.5 billion in a data center linked to SoftBank and OpenAI . Nvidia will also provide up to $105 in credit to credit credit to help build the facility, which could scale from an initial 4.25 gigawatts to 8 gigawatts . The investment ensures that the infrastructure at the data center near Cincinnati, Ohio, will be the sole supplier of compute infrastructure .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+      "fullArticleLink": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-18T01:45:32.447919Z"
+    },
+    {
+      "id": "47e2b984551931a28d2112ab596c37b3",
+      "title": "Groq raises $350M to fuel its pivot",
+      "description": "Groqq raises $350 million to fuel its neocloud AI chipmaker Rebecca Bellan . Get $100 off your Disrupt 2026 ticket to the Disruptive 2026 event . TechCrunch Desktop Logo TechCrunch Mobile logo TechCrunch is TechCrunch\u2019s Mobile Logo . The company paid out a $20 billion deal to the company that provides powerful GPUs and AI services that provides a . services and . services that . provides . powerful AI services .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-529313685.jpg?resize=1200,1200",
+      "fullArticleLink": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-18T01:45:13.851135Z"
+    },
+    {
+      "id": "5b8dbc23aeee06013b0172a54f944dc7",
+      "title": "AI automation startup Relay shuts down, staff joins",
+      "description": "Relay, an AI-powered automation tool that was launched in July, is shutting down, and some of its staff \u2014 including its CEO \u2014 are joining Google's Chrome team . Free access to the app will be shut down for paying customers on September 14 . Relay Bank's CEO and founder Jacob Bank, Relay's founder and Relay founder, Jacob Bank's founder, will be joining the tech giant . Get $100 off your Disrupt 2026 ticket .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/JacobBank_founder_headshot-e1665566816221.jpg?resize=1200,674",
+      "fullArticleLink": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-18T01:44:36.489612Z"
+    },
+    {
+      "id": "de8e9b90f0043d51b71f228a8c6d6835",
+      "title": "Anthropic\u2019s annualized revenue surges to $65B . Anthropic's",
+      "description": "Get $100 off your Disrupt 2026 ticket to Disrupt . Anthropic continues to grow at an historic rate . TechCrunch has doubled its revenue from $20 billion at the end of May to $40 billion, according to the Financial Times reported . The model\u2019s annualized revenue \u2014 based on a shorter run period \u2014 continues to accelerate. Anthropic's revenue is expected to finish between $100 and $120 billion .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "fullArticleLink": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-18T01:44:18.490697Z"
+    },
+    {
       "id": "c8d0e7c2e119a6e2c54c7344cb86314a",
       "title": "AI and data centers have leapfrogged Israel, racism",
       "description": "A Washington Post analysis of more than 1,200 websites from active candidates found that AI comes up in nearly 40 percent of all races for the House, Senate, and governor seats . Data centers and their impact on local electricity costs, water use, and land use dominate the conversation . Democratic candidates bring up AI twice as often as Republicans, according to the analysis . Separate polls show that a majority of Americans are skeptical of AI and worry about job losses .",
