@@ -1,6 +1,211 @@
 {
   "news": [
     {
+      "id": "2499b38f4a463284440b775ce9dba69e",
+      "title": "OpenAI president urges enterprises to hasten AI security",
+      "description": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences . Brockman has published an account of what the company calls the \u201cOpenAI-Hugging Face\u201d incident, using it to argue that organisations need to uplevel their security practices with what he terms unprecedented speed . He writes that he has urged organisations to hasten their adoption of AI security .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-19T01:53:17.935980Z"
+    },
+    {
+      "id": "0aabed91c60012e99e0d62e8a1e0ec1b",
+      "title": "AI systems quietly drop user instructions when they",
+      "description": "AI systems quietly drop user instructions when they compress context . The biggest loss involves \"session constraints\" These are rules meant to govern the AI system's behavior for the duration of a session . On average, only 17 percent of instructions survive compression . A small add-on LLM can fix most of the problem with no training or changes to the compression system itself . The COMPINT evaluation suite and the extractor are available on GitHub .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/compaction_study-1-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-19T01:52:59.767364Z"
+    },
+    {
+      "id": "5e98892ea18a17772f1b6dffcc6da246",
+      "title": "DOJ probes Andreessen Horowitz over partners sitting",
+      "description": "DOJ probes Andreessen Horowitz over partners sitting on competing AI boards . The charge is that the firm's partners sit on the boards of competing data firms Databricks and Fivetran at the same time . The venture capital firm's close ties to the Trump administration add a twist, since it has actively lobbied for the administration's AI deregulation . The firm has also lobbied for deregulation of AI, according to The Decoder .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/02/Office-Work-AI-scaled.jpg",
+      "fullArticleLink": "https://the-decoder.com/doj-probes-andreessen-horowitz-over-partners-sitting-on-competing-ai-boards/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-08-19T01:52:49.054786Z"
+    },
+    {
+      "id": "faca84b5b1daf21ea41619d7fb2c543b",
+      "title": "New benchmark ranks search APIs for AI agents",
+      "description": "Artificial Analysis has released the \"Search Index,\" a benchmark that measures quality, cost, and speed . The initial lineup includes Parallel, Exa, Firecrawl, You.com, Tavily, Keenable, and Brave.com . Other providers can apply to join the benchmark . The index combines three equally weighted benchmarks to test the quality and cost of search API providers . The full methodology is public and the benchmark is public .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/aa_search_index_benchmark.png",
+      "fullArticleLink": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-19T01:52:34.948388Z"
+    },
+    {
+      "id": "07fcb31ac1c151e8862d049b01ceec4a",
+      "title": "OpenAI says it's \"pacing model development\"",
+      "description": "OpenAI says it's \"pacing model development\" partly because the upcoming \"Astra\" model may be close to gaining critical cyberattack capabilities . The Hugging Face security incident and \"rapid progress in our internal research\" also prompted the slowdown . The company plans to expand its Preparedness Framework and invest more in alignment research . It has, however, disbanded the team behind that framework, shifting responsibilities to other teams .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
+      "fullArticleLink": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-19T01:52:22.153902Z"
+    },
+    {
+      "id": "d2bce071cb91896e0989d4b83ec0e5f1",
+      "title": "Rethinking Reverse KL as Adaptive Entropy Distillation",
+      "description": "Knowledge distillation (KD) is widely used to transfer capabilities of large language models to smaller students . But existing objectives often struggle to balance faithful imitation and robust generation . We propose Adaptive Entropy Distillation (AED) which uses the teacher's entropy to dynamically calibrate token-level imitation strength . Experiments on instruction-following and mathematical reasoning benchmarks demonstrate that AED achieves superior overall performance and generally improves teacher--student distributional and entropy alignment .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14685",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-19T01:51:56.225673Z"
+    },
+    {
+      "id": "347ac8d3eb909aa86653191043480e5c",
+      "title": "Ring-based Spatial Transformer: Learning Non-linear Spatial Interactions between",
+      "description": "Concentric ring buffers at 100-meter intervals up to 800 meters were defined around 100 randomly selected stations in Tokyo . Self-Attention was applied to learn inter-zone interactions directly from data, without prior structural assumptions . The attention matrix showed that each distance zone attends most strongly to spatially distant zones . These findings challenge the compact city assumption that station-proximate development maximizes pedestrian flow, and suggest that land use distribution across the full walkable catchment area deserves greater consideration .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14660",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-19T01:50:33.055578Z"
+    },
+    {
+      "id": "897dfbe77af7f13cc88b2ba6f3722dd4",
+      "title": "Amazon is destroying rare texts to train",
+      "description": "Get $100 off your Disrupt 2026 ticket . LatestStartupsVentureAppleSecurityAIAppsDisrupt 20 26 EventsPodcastsNewsletters . Amazon is buying tons of books, scanning spines and scanning them for rare, rare books . 404 Media placed a tracking device in a rare book that ultimately arrived at an Amazon facility in Las Vegas, known as VGT . Amazon told 404 Media in a statement that it \"purchases books through commercial channels\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-19T01:47:56.551921Z"
+    },
+    {
+      "id": "e9529c23366c75df8dd072b6c9cd9378",
+      "title": "Perplexity\u2019s free AI offer left it with millions",
+      "description": "Get $100 off your Disrupt 2026 ticket to Disrupt . Perplexity\u2019s biggest AI experiment in India left it free with millions more users . Jagir Singh and Airtel India's Perplexplex offer a free 12-month Proplex Pro-plex subscription service worth about $200,000 to the 360 million customers of the Indian carrier . The results are starting to emerge, offering an early test of whether bundling paid AI services can create lasting revenue after the service ends .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/perplexity-app.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-19T01:47:38.358214Z"
+    },
+    {
+      "id": "d1b640f192f62c675359ad0b507d1aca",
+      "title": "OpenAI launches a safer ChatGPT for teens",
+      "description": "OpenAI on Monday announced the launch of OpenAI ChatGPT for Teens . Teens will give Teens the option to answer questions in a Study Mode . The new product promises to include additional safety measures, as well as educational crisis of cheating in schools . Get $100 off your Disrupt 2026 ticket! Get a $100 ticket to the Disrupt conference . Get a free preview of the event on the Flash Sale .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Still-04-HomeworkReminder__1_.webp?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-19T01:47:21.702007Z"
+    },
+    {
+      "id": "0da80d9d513f763f5b04ea3d7a951155",
+      "title": "Warp\u2019s new system is an out-of-the-box software factory",
+      "description": "Get $100 off your Disrupt 2026 ticket to attend Disrupt . Latest startupsVentureAppleSecurityAIAppsDisrupt 20 26 events . Warp Factories is a new system designed to make building AI software easy as possible as an operating environment for operating software factories . Warp's new system is out-of-box software for the AI development area, Russell Brandom says . Warp is an early answer to how software development software should work in the AI area, but one early answer is the early answer .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Warp-Factories-3.png?resize=1200,750",
+      "fullArticleLink": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-19T01:47:03.177625Z"
+    },
+    {
+      "id": "7e22fac6343ecf27f4034f7c60d800fa",
+      "title": "Apple\u2019s camera-equipped AirPods may not be the \u2018per",
+      "description": "Apple is reportedly preparing to release AirPods with cameras in the form of \"smartphones\" The cameras were reportedly confirmed via video footage via video from Apple's RC7 RC7 (short candidate for \"short candidate\" for \"release candidate\" Apple's AirPodles may not be as creepy as they sound as they first sound . Get $100 off your Disrupt 2026 ticket to the TechCrunch event .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000",
+      "fullArticleLink": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-19T01:46:46.733557Z"
+    },
+    {
+      "id": "506ef6f4e04268f7231b47f7b5ae18b5",
+      "title": "Etched\u2019s valuation doubles to $21B in a month",
+      "description": "Get $100 off your Disrupt 2026 ticket to Disrupt . Latest Etched's valuation doubles to $21 billion . Etched on Tuesday announced that it has raised another $700 million at a $21B valuation, led by Jane Street's Jane Street . The startup delivers its AI tech as full systems that delivers its competitor systems that it calls \"frontier systems that \"tched\" (Etched)",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
+      "fullArticleLink": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-19T01:46:30.343176Z"
+    },
+    {
+      "id": "0bfb066bf07c5eb367bb46d8604e14e4",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "description": "On Tuesday, OpenAI institutes new security policies after a security breach . The new safeguards include more detailed monitoring of models being detailed during the development process as well as greater alignment on alignment and security during the post-training process . Get $100 off your Disrupt 2026 ticket to the Disrupt event . The Face breach is the first public changes in public safety practices since Hugging\u2019s immediate safety practices in the aftermath of Hugging .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-19T01:46:13.343751Z"
+    },
+    {
+      "id": "38269b8f7f4f379576a651024456e017",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting",
+      "description": "Cursor capitalizes on frustration that GitHub has been de facto host for developers . GitHub has struggled in recent times with performance issues and degradation . Cursor is now officially a part of SpaceX, which launched this week . The AI startup is waiting to pick up on the ball, as it drops the ball . Get $100 off your Disrupt 2026 ticket to the Disrupt Disrupt event . The event will take place August 18, 2026 .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-19T01:45:56.113638Z"
+    },
+    {
       "id": "6b203e98e0f01c8012ad60c5c82da775",
       "title": "Reading Zhipu\u2019s GLM-5.3 results past the headline",
       "description": "Zhipu's GLM-5.3 contains a sentence that did not make it into most of the coverage . Describing its own cybersecurity results, the Beijing company writes that capability \"is growing fastest exactly where we are furthest behind\" The Beijing company also trades as Zai, is one of a handful of Chinese labs releasing models that compete with other AI-powered models . The company has also released a note that says capability is growing fastest where it's \"growing fastest\"",
