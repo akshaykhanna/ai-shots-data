@@ -1,6 +1,192 @@
 {
   "news": [
     {
+      "id": "20ec79ecd4ae84080231bc2a2585e0c3",
+      "title": "Anthropic passes OpenAI on revenue for the first",
+      "description": "Anthropic has passed OpenAI on revenue for the first time in the AI race . OpenAI told investors it grew 18 percent from the first to the second quarter, while Anthropic doubled its revenue over the same stretch . Slower growth at ChatGPT and success of Anthropic's coding tool Claude Code are putting pressure on OpenAI . Anthropic hit $11.6 billion and posted a small operating profit .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-passes-openai-on-revenue-for-the-first-time/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-19T13:08:11.656891Z"
+    },
+    {
+      "id": "fc64c84ca42c1a2e6472c919ebf3d51d",
+      "title": "Fourier Feature Network for Solving Partial Differential Equations",
+      "description": "Fourier Feature Networks (FENs) are proposed, which incorporate Fourier features using $\\cos$ or a combination of both . FENs employ a single-hidden-layer architecture to generate a set of basis functions . The target function is then approximated as a linear combination of these basis functions, with the coefficients determined using the least squares method . Unlike ELMs, which often rely on affine transformations, these networks can achieve high-precision solutions without requiring such transformations on the input variables .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14733",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-19T13:07:56.578257Z"
+    },
+    {
+      "id": "d40b196d6979b6eda34079e51f9eb7b4",
+      "title": "The Quantum Shortcut: Complex Phase-State Dynamics Reduce",
+      "description": "Sequence models are conventionally distinguished by their backbone, the mechanism that routes information across positions, such as attention or recurrence . We study a complex-valued alternative drawn from the mathematics of quantum theory . At 253M parameters, trained under one fixed protocol on three byte-level corpora, the complex models reach every measured validation loss in approximately one third (state-space) and one half (attention) of the optimization steps of their real counterparts .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14691",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-19T13:07:45.171350Z"
+    },
+    {
+      "id": "3a9bc8010511131ae1e421ff816da53a",
+      "title": "A Reproducibility Study of Partial Residual Ablations",
+      "description": "This paper presents a reproducibility study of partial residual ablations in Pre-LN GPT-style transformers trained at two scales (10M and 124M parameters) Removing the attention residual (FFNOnly) consistently causes deterministic collapse to the No-Residual performance floor . In contrast, removing the feed-forward residual (AttnOnly) exhibits a reproducible recovery effect at 10M scale under a controlled 8-seed study . This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14689",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-19T13:07:34.286790Z"
+    },
+    {
+      "id": "477551ba4c34f0a05ecadf0cfb8b2dc6",
+      "title": "Mitigating Rubric Interference in LLM Judges via On-Policy",
+      "description": "LLM judges increasingly evaluate responses against fine-grained rubric checklists . Only one-third of samples receive fully consistent verdicts when evaluated under rubric sets of varying composition . Self-Anchored Rubric Alignment (SARA) uses a model's own single-rubric judgments as stable anchors . SARA consistently improves evaluation consistency while maintaining agreement with base models and GPT-4.1 as a reference judge . This",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14684",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-19T13:07:23.656741Z"
+    },
+    {
+      "id": "cb25754be0f857ffea731ab973856c2c",
+      "title": "One Score, Two Decisions: Selective Prediction",
+      "description": "Eight small open-weight LLMs achieve at most 4.6% Recall@1 on ultra-rare diseases . More accurate models pass the same check, showing that the limit is regime-specific . On phenotype-only Exomiser, it selects 10% of cases at 29.0% accuracy, compared with 13.3% overall, while the top score provides no reliable gate . We prove that unlabelled scores alone cannot determine whether switching to the margin will help .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14683",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-19T13:07:12.294835Z"
+    },
+    {
+      "id": "4e797abdaa4457d171d5624c6be00cf4",
+      "title": "Quantifying Depth Sufficiency in Residual Neural Networks",
+      "description": "ResNets, GPT-2-style models, and continued-pretrained Pythia checkpoints, the maximum activation-gradient norm decreases toward a low-signal regime with depth . We prove residual non-degeneracy is necessary and sufficient: additional depth has first-order value exactly when conditional activation gradients have nonzero projection onto at least one admissible residual tangent space . This boundary is shared by descent-compatible zero-state updates . This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14664",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-19T13:06:47.917172Z"
+    },
+    {
+      "id": "def4f02731c5b6d67db40bf82d222486",
+      "title": "In-Context Learning to Assess Built Environment Impacts",
+      "description": "As global populations age, enhancing neighborhood walkability through inclusive urban design is important for mitigating built environment (BE) barriers that discourage physical activity and social participation among older adults . This study investigates the utility of in-context learning (ICL) using the transformer-based foundation model TabPFN to determine how BE features influence perceived walkability, as measured by the Neighborhood Environment Walkability Scale (NEWS-A) survey .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14663",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-19T13:06:36.378536Z"
+    },
+    {
+      "id": "afe19e58539b29ae43c6980584207745",
+      "title": "An automatic-differentiation framework for time-lapse electrical resistivity tomography",
+      "description": "AD-TLERT is a unified, GPU-accelerated framework for time-lapse ERT inversion based on automatic differentiation . The framework integrates model parameterization, differentiable petrophysical transformations, forward modeling, data misfit, regularization and auxiliary constraints into a single computational chain . By propagating gradients through the embedded petrophysics relationship, AD-LERT enabled direct water-content inversion and yielded more accurate estimates . This summary highlights key",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14661",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-19T13:06:24.967413Z"
+    },
+    {
+      "id": "4e447f2b98aec985745c9588fd9f5d47",
+      "title": "Pushing the Limits of High-Resolution Weather Forecasting through",
+      "description": "BaguanHR is a framework that shifts the focus from transferring models to transferring data . It's performance on the synthetic-plus-real dataset exceeds both ML-based methods and IFS-HRES, achieving superior performance across over 85% of the lead times within 72 hours . Twofold increase in data reduces RMSE by 4.6% for 72-hour forecasting and 4.9% for 120-hour forecasts . This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14652",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-19T13:06:14.425209Z"
+    },
+    {
+      "id": "e7a805585321fd1aa925d26405d2d55f",
+      "title": "Discrete Diffusion Language Models are Training-Free Multi-Label Classifiers",
+      "description": "dLLM-SetScore is a training-free method that uses discrete masked-diffusion language models for multi-label text classification . The method uses no task-specific fine-tuning or training on textual-entailment datasets . We evaluate LLaDA-8B and Dream-7B on six datasets against NLI models, an autoregressive LLM, SetFit, and supervised classifiers . This summary highlights key aspects of the latest developments. Industry analysts suggest that",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14649",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-19T13:06:02.149808Z"
+    },
+    {
+      "id": "a9a83f033abaf3de5d0485b677a701f9",
+      "title": "BDIP-Net: Dual-Interaction Graph Learning for Property Prediction",
+      "description": "Stacked bilayer materials exhibit rich stacking-dependent properties driven by the interplay between strong intra-layer bonding and weak inter-layer van der Waals interactions . The computational discovery of such materials is challenging because accurate structure generation typically relies on expensive DFT-based optimization, while existing machine-learning models often fail to explicitly distinguish different interaction types during property prediction . For property prediction, we introduce BDIP-Net (Bilayer Dual-Interaction Potential Network), a graph neural network .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14640",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-19T13:05:39.514599Z"
+    },
+    {
+      "id": "7b8e3b3d15d58dc709ab096d76fde95b",
+      "title": "FlowBD-E1 is the first battery battery to have",
+      "description": "Iron-chromium redox flow batteries are attractive for this role because they use abundant and low-cost active species, yet their operation is shaped by slow chromium kinetics, hydrogen evolution, membrane crossover and electrolyte imbalance . FlowBD-E1 is an early-cycle generative forecasting framework that predicts complete future charge V/I trajectories from only the first few cycles . The model combines a multi-scale convolutional encoder, a lifecycle Transformer and an age-aware FiLM decoder .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14637",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-19T13:05:01.586240Z"
+    },
+    {
+      "id": "8e226692f7f348453e57a9edc2ad90c2",
+      "title": "Metaplasticity as adaptive gradient preconditioning for incremental learning",
+      "description": "SynGAP is a task-free continual learning framework based on adaptive gradient preconditioning . Rather than relying on explicit episodic triggers, it simulates real-time metaplasticity by maintaining an exponential moving average of the Fisher Information Matrix over a continuous data stream . Empirical evaluations demonstrate SynGap's superior ability to mitigate catastrophic forgetting compared to established baselines . On the Split CIFAR-100 benchmark, it delivers a $4\\times$ increase in accuracy compared to EWC++ .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.14634",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-19T13:04:37.587727Z"
+    },
+    {
+      "id": "fe46527ac03090032b9bde84fc077acd",
+      "title": "AI isn\u2019t close to curing cancer. This startup",
+      "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes Flash Sale and TechCrunch Mobile Logo . LatestStartupsVentureAppleSecurityAIAppsDisrupt 20 26 EventsPodcastsNewsletters . Latest AI isn't close to curing cancer, Vivodyne says the biotech industry has a data problem and has built a machine to fix it . HIVE can grow 20 kinds of human tissue autonomously, then monitor them and monitor them .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_0110-rotated.jpg?resize=900,1200",
+      "fullArticleLink": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-19T13:03:53.338911Z"
+    },
+    {
       "id": "2499b38f4a463284440b775ce9dba69e",
       "title": "OpenAI president urges enterprises to hasten AI security",
       "description": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences . Brockman has published an account of what the company calls the \u201cOpenAI-Hugging Face\u201d incident, using it to argue that organisations need to uplevel their security practices with what he terms unprecedented speed . He writes that he has urged organisations to hasten their adoption of AI security .",
