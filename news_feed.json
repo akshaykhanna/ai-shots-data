@@ -1,6 +1,202 @@
 {
   "news": [
     {
+      "id": "3e2bc4fcff8c70e276519f5d93c76f61",
+      "title": "Anthropic says any lab can now let",
+      "description": "Anthropic had its Claude models design small proteins on their own that dock onto target structures in the body, a key step in early drug development . The hit rate reached up to 35 percent, far above the industry average of 10 to 15 percent . Claude only steered existing specialized tools, and an independent review is still pending . Anthropic says any lab can now let a language model agent run the whole protein design stack .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Lab-Testing-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-20T01:52:51.983958Z"
+    },
+    {
+      "id": "670965255037098815a665c78bd8915e",
+      "title": "AI labs are failing to keep their own",
+      "description": "Guidelight looked at Anthropic, OpenAI, Google, xAI, Meta, and Meta . Anthropic and OpenAI lead with a C+. Google follows with a D+ and a detailed roadmap . xAI (D\u2212) and Meta (F) score the worst . The companies do best at spotting misbehavior, but do worst at prevention and containment . The group is an independent nonprofit founded by former OpenAI safety leads Page Hedley and Steven Adler .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/ai-security-evaluation-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/ai-labs-are-failing-to-keep-their-own-systems-in-check/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-20T01:52:37.768089Z"
+    },
+    {
+      "id": "7779c7ff418424b79b6077e46eecfa15",
+      "title": "GLM-5.3 tops the open-model rankings and undercuts rivals",
+      "description": "GLM-5.3, the AI model from Chinese startup Z.ai, scores 60 points on the Artificial Analysis Intelligence Index . That ties it with Kimi K3 for the top spot among open models, and it's seven points ahead of the previous model . The model undercuts rivals on price, but its release is delayed due to the release of its own software . GLM 5.3 will be released in September .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/zhipu-ai-logo-wall-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/glm-5-3-tops-the-open-model-rankings-and-undercuts-rivals-on-price-but-its-release-is-delayed/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-08-20T01:52:26.261870Z"
+    },
+    {
+      "id": "d0719eea0ea438ecb59828b23e8d7600",
+      "title": "China lets Nvidia's H200 chips trickle onto",
+      "description": "China is letting small batches of Nvidia's H200 chips onto the mainland to help domestic AI firms in the race with the US . ByteDance and Tencent each received around 10,000 processors . The H200 is at least two generations behind Nvidia's most powerful chips, which China can't buy because of US export controls . The US allows up to 100,000 H200s per company, but Beijing wants to support its own makers like Huawei .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2023/11/H200-Graphic.jpg",
+      "fullArticleLink": "https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-20T01:52:12.324476Z"
+    },
+    {
+      "id": "e81fac7edf7d517e23921a947c538701",
+      "title": "OpenAI fixes Codex bug that deleted real user",
+      "description": "Codex now verifies deletion targets first, and full-access mode can no longer be triggered by accident . GPT-5.6 Sol started deleting real user files on its own . A cleanup command meant for temporary folders was wiping home directories instead . The fix was made by OpenAI's OpenAI software, the company behind the software, and the company has now released a new version of the software to fix the bug .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_sol.png",
+      "fullArticleLink": "https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-20T01:52:01.095934Z"
+    },
+    {
+      "id": "ef0258fd9dc9a1a94e82992bb8b438da",
+      "title": "Abra: Scaling Diffusion Image Training . Abra",
+      "description": "Compute-optimal scaling laws guide the training of frontier language models yet remain largely unexplored for visual generation . We present a systematic scaling law study for text-to-image diffusion models using Abra, a controlled family of flow-matching transformers trained across three orders of magnitude worth of compute . We show that diffusion models are robust to overtraining and that practitioners should err on the side of more data rather than a larger model .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.17286",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-20T01:51:35.737487Z"
+    },
+    {
+      "id": "b8b6ee14835ae07f545c7acca786f6c8",
+      "title": "Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort",
+      "description": "Reinforcement learning (RL) has emerged as a powerful approach for improving reasoning in language and vision-language models . However, training solely on self-generated feedback can reinforce existing biases and suboptimal behaviors . Co-RL is a framework in which multiple decoupled models, sharing no parameters, are simultaneously optimized through RL using rewards derived from their peers . This diversity consistently improves reasoning performance, maintains behavioral diversity, and mitigates training collapse .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.17253",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-20T01:51:11.393956Z"
+    },
+    {
+      "id": "f34b1dff560e549883057a75d0d9e16d",
+      "title": "From Abductive Explanations to Global Logical Rules",
+      "description": "Graph Neural Networks have achieved remarkable performance in node classification tasks, motivating growing interest in methods capable of explaining their predictions . For each node, we compute a minimal set of node-feature pairs sufficient to preserve the predicted class . These explanations are then used to train decision trees from which global logical rules are extracted . Experiments on benchmark datasets show that the proposed framework produces compact global rules while maintaining high fidelity to the original SGC model .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.17103",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-20T01:49:40.872154Z"
+    },
+    {
+      "id": "d7ecf8464e7dae8698ef02c3ac376d50",
+      "title": "Benchmarking Classical and Transformer-Based models for Document Sensitivity",
+      "description": "A pervasive but underreported problem in this domain is label leakage: residual classification markers embedded within document bodies . This paper addresses this problem by introducing Strategic 16K, a carefully constructed, leakage-controlled corpus of 16,000 diplomatic cables . BERT achieves the strongest performance on the clean benchmark, followed by ELECTRA (Accuracy = 88.57%) TF-IDF with Logistic Regression achieves the best performance at significantly lower computational cost .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.16928",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-20T01:48:24.551998Z"
+    },
+    {
+      "id": "4eaced4fb34ed618030a1ff5a43e96cf",
+      "title": "Data-DPO: Direct Preference Optimization for Target Model Data",
+      "description": "Data-DPO is a target model-oriented SFT data selection method . It observes local training feedback of the target model on different samples through one-step probing . It transforms activation differences among samples into pairwise data preferences . In the final selection stage, it further combines target model preference, external quality scores, and marginal diversity to construct a more stable and effective training subset . Experimental results on Vision-Flan and LLaVA-CoT show that Data-Duo consistently outperforms existing data selection baselines under multiple data budgets .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.16926",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-20T01:48:00.384666Z"
+    },
+    {
+      "id": "5276b3d7b6156aa104e44db780290421",
+      "title": "Researchers say OpenAI revoked their access to limited",
+      "description": "Several researchers say OpenAI suddenly revoked their access to the Trusted Access CyberSecurityAIAppsDisrupt 2026 program that removes some restrictions on some security restrictions on its AI tools . The issue was caused by an error caused by OpenAI\u2019s official support forums and a special TAC program through which special access to a special program is a special . TAC is a program that allows users to use AI tools for cybersecurity research .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+      "fullArticleLink": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-20T01:46:34.567034Z"
+    },
+    {
+      "id": "8656b8f78d55f67d1be979255e660a15",
+      "title": "Google packs Search and Gemini with new",
+      "description": "Google announces a slew of new tools across Search and Gemini Search, including AI-powered simulations, a dedicated student study hub, and a dedicated AI-driven hub . The launch marks Google's latest effort to make Gemini the AI assistant that students can turn to when they are studying, studying, and studying, as it competes with companies like OpenAI startups . Get $100 off your Disrupt 2026 ticket!",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-20T01:46:16.819496Z"
+    },
+    {
+      "id": "88cde3112e540acb7b71b776e15ea39c",
+      "title": "AI was supposed to win people",
+      "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes a TechCrunch Desktop Logo, TechCrunch Mobile Logo and LatestStartupsVentureAppleSecurityAIAppsDisrupt 20 26 EventsPodcastsNewsletters . Latest startups vented Apple, Google, Facebook, Uber, Lyft, Spotify, Dropbox, Airbnb, Dropbox and Uber among the top tech startups in the U.S. TechCrunch Disrupt: 2026 . This summary highlights key aspects of the latest developments. Industry",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-20T01:45:59.390291Z"
+    },
+    {
+      "id": "6aba2536a5ec84cdb999fdc0c0e846c1",
+      "title": "Cognition CEO denies report that SpaceX tried",
+      "description": "Get $100 off your Disrupt 2026 ticket . LatestStartupsVentureAppleSecurityAIAppsDisrupt 20 26 EventsPodcastsNewsletters . Latest Cognition CEO denies report that SpaceX tried to acquire AI coding startup Cognition . Elon Musk\u2019s SpaceX is working on a $60 billion acquisition of Cursor, another AI-coding startup, Anthropic, whose deal closed last week . This summary highlights key aspects of the latest developments. Industry",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-20T01:45:42.301817Z"
+    },
+    {
+      "id": "d306eafa18af68ae57f60c3d33b7280f",
+      "title": "OpenAI seeks to one-up Anthropic with new customer",
+      "description": "Get $100 off your Disrupt 2026 ticket to attend Disrupt . Anthropic seeks to one-up-up with new OpenAI service to monitor customer privacy for misuse of AI models . As AI models have grown to be more powerful, the potential for those models to misuse has a clamor for safety guard . The company is an automated system that watches potential abuse while retaining none of the potential abuse of customer data .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-20T01:45:24.972835Z"
+    },
+    {
       "id": "20ec79ecd4ae84080231bc2a2585e0c3",
       "title": "Anthropic passes OpenAI on revenue for the first",
       "description": "Anthropic has passed OpenAI on revenue for the first time in the AI race . OpenAI told investors it grew 18 percent from the first to the second quarter, while Anthropic doubled its revenue over the same stretch . Slower growth at ChatGPT and success of Anthropic's coding tool Claude Code are putting pressure on OpenAI . Anthropic hit $11.6 billion and posted a small operating profit .",
