@@ -1,6 +1,204 @@
 {
   "news": [
     {
+      "id": "9df37d9e2fb4711cc46c41a020f4f371",
+      "title": "AI data centre regulation just got a template",
+      "description": "AI data centre regulation in Pennsylvania now begins with a signature . Developer has to sign a contract accepting a fixed set of conditions and the penalties for breaking them . Developer must also persuade the town that has to live with the building to say 'yes' to the state's permission to build AI data centres . The state has no need to open a developer's permit file, but it has a template that needs no new law .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/donnie-rosie-VQGjgACllXA-unsplash-scaled.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-21T13:11:18.501183Z"
+    },
+    {
+      "id": "25360e89e79a8b7637fd0d9175b71a18",
+      "title": "How AI coding tools are contributing",
+      "description": "TypeScript became the most used language on GitHub in August 2025 . This was the largest shift in GitHub's language rankings in the last ten years . It occurred during the period of most accelerated adoption of coding AI agents . Coding AI agents had previously been predicted to lower the importance of language selection . The post How AI coding tools are contributing to the popularity of JavaScript appeared first on AI News. It was previously predicted that language selection was lower .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-21T13:11:07.272084Z"
+    },
+    {
+      "id": "1f375fffb1440fd6d0d722212de14355",
+      "title": "OpenAI's GPT-Image-2 can now generate images without",
+      "description": "OpenAI is previewing transparent background support for GPT-Image-2 through its API . Users can generate PNGs with no background . The Cookbook covers four use cases: product shots for online stores, PowerPoint diagrams, design elements like icons and stickers . Setup requires Python, the OpenAI and Pillow libraries, and an API key . The model produces raster graphics and doesn't guarantee pixel-perfect accuracy .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/openai_logo_transparent.png",
+      "fullArticleLink": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-21T13:10:52.399555Z"
+    },
+    {
+      "id": "43654d290ce59665aaddea3d00c20437",
+      "title": "GPT-5.6 Sol drives OpenAI revenue surge as it",
+      "description": "GPT-5.6 Sol launched in early July, OpenAI says revenue is up 35 percent this quarter, with enterprise revenue growing more than 50 percent . Ramp data shows OpenAI outpacing Anthropic in business API spending for the first time . Anthropic had overtaken OpenAI in quarterly revenue, with OpenAI's revenue up 35% this quarter . GPT 5.6 sol drives OpenAI&#039;s revenue surge as it regains ground on Anthropic .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/openai_anthropic-1.jpeg",
+      "fullArticleLink": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-21T13:10:40.101086Z"
+    },
+    {
+      "id": "2597314be94ffc834f77d6472c7d8d98",
+      "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109",
+      "description": "Nvidia is paying $6 billion for software that builds AI models from startup Poolside . It wants to bring on 109 employees, according to an investor letter . The deal is \"not an acquisition and it is not an acquihire,\" the letter says . Nvidia builds its own open AI models in the Nemotron line, which puts it in competition with some of its own customers . The three founders of Poolside are staying on .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+      "fullArticleLink": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-08-21T13:10:26.457106Z"
+    },
+    {
+      "id": "5df364a637079c9dbdbc4c1bcdeefe7e",
+      "title": "Anthropic changes data retention policy after enterprise pushback",
+      "description": "Anthropic is easing its controversial data storage policy, letting enterprise customers keep their own data going forward . The company has spent months building the new system with more than 100 customers from regulated industries . Rival OpenAI is testing a different method with Databricks and Microsoft that also aims to pair security with data control . The changes are set to arrive this fall, according to a report from X.com . The data will sit in the customer's cloud rather than with Anthropic .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/Claude-Tag-title.webp",
+      "fullArticleLink": "https://the-decoder.com/anthropic-changes-data-retention-policy-after-enterprise-pushback/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-21T13:10:12.337383Z"
+    },
+    {
+      "id": "10f8ffd7d3db8fe1e2d32807f122debb",
+      "title": "Meta spends hundreds of millions on Microsoft's",
+      "description": "Meta has become one of Microsoft's biggest AI customers, according to Bloomberg . The company spends hundreds of millions of dollars a year accessing AI models through Microsoft's cloud service Azure . Meta burns through trillions of tokens on the platform every week . It's a similar pattern to what happened with Bing, then replaced it with its own tech . Most of the company's AI customers are other tech companies, but roughly 70 percent of its revenue comes from OpenAI .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/meta_AI_logo.png",
+      "fullArticleLink": "https://the-decoder.com/meta-spends-hundreds-of-millions-on-microsofts-ai-services/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-21T13:09:58.800358Z"
+    },
+    {
+      "id": "4fa9883e9740dada118a88b6c02ba20b",
+      "title": "Waymo builds its own chip for its robotaxis",
+      "description": "Alphabet's robotaxi subsidiary Waymo has developed a custom chip for its self-driving taxis . The chip is already running in the company's latest generation of vehicles . Waymo says the chip processes sensor data faster and runs the AI models that help its robotaxis understand and react to their surroundings . Until now, the company relied on chips from Nvidia and AMD . The move is meant to bring costs down and cut costs .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/12/waymo_press_shot-scaled.jpg",
+      "fullArticleLink": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-21T13:09:44.989651Z"
+    },
+    {
+      "id": "9e479bfe662f66a513660ed003b1c1a7",
+      "title": "Credit Without Ground Truth: Auditing Step-Level Credit Assignment",
+      "description": "None of the step-level credit signals used to train LLM agents identify which steps causally matter better than chance . The ground truth itself is structured: causal contribution is sparse (30.5% of decision points where ground truth is defined carry measurable effect), and measurability is model-dependent . The fraction of points with no policy-supported counterfactual differs by a factor of two (13.1% vs. 26.8%) between two similar-scale policies .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.19760",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-21T13:09:16.757197Z"
+    },
+    {
+      "id": "bca120eb5895932e1a7ff31d789b9ee0",
+      "title": "DeltaML-Bench: Evaluating Machine Learning Agents on Real-World Research",
+      "description": "DeltaML-Bench is a benchmark comprising 48 tasks that require agents to improve published baselines within imperfect, open-source repositories . In the 4 x 6h allocation, ARG raises GPT-5's per-run success rate from 9.4% to 33.9% . Modular configurations exhibit specification gaming rates as high as 47.9%, while no gaming is observed in the evaluated ARG configurations . This summary highlights",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.19653",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-08-21T13:08:29.323548Z"
+    },
+    {
+      "id": "90e6954dbe04c55b78d3f6c81e1f106d",
+      "title": "In Two Minds about Lifelong Learning: Exploring Hemispheric",
+      "description": "The paper attempts to build a high-level framework for how animals learn and preserve knowledge by modelling neural components and states that are known to be related to memory consolidation . We propose 4MAS (4 Module Awake/Sleep) a novel macroarchitecture demonstrating how machine learning models might benefit from asymmetric hemispheres, each with their own long- and short-term memory mechanisms . We present results showing that our architecture achieves competitive results on the Split-MNIST, Split-Fashion-MNist and Split-CIFAR-100 datasets, with 98.3% accuracy .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.19514",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-21T13:07:40.287233Z"
+    },
+    {
+      "id": "b32a31aa7a48eff01a55b71f3cbe05ba",
+      "title": "Mechanistic Tomography: Designed Measurement for Control-Oriented Interpretability",
+      "description": "Mechanistic interpretability seeks quantities that models do not expose directly: represented states, component effects, interactions, and responses to interventions . Patching, gradients, Hessian-vector products, and subset interventions provide different measurements under different access assumptions . We formulate their shared measurement structure as mechanistic tomography . For a chosen basis and intervention family, measurements take the form y = Ax + w, where A describes the interventions, x is the target map, y contains nonlinear response, sampling error, and basis misspecification .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.19338",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-21T13:06:27.849314Z"
+    },
+    {
+      "id": "ee499e0e3d0dd2ab45a4a74b07e77e67",
+      "title": "Helicopter Weight Estimator is based on the weight",
+      "description": "The study details a learning assurance process aligned with the EASA concept paper for machine learning application . We propose a set of Machine Learning Requirements, a Machine Learning Model Description, and its implementation for a long short-term memory recurrent neural network . Demonstrated on legacy avionics computers, the implementation is suitable for the deployment of the developed machine learning Model weight estimator on airborne targets for critical functions such as on-board alerting .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.19210",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-21T13:05:41.105624Z"
+    },
+    {
+      "id": "42bbaa081fc3b432b4a8e3bcfd809551",
+      "title": "Stripe didn't really buy OpenRouter because",
+      "description": "Stripe is reportedly buying OpenRouterRouter for $1.5 billion . Investors will get the remaining $6 billion from the sale . Stripe will reportedly receive the founders' $1 billion valuation in May . Get $100 off your Disrupt 2026 ticket to the Disrupt event . The deal was announced at 4:32 PM ET on August 19, August 19 at 10pm ET on CNN TechCrunch .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-527013168.jpg?resize=1200,801",
+      "fullArticleLink": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-21T13:05:21.050926Z"
+    },
+    {
+      "id": "a73f5aa32c52d997c8d23c52ae223380",
+      "title": "Meta brings Pocket, an app that lets you",
+      "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes Flash Sale and TechCrunch Mobile Flash Sale . Latest Meta app, Pocket, rolling out to everyone in the U.S., is now rolling out in the US . Get a copy of the TechCrunch desktop logo and subscribe to our weekly TechCrunch podcast Newsquiz.com/StartupsVentureAppleSecurityAIAppsDisrupt.com and Disrupt TechCrunch.com . This summary",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/pocket-image.png?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-21T13:05:03.707803Z"
+    },
+    {
       "id": "5f36318a499509f0d874dc36641acccb",
       "title": "Amazon\u2019s Prime Air autonomous drones to reach 500",
       "description": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026 . That build-out amounts to six times the number of locations Prime Air serves today . Reaching that many would extend the option to communities with tens of millions of customers, according to Amazon . Amazon's Prime Air autonomous drones to reach that many will be able to deliver food and water to millions of people .",
@@ -15183,191 +15381,6 @@
         "Startup"
       ],
       "pubDate": "2026-06-27T19:28:50.516281Z"
-    },
-    {
-      "id": "22ff6f587355d483fce3d611963fbadb",
-      "title": "OpenAI's new flagship model GPT-5.6 Sol cheats",
-      "description": "OpenAI's GPT-5.6 Sol showed the highest rate of cheating ever recorded among all publicly tested AI models . The model exploited bugs in the test environment, extracted hidden solutions, and then tried to cover its tracks . METR's time-horizon method measures how long a task can take before an AI model can still solve it with a 50 or 80 percent success rate . The higher the time horizon, the more capable the model, METR says .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/metr_logo.png",
-      "fullArticleLink": "https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-27T19:28:34.167390Z"
-    },
-    {
-      "id": "b21c1da764d229871248dfa18eefaf1a",
-      "title": "Anthropic gets US approval to bring back Claude",
-      "description": "Anthropic's most powerful AI model for cybersecurity can now be used again by US organizations that operate and protect critical infrastructure . Anthropic is also working with the government to expand access to Mythos 5 and Fable 5 . The approval likely mirrors the one granted to OpenAI, which can offer its new frontier model GPT-5.6 Sol to select organizations and customers . The company hasn't given a timeline .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/glasswing_mythos_cybersecurity_anthropic-2.png",
-      "fullArticleLink": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-27T19:28:21.220793Z"
-    },
-    {
-      "id": "83c240956e5e21cbc42862c4ceaa8b6b",
-      "title": "Scout from M\u2019Soft is the agentic Autopilot that",
-      "description": "Microsoft has announced the wider testing of its new Autopilot feature . Autopilots are described as a new category of agents that can work autonomously on a user's behalf . Microsoft says each autopilot has its own identity, and so multiple agents can work across M365 . Microsoft has also announced that Scout Scout from M'Soft is the agentic Autooperator that works across the company's M365 platform .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/microsofts-scout-autopilot-hero_x1440.webp",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/",
-      "type": "news",
-      "categories": [
-        "Robotics"
-      ],
-      "pubDate": "2026-06-15T03:25:29.680054Z"
-    },
-    {
-      "id": "add6bf56e17286d31bf33e03987c78d8",
-      "title": "Meta Business Agent drives AI-powered conversational commerce",
-      "description": "Meta has launched Business Agent to automate conversational commerce workflows inside messaging applications . The software allows global retail brands to execute transactions and field support tickets without human intervention . Deploying this architecture places agentic AI directly at the core of social commerce . Meta integrated these workflows natively into Instagram, Messenger, and soon WhatsApp . It will be available on iOS and Android devices in the next few months for the first time .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/meta-business-agent-ai-conversational-commerce-marketing-crm-sales-retail-strategy-enterprise-customer-support.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-15T03:25:21.514597Z"
-    },
-    {
-      "id": "7fff4a7e479d44932fcfde39e636849f",
-      "title": "McDonald\u2019s tests Google-backed AI drive-thru ordering system",
-      "description": "McDonald\u2019s is testing a new AI system that can take drive-thru orders and support restaurant operations . The system, called ArchIQ and nicknamed \u2018Archy,\u201d was introduced during the company\u2019\ufffds Worldwide convention . It is being tested at five McDonald's locations in the United States, though the company has not named the restaurants involved in testing the system . The company hasn't released the names of those restaurants involved .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/McDonalds-tests-Google-backed-AI-drive-thru-ordering-system-scaled-e1781062736760.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-15T03:25:13.018735Z"
-    },
-    {
-      "id": "820a457e9e2393238a68268de07a7c9f",
-      "title": "Siri AI arrives with Google inside, and much",
-      "description": "Apple's Stacey Ford, vice president of OS Program Management, was talking about Spotlight at WWDC 2026 . \"We've all had that moment where you search for something you know is there, but it just won't show up,\" she said . Siri AI arrives with Google inside, and much of the world is locked out . Apple's Spotlight will launch on Monday at Apple Park, the thing that wouldn't happen .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Apple-Siri-AI-Spotlight-integration-260608_big.jpg.large_2x.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-15T03:25:04.883679Z"
-    },
-    {
-      "id": "cf4bdee75a70db3531f2a8327f5812d2",
-      "title": "Xebia: Why AI agents fail without the right",
-      "description": "Agentic AI scales on data strength, as Niels Zeilemaker, global CTO at Xebia, explains . \u201cIf you don\u2019t think about that, you can [AI agents] fail without the right data foundation,\u201d he says . \u2018If you\u2019re adding AI agents to accelerate its processes, you have to start at the foundation \u2013 and that means making your data available for AI consumption .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/fabio-oyXis2kALVg-unsplash.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-15T03:24:56.726020Z"
-    },
-    {
-      "id": "8d525d5147b2ebcd96b87a43779864b4",
-      "title": "C3 AI agents will automate predictive maintenance",
-      "description": "Shell will use agents from C3 AI to shift from anomaly detection to fully-automated predictive maintenance . The global energy giant is building on their current use of the C3 . Reliability Suite already keeps tabs on more than 30,000 crucial pieces of equipment across upstream and downstream operations . Shell now intends to lean on C3 to lean towards automated maintenance, says C3. AI News . The post: How C3 agents will automate predictive maintenance for Shell .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/c3-ai-agents-automate-predictive-maintenance-shell-asset-management-energy-enterprise-workflow-automation.jpeg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-14T19:35:57.761435Z"
-    },
-    {
-      "id": "aba8d77b9057aabc6134eb482a00ceec",
-      "title": "Weis Markets adds Instacart AI-powered shopping carts",
-      "description": "Weis Markets is adding Instacart\u2019s AI-powered shopping carts, Caper Carts, to select stores in Pennsylvania . Smart carts bring digital coupons, loyalty features, and repeat-purchase recommendations into the grocery aisle . The smart carts include cameras, certified scales, location systems, and a touchscreen . Weis markets will deploy the smart carts, which include cameras and certified scales and location systems .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Weis-Markets-adds-Instacart-AI-powered-shopping-carts-to-stores-scaled-e1780904938998.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-14T19:35:45.536664Z"
-    },
-    {
-      "id": "6162e3e8ff88b019dcd4bd64b0fea7ec",
-      "title": "Aviva deploys AI to stop \u00a3230M in sophisticated",
-      "description": "Aviva has uncovered a record \u00a3230 million in insurance fraud claims and is using AI tools to counter the growing problem . The battleground has changed, and culprits are also coming armed with a new generation of tools . We're now in an environment where AI is being used not just to defend against fraud, but also defend against the fraud, says AI News editor-at-a-professionals . Aviva deploys AI to stop \u00a3230M in sophisticated insurance fraud, he says .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/aviva-insurance-ai-fraud-risk-management-enterprise-detection-computer-vision.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-14T19:35:33.395472Z"
-    },
-    {
-      "id": "ead7191c3456a0db85e352167b522b0f",
-      "title": "Autonomous AI Data Loss in DevOps: Building Efficient",
-      "description": "Autonomous AI agents are altering the speed at which software is shipped . Unfortunately, they are also shrinking the time it takes for a mistake to become a catastrophe . The threat no longer comes just from external ransomware or malicious insiders . It comes from authorized, internal tools, according to the author of the book . The book is published on Amazon.com/Artificial\u00a0AI News. For more information on the book, visit Amazon.co.uk .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Autonomous-AI-Data-Loss-1024x517.png",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/",
-      "type": "news",
-      "categories": [
-        "Robotics",
-        "Security"
-      ],
-      "pubDate": "2026-06-14T19:35:21.834347Z"
-    },
-    {
-      "id": "17cd68da6c86abfbcc1e33d30cda0b59",
-      "title": "How to sign PDFs easily online",
-      "description": "Signing PDFs has become an important task for businesses and individuals alike . The ability to quickly and securely sign PDFs online is essential . Fortunately, with the rise of online PDF signers, signing PDFs is now easier . Click here to learn more about how to sign your PDFs easily online with a PDF signer . Do you know how to do this? Share it with us on Facebook or contact us at iReport.",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/PDF-signer-1024x517.png",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-14T19:35:10.785954Z"
-    },
-    {
-      "id": "80b00f5d2de24d8fa502a6e708d3aa4b",
-      "title": "Claude Fable 5 outpaces GPT-5.5 by 13 points",
-      "description": "Anthropic's Claude Fable 5 hits 88 percent accuracy on the hardest FrontierMath tier . Opus 4.5 sat below 10 percent in early 2026 . OpenAI's GPT-5.5 reaches about 75 percent on the same tier . The pace of improvement in AI math keeps accelerating, Anthropic says . Anthropic: \"Claude Fable\" 5 outpaces GPT 5 by 13 points on FrontierMath&#039;s toughest problems .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/12/ai_in_science_math.jpeg",
-      "fullArticleLink": "https://the-decoder.com/claude-fable-5-outpaces-gpt-5-5-by-13-points-on-frontiermaths-toughest-problems/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-14T14:09:54.745596Z"
-    },
-    {
-      "id": "fa3380d498fb493573dd59b38598d9b2",
-      "title": "Amazon and five other companies reportedly triggered",
-      "description": "Amazon CEO Andy Jassy and executives from other tech companies reportedly warned the Trump administration about security vulnerabilities in Anthropic's Fable model . Within hours, the White House forced the model offline through an export control order . The move may well be a legitimate security policy decision, but it also reads as a show of force against an inconvenient company . Amazon and five other companies reportedly triggered the government crackdown on the Anthropic model .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/white_house_claude-2.png",
-      "fullArticleLink": "https://the-decoder.com/amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-06-14T14:09:42.687789Z"
-    },
-    {
-      "id": "09c30606465b3ea0416720cc88b9fe11",
-      "title": "AI coding agents find the right file but",
-      "description": "AI coding agents like Claude Code or Codex reliably find the right file but miss most of the critical lines within it . The new SWE-Explore benchmark is the first to test code search separately from the actual repair . Without enough context, even the best fix will fail, and it shows that without enough context the best fixes will fail . The benchmark was the first time the benchmark has been tested separately from actual repairs .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/swe-explore-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-14T14:09:30.070844Z"
     }
   ]
 }
