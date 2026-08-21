@@ -1,6 +1,209 @@
 {
   "news": [
     {
+      "id": "5f36318a499509f0d874dc36641acccb",
+      "title": "Amazon\u2019s Prime Air autonomous drones to reach 500",
+      "description": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026 . That build-out amounts to six times the number of locations Prime Air serves today . Reaching that many would extend the option to communities with tens of millions of customers, according to Amazon . Amazon's Prime Air autonomous drones to reach that many will be able to deliver food and water to millions of people .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/amazon-prime-air-drone-delivery-us-cities-expansion-autonomous-physical-edge-ai-logistics.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-08-21T01:57:20.651292Z"
+    },
+    {
+      "id": "ecb59f9048f1a8c5a2cedf65b57c1c74",
+      "title": "Frontier Radar #4: China has caught up, so",
+      "description": "Kimi K3 and GLM-5.3 are now within striking distance of the best US models . Western labs blame distillation, and there's real evidence for it . But guilty or not, the conclusion is the same: a model lead can't be defended . This issue looks at what can be left of the Western AI lead? Read the full issue of Frontier Radar #4: China has caught up, so what's left?",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/AI-Frontier-4-China-1200x662.png",
+      "fullArticleLink": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-21T01:56:56.855186Z"
+    },
+    {
+      "id": "e6b20702962a9fed0f71b4e7811180ef",
+      "title": "LLMs could write like humans but post-training guardrails",
+      "description": "LLMs could theoretically write as diversely as humans, but they don't . Post-training and safety guardrails keep their text detectable, argues Bradley Emi, CTO of AI text detector Pangram . System like ChatGPT, Claude, or Gemini learn behavioral rules to avoid dangerous outputs or censor certain political statements . This sharply narrows their expressive range, an effect called \"mode collapse\" This only applies to non-watermarked AI text .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/pangram_logo.png",
+      "fullArticleLink": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-21T01:56:43.342862Z"
+    },
+    {
+      "id": "4e0d0521bb830ad4a728b3b152a2ec5d",
+      "title": "Adobe Firefly adds AI audio tools and Google's",
+      "description": "Adobe is making three AI audio tools broadly available in its Firefly platform . Generate Music creates royalty-free music tracks for videos, Generate Speech turns scripts into voiceovers and Generate Sound Effects produces audio for individual scenes . Firefly AI Assistant now includes free daily generations, and Adobe says \"Create Storyboard\" and \"Create Brand Kit\" are among the most-used features . Adobe also added Gemini Omni Flash to Firefly, joining existing third-party models from Google, Kling AI, Luma AI, and Runway .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/adobe_logo-1.png",
+      "fullArticleLink": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-21T01:56:29.418253Z"
+    },
+    {
+      "id": "5e86b723ff64bcfe73052eb025e81c97",
+      "title": "Debates over AI consciousness are a trap, say",
+      "description": "If AI systems are viewed as too advanced to control, the companies that build them can\u2019t be held liable for the harms they cause . This narrative is gaining traction as AI models become more complex and frontier labs reveal their incapability of containing the agents they\u2019ve built . The current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators . We need to be careful not to buy into a carefully crafted fiction at the expense of real human lives .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-21T01:56:09.523306Z"
+    },
+    {
+      "id": "e9cb497608b1aa5e96b1753e3d9bb7d7",
+      "title": "LLM-Powered Predictive Decision-Making for Sustainable Data Center Operations",
+      "description": "The growing demand for AI-driven workloads has raised concerns about the significant energy and resource consumption in data centers . This work introduces a novel LLM-based predictive scheduling system designed to enhance operational efficiency while reducing the environmental impact of data centers. The system has the potential to extend to other sustainability-focused metrics like water usage for cooling and carbon emissions, provided the data center can track such data . With fast inference times and the ability to generalize across diverse task types, our approach offers a practical solution for data center scheduling .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.18503",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-08-21T01:55:33.879305Z"
+    },
+    {
+      "id": "f07772229a27206cc6c890c7055c898a",
+      "title": "EaRly bAckpropagagation SchEdule for Faster Training",
+      "description": "Lightweight proxy models enable rapid experimentation without repeatedly training frontier-scale systems, but their small kernels often leave modern accelerators underutilized . ERASE launches each detached subgraph's backward pass early on a separate CUDA stream, overlapping it with subsequent forward work . Detaching six dense subarchitectures improves training throughput by up to $9.51\\%$ while keeping normalized entropy close to the baseline .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.18469",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-21T01:55:00.763547Z"
+    },
+    {
+      "id": "5239d5b2357f2eb9108f49aa592e5b26",
+      "title": "Mechanistic Interpretability of Structure-Aware Numerical Reasoning in LLa",
+      "description": "Mechanistic interpretability is an emerging field concerned with reverse engineering of algorithms learned by neural networks such as LLMs . Probing reveals that the model computes and stores first differences in its internal representations without explicit supervision . Activation patching reveals that Llama retrieves the relevant first-difference with a mechanism similar to an induction circuit and subsequently adds it to the current value . This is one of the first studies to identify this form of concept induction in LLMs.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.18419",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-21T01:54:38.075897Z"
+    },
+    {
+      "id": "f70d4500474d5609cabd69ebb9e6cfdd",
+      "title": "ClosureBench: A Constructive Benchmark for Compositional Graph Reasoning",
+      "description": "ClosureBench generates instances on demand for each task . Each task's reference answer is computed by executing a program in the Ein tensor-logic language . The benchmark spans 26 task categories at three compositional levels (L1-L3) with difficulty controlled along three independent axes: graph size, edge density, and query depth . We evaluate models from 1.5B open weights to frontier systems .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.18242",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-21T01:53:42.417058Z"
+    },
+    {
+      "id": "d864eb02158b66136def078a3fd013b2",
+      "title": "H$^2$EDL: Hyper Evidential Deep Learning for Hierarchical",
+      "description": "Fine-grained recognition often involves hierarchical label spaces, where a model may be confident about a coarse semantic concept while remaining uncertain among its descendant classes . Hyper-opinions would unify the two, but their general form is exponential in the label count . The resulting model, H$^2$EDL, can be interpreted in two complementary ways using the same set of parameters . It functions as a hierarchical classifier that preserves consistency across different levels of the label tree . It reduces calibration error by approximately half compared with cross-entropy baselines .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.18185",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-21T01:52:43.641824Z"
+    },
+    {
+      "id": "28cd1afbb67e577e7314b1f44dc3c68f",
+      "title": "Ramp launches its own AI model router, called",
+      "description": "Ramp on the heels of Stripe in setting up toll houses in toll houses for AI inference . Ramp on Wednesday evening launched its own AI routing service, dubbed AI router . The company says it has been using the API for the past three years . The service is only available in the United States for free to use for the remainder of the 2026 (users will still have to pay for the $26 credit model).",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1434828961.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-21T01:51:26.124794Z"
+    },
+    {
+      "id": "072ab33f0182f13783841e8a0a9dd0d6",
+      "title": "A third of web pages published since ChatGPT\u2019s",
+      "description": "A third of web pages since ChatGhip's launch show signs of being written by AI, study finds . Over one-third of . web pages published by AI show signs that bot web traffic has overtaken human traffic, Pew Research finds . The report corroborates other studies that detail how much of the web's newer web . pages are either written by . AI or \"substantially edited\" by . or written by or edited by AI . Get $100 off your Disrupt 2026 ticket .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-21T01:51:07.521569Z"
+    },
+    {
+      "id": "501a92a0a8133cd83490f806b7c4a230",
+      "title": "Linkdaze\u2019s smart calendar is built to run",
+      "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes a flash sale of the TechCrunch desktop and mobile app . TechCrunch Disrupt is set to launch on August 20, 2026 . The app is built to run a household calendar rather than a single person's calendar . It can sync up with iCloud, Yahoo Outlook, Yahoo Cozi, Yahoo, Yahoo and Cozi apps and is compatible with other services .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-21T01:50:50.770996Z"
+    },
+    {
+      "id": "b359671ae1bfb83e76de8879cc3f3447",
+      "title": "Google gives publishers a new way to fight",
+      "description": "Google gives publishers a new way to fight traffic losses from those publishers to kill traffic . It's now allowing readers to push a button on a publisher's website to indicate a \"favorite source\" They'd like to see more often highlighted across Google News, Discover, Discover Search, Discover and more often . The launch follows the rollout of Preferred Sources in Google's AI Mode in May to include AI experiences including AI experiences .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/01-ps-button-Family_resized.width-2000.format-webp.webp?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-21T01:50:33.956437Z"
+    },
+    {
+      "id": "08dddb48c1bd24f550f9585c76171adb",
+      "title": "OpenAI is gaining on Anthropic with business users",
+      "description": "Anthropic is gaining on Anthropic with new data: OpenAI has started gaining on U.S. OpenAI's 39% share to ChatGPT's 39%. Anthropic hit 41% market share in May . Anthropic's new data indicates both OpenAI and Anthropic get close enough to their IPOs to release their financials . Anthropics is gaining 3% with 3% of OpenAI users . This summary highlights",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-21T01:50:16.162680Z"
+    },
+    {
       "id": "04f620df792409216a63f6bce177e5ba",
       "title": "HoneyBook bets on agentic AI to streamline small",
       "description": "HoneyBook MCP was recently released as a connector for Anthropic's AI assistant Claude . The move addresses a real gap. McKinsey's recent State of AI survey found that small businesses need to streamline their operations with agentic AI agents . HoneyBook is trying to bring that same capability to independent businesses with the launch of HoneyBook's MCP . The company says it is looking to stream streamline small business operations with its new connector .",
@@ -15165,202 +15368,6 @@
         "LLM"
       ],
       "pubDate": "2026-06-14T14:09:30.070844Z"
-    },
-    {
-      "id": "e1a91a5b4e33da290a94181738f2126d",
-      "title": "KPMG fabricated AI case studies in a report",
-      "description": "KPMG published a report on AI in business that contained fabricated case studies involving UBS, the NHS, and other organizations . GPTZero CEO Edward Tian, who helped uncover the errors, warns of \"secondary hallucinations,\" flawed claims from trusted consulting firms that spread unchecked . The report was designed to sell clients on AI adoption, but has since pulled the report out of circulation . KPMg has since withdrawn the report .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/kpmg_logo.png",
-      "fullArticleLink": "https://the-decoder.com/kpmg-fabricated-ai-case-studies-in-a-report-designed-to-sell-clients-on-ai-adoption/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-14T14:09:18.343134Z"
-    },
-    {
-      "id": "16d9a282b61fa365edcb188fb0732a50",
-      "title": "Google Cloud's Open Knowledge Format turns scattered docs",
-      "description": "Google Cloud's new Open Knowledge Format standardizes scattered organizational knowledge as Markdown files with YAML frontmatter . The minimalist spec formalizes a pattern Andrej Karpathy recently popularized as the \"LLM Wiki\" Google Cloud will use the format to make it portable and usable for AI agents . The new format formalizes the pattern, which has been popularized by Andrej\u00a0Karpathy\u00a0recently .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
-      "fullArticleLink": "https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-14T14:09:06.174399Z"
-    },
-    {
-      "id": "2149290c64f5550b3e223a6ef57e986f",
-      "title": "KPMG pulls report on AI usage due",
-      "description": "Professional services firm KPMG pulls report on AI usage due to apparent hallucinations . GPTZero identified a number of inaccuracies in the report, which was published in October 2025 . UBS, the UK's National Health Service, Swiss Federal Railways, and Transport for London all told the FT the report\u2019s claims about their AI usage were either untrue or misleading . EY withdrew a report on loyalty rewards programs that appeared to include fake footnotes and AI hallucinations .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2276519058.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-13T20:42:31+00:00"
-    },
-    {
-      "id": "0308281aa0fca48522ed64aae729d11b",
-      "title": "Amazon CEO reportedly raised Anthropic model concerns before",
-      "description": "Amazon CEO Andy Jassy reportedly raised concerns about Anthropic's Claude Fable 5 and Mythos 5 models . Anthropic cut off worldwide access to two models on Friday . The government subsequently imposed an export control ban on the models . The Wall Street Journal reports that Jassy told Treasury Secretary Scott Bessent and other government officials that Amazon researchers used the model to obtain information that could be used in cyberattacks . An Amazon spokesperson told the WSJ that the company does not \u201cshare the details of those discussions\u201d",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1348139958.jpg?resize=1200,767",
-      "fullArticleLink": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-13T19:11:41+00:00"
-    },
-    {
-      "id": "650b446f025938a6fa78abd49d41b886",
-      "title": "New AI model called \"Count Anything\" does exactly",
-      "description": "\"Count Anything\" is intended to be the first AI model capable of counting objects in any type of image, from crowds to cell samples under a microscope . In a comparative test, it cuts the error rate in half compared to previous systems . However, the approach still struggles with extremely dense objects and ambiguous terms . The new AI model still struggles to count objects in very dense images and ambiguous words like \"count anything\"",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/count-anything-generated-image-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/new-ai-model-called-count-anything-does-exactly-what-it-says-and-thats-harder-than-it-sounds/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-13T17:00:19+00:00"
-    },
-    {
-      "id": "748265de56e10a9f7fbc5dc812f0083d",
-      "title": "OpenAI faces investigation from state attorneys general",
-      "description": "A coalition of state attorneys general has reportedly opened an investigation into OpenAI . The company was served with a subpoena from New York\u2019s attorney general on Friday . The subpoena sought documents related to a broad range of topics including advertising, user engagement and retention, model sycophancy, handling of consumer data and health data, and treatment of minors and seniors . A spokesperson told the WSJ that OpenAI is cooperating with the investigation .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "fullArticleLink": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-13T16:47:18+00:00"
-    },
-    {
-      "id": "31416d9b79ca6fa0b8b0d555b98e871b",
-      "title": "Microsoft CEO Satya Nadella admits he's a token-maxer",
-      "description": "Microsoft CEO Satya Nadella is warning against \"token-maxing,\" throwing the most powerful AI models at every problem . Frontier models shouldn't be wasted on everyday tasks, he says . The marginal cost of productivity gains has to match the token cost . Still, he admits, \"I'm like a token-maxer too. So it is addictive.\" Nadell admits he&#039;s a token maxer, too: &quot; It &#038;s addictive.\"",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/microsoft_logo.png",
-      "fullArticleLink": "https://the-decoder.com/microsoft-ceo-satya-nadella-admits-hes-a-token-maxer-too-its-addictive/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-13T13:03:49+00:00"
-    },
-    {
-      "id": "e7e4e218f10ebb91f73139037977a49b",
-      "title": "Google Research's Gemini-SQL2 tops text-to-SQL benchmarks",
-      "description": "Google Research's Gemini-SQL2 turns natural language into executable queries . Built on Gemini 3.1 Pro, it tops the BIRD benchmark at 80.04 percent accuracy . Google says the technology could improve natural language features across its data services . Google Research: Technology could be used to improve data-driven services across the world . Back to Mail Online home . Back To the page you came from: http://www.mailonline.co.uk/newsquiz.com/storystory .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/02/google_gemini_logo_wall.png",
-      "fullArticleLink": "https://the-decoder.com/google-researchs-gemini-sql2-tops-text-to-sql-benchmarks-by-a-wide-margin/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-13T12:32:11+00:00"
-    },
-    {
-      "id": "e21c28b8f90408cdfd7ddab1118c796e",
-      "title": "Microsoft's SkillOpt boosts GPT-5.5 by using nothing but",
-      "description": "A simple Markdown file is enough to boost GPT-5.5 by about 23 points on procedural tasks . The same file transfers across models and agent environments like Codex and Claude Code . Microsoft and three Chinese universities have developed SkillOpt, a method that optimizes instruction documents for AI agents using principles from traditional model training . The method was developed by Microsoft, three universities and is available in the U.S.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/skillopt-markdown-neural-training-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-13T12:20:39+00:00"
-    },
-    {
-      "id": "debd8a7ac5d0b12fcc2fa108c827194f",
-      "title": "Anthropic\u2019s safety warnings may have just backfired \u2014",
-      "description": "Anthropic forced to shut off access to two of its most powerful AI models citing national security concerns . Anthropic says the underlying concern is a claimed jailbreak of Claude Fable 5 and Claude Mythos 5 . The company says the government has provided only verbal evidence of a \"potential narrow, non-universal jailbreak\" Anthropic is widely expected to pursue an IPO this year and has staked much of its public identity on being the safety-conscious alternative to rivals .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-06-13T02:26:30+00:00"
-    },
-    {
-      "id": "56b7b98f42fb1f2282e1b7f07d77a52f",
-      "title": "Meta\u2019s months-old AI unit is a soul-crushing gulag",
-      "description": "A new report in Wired suggests the company's Applied AI team is on the verge of revolt . Employees describe being forced into the Applied AI group with no real choice: join or quit . Their assigned work? Generating puzzles and coding problems to train AI models . \"It's literally the gulag,\" one employee told Wired. \"Most people find the work soul-crushing,\" said another . CEO Mark Zuckerberg reportedly addressed the situation in an internal memo Friday .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-12T23:00:54+00:00"
-    },
-    {
-      "id": "8e16264f67e55688652c6306dac995c6",
-      "title": "Chinese cybercrime operation that used AI to scam",
-      "description": "Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands of victims' sued by Google . Outsider Enterprise allegedly uses AI in its campaigns to send scam text messages impersonating Google and other brands . Group deployed 9,000 fake websites, one million fraudulent web domains, and 2.5 million texts sent to Android users in a two-week period . Google said it uses \u201cAI-powered tools to fight AI-powered scams,\u201d which enable the company to detect scams .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-06-12T20:38:09+00:00"
-    },
-    {
-      "id": "3355a47c4da060e941171391a4ba1ba9",
-      "title": "Jeff Bezos\u2019s Prometheus raises $12B to build",
-      "description": "Jeff Bezos's Prometheus raises $12B to build an &#8216;artificial general engineer' for the physical world . Bezos says productivity gains will lead to 'labor scarcity' in a world where demand for human workers outpaces supply . At $41 billion, Prometheus is one of the most richly valued AI startups ever funded . Bezos knows something about labor at scale: Amazon employs more than 1.5 million people worldwide .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208733347.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-12T01:04:38+00:00"
-    },
-    {
-      "id": "32f44ef46f2c22167eea07b0c358c992",
-      "title": "SpaceX officially prices shares at $135",
-      "description": "SpaceX officially prices shares at $135 in the largest IPO ever . Elon Musk's space and AI conglomerate officially confirmed that it has raised $75 billion from the sale of its shares to its underwriters . At this price, the deal looks set to make Musk the world's first trillionaire . The company, officially known as Space Exploration Technologies Corp., will trade under the SPCX ticker symbol on the Nasdaq stock exchange Friday .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/spacex-falcon-9.jpeg?resize=1200,675",
-      "fullArticleLink": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-11T20:33:10+00:00"
-    },
-    {
-      "id": "c412502308ffa6bf2ff10c08b13a91d2",
-      "title": "Is It a Super El Ni\u00f1o Year? It",
-      "description": "The National Oceanic and Atmospheric Administration declared that the semiannual climate phenomenon has officially begun . El Ni\u00f1o is like the engine of a car: Fire it up and the atmosphere gets moving . NOAA gives this year\u2019s El Ni\u00f1o a 63 percent chance of exceeding the 3.6-degree F threshold, which would qualify it as a \u2018super El Ni\u00f1o\u2019 Climate models are bullish that it could surpass that threshold by a wide margin .",
-      "imageUrl": "https://media.wired.com/photos/6a2af97dda940e53ac8bec54/191:100/w_1280,c_limit/SSTA_1stweekJune2026.jpg",
-      "fullArticleLink": "https://www.wired.com/story/super-el-nino-turns-worlds-weather-upside-down/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-06-11T19:24:46+00:00"
     }
   ]
 }
