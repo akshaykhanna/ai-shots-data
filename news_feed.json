@@ -1,6 +1,43 @@
 {
   "news": [
     {
+      "id": "7903da11806a0577b776ef50594c716f",
+      "title": "Psychological methods reveal major weaknesses in AI security",
+      "description": "Researchers at the UK AI Security Institute used psychometric methods to show that popular safety benchmarks for language models don't measure one consistent trait . Blanket blocking of requests can artificially inflate a safety score even as the model gets less useful day to day . The study also offers a method for catching models that act more cautious during tests than they do in normal use . The researchers also offer a way to catch models that are more cautious in tests .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/ai-security-evaluation-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-22T12:56:11.987524Z"
+    },
+    {
+      "id": "eced45cd13a4f280d15c758a6fa0c1d7",
+      "title": "RayNeo's new AI glasses skip the camera, focus",
+      "description": "RayNeo iO Glasses overlay text into the wearer's field of view through a green waveguide display . There's no camera and no built-in speaker . The glasses listen in on conversations, summarize them, extract action items, and suggest calendar entries . A teleprompter mode and speech-to-text translation for 40 languages round out the feature set . All of the AI models listed are already outdated, but a $9.99 monthly subscription adds access to ChatGPT, Gemini, Claude, and DeepSeek .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/RayNeo-iO-glasses.png",
+      "fullArticleLink": "https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-22T12:55:56.274828Z"
+    },
+    {
+      "id": "ffdc8ca13939abb137a9ae20518e6177",
+      "title": "Study explains why AI agents benefit from \"skills\"",
+      "description": "A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not through added knowledge . As the skill library grows, agents have a harder and harder time finding the right set of instructions, researchers say . The study explains why AI agents benefit from &quot;skills and when they fail to find the right instructions, and why they fail .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Agent-Skill-Pick-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-22T12:55:44.621704Z"
+    },
+    {
       "id": "b4f5a0cc7585bdeb221f90d63cb41c54",
       "title": "US wants to force partner countries to choose",
       "description": "The US is drafting a letter to partner countries telling them to pick a side in the AI standoff between Washington and Beijing . Countries that join China's AI initiative would be shut out of the US-led Pax Silica coalition . China's embassy in Washington pushed back on the US plans, saying such moves would slow global AI progress . Kazakhstan is so far the only known country to belong to both the US coalition and China's competing framework .",
@@ -15358,42 +15395,6 @@
         "LLM"
       ],
       "pubDate": "2026-06-30T03:46:37.178138Z"
-    },
-    {
-      "id": "8d3f58db581bd4110ca688792ba24e59",
-      "title": "Only three AI models finished above starting capital",
-      "description": "Researchers at Princeton University built CEO-Bench, a test where AI agents have to run a fictional software company for 500 simulated days . Most current models go broke, and a simple rule-based heuristic with no AI beats nearly all of them . Only three AI models finished above starting capital in a 500-day startup survival test . The test was created by Princeton University researchers at the University of Princeton University in New York .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/CEO-Bench-title.png",
-      "fullArticleLink": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/",
-      "type": "news",
-      "categories": [
-        "Startup"
-      ],
-      "pubDate": "2026-06-29T20:09:14.045128Z"
-    },
-    {
-      "id": "b2598f50af756966ac714059da8a072c",
-      "title": "Coinbase joins the rush to Chinese AI models",
-      "description": "Coinbase CEO Brian Armstrong is switching his company to Chinese AI models like GLM 5.2 and Kimi 2.7 . An automated routing system picks the best model for each request based on task and price, and better caching pushed the hit rate from 5 to 60 percent . The company has cut its AI spending in half even as token usage keeps climbing . It joins the rush to Chinese models as Western labs face a pricing stress test .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/tokenization-2-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-29T20:09:01.770005Z"
-    },
-    {
-      "id": "9ba2794fcfd0fc6c7df6ebb73756874e",
-      "title": "AI won't become a real coworker until it",
-      "description": "A survey paper by Tencent and several Chinese universities traces the path from chatbot to \"digital colleague\" AI systems won't become reliable coworkers until they finish entire tasks in persistent work environments . The key lies in combining persistent workspaces with reusable skills, the researchers argue . Tencent: AI won&#039;t become a real coworker until it stops answering and starts finishing tasks instead of just generating answers .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/ai-chatbot-digital-colleague-generated-image-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-29T20:08:50.075046Z"
     }
   ]
 }
