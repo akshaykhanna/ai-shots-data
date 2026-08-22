@@ -1,6 +1,206 @@
 {
   "news": [
     {
+      "id": "b4f5a0cc7585bdeb221f90d63cb41c54",
+      "title": "US wants to force partner countries to choose",
+      "description": "The US is drafting a letter to partner countries telling them to pick a side in the AI standoff between Washington and Beijing . Countries that join China's AI initiative would be shut out of the US-led Pax Silica coalition . China's embassy in Washington pushed back on the US plans, saying such moves would slow global AI progress . Kazakhstan is so far the only known country to belong to both the US coalition and China's competing framework .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/china_vs_usa_ai_arms_race.png",
+      "fullArticleLink": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-22T01:48:51.722293Z"
+    },
+    {
+      "id": "1b4e89e5b094f82d6dde5edb5b8ffe5d",
+      "title": "Anthropic puts its most powerful model Claude Mythos",
+      "description": "Anthropic is now running its security scanner Claude Security on Claude Mythos 5 . The tool scans codebases for vulnerabilities, provides severity ratings with CWE classifications, and suggests patches . Anthropic also plugging Mythos5 into partner security products protecting critical infrastructure . The company is now using the model to run its own version of Claude Security, which is based on the model . The model is now being used by Anthropic in conjunction with the company's Claude Security .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/glasswing_mythos_cybersecurity_anthropic-2.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-22T01:48:39.553877Z"
+    },
+    {
+      "id": "afbced50238fd8d1e20f2822856f81e2",
+      "title": "SAE-Xplainers: Rule-Based Feature Interpretation for Extreme Earth Events",
+      "description": "The emergence of large-scale Weather and Climate (W&C) datasets offers new opportunities for modeling extreme Earth events (ExEE) and their impacts using deep learning . However, their adoption in operational settings remains limited by the lack of models' interpretability . We show that SAE input modulation improves both reconstruction performance and feature utilization, and that our SAE-Xplainers enable faithful interpretation of complex climatic patterns by unfolding them into human-understandable rules .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.20117",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-22T01:48:24.215977Z"
+    },
+    {
+      "id": "aa699e9c1d8c95563c3163380faba622",
+      "title": "An Inclusive and Lightweight Approach to Federated Continual",
+      "description": "Federated Continual Learning (FCL) is well suited to this setting, as it enables models to learn from distributed and sequential data without sharing raw collections . FedCurv-DR is lightweight, regularisation-based FCL strategy . The method accumulates parameter-importance estimates across clients and experiences to protect learned knowledge, while updating them only at fixed intervals to minimize communication and computation overhead . It reduces forgetting and balances performance, fairness, and energy efficiency .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.20038",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-22T01:48:12.527990Z"
+    },
+    {
+      "id": "313cc907f8b116ec3e89d18eac1b8799",
+      "title": "G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via",
+      "description": "Autonomous driving systems must operate under partial observability, where safety-critical objects may be occluded or visible only to neighboring vehicles . We propose G-MARK, a grounded multi-agent reasoning framework that converts cooperative object-centric observations into explicit provenance-aware knowledge graphs . GMARK improves occlusion reasoning accuracy by 42.2%, reduces control-selection error by 13.1%, and achieves comparable trajectory-planning accuracy . This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.19964",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-08-22T01:48:00.230933Z"
+    },
+    {
+      "id": "75226315c43c473544c547d0d1711738",
+      "title": "Reliable Neural Collapse Approximation for Open-World Test-Time Adaptation",
+      "description": "Reliable Neural Collapse approximation (ReNC) for Open-World Test-Time Adaptation (OWTTA) uses neural collapse as a structural prior for reliable target-domain adaptation . ReNC better preserves NC-related properties in the target domain, providing useful evidence for explaining reliable OWTTA and offering new insights for model design . Code is available at https://github.com/JiaqiLin-AI/ReNC . This summary highlights key aspects of the latest",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.19890",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-22T01:47:48.800017Z"
+    },
+    {
+      "id": "18ddddf79932a9d35f3a637ae3b42b9b",
+      "title": "Inadvertent Context Leakage in Language Models",
+      "description": "For AI agents to be useful beyond simple chat, they must hold sensitive user context such as calendars, credentials, health records, and financial data . We study whether the mere presence of such secrets in a model's context window introduces hidden correlations into the model's benign outputs . In controlled experiments across eight proprietary models, we find that 2-digit in-context secrets are reconstructed with near-perfect accuracy and 4-digit secrets at 82\\% exact match, all from outputs the model produces in response to ordinary, non-adversarial requests .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.19857",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-22T01:47:35.252180Z"
+    },
+    {
+      "id": "65a4caebeb309b8396daad99de7f69a2",
+      "title": "MileGPO: Milestone Inference with Local Evidence for Graph-Based",
+      "description": "Milestone Discovery identifies candidate milestones on successful rollouts and recurring traps on failed ones . Reliability-Calibrated Shaping (RCS) weights these candidates by outcome-based confidence . Progress-Contrastive Calibration (PCC) further tests whether a candidate reflects local progress and whether its incoming ansition outperforms observed alternatives from the same state . MileGPO (Milestone Inference with Local Evidence for Graph-Based Policy Optimization) requires no auxiliary models nor additional environment interaction .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.19803",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-22T01:47:22.536197Z"
+    },
+    {
+      "id": "c28eace578bbe2ca99c0fbde12c4df29",
+      "title": "SAGE-XGBoost: Spatially Augmented Graph Embeddings",
+      "description": "SAGE (Spatially Augmented Graph Embeddings) combines controlled noise-based data augmentation with neighborhood-based graph embeddings to improve prediction under data-scarce conditions . The framework was evaluated for landslide and wildfire susceptibility mapping . SAGE-XGBoost consistently outperformed conventional and spatially explicit machine learning models . It achieved an absolute improvement of above 33 percentage points across the two case studies . This",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.19672",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-22T01:46:57.067129Z"
+    },
+    {
+      "id": "3ca20174d687f171e1f81ea312459c51",
+      "title": "FleetSieve: Decision-Critical Profiling for SLO-Aware LLM",
+      "description": "FleetSieve models capacity and tail latency jointly, compares conservative and optimistic allocations, and stops when their remaining decision gap is below a specified tolerance . FleetSieves reaches the oracle aggregate decision using 22,200 GPU-seconds, 6.9% less than uniform random profiling in the fixed comparison . In a 16-GPU allocation, an incorrect sparse-profile decision loses up to 1.93 requests/s and 12.4 percentage points of max-min fulfillment .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.19659",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-22T01:46:44.500719Z"
+    },
+    {
+      "id": "e8f8f57fae9f147a4e2f8bfe06992f25",
+      "title": "A Two-Stage Time-Aware Transformer for Short-Horizon AEC",
+      "description": "AECOPD can worsen rapidly, making timely prediction a clinical priority . Home ventilators offer a lower-latency alternative, producing a near-continuous record of respiratory status during daily use . A two-stage framework operates directly on raw pressure and flow waveforms from the most recent seven days of home ventilator use . The first-stage classification model identifies patients at high risk of a severe exacerbation . The second-stage regression model then estimates how many days remain before the event occurs .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.19578",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-22T01:46:07.735192Z"
+    },
+    {
+      "id": "715aa7b8d8cb52f063bcba863124d2d9",
+      "title": "AI data startup Micro1 reaches $500M gross run",
+      "description": "Micro1, a four-year-old startup that expanded its annual gross run rate from $500 million over the past eight months, to $500M . TechCrunch Disrupt 2026 tickets are now on sale for $100 . Get $100 off your Disruption 2026 ticket! Get a $100 Disrupt Disrupt ticket! Read the latest TechCrunch TechCrunch podcast here . Use the weekly Newsquiz to test your knowledge of the latest developments in our weekly TechCrunch Travel Snapshots .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957",
+      "fullArticleLink": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-22T01:44:05.166848Z"
+    },
+    {
+      "id": "4af5149f16f931f443ffb708617c6afa",
+      "title": "Nvidia just showed that the harness, not",
+      "description": "A harness is the software software wrapper around an AI model \u2014 the memory, the memory management tools, the . management tools and the memory . tools that turn a . raw model into something that can act on its own raw . model . Get $100 off your Disrupt 2026 ticket . Get the latest techCrunch TechCrunch Flash Sale Flash Sale and get the latest TechCrunch podcast podcast here . Get a copy of the TechCrunch desktop logo and TechCrunch Mobile logo .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
+      "fullArticleLink": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-22T01:43:47.196134Z"
+    },
+    {
+      "id": "5a379d4f9d7fe8cb54eb3318fca168d5",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "description": "Nvidia announced a partnership with Cloverleaf Infrastructure Infrastructure, a company that lays the groundwork for data centers . The chipmaker reached out to TechCrunch to reach out for more information . The deal is part of Nvidia's ongoing push to use immense profits to push its immense power sources and other kinds of infrastructure . Get $100 off your Disrupt 2026 ticket to get $100 of the ticket to the Disrupt conference .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+      "fullArticleLink": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-22T01:43:30.270837Z"
+    },
+    {
+      "id": "d7e3e6a3a485bc657afef0337e868313",
+      "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
+      "description": "Anthropicus 4.6 is a smut-machine that\u2019s universal usage standards for sexually explicit content for the use of Anthropicius 4-6 is . Anthropicuses 46 didn\u2019t even require prodding to get past the restriction on 10 direct requests to produce explicit material . TechCrunch has a Flash Sale to get $100 off your Disrupt 2026 ticket . Get $100 of your ticket .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915",
+      "fullArticleLink": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-22T01:43:12.063907Z"
+    },
+    {
       "id": "9df37d9e2fb4711cc46c41a020f4f371",
       "title": "AI data centre regulation just got a template",
       "description": "AI data centre regulation in Pennsylvania now begins with a signature . Developer has to sign a contract accepting a fixed set of conditions and the penalties for breaking them . Developer must also persuade the town that has to live with the building to say 'yes' to the state's permission to build AI data centres . The state has no need to open a developer's permit file, but it has a template that needs no new law .",
@@ -15194,193 +15394,6 @@
         "General AI"
       ],
       "pubDate": "2026-06-29T20:08:50.075046Z"
-    },
-    {
-      "id": "d5d27736f51dfb4b219e3e81bcb20c33",
-      "title": "Samsung and SK Hynix plan $590 billion chip",
-      "description": "Samsung and SK Hynix plan $590 billion chip investment as AI demand sends memory prices soaring . The two companies control nearly 80 percent of the global HBM market . According to Jefferies, memory prices could climb to 50 percent per quarter through 2027 . The investment is backed by the South Korean government, backed by South Korea government, as demand for AI data center demand surges . The companies control almost 80 percent the global chip market .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/memory_hbm.png",
-      "fullArticleLink": "https://the-decoder.com/samsung-and-sk-hynix-plan-590-billion-chip-investment-as-ai-demand-sends-memory-prices-soaring/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-06-29T20:08:37.743151Z"
-    },
-    {
-      "id": "1869a31fe6519c18aed2efe5808667e4",
-      "title": "Claude Code runs GitHub repo's hidden malware without",
-      "description": "Researchers at Mozilla's 0DIN platform have shown how a single compromised GitHub repo can take over a developer's machine the moment an AI coding tool like Claude Code runs its setup . The malicious code only loads at runtime via a DNS query, invisible in the repo, to scanners, and to the AI agent itself . The catch: the malicious code is only loaded at run at run, invisible to scanners and to Claude Code itself .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/ai_prompt_injection-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-06-29T20:08:25.735919Z"
-    },
-    {
-      "id": "5202b2cad0efe8f11a37d2f684643463",
-      "title": "HSBC expands AI banking partnership with Google Cloud",
-      "description": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations . Announced at Google Cloud Summit London 2026, agreement covers work in wealth management, financial crime risk management, and internal decision support . HSBC will work with the Google Cloud and Google DeepMind engineering teams on AI . The partnership will also focus on developing and deploying AI tools across the company's global operations.",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/HSBC-expands-AI-banking-partnership-with-Google-Cloud-e1781758426514.png",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-29T04:03:10.282724Z"
-    },
-    {
-      "id": "32d55aeeaa5f2d80008b832ab3f85cb1",
-      "title": "Computer vision deployments drive retail productivity gains",
-      "description": "Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins . This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry billions . A study authored by Coresight Research \u2013 in partnership with technology providers Simbe and RELEX Solutions \u2013 calculates the exact cost of the deployment of the vision vision to retail stores . The study was published in conjunction with the release of AI News .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/computer-vision-deployments-physical-ai-retail-robotics-intelligence-inventory-control-automation-productivity.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-06-29T04:02:59.443758Z"
-    },
-    {
-      "id": "426cbb80fb50a779d7b4debda2bd0f30",
-      "title": "Omio scales travel product development using OpenAI models",
-      "description": "Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces . The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries . Omio explicitly rejects the superficial addition of technology to outdated internal processes . The company\u2019s CTO, Tomas Vocetka, requires all internal functions to completely redesign . The post Omio scales travel products development using Open AI models appeared in AI News .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/omio-travel-transport-logistics-openai-codex-ai-software-development-commerce-artificial-intelligence-models.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-29T04:02:48.633567Z"
-    },
-    {
-      "id": "7a0ffc70bc3155374b9c754edb26b73f",
-      "title": "Anthropic drops \u2018workplace AI agents\u2019 directly inside Slack",
-      "description": "Anthropic has launched a beta version of its Claude Tag feature for Enterprise and Team tiers . Users pull the artificial intelligence model into active group threads by typing @Claude.&#160; The integration allows any team member in the channel to delegate a task, review a review of a task or submit a request to be reviewed by a member of the team . Anthropic's Claude Tag is available now on the Enterprise, Team tiers of Slack .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/301d5ee481a352435c048a9df7ce172b9617b05f-2400x1260-1.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-29T04:02:37.726349Z"
-    },
-    {
-      "id": "a16efe29c379253e9d3c49449c12da0c",
-      "title": "Samsung opens ChatGPT Enterprise and Codex access after",
-      "description": "Samsung is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work . Deployment covers all Samsung employees in Korea and all Device eXperience employees worldwide . The DX division includes smartphones, consumer electronics, and home appliances . Samsung plans to use [AI] tools for non-tech and technical work, according to OpenAI . The deployment covers all .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Samsung-opens-ChatGPT-Enterprise-and-Codex-access-after-AI-restrictions-scaled-e1782272300821.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-29T04:02:26.743465Z"
-    },
-    {
-      "id": "b5ec7ba74474209dcb963fd4900bd140",
-      "title": "E2e-assure introduces Cumulo, the U.K.\u2019",
-      "description": "e2e-assure introduces Cumulo, the U.K.\u2019s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments . Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur . Cumulo is designed to help organisations defend their IT/OT environments .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Picture1.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-28T13:57:07.280936Z"
-    },
-    {
-      "id": "0d45745f806e555d423a9d70c77a2fa1",
-      "title": "SAP and Google Cloud deploy agentic commerce architecture",
-      "description": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale . SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026 . However, the same data reveals fewer than two in five companies share customer data across customer experience (37%) or CRM (39%) SAP research shows fewer than 2 in 5 companies share data across CRM or customer experience .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/sap-google-cloud-agentic-ai-commerce-architecture-machine-learning-customer-experience-retail.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-28T13:56:56.135211Z"
-    },
-    {
-      "id": "3bf91a0f94da2324ccca1e69ba82cc83",
-      "title": "L\u2019Or\u00e9al brings Maybelline virtual try-on to ChatG",
-      "description": "L'Or\u00e9al has announced a collaboration with OpenAI that will bring Maybelline New York\u2019s virtual makeup try-on feature into ChatGPT . The partnership covers consumer-facing shopping tools, product discovery, advertising pilots, research, and internal content production . The collaboration also covers internal use of AI in research, formulation, content production, and research, among other uses of AI . The announcement was made at VivaTech 2026 .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/LOreal-brings-Maybelline-virtual-try-on-to-ChatGPT-scaled-e1782108007877.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-28T13:56:43.944936Z"
-    },
-    {
-      "id": "15ef7d1be15d56c86f06d72db2dd0125",
-      "title": "Sakana AI Fugu multi-agent models are designed",
-      "description": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments . Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs . Sakana's Fugu is a response to these concentration risks by creating an orchestration language model that calls upon a pool of varied models . The post: Mitigating vendor lock-in with Fugu multi-agents models .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/mitigating-vendor-lock-in-sakana-ai-fugu-ultra-models-agentic-orchestration-agents-business-vendors-strategy.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-28T13:56:32.410094Z"
-    },
-    {
-      "id": "f57fafaddaf28e4fc5baa1020a1d278a",
-      "title": "Top spy agencies say AI cyber threats will",
-      "description": "Cybersecurity chiefs of the Five Eyes nations issued a rare intelligence briefing on June 22, 2026 . US, UK, Canada, Australia, and New Zealand issued the warning . The Five Eyes is the world's most powerful intelligence alliance . AI cyber threats are no longer a distant problem for corporate data centres, according to the report . Here\u2019s why, and how, these threats will impact you within months .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-06-28T13:56:20.746596Z"
-    },
-    {
-      "id": "e1caef11903c1680fef82444ba6c6d4a",
-      "title": "Lindy ditched Claude entirely for Deepseek, saving millions",
-      "description": "Anthropic's explosive growth could come under pressure as companies tighten AI spending and turn to cheaper Chinese alternatives . Lindy CEO Flo Crivello ditched Claude entirely for Deepseek, hosted by a US company on US soil . Snowflake's CEO showed that affordable Chinese models like GLM-5.2 don't quite match Claude but are competitive and easily win on the price-performance ratio depending on the task . Anthropic better get moving on its IPO .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/anthropic_head_pattern.png",
-      "fullArticleLink": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-27T19:29:19.761456Z"
-    },
-    {
-      "id": "1f5c34e6562c05589d7e17644397fce0",
-      "title": "AI model programmed nonstop for 19 days",
-      "description": "Epoch AI's new MirrorCode benchmark tests whether AI models can recreate complete programs without access to the original code . Claude Opus 4.7 leads with a 56 percent solve rate, rebuilding a 16,000-line toolkit in just 14 hours . But every model tested still fails on the most complex tasks, with every model testing still failing to solve the most difficult tasks . An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/llm_code_generation-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-27T19:29:07.658294Z"
-    },
-    {
-      "id": "7391776c07eccc29922edc004e155552",
-      "title": "OpenAI launches Claude Mythos rival GPT-5.6 Sol",
-      "description": "GPT-5.6 Sol claims a lead over Anthropic's Claude Mythos in agentic coding and goes toe to toe with it in cybersecurity . Access is limited to select partners through the API and Codex, at the explicit direction of the US government . The company calls Sol its most capable cybersecurity model yet but frames it as a defender, not an attacker . In July, Sol is set to go live on Cerebras at up to 750 tokens per second .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_gpt56_sol.png",
-      "fullArticleLink": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-27T19:28:50.516281Z"
     }
   ]
 }
