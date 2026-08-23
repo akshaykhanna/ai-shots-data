@@ -1,6 +1,68 @@
 {
   "news": [
     {
+      "id": "830dd39f634e1aa9aba6590a42fc6d1d",
+      "title": "How China's gray market sells Claude tokens",
+      "description": "Anthropic's strict access controls against China, from geoblocking to selfie verification, are being systematically bypassed through a thriving network of so-called \"transfer stations\" Chinese developers can buy Claude tokens for as little as ten percent of the list price . Analyst Zilan Qian warns that the circumvention infrastructure weakens export controls and Anthropic\u2019s own safety systems . Analyst: \"Transition stations\" weakens the company's own safety and export controls .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/ai-transfer-station-china-claude-token-proxy-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-23T12:57:32.162757Z"
+    },
+    {
+      "id": "4da6f17d529bf2f53b98929c757cc109",
+      "title": "Memory shortage drives Nvidia AI server prices up",
+      "description": "DRAM shortage reportedly drives Nvidia AI server prices up about 15 percent . Price hikes hit cloud giants like Microsoft, Google, and Meta, which are pouring billions into AI infrastructure while bankrolling the market power of the very supplier they're trying to break free from . Samsung, SK Hynix, and Micron have been hit by DRAM shortages from Samsung, Micron, according to Bloomberg . The price hikes hit the cloud giants such as Google, Meta, Microsoft, Meta .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+      "fullArticleLink": "https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-23T12:57:19.630543Z"
+    },
+    {
+      "id": "716a004b532c8fcdc72a931d3f54607c",
+      "title": "AI could make scientists do more work less",
+      "description": "AI could make scientists do more work less well, not less work better, study argues . The study argues that because AI saves time, researchers' remaining hours become more valuable and get funneled into starting new projects instead of improving existing ones . In two out of three modeled scenarios, the quality of individual publications drops, the study says . The results could make research worse, not better, according to The Decoder . The Decoder.com .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/ai-science-flood-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-23T12:57:08.432423Z"
+    },
+    {
+      "id": "1cb3d0beb52f99daf1272da06ce5b572",
+      "title": "Agentic token usage jumps 14x on OpenRouter",
+      "description": "AI agents consume more tokens than humans on OpenRouter since February 6, 2025 . Agentic usage has grown 14x since then, while human usage is up just 2.8x . Nearly 70 percent of agent token consumption comes from cheap cached prompts, though, so actual costs are rising far more slowly than the raw numbers suggest . AI agents are becoming AI's biggest customer as agentic token usage jumps 14x .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/tokenization-2-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-23T12:56:57.313251Z"
+    },
+    {
+      "id": "ac4721d8551bf0ad61b439e98f7cae3f",
+      "title": "AI boss fired its first employee but only",
+      "description": "Andon Labs' Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it . More capable AIs recommended termination more consistently, while weaker ones hesitated . When it came to hiring, nearly all models were uncritical, according to tests . When the scenario was replayed with seven models, most of the AIs were more likely to be uncritical .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/andon-labs-luna-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-23T12:56:46.075995Z"
+    },
+    {
       "id": "796f7a9c48e9a9c827ae0aeb2eaff187",
       "title": "Frontier AI labs still won\u2019t say how they\u2019d",
       "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes Flash Sale and TechCrunch Desktop Logo TechCrunch Mobile Logo . LatestStartupsVentureAppleSecurityAIAppsDisrupt 20 26 EventsPodcastsNewsletters . Latest Frontier AI labs still won't contain a rogue model . Few have published or demonstrated containment plans, according to recent study of the top AI labs . A containment plan spells out what happens once an AI is caught, what gets cut, and when the system gets shut down entirely's fault .",
@@ -15341,67 +15403,6 @@
         "Hardware"
       ],
       "pubDate": "2026-06-30T04:30:20.147119Z"
-    },
-    {
-      "id": "f7fedc0ec6cbfdd4536405b562258562",
-      "title": "SAP aligns commerce data with commerce data",
-      "description": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer . Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touchpoints . However, the actual infrastructure running inside these enterprises fails to support systematic execution at the required volume . Recommendation engines display generic product listings because of the lack of systematic execution, SAP says. Recommendation engine displays generic product listing because of this .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/sap-commerce-data-engineering-ai-personalisation-retail-marketing-customer-experience-cx.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-30T04:30:09.970993Z"
-    },
-    {
-      "id": "161c2aae3a3dae5131dd951ca25dda60",
-      "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection",
-      "description": "New partnership brings on-device deepfake detection to video calls on desktop . Both announcements were made at Computex 2026 in Taipei . Scam.ai was featured at Qualcomm's booth as part of its booth as a part of the company's AI news coverage at the event . The company announced its partnership with Qualcomm and the launch of Halo, an on- device deep fake detection model for live video calls .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/scam.ai-header-1.png",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-30T04:29:59.766584Z"
-    },
-    {
-      "id": "f95fa127eb1ce5f479e531e35de424a2",
-      "title": "XFusion scales enterprise AI from edge workstations",
-      "description": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres . Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks . Relying on public APIs exposes proprietary commercial data . xFusions engineers responded with a four-tier hardware . The post-mortem of the xfusion project was published on Monday, November 24, at the ISC2026 conference in Hamburg .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/XfUSION-LOGO-2.png",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-06-30T04:29:49.648322Z"
-    },
-    {
-      "id": "0840e1dae11f98dc3bfd846604a2f8e2",
-      "title": "Best Automated Security Testing Tools for Modern DevSecOps",
-      "description": "Modern DevSecOps needs security checks that run before release day . Teams now write code, build services and deploy updates at a pace that manual review cannot match . That's why they use automated testing, as it helps catch routine flaws before they reach production . Verizon\u2019s 2025 Data Breach Investigations Report found that Verizon's 2025 data breach investigations report found that the number of breaches in the U.S. has grown .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI-News.png",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-06-30T04:29:39.507689Z"
-    },
-    {
-      "id": "37b02d42428bbf55f004b573c85c198b",
-      "title": "US military used AI to pick thousands",
-      "description": "Report: Analyst noticed changes at site in Minab in southeastern Iran years before strike that killed 120 children . Analyst flagged the changes in 2019 using a digital intelligence tool that wasn't linked to the official target database the US military uses to develop strike targets . The building was reviewed multiple times, but nobody updated the database . At least two intelligence databases have never been connected to the authoritative target database . The aging infrastructure stands in stark contrast to the speed of AI in Syria and elsewhere .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/pentagon_AI_strategy-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-06-30T03:47:27.315466Z"
     }
   ]
 }
