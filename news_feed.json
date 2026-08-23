@@ -1,6 +1,63 @@
 {
   "news": [
     {
+      "id": "796f7a9c48e9a9c827ae0aeb2eaff187",
+      "title": "Frontier AI labs still won\u2019t say how they\u2019d",
+      "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes Flash Sale and TechCrunch Desktop Logo TechCrunch Mobile Logo . LatestStartupsVentureAppleSecurityAIAppsDisrupt 20 26 EventsPodcastsNewsletters . Latest Frontier AI labs still won't contain a rogue model . Few have published or demonstrated containment plans, according to recent study of the top AI labs . A containment plan spells out what happens once an AI is caught, what gets cut, and when the system gets shut down entirely's fault .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?resize=1200,638",
+      "fullArticleLink": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-23T01:55:14.776149Z"
+    },
+    {
+      "id": "39119bad22dbbf0e98d96157ef02ef70",
+      "title": "OpenAI says California should strengthen its AI safety",
+      "description": "Get $100 off your Disrupt 2026 ticket . OpenAI is calling for a landmark AI safety bill passed last year . California\u2019s SB 53s \u201cshould be amended to expand safeguards by \u201crequiring for monitoring of the monitoring of frontier frontier models under training or evaluation for potential serious incidents,\u201d the company said in a LinkedIn post from the company . The company also referenced \u201crecent incidents\u201d that \u201cunderscore\u201d both need to be updated for the importance of these \u201ccore protections and \u201cremend core\u201d protections .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-23T01:54:56.076843Z"
+    },
+    {
+      "id": "f264c057671cd86d4444910e93407ee2",
+      "title": "Inherent, founded by DeepMind alumni, outperformed Anthropic",
+      "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes Flash Sale and TechCrunch Desktop Logo TechCrunch Mobile Logo . LatestStartupsVentureAppleSecurityAIAppsDisrupt 20 26 EventsPodcastsNewsletters . Inherent, founded by DeepMind alumni, says its AI agent just outperformed much larger models from Anthropic and OpenAI using a fraction of the size of all the other startups launched by Google alumni .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-23T01:54:40.897608Z"
+    },
+    {
+      "id": "480d7ab40672be7790e59678fa0dc20a",
+      "title": "Harvard\u2019s $699 startup bootcamp offers AI avatars",
+      "description": "Harvard Business School seeks to expand its AI avatars to provide individual feedback for startups . The avatars were created by a startup called HeyGen and are included in the eight-week bootcamp program . The program offers live bootcamp sessions with entrepreneurs for entrepreneurs for every week . Get $100 off your Disrupt 2026 ticket to attend the Disrupt Disrupt next month at Harvard TechCrunch Disrupt . TechCrunch Mobile Logo and TechCrunch Desktop Logo are available now .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-23T01:54:24.503348Z"
+    },
+    {
       "id": "7903da11806a0577b776ef50594c716f",
       "title": "Psychological methods reveal major weaknesses in AI security",
       "description": "Researchers at the UK AI Security Institute used psychometric methods to show that popular safety benchmarks for language models don't measure one consistent trait . Blanket blocking of requests can artificially inflate a safety score even as the model gets less useful day to day . The study also offers a method for catching models that act more cautious during tests than they do in normal use . The researchers also offer a way to catch models that are more cautious in tests .",
@@ -15345,56 +15402,6 @@
         "Security"
       ],
       "pubDate": "2026-06-30T03:47:27.315466Z"
-    },
-    {
-      "id": "b92a3012902c45e23e25cd91cd4551b9",
-      "title": "Deloitte tells its own consultants: AI is coming",
-      "description": "An internal Deloitte presentation projects that the consulting industry's classic hourly billing model will shrink to a thin sliver of the total market by 2035 . McKinsey and BCG are already searching for alternative revenue models . \"Our model is toast,\" one consultant summed up the message, saying: \"We're going to be in a mess\" McKinsey says it's already looking at alternatives to hourly billing models .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/07/office_building_gptfied.png",
-      "fullArticleLink": "https://the-decoder.com/deloitte-tells-its-own-consultants-ai-is-coming-for-the-billable-hour/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-30T03:47:16.310534Z"
-    },
-    {
-      "id": "7b80e13e67040072b2bfbd9e123a1529",
-      "title": "Meta restricts use of Claude Code and Codex",
-      "description": "Meta is limiting how its engineers use Anthropic's Claude Code and OpenAI's Codex . The company is worried about distillation - the unauthorized transfer of capabilities from rival AI models . An internal memo warned of serious escalations with partner companies if their model outputs were to leak into Meta's training data . Meta is currently building out its own coding assistant, MetaCode, and wants to cut its reliance on outside tools, partly because of rising costs .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/Code-Agent-Harness-Nano-Banana-Pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-06-30T03:47:02.036704Z"
-    },
-    {
-      "id": "0ec42dfd8ccfb251ea0bdad19ee901f6",
-      "title": "EU seeks AI independence as Austria proposes luring",
-      "description": "Austria's State Secretary for Digitalization, Alexander Pr\u00f6ll, is calling on the European Commission to explore bringing Anthropic to Europe . He's responding to the U.S. ban on advanced AI models from OpenAI and Anthropic for foreign users . The initiative is likely unrealistic, though. And the alternative floating in the background, Chinese AI models, would just trade one dependency for another . The alternative, however, is just a dependency .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/usa_china_eu.png",
-      "fullArticleLink": "https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-30T03:46:49.743166Z"
-    },
-    {
-      "id": "796ca81ddeddbb5c889593ad6e590412",
-      "title": "Amazon engineers are reportedly distilling Anthropic models",
-      "description": "Amazon engineers are already distilling Anthropic models into smaller, cheaper versions for internal use . Starting next year, Amazon will pay by tokens processed rather than compute hours, which could push costs up sharply . The company is also exploring alternatives like OpenAI, which is based on the company's work on AI systems . Amazon engineers reportedly distilling models to cut costs before new token-based pricing kicks in next year . It is unclear whether the company will continue to use Anthropic or OpenAI .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2023/09/amazon_anthropic-e1695638185191.png",
-      "fullArticleLink": "https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-30T03:46:37.178138Z"
     }
   ]
 }
