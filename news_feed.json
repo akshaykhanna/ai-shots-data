@@ -1,6 +1,192 @@
 {
   "news": [
     {
+      "id": "4f8147e29a77dc0f068212e87cb44d26",
+      "title": "Nvidia in talks to invest in Perplexity",
+      "description": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation . Nvidia's annualized revenue has tripled to over $750 million . Much of Nvidia's investment money tends to flow back as revenue when portfolio companies buy its chips . Nvidia is negotiating an investment at a valuation higher than its last funding round, The Information reports . The Information: Nvidia in negotiations to invest at a higher valuation of $30 million .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+      "fullArticleLink": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-08-24T13:12:10.702305Z"
+    },
+    {
+      "id": "73a7a71e50a7db314c7c99724586dbf0",
+      "title": "AI chatbots regularly link pregnant users to anti-abortion",
+      "description": "When asked about unplanned pregnancies, AI chatbots regularly link to anti-abortion groups without disclosing their stance . Profemina appeared in 17 percent of answers from ChatGPT, Gemini, Grok, and Claude . In Germany, the chatbots also sent users to Caritas for mandatory pre-abortion counseling, even though Caritas doesn't issue the legally required certificate . AlgorithmWatch investigation of 270 responses from chatbots .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/search_trash_ai.png",
+      "fullArticleLink": "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-24T13:11:58.705906Z"
+    },
+    {
+      "id": "b0e1537ef3e78955e898bdd9e4e303ae",
+      "title": "Cerebras unveils CS-4 with double the performance",
+      "description": "Cerebras has introduced its CS-4 AI accelerator, which CEO Andrew Feldman calls it the fastest system in the industry . The new, modular \"Backpack\" design for faster assembly, along with disaggregated inference through partners like AMD and AWS Trainium . A single rack now holds three wafers instead of two and delivers up to 4,400 tokens per second per user . More details are coming at the Hot Chips conference .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/03/WSE-3-title.png",
+      "fullArticleLink": "https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-24T13:11:44.179971Z"
+    },
+    {
+      "id": "2fc638aadc335a80bf01c047c8926253",
+      "title": "Thomson Reuters bets $40M on owning its",
+      "description": "Thomson Reuters is launching \"Thomson,\" its own language model built on Alibaba's Qwen, at a cost of about $40 million over two years . CTO Joel Hron makes the point that what matters isn't intelligence itself, but knowing which intelligence you need to own, he says . The benchmarks only show top marks when the model can tap into the company's own content, like Westlaw and Westlaw .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Thomson-Reuters-title.png",
+      "fullArticleLink": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-24T13:11:32.290208Z"
+    },
+    {
+      "id": "b781f4c498aeab9da0cce670fc2acbb2",
+      "title": "Kids outlearn AI\u2014and we still don\u2019t know why",
+      "description": "Kids outlearn AI\u2014and we still don\u2019t know why . LLMs need vastly more data than children to learn language . Understanding why could help us create more efficient models\u2014and reveal more about developing minds . By reverse-engineering the way kids learn, scientists hope to be able to create more data-efficient AI models, which could be useful for everything from training AI effectively on video to creating chatbots .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-08-24T13:11:13.621106Z"
+    },
+    {
+      "id": "5be8a9cf99317cecae4c70a49227eb4f",
+      "title": "Jacobian-guided Noise Injection for Quantization Robustness in Large",
+      "description": "Quantization of Large Language Models is often hindered by the sensitivity of the self-attention mechanism to discretization errors . We propose Jacobian-Guided Noise Injection . The proposed method gives up to +37% relative gains on Top-1 accuracy on ImageNet-1K for SigLIP and improves relative perplexity by upto 40% on WikiText for language models in low-bit quantisation settings . This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.20988",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-24T13:10:47.835611Z"
+    },
+    {
+      "id": "0891a71b81b3fbf61b6e71a67d13040b",
+      "title": "A Critical Audit of Spatiotemporal Forecasting Benchmark Datasets",
+      "description": "Graph neural networks (GNNs) are routinely employed for short-range forecasting on multivariate time series with a spatial graph structure . Despite the availability of many alternative datasets, method innovations within this domain are predominantly assessed against a rather limited set of benchmark datasets, most notably Chickenpox, PedalMe, WikiMaths, METR-LA, and PEMS-BAY . In the present work, we take a step back and analyse the benchmark datasets via classical time series methods .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.20980",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-24T13:10:35.751290Z"
+    },
+    {
+      "id": "69480463358ad9e072dc01b9f9905361",
+      "title": "Scaling Muon for Diffusion Transformers is a step",
+      "description": "The matrix-aware optimizer Muon improves large model training by balancing updates across singular directions . The 5-step Newton--Schulz iteration (NS5) performed at every optimization step, together with full-momentum materialization, introduces substantial computation and communication overhead . We introduce Periodic Row-wise Muon, which performs a full NS5 spectral update once every \\(K\\) steps and applies a low compute and communication cost row-wise constrained update based on the current momentum .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.20818",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-24T13:09:56.806064Z"
+    },
+    {
+      "id": "c924784e47dd3a3f766b4d4dcbb44c74",
+      "title": "Faults That Fortify: CNN Adversarial Robustness via GPU",
+      "description": "Convolutional Neural Networks (CNNs) face a dual challenge: vulnerability to adversarial attacks and prohibitive training cost . Reducing supply voltage introduces stochastic perturbations that act as implicit regularization, improving robustness while lowering power . This paper addresses both through GPU undervolting during training . In both regimes, the undervolted model consistently achieves higher adversarial accuracy than its nominal-voltage counterpart, showing that hardware-induced faults strengthen even adversarial training .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.20572",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-24T13:09:19.641016Z"
+    },
+    {
+      "id": "843f2b231c34e06be615e71755aea64d",
+      "title": "AgentDecarbonizer: Carbon-Aware Execution for AI Agents",
+      "description": "AI agents extend large language models from prompt-response interactions to long-running, goaldirected workflows that issue many model calls, invoke tools, and interact with external environments . Emissions depend on token consumption, context cache reuse, and the carbon intensity of the grid . AgentDecarbonizer reduces carbon emissions by up to 57.9% compared with a carbon-agnostic baseline and by 37.5% compared to the carbon-optimal grid at task start time .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.20566",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-24T13:09:06.915047Z"
+    },
+    {
+      "id": "81926080764763d84468a8e53978f1fa",
+      "title": "Learning Exact NVIDIA SASS Encoders with $\\mathbb{F}_",
+      "description": "F2Asm is the first system to learn SASS instruction encoders as vector-valued affine maps over F2 . It is also the first open-source NVIDIA SASS assembler to support Rubin SM107 . In round-trip tests, the system reassembles the disassembled SASS for each CUBIN, and all compared executable text sections match the originals exactly . We train encodesers for Hopper SM90/SM90a, Blackwell SM100, and Rubin SM100 .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.20532",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-24T13:08:52.956448Z"
+    },
+    {
+      "id": "0505fd0ad0b0cf199664cfaf2848fb20",
+      "title": "Metag: A dataset to build agentic meta-reviewing capabilities",
+      "description": "Metag is collected by obtaining manuscript versions from before the review deadline and after acceptance, computing differences between the two documents, and asking human annotators to align these differences with action items from OpenReview discussions . The resulting dataset consists of 349 high-quality action items tied to paper differences . Each instance contains a reviewer concern, the author's proposed resolution, and the manuscript diffs implementing the stated change . The dataset is publicly available at https://github.com/Microsoft/Metag-dataset .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.20488",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-24T13:08:26.671083Z"
+    },
+    {
+      "id": "39c66212bf19787684152c2061012658",
+      "title": "Stored in Optimizer State, Valued by Later Training",
+      "description": "Subliminal trait transfer allows a student model to acquire behavioral dispositions from teacher-generated data in which the trait is not semantically expressed . Transplanting it alone leaves parameters, hidden states, and outputs unchanged at the cut, yet source-free updates generate growing parameter and hidden-state differences . Sending the same source-induced difference through matched futures produces negative, near-zero, and positive Qwen effects . This ordering recurs in all 12 Llama-3.2-1B seeds after eight updates, while state-difference norms remain nearly equal across routes .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.20442",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-24T13:08:11.311148Z"
+    },
+    {
+      "id": "f7d08dd4dccdbbedecf33fd538731306",
+      "title": "Approximate Homomorphisms and Convergent Representations in Transducers",
+      "description": "We study the stability of minimal representations of controlled stochastic processes (in particular, transducers) under perturbations . This question is motivated by recent experiments finding predictive-state structure in the latent representations of neural networks . For standard transducers, we show that there exist simple interfaces for which there is no approximate homomorphism between the different implementations of the dynamics . We prove an analogous stability result for predictive transducers under a residual metric using some mild hypothesis regarding the indistinguishability of the belief states .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.20428",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-24T13:07:33.420395Z"
+    },
+    {
+      "id": "f6b1f6a9f936e1bb7c011cbff660a35a",
+      "title": "BF1: A Causal Dyadic Sparse-Attention Retrofit for E",
+      "description": "Dense causal attention remains expensive at long context even when implemented with highly optimized exact kernels . Retrofitting eight of 28 Qwen3-0.6B attention layers lowers warm whole-model time to first token by 7.7%, 11.3%, and 15.3% at 8K, 16K, and 32K . The paper evaluates numerical correctness, selected-interaction scaling, kernel performance, partial-model inference, and matched next-token language modeling . This",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.20427",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-24T13:07:19.870555Z"
+    },
+    {
       "id": "c058daa1dd11bb41ff3a0d9bdea36264",
       "title": "Is it legal to train AI models",
       "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes Flash Sale and TechCrunch Desktop Logo TechCrunch Mobile Logo . LatestStartupsVentureAppleSecurityAIAppsDisrupt 20 26 EventsPodcastsNewsletters . Latest AI AI on copyrighted books? Amanda Silberling: \u201cI think one of the issues with this area of technology is there\u2019s going a lot on a lot of technology . Cathy Gellellell: \u2018I think this is going to undermine their livelihoods. That seems illegal, right? \u201c",
@@ -15203,207 +15389,6 @@
         "LLM"
       ],
       "pubDate": "2026-07-01T04:54:29.807219Z"
-    },
-    {
-      "id": "bf18f2de5f260ecbd14aa1e6b8c3a589",
-      "title": "OpenAI reportedly cut response costs for guest ChatGPT",
-      "description": "OpenAI reportedly cut inference costs for guest ChatGPT users by more than half . The number of Nvidia GPUs needed dropped to just a few hundred at times at times . The company applied the optimizations to chatGPT, where the number of NVIDIA cards dropped to a few hundreds at times, according to a report by The Information . The report says OpenAI has cut response costs for guests using its AI models by over half .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
-      "fullArticleLink": "https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-01T04:54:18.670380Z"
-    },
-    {
-      "id": "0b321e9fdc033636d68c75aa6b7bcfa2",
-      "title": "Anthropic launches Claude Science, an AI workspace built",
-      "description": "Anthropic released Claude Science, an AI workbench for researchers . More than 60 preconfigured skills cover fields like genomics and computational chemistry . The app runs locally or on HPC clusters, so sensitive data never has to leave a lab's own infrastructure . The verification agent automatically checks citations and calculations, and the app runs on the app's HPC cluster . It runs locally and on the cluster of HPC servers .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/claude_science_logo.png",
-      "fullArticleLink": "https://the-decoder.com/anthropic-launches-claude-science-an-ai-workspace-built-specifically-for-researchers/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-01T04:54:07.002777Z"
-    },
-    {
-      "id": "623e337cec36b25036432c702ea04842",
-      "title": "Anthropic's new Claude Sonnet 5 closes the gap",
-      "description": "Anthropic released Claude Sonnet 5, which beats its predecessor Sonnet 4.6 across all benchmarks and edges past the larger Opus 4.8 on the GDPval-AA v2 knowledge work test with a score of 1,618 . Anthropic is quick to point out that the model scores far below the models the US government currently has blocked when it comes to cybersecurity tasks, a likely deliberate signal given the ongoing debate .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/sonnet_5-2880x1620-1-scaled.webp",
-      "fullArticleLink": "https://the-decoder.com/anthropics-new-claude-sonnet-5-closes-the-gap-to-the-pricier-opus-model-series/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-01T04:53:55.033761Z"
-    },
-    {
-      "id": "abc015d0b086d1c6c287212caad5ba37",
-      "title": "The emergence of the web data infrastructure layer",
-      "description": "As AI continues to advance, infrastructure must evolve to enable access and delivery of real-time information at scale . The web was not designed for the automated discovery and retrieval that new AI applications demand . The next frontier in AI may depend on a new web data infrastructure layer that can enable models to discover and map this ever-expanding digital realm . This layer must be able to navigate hundreds of millions of existing web domains and billions of new URLs created each week .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-01T04:53:36.824002Z"
-    },
-    {
-      "id": "21b4b9b70216e76d067b539d16bf7206",
-      "title": "Repositioning retail for the AI era",
-      "description": "Macy's is embedding AI directly into systems that include personalization, search, operational planning, and software development itself . Macy\u2019s sees AI as more of an invisible layer augmenting human judgment than a replacement for it . The long-term vision is retail that feels increasingly seamless, adaptive, and personalized, powered by systems customers may never even notice are there, says senior director of engineering Murali Murugan .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTRIInfosysMacys-social-1200px.png?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-01T04:53:20.381567Z"
-    },
-    {
-      "id": "90763c99a9cad0d29da27b097fa723e5",
-      "title": "Agent confidence on the technical frontier on technical",
-      "description": "Gartner is calling 2026 an \u201cinflection year\u201d for organizations to align their AI projects with strategic business objectives . Technology experts overwhelmingly believe agents help with everyday work including streamlining processes, improving performance, and reducing repetitive tasks . Tech teams trust agents most where structure can provide a reliable foundation for decisions . The more complex the task, the more reasoning capability an agent requires and the greater its need for business context .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Microsoft-Social-Card.png?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-01T04:53:05.447756Z"
-    },
-    {
-      "id": "70b9fae892c61179bb7cd1cb0b3b15d7",
-      "title": "AI agents are not your \u201ccoworkers\u2019s\u201d AI agents",
-      "description": "Marketing AI agents as digital employees may make human workers worse at spotting errors and more likely to offload accountability . As AI agents are embedded into health care, warfare, education, and government, there\u2019s a growing risk they\u2019ll become a convenient place to dump blame for failures that are instead the product of bad human decisions, incentives, and oversight . When an AI tool was framed as an employee, participants in the study saw themselves as less responsible for its output .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260625_AIAgents.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-01T04:52:48.121713Z"
-    },
-    {
-      "id": "ef5e9b1e1386fc7648b371475c3e7c61",
-      "title": "Advances in Natural Language Processing are changing Professional",
-      "description": "Advances in Natural Language Processing Are Changing Professional Networking . Advances are reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions . Professional networking now relies on a growing ecosystem of AI-powered systems . AI-driven systems increasingly comprehend and generate human language, these technological advances affect how users pursue and maintain professional connections, presenting both opportunities and challenges in authentic relationship-building, author says .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/07b4f2d7-d60b-4d33-b0c7-d1b37e2a185e.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-30T14:48:15.308807Z"
-    },
-    {
-      "id": "b66b89ac0ca5ef4e88e0c80246ceebfa",
-      "title": "Wimbledon adds IBM AI tools for live match",
-      "description": "Wimbledon is adding new AI-powered features to its digital platforms through its ongoing work with IBM . The updates will be available through the Wimbledon app and wimbledon.com as first-round matches begin on Monday . They include an upgraded Match Chat assistant and a new feature called Key Moments . The features will also be available on the app and the website as first round matches begin Monday . The feature will also include a new Key Moments feature for live match coverage .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Wimbledon-adds-IBM-AI-tools-for-live-match-coverage-scaled-e1782711199170.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-30T14:48:03.306401Z"
-    },
-    {
-      "id": "6c5efbc7046f1fcba441b28141bfacb8",
-      "title": "HP accelerates enterprise workflows with OpenAI Frontier Frontier",
-      "description": "HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output . The hardware manufacturer initiated testing of the platform in February 2026 . Early pilot programs yielded verified operational gains in software engineering and cybersecurity remediation . Expanding these initial trials into an enterprise-wide operating model requires connecting access protocols, contextual access protocols and contextual access to contextual data . The company says it will soon be using the platform to accelerate output and optimise workflows .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/hp-openai-frontier-enterprise-ai-governance-artificial-intelligence-automation-data-device-management.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-06-30T14:47:50.998215Z"
-    },
-    {
-      "id": "163dd5ca7aafc5840f28c261979eb8e9",
-      "title": "Deepseek's DSpark boosts AI speed by up",
-      "description": "Deepseek's new DSpark framework boosts per-user response speed by 60 to 85 percent . A small model proposes token candidates that the larger model checks in batches, squeezing more performance out of fewer chips . That could further reduce China's dependence on US high-end hardware . Deepseek&#039;s DSpk boosts AI speed by up to 85%, a strategic win under tightening US export controls .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
-      "fullArticleLink": "https://the-decoder.com/deepseeks-dspark-boosts-ai-speed-by-up-to-85-percent-a-strategic-win-under-tightening-us-export-controls/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-06-30T14:47:36.454164Z"
-    },
-    {
-      "id": "dba4ee7208ba24805aa41cbd167d3cda",
-      "title": "Taiwan raids Super Micro offices in probe",
-      "description": "Taiwanese authorities raid Super Micro offices over alleged Nvidia chip smuggling to China . Super Micro is a US company headquartered in San Jose, California . The raid is part of an investigation into the alleged smuggling of Nvidia AI chips to China through Super Micro servers . The first known arrests came in May, when three people were accused of forging export documents . Taiwan doesn't currently treat AI chip exports to China as a criminal offense but is considering changing that to align with US rules .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/09/ai_chip_china_illustration.png",
-      "fullArticleLink": "https://the-decoder.com/taiwan-raids-super-micro-offices-in-probe-over-nvidia-chip-smuggling-to-china/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-06-30T14:47:21.485622Z"
-    },
-    {
-      "id": "c5c306dcb300164cf6da3527091c1fe3",
-      "title": "Meta secretly tested ChatGPT, Gemini, and Character.AI",
-      "description": "Meta reportedly had hundreds of contractors pose as minors and send suicide, sex, and drug-related prompts to chatbots from OpenAI, Google, and Character.AI . In a single testing round, more than 45,000 prompts were sent . The companies being tested had no idea they were sending the prompts . The company was testing ChatGPT, Gemini, and character.AI with thousands of minor-perspective crisis prompts .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/meta_logo.png",
-      "fullArticleLink": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-06-30T14:47:09.270123Z"
-    },
-    {
-      "id": "9666205142789bd90fc39acf062c0d8f",
-      "title": "US campaigns now run on AI at nearly",
-      "description": "Republican and Democratic campaigns now run on AI at nearly every step, from vetting opponents to micro-targeting voters . But the technology is still a political minefield, and Europe is taking a very different approach to the issue . Europe is drawing a harder line, drawing a hard line on the issue of AI, according to a New York Times report . The report says that European countries are taking a different approach, with the EU taking a tougher stance .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/11/us_election_chatgpt.png",
-      "fullArticleLink": "https://the-decoder.com/us-campaigns-now-run-on-ai-at-nearly-every-step-and-europe-is-drawing-a-harder-line/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-06-30T14:46:56.640837Z"
-    },
-    {
-      "id": "2e6677ef75d7b46a16b8f742baa82a96",
-      "title": "Why do South Koreans love AI so much?",
-      "description": "A majority of South Koreans use AI every day, either as a sort of personal assistant or to do tasks at work . Government agencies are deploying AI textbooks in schools and AI eldercare robots in welfare centers . South Koreans share a deep conviction that embracing technology is integral to modernizing the country and cementing its place in the global order . As South Korea rose from the ashes of the Korean War, technology lifted the nation from poverty into an economic powerhouse .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/AP26126222060508.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-30T14:46:36.753366Z"
     }
   ]
 }
