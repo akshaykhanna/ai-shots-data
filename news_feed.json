@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "id": "c058daa1dd11bb41ff3a0d9bdea36264",
+      "title": "Is it legal to train AI models",
+      "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes Flash Sale and TechCrunch Desktop Logo TechCrunch Mobile Logo . LatestStartupsVentureAppleSecurityAIAppsDisrupt 20 26 EventsPodcastsNewsletters . Latest AI AI on copyrighted books? Amanda Silberling: \u201cI think one of the issues with this area of technology is there\u2019s going a lot on a lot of technology . Cathy Gellellell: \u2018I think this is going to undermine their livelihoods. That seems illegal, right? \u201c",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
+      "fullArticleLink": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-24T01:52:12.221623Z"
+    },
+    {
+      "id": "fc3e349b3942bd1b1f8725e3f5c73377",
+      "title": "Linkdaze\u2019s smart calendar is built to run",
+      "description": "Get $100 off your Disrupt 2026 ticket . Flash Sale includes a flash sale of the techCrunch mobile app . The app is built to run a household calendar rather than a single person's calendar . It can sync up with iCloud, Yahoo Outlook, Yahoo Cozi, Yahoo, Yahoo and Cozi apps and is compatible with Apple's iCloud calendar system . It's not just a regular paper calendar, but it's a digital calendar built in a touchscreen touchscreen tablet .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-24T01:51:56.882413Z"
+    },
+    {
+      "id": "be28f1428bf35df8501cff039929dda1",
+      "title": "Ox Alpha is the latest in a series",
+      "description": "A mysterious new AI model called Alpha has driven certain corners of the internet into a frenzy of speculation about who built it . The free model described as \u201ca coding model designed for sustained coding, sustained work, and production workload,\u201d said the OpenRouter . CEO Patrick Collison (whose company is acquiring Open .Router) described it as \u2018very impressive\u201d and said it was \u201cstealth and operated by a third-party\u201d Unsurprisingly, much of the speculation has revolved around the speculation .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-24T01:51:40.007517Z"
+    },
+    {
       "id": "830dd39f634e1aa9aba6590a42fc6d1d",
       "title": "How China's gray market sells Claude tokens",
       "description": "Anthropic's strict access controls against China, from geoblocking to selfie verification, are being systematically bypassed through a thriving network of so-called \"transfer stations\" Chinese developers can buy Claude tokens for as little as ten percent of the list price . Analyst Zilan Qian warns that the circumvention infrastructure weakens export controls and Anthropic\u2019s own safety systems . Analyst: \"Transition stations\" weakens the company's own safety and export controls .",
@@ -15360,49 +15404,6 @@
         "Startup"
       ],
       "pubDate": "2026-06-30T14:46:36.753366Z"
-    },
-    {
-      "id": "8add01e4aff738028b7963e42b8d7731",
-      "title": "A startup claims it broke through a bottleneck",
-      "description": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim . It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade . The company has now shared more details about its new model, SubQ . SubQ is able to process up to 12 times as much text at once, allowing it to carry out a range of data-heavy tasks .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cheetah-speed2a.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-30T14:46:18.762232Z"
-    },
-    {
-      "id": "e5321e5c15e444031cfa9a28606b10f4",
-      "title": "Anthropic\u2019s latest feud with the government continues",
-      "description": "Anthropic's latest feud with the government has raised new questions about AI safety and sovereignty . Anthropic revoked access to its AI models after the government placed export controls on them . It's possible that shutting off access to Anthropic\u2019s models will leave the country more vulnerable to cybersecurity attacks, not less . The French politician Bruno Retailleau described it as a \u201cwake-up call\u201d that should motivate Europe to build more AI .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/WH-v-Anthropic.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-06-30T14:46:01.287783Z"
-    },
-    {
-      "id": "beb8eaf07e313fc8082b8871fb9c2686",
-      "title": "OpenAI's Jalape\u00f1o chip was created by an algorithm",
-      "description": "OpenAI's financial trajectory hinges heavily on infrastructure costs . Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to mitigate the heavy capital expenditure associated with third-party hardware . Nvidia currently commands an estimated 75% profit margin on Nvidia, which currently commands a 75% profits margin on the chip . The Jalape\u00f1o chip was developed by Broadcom in partnership with OpenAI .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/openai-broadcom-jalapeno-inference-chip-image.png-scaled.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-06-30T04:30:20.147119Z"
     }
   ]
 }
