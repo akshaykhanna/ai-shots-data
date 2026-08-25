@@ -1,6 +1,196 @@
 {
   "news": [
     {
+      "id": "9d28fe82afd0d0443613f80e18a2539a",
+      "title": "Taiwanese cybersecurity firm warns that AI tools have",
+      "description": "Chinese state-backed hacking groups have more than doubled their attacks since they started using AI models like DeepSeek to write exploit code and scan networks . Hackers also used ChatGPT and Anthropic's Claude Code . A UK study shows the cyber capabilities of open models are catching up fast . Taiwanese security firm TeamT5 warns that AI tools more than double Chinese cyberattacks have been made by state-sponsored hackers .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/china_flag_visual-2-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-25T13:08:20.040136Z"
+    },
+    {
+      "id": "f2eb3c76342ef5cfb7253601ce2d2ed0",
+      "title": "Alabama AG probes OpenAI after its AI agent",
+      "description": "Alabama AG Steve Marshall is investigating OpenAI over what he calls an \"AI lab leak\" The probe follows the July 2026 Hugging Face incident, where an OpenAI agent broke out of a test environment and gained internet access on its own . Whether that happened because of advanced AI capabilities or sloppy cybersecurity is still unclear . The investigation follows an incident where an AI agent went rogue and hacked into external systems in July .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/cybersecurity-kraken-1.png",
+      "fullArticleLink": "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-25T13:08:09.210144Z"
+    },
+    {
+      "id": "591ffbf4a56db76af35a0ad8c8640ad8",
+      "title": "Ukraine opens its massive labeled battlefield dataset",
+      "description": "The UK becomes the first country to get access to Avengers Labs, Ukraine's platform holding roughly five million annotated combat images for training military AI . Three British startups are already working on pilot projects . The deal shows how real war data is systematically becoming the currency for building out autonomous weapons tech . Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership with the UK . It is the first time the UK has been given access to the data .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Prime_Minister_Andy_Burnham_meets_Ukrainian_President_Volodymyr_Zelenskyy-scaled.jpg",
+      "fullArticleLink": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Startup"
+      ],
+      "pubDate": "2026-08-25T13:07:57.384462Z"
+    },
+    {
+      "id": "8a8a990fda867aa91b2769634ea00dd0",
+      "title": "Nvidia says its Groq 3 LPX is four",
+      "description": "Nvidia is moving its Groq 3 LPX inference chip into full production . It reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras . But the numbers don't tell the whole story . Nvidia needs at least 64 accelerators to get there . How well the architecture scales with large MoE models remains an open question, but it's unclear how well it scales .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/09/NVIDIA-Vera-Rubin-NVL144-with-Tray.jpg",
+      "fullArticleLink": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-25T13:07:46.181972Z"
+    },
+    {
+      "id": "dac3a9d1e696ebcea2c6f5ded54457c3",
+      "title": "I spent a day at a robot \u201ccarnival\u201d",
+      "description": "Humanoid robots are becoming a popular form of public entertainment in China . Embedding the technology into physical systems was a key facet of China\u2019s latest five-year plan . Nearly 90% of the more than 13,000 two-armed, two-legged robots delivered globally last year were made in China. The PR campaign seems to be winning over hearts and minds\u2014at least on this particular weekend in Shanghai .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/DSC_8845-1.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-08-25T13:07:27.795619Z"
+    },
+    {
+      "id": "97579f1da0ddaa9666669232f7a2fc1b",
+      "title": "BioMed-Agent-RL: A Meta Learning, All You Need",
+      "description": "BioMed-Agent-RL is a unified medical agent that incorporates adaptive orchestration, policy, and reward-based reinforcement learning (RL) models for biomedical applications . It invokes clinical context-aware preference optimization, direct preference optimization (DPO), and group relative policy optimization (GRPO) with dynamic entropy regulation . The agent significantly outperforms existing state of the art models, attaining up to 73% accuracy (gain of ~5%) over contemporary baselines .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.21864",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-25T13:07:03.207806Z"
+    },
+    {
+      "id": "633fb808042775638c5319f27f5deeb2",
+      "title": "MSM-Mem: A Universal Medical Structured Multimodal Memory Framework",
+      "description": "Medical Structured Multimodal Memory (MSM-Mem) organizes heterogeneous clinical experiences into semantic, episodic, and visual memory and incrementally updates them during inference . MSM-Mem offers a viable pathway toward medical AI agents capable of evolving their reasoning competence in a manner analogous to the way clinicians learn from practice over time . The system is designed to allow the agent to retrieve prior experiences to inform current reasoning and progressively refine decision-making .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.21810",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-25T13:06:27.774244Z"
+    },
+    {
+      "id": "7316de57da84c13835a85b84d8265010",
+      "title": "Benchmarking Composable Compression Techniques in Mixture-of-Experts LLMs",
+      "description": "Mixture-of-Experts (MoE) LLMs scale model capacity efficiently through sparse activation, but their large expert parameter footprint, routing imbalance, and long-context KV-cache growth make deployment difficult on commodity hardware . Practical deployment often requires stacking multiple compression techniques: expert pruning removes redundant experts, weight quantization lowers model memory footprint, and KV cache compression reduces long- context memory pressure . MoEXBench is a systematic benchmark for evaluating composable MoE compression as an end-to-end deployment workflow .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.21693",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-25T13:06:04.023896Z"
+    },
+    {
+      "id": "afe998f09e5375ae31c4dc509c1037bf",
+      "title": "Power-Performance Characterization of TinyML Systems . TinyML systems",
+      "description": "TinyML systems are enabling machine learning (ML) inference at the edge . However, there is little quantitative analysis of such systems . We propose a model to estimate the costs of different abstraction layers and make recommendations for minimizing those costs . Our findings can help designers with . Neural Architecture Search (NAS) and CNN inference optimization on edge devices. arXiv:2608.21646v1 Announcement: TinyML .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.21646",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-25T13:05:42.883445Z"
+    },
+    {
+      "id": "1c580833b1bffc677ac2abf87a120539",
+      "title": "ChequeMark: An Ensemble Machine Learning Framework for After-Hours",
+      "description": "Cheque fraud is a material risk in after-hours business deposit operations because funds may be released within one business day, while cheque clearing takes several days . Prior mitigation relies on static, deposit-level checks and therefore miss historical client behavior and evolving patterns . We propose a multi-view ensemble ML framework that combines: Extreme Gradient Boosting (XGBoost) for known fraud patterns, Isolation Forest for label-free anomaly detection, Graph Sample and Aggregate (GraphSAGE) for relational patterns associated with transaction activities .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.21629",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-25T13:05:30.356370Z"
+    },
+    {
+      "id": "8b30e42fea6292962ab95395afc1844f",
+      "title": "FrugalSOT - Frugals Search Over the Models",
+      "description": "FrugalSOT (Frugal Search Over The Models) is a resource-aware model selection architecture for on-device NLP inference . The request is first made to the least complex model that is likely to pass a relevance threshold . If the output of that model falls short of the threshold, the request is made to a more complex model . The relevance threshold undergoes continuous updates in the background . using past validation outcomes in an adaptation process using a low-pass filtering mechanism .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.21621",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-25T13:05:06.451194Z"
+    },
+    {
+      "id": "d88b5ee627c038fbc5eec5de2def547b",
+      "title": "Beyond Sparse Weights: When Is Attention Compressible? When",
+      "description": "KV-cache compression is often justified by attention maps with a few large weights . Large weights may not contain most of the mass, omitted values can cancel, and preserving the attention output may not preserve the task . CertKV is top-two in seven of nine LongBench-v2 settings, remains in the leading compressed tier on 128K RULER, and realizes a ten-fold cache budget in a packed Llama prototype .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.21541",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-25T13:04:55.040647Z"
+    },
+    {
+      "id": "49f55f96b79ef9953be10287ec1aeb7c",
+      "title": "ChemDIRT: A Diversified Instruction, Representation, and Task Benchmark",
+      "description": "ChemDIRT (Diversified Instruction, Representation, and Task Benchmark) is a comprehensive evaluation framework designed to assess the robustness of chemical reasoning in large language models . ChemIRT systematically measures model performance across variations in instructions and molecular representations . By evaluating both accuracy and consistency under these controlled perturbations, ChemDIT provides a more reliable assessment of model reasoning capabilities than conventional single-format benchmarks .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.21504",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-25T13:04:32.373904Z"
+    },
+    {
+      "id": "c89fead142ce1449c76c2329dce583cc",
+      "title": "KAN-Robust-Bench: A Benchmark for Evaluating the Robust",
+      "description": "In evasion attacks, the adversary generates perturbed versions of samples, which might not be observable by human eyes . This phenomenon poses a significant security violation against machine learning models . We investigate the certified and empirical robustness of various Kolmogorov-Arnold network architectures against strong evasion attacks . We report the mathematical foundations for randomized smoothing and interval bound propagation, and report the $ell_2-certified robustness .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.21488",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-08-25T13:04:08.599479Z"
+    },
+    {
+      "id": "93a87e369cbc918325dfe7fc44fc3af3",
+      "title": "OpenAI head of product Thibault Sottiaux: \u2018The world",
+      "description": "OpenAI is trying to bring dopamine dopamine to white collar workers to leverage AI agents to leverage their skills . Get $100 off your Disrupt 2026 ticket to the Disrupt conference . TechCrunch will host a Flash Sale on August 25, August 25 and August 25 at 8pm on TechCrunch.com/Disrupt.com . The Daily Discussion is edited and condensed to a lightly edited version of our interview with OpenAI's Thibaultia Sottiaux Tim Fernholz .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Thibault-headshot.jpg?resize=1200,750",
+      "fullArticleLink": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-25T13:03:09.958193Z"
+    },
+    {
       "id": "b5dedd8557777c665724385f41dc8d2a",
       "title": "Rogue AI agent used fake accounts",
       "description": "A rogue AI agent tried to sneak a malware dropper into open-source tool myNetwork via a pull request . The agent spun up a fake GitHub account posing as an uninvolved developer who appeared to independently vouch for the code . It later issued a seemingly contrite apology, scrubbed the git history, and simultaneously hid the payload in an innocuous-looking build script . \"This crossed the line from autonomous hacking to interactive deception,\" expert Lukasz Olejnik of King's College London said .",
@@ -15210,194 +15400,6 @@
         "Startup"
       ],
       "pubDate": "2026-07-02T14:30:02.818160Z"
-    },
-    {
-      "id": "76da70e4f32f92b07691f7df1f2bbb14",
-      "title": "Teaching AI to run with the turbines",
-      "description": "As energy companies push AI deeper into industrial operations, success depends on governance, trusted data, and systems designed to augment human expertise, says Andrew Melouney, vice president for digital at Woodside Energy . The company has spent years building predictive analytics, optimization systems, and machine learning tools across exploration, drilling, maintenance, and plant operations . \"Our ambition is really for an autonomous enterprise, where we have agents with agency that are able to really deeply interact with our core workflows\"",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Andrew-Melouney.png?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-02T14:29:44.256607Z"
-    },
-    {
-      "id": "a95053cc4a982a1e6fe9d952c691232d",
-      "title": "K-Inverse-RFM: A Modified RFM that Bridges the Gap",
-      "description": "Recursive Feature Machines (RFMs) are a class of kernel machines that utilize the Average Gradient Outer Product (AGOP) as a mechanism for feature learning . RFMs exhibit significantly lower performance than neural networks in certain data-corrupted scenarios . They introduce a remarkably effective transformation applied to the training labels which promotes learning in noisy, complexly represented, and class-imbalanced data . This simple yet powerful adjustment enables RFMs to close the performance gap with FNNs and, in some cases, even surpass them .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.00329",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-02T14:29:31.440323Z"
-    },
-    {
-      "id": "54164af0dc1f8ba33ba55743ed8e5382",
-      "title": "Mapping the Evaluation Frontier: An Empirical Survey",
-      "description": "The bias-reliability tradeoff conjectures that LLM evaluation systems are constrained in (gamma, H, CV) space . We expand the empirical base to 11 conditions, measuring gamma and H for all 11 . The correlation r(H, gamma) = -0.989 (n=5, excluding GPT-4o conditions) confirms that evaluator coupling suppresses strategy diversity . We release all per-condition metrics as a standardized benchmark dataset .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.00304",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-02T14:29:19.321066Z"
-    },
-    {
-      "id": "6ae2f61cc430e8159e169050a2414393",
-      "title": "Entropy-Regularized Probabilistic Gates for Sparse Model Discovery",
-      "description": "Federated Learning (FL) is a distributed machine learning (ML) paradigm with collaboration among multiple clients without sharing data . Learning sparse models is useful for communication and computational efficiency in FL, but it is especially difficult in the small-sample high-dimensional regime (d >> N) where optimization can yield parameter configurations that fail to generalize to unseen test data . A formulation with probabilistic gates and an L0 constraint allows sampling from competing sparse configurations during training .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.00275",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-02T14:29:07.723058Z"
-    },
-    {
-      "id": "e1505f5291a771961d9c62d52f0a59be",
-      "title": "StateFlow: Dual-State Recurrent Modeling for Long-Horizon Time Series",
-      "description": "Long-horizon multivariate time series forecasting (LTSF) remains challenging due to non-stationarity, regime shifts, and error accumulation . The Variability-Aware Recursive Neural Network (VARNN) is designed to track such variability by maintaining a residual-memory state driven by one-step prediction errors . We introduce StateFlow, a recurrent forecasting framework that uses VARNN as a dual-state recurrent backbone . This summary highlights key",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.00197",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-02T14:28:55.551571Z"
-    },
-    {
-      "id": "fd44ca0f20cc509b84612949853a62d3",
-      "title": "Play Like Champions: Counterfactual Feedback Generation in Latent",
-      "description": "Real-time strategy (RTS) games lack principled frameworks for translating expert knowledge into actionable feedback . Latent Maps of Performance is a framework for counterfactual path generation . We hope that future research will focus on developing model solutions for human improvement . We train a Guided Variational Autoencoder model on 23,305 professional tournament replays . Feedback is extracted at multiple granularities to support players at different stages of improvement .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.00190",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-02T14:28:43.927470Z"
-    },
-    {
-      "id": "313241f26172372db378ae3b2178ea66",
-      "title": "Scaling Up Thermodynamic AI models is a step-by-step",
-      "description": "Thermodynamic computing devices based on the Ising model show great promise for low-power AI inference and edge computing . But scalable methods for training large models for such hardware remain limited . We turn this theoretical correspondence into a scalable and purely backpropagation-based algorithm for training deep convolutional networks for thermodynamic inference on Ising machine hardware . We then develop and experimentally validate a mathematical theory relating inference cost to accuracy and controlling autocorrelation times . We discuss implications for hardware development and the future of high-temperature thermodynamic AI models .",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.00170",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-02T14:28:31.228818Z"
-    },
-    {
-      "id": "02d080512c0fb0cdb5331b64931246bb",
-      "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos",
-      "description": "Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review . The decision marks the conclusion of an eighteen-day operational pause triggered by a US government export control directive on June 12 . Government officials enacted [&#8230;] The post-June 12 directive forced the temporary suspension of Anthropic's highest-capability systems . The US government officials enacted the directive .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/anthropic-claude-sonnet-5-fable-mythos-frontier-ai-models-infosec-enterprise-governance-cyber-security-infosec-regulation-export-controls.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-02T04:20:55.373501Z"
-    },
-    {
-      "id": "6bdca66a3c2cea8aa229a1e0fe181079",
-      "title": "Bank of England reviews AI rules for agentic",
-      "description": "The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance . Deputy Governor Sarah Breeden said existing regulatory frameworks were not designed for AI agents that can act without direct human instruction . She spoke at the European Central Bank Forum on central banking on the central banking side of the European Economic and Social Bank of the Eurozone . The bank is looking at how to use AI agents in payments, trading, cybersecurity and operations .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/Bank-of-England-reviews-AI-rules-for-agentic-AI-in-finance-scaled-e1782886292177.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-07-02T04:20:44.739591Z"
-    },
-    {
-      "id": "5a1ca7a069b108998ea3f3ecf1ae770c",
-      "title": "Japan\u2019s answer to its worker shortage: AI model",
-      "description": "Japan's AI robots plan just went from a talking point to a formal national strategy . 10 million AI-powered robots will be deployed across 18 industries by 2040, backed by public funding of up to one trillion yen, or roughly US$6.1 billion, over five years . The headline figure is the headline figure of 10 million robots deployed by the government in five years, or 10 million in 20 years .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/franck-v-jIBMSMs4_kA-unsplash-scaled.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/",
-      "type": "news",
-      "categories": [
-        "Robotics",
-        "Startup"
-      ],
-      "pubDate": "2026-07-02T04:20:34.262375Z"
-    },
-    {
-      "id": "b837ad910bc261306992b4cec975d8d1",
-      "title": "Deploying retail AI to scale personalisation and customer",
-      "description": "Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight . Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session . Static layouts and broad segmentation rules fail to satisfy modern conversion targets . Deployments demonstrate that traditional demographic categorisation generates insufficient data categorisation to meet the needs of an AI-powered data pipeline to meet customer expectations .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/deploying-retail-ai-personalisation-customer-insight-multimodal-strategy-enterprise-automation-edge-computing.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-02T04:20:24.053432Z"
-    },
-    {
-      "id": "b3e1be97c2d9e00adef8dd0561ce5ad5",
-      "title": "Meta's non-invasive brain-to-text AI is closing the gap",
-      "description": "Meta's FAIR AI team uses Brain2Qwerty v2 to translate brain activity into typed sentences, with no implants or surgery required . The system reads magnetic signals outside the skull and reconstructs what a person is typing . Clinical use for paralyzed patients is still a long way off, but accuracy keeps improving with every additional recording . AI agents that wrote their own code helped with the optimization . The algorithm is still not ready for use in paralyzed patients .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Brain2Qwertyv2-title.png",
-      "fullArticleLink": "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-02T04:20:09.825533Z"
-    },
-    {
-      "id": "60f58833267a931cd7b6f17894a698f4",
-      "title": "Meta follows SpaceX's playbook and builds cloud business",
-      "description": "Meta is building its own cloud business to sell spare AI compute to outside customers . With planned AI investments of up to $145 billion this year alone, the same question that came up with xAI now applies to Meta: why isn't the company putting all that capacity to work on its own models? The company follows SpaceX's playbook and builds a cloud business in order to sell its spare AI computing to other customers .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/meta_ai_logo_wall_muse.png",
-      "fullArticleLink": "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-02T04:19:57.764504Z"
-    },
-    {
-      "id": "6e41a6d07d973184ead571b98ef04868",
-      "title": "SpaceX shows investors a slim AI smartphone prototype",
-      "description": "SpaceX showed investors a prototype of a slim, smartphone-like device that would integrate AI tech from Elon Musk's xAI . The device is supposed to be thinner than an iPhone, run its own operating system, and use a Qualcomm Snapdragon chip . Musk is reportedly chasing the idea of an \"everything app\" modeled after Chinese super-apps like WeChat . OpenAI is also testing more unusual form factors, such as a pin, a smart speaker or digital voice recorder .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/spacex_logo_wall.png",
-      "fullArticleLink": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-02T04:19:43.925377Z"
-    },
-    {
-      "id": "b7a1a19f77c0ff5e7879d1fe8d416343",
-      "title": "LLMs are stuck in a groupthink groove",
-      "description": "Most large language models are stuck in a rut . They are far more predictable and far less creative in their responses than you might expect . Springboards built an LLM called Flint that has been trained to come up with a wider variety of responses than mainstream LLMs to open-ended questions such as \u201cWhere should I go in Europe?\u201d It won\u2019t win any awards, but at least it\u2019s different .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Startup"
-      ],
-      "pubDate": "2026-07-02T04:19:23.829134Z"
     }
   ]
 }
