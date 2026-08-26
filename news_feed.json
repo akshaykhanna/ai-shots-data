@@ -1,6 +1,206 @@
 {
   "news": [
     {
+      "id": "5f1d04b47c3e6ceaab51e9075eb66f03",
+      "title": "XPENG IRON humanoid robot draws record physical",
+      "description": "XPENG's physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform . Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple investors . XPENG says the deal represents the largest single-round private capital raise in the history of private capital raising . The IRON robot platform is based in China and is based at XPENG .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/xpeng-iron-humanoid-robot-physical-ai-model-artificial-intelligence-china-platform-scaled.jpeg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Startup"
+      ],
+      "pubDate": "2026-08-26T13:17:38.618393Z"
+    },
+    {
+      "id": "813c205aa1a4a2774d53213f2270aaba",
+      "title": "NVIDIA Jetson Orin Nano 2 brings physical",
+      "description": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems . The company is positioning the new board as an entry-level option for developers who want generative AI models running directly on a machine instead of inside a data centre . NVIDIA's argument for the board is that it is a cheaper way to run a machine without having to rely on data centres .",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/nvidia-jetson-orin-nano-2-physical-ai-edge-computing-robotics-artificial-intelligence.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-26T13:17:16.304284Z"
+    },
+    {
+      "id": "f5e441e0e9f8a60ce689d6c4a562f717",
+      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+      "description": "Gatik raises $200 million in Series D funding to expand its driverless freight operations across North America . The round was led by Qatar Investment Authority and Koch Disruptive Technologies . Gatik said it has more than $600 million in cash . The autonomous trucking company says it has over $600M in cash and has $200M in other investments in the U.S. Gatik: \"It's a good investment opportunity for the future\"",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Gatik-raises-200M-to-scale-AI-powered-autonomous-freight-scaled-e1787721024660.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Startup"
+      ],
+      "pubDate": "2026-08-26T13:17:05.062327Z"
+    },
+    {
+      "id": "66c17d54d994d1cb8e14276cf9ca0a3f",
+      "title": "Anthropic sees a market opportunity of more than",
+      "description": "Anthropic wants to sell investors on a theoretical market opportunity worth more than $30 trillion . The company is expected to put its total addressable market (TAM) at that figure . That would put Anthropic ahead of SpaceX, which claimed $28.5 trillion in May . The 191 tech firms in the S&amp;P 1500 pulled in a combined $2.4 trillion last year, FactSet says .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-26T13:16:49.454232Z"
+    },
+    {
+      "id": "f54daa777a2b4730c95aa69efb5e56e4",
+      "title": "Bill Gates warns AI is more dangerous than",
+      "description": "Bill Gates warns in an essay and NYT interview about mass unemployment and easier bioterrorism through AI . He accuses his own industry of deliberately hiding the risks . \"It's bad for us, for the next trillion we're trying to raise,\" he says . He rejects self-regulation and instead calls for institutions modeled on nuclear weapons control and a token tax on AI use . Gates: \"I'm not optimistic about the future of AI, I'm optimistic\"",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2023/10/bill_gates_gates_foundation.png",
+      "fullArticleLink": "https://the-decoder.com/bill-gates-warns-ai-is-more-dangerous-than-the-tech-industry-will-admit/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-26T13:16:37.002745Z"
+    },
+    {
+      "id": "305b43598929c405620b7561f3dd2c15",
+      "title": "Chinese Moonshot AI negotiates hosting deals with Microsoft",
+      "description": "Chinese AI startup Moonshot AI is in talks with Microsoft, Amazon, and Google over revenue-sharing deals . Moonshot is asking for up to 30 percent of revenue from Kimi K3 services, Reuters reports . US Treasury Secretary Scott Bessent recently threatened Moonshot with a trade ban, and US authorities have accused the company of stealing Anthropic's model Fable . No Chinese AI company has struck a deal like this with a major US cloud provider before .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/moonshot_ai_logos.png",
+      "fullArticleLink": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-08-26T13:16:22.366422Z"
+    },
+    {
+      "id": "17b61a9f534c2e247d33dbda4aa2079f",
+      "title": "Employee revolt and failing agents forced Meta",
+      "description": "Meta wanted to replace far more of its workforce with AI than previously known . The plan collapsed under rebellious employees and agents that failed to deliver . The agent technology never delivered the productivity gains Meta expected, investors criticized the massive AI budget, and the workforce openly revolted . Zuckerberg admitted that the agent technology hadn't sped up as fast as he had expected . Follow The Decoder for AI news, background stories and expert analyses .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Meta-AI-Agents.png",
+      "fullArticleLink": "https://the-decoder.com/employee-revolt-and-failing-agents-forced-meta-to-scrap-its-ai-layoff-plan/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-26T13:15:56.963882Z"
+    },
+    {
+      "id": "8e8985dedaaeb0be6883c0374a34ac22",
+      "title": "AI models flub these intelligence tests. Can you",
+      "description": "Try your hand at these seven tests to see if you can outwit AI . Judged purely on its puzzling skills, AI is improving a lot\u2014and quickly . Despite advances, today\u2019s models still fumble: Subtle changes in classic riddles often trip them up, and visual puzzles are a particular weak spot . Seeing where models succeed and fail can provide a useful window into the technology's strengths and weaknesses . Each one highlights at least one way in which machine and human cognition differ .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-26T13:15:22.212136Z"
+    },
+    {
+      "id": "606181c5d71a0cc75fd9ddb2de377a0d",
+      "title": "Raised on AI, the world's first AI-powered robot",
+      "description": "The desire to limit kids\u2019 use of technology has become a raging flood . Australia became the first country to enact a social media ban for children under 16 . The hottest gadget among the Gen Alpha set is a vintage Sony Walkman . We have to prepare our children to live in the actual world we have actually created, not the one we wish we had. How can we help kids survive and thrive in what we have wrought?",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief-thumb.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-26T13:15:07.555976Z"
+    },
+    {
+      "id": "08c9c9004cbaa83c1b38022d2bbe7d7c",
+      "title": "Knowing When to Ask for Help: Bayesian Self-Escalation",
+      "description": "Current LLM agent systems decide delegation before reasoning begins (a router picks a model) or after a response is complete (a verifier scores it and may retry) We study a third regime: an agent that recognises, during its own reasoning, that it is unlikely to succeed and transfers control to a stronger model . We formulate intra-generation delegation as a Bayesian optimal-stopping problem over a learned competence posterior -- an online estimate of the agent's eventual task success .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.24087",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-26T13:14:28.095705Z"
+    },
+    {
+      "id": "40878f997a775ac4ea1dcb08f09b0e2d",
+      "title": "Discovering Cross-Language Reasoning Invariance in LLMs with Geometry",
+      "description": "Multilingual language models can solve the same mathematical problem in different languages . But it remains unclear whether they rely on shared features or on language-specific computations that only produce similar outputs . We study five models from four families using the Multilingual Grade School Math (MGSM) dataset . We find that cross-language feature sharing is model- and architecture-dependent in this sample and appears at different depths in different models .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.23809",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-26T13:12:06.262641Z"
+    },
+    {
+      "id": "d56bb99852c0c14254bb5d868dd53432",
+      "title": "Runable hits $21M to bet AI agents can",
+      "description": "Runable hits $21 million to go from building AI-powered websites and apps to growing them . Runable is betting on the next opportunity lies in finding customers and helping businesses grow up . The startup has raised $21million to expand in that direction . Get $100 off your Disrupt 2026 ticket! Get the latest TechCrunch Flash Sale and TechCrunch Mobile Newsquiz.com/Newsquiz .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/runable-co-founders-umesh-saksham.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-26T13:10:07.833797Z"
+    },
+    {
+      "id": "c7519cb8e61684b680b33580a238cc35",
+      "title": "Legato emerges from stealth with $12M",
+      "description": "Legato, a new tech company, aims to close that gap with $12 million in funding . Legato is emerging from stealth Wednesday with a first look at its AI hearing glasses . The hearing loss affects an estimated 50 million adults in the United States, but only around 20% of those diagnosed with hearing loss seek treatment . Get $100 off your Disrupt 2026 ticket to get a ticket to the Disrupt event .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/legato.png?resize=1200,751",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-26T13:09:50.752520Z"
+    },
+    {
+      "id": "26bfb8eb611d8fcb3d6974627e932897",
+      "title": "Arga is building a better way to train",
+      "description": "Arga is building a way to train and train AI agents before they are deployed, particularly on complexities of the modern enterprise . Arga builds training environments for enterprise software software like Salesforce, Workforce and email clients like Workforce . Get $100 off your Disrupt 2026 ticket! Get a $100 ticket to the Disrupt Disrupt next month at TechCrunch.com/2026 . The startup raised $10 million in a seed-funding round that was led by General Catalyst .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Arga-Headshots.jpg?resize=1099,1200",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-26T13:09:32.271046Z"
+    },
+    {
+      "id": "9831f37a70b7fd13341e6acb2e41a055",
+      "title": "QueryStory wants you to believe what",
+      "description": "Get $100 off your Disrupt 2026 ticket to TechCrunch's Startup Battlefield 2026 . Shapor Naghibzadeh says LLMs can bring the same functionality to all kinds of databases in a fraction of the time that LLMs need to spend in the next six years . TechCrunch is 6:00:00 AM ET August 26:00, August 26, August 25, August 27, August 28, August 30, August 31, August 4, August 5, August 6, August 7, August 8, August 9, August 10, August 11, August 12, August 17, August 18 .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/QueryStory-Groups-8-1.jpg?resize=1200,799",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-26T13:09:10.336378Z"
+    },
+    {
       "id": "aa1e23170ed95cc39098bbf015f2c946",
       "title": "Meta's paid AI agent Hatch launches soon",
       "description": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October . Hatch is set to become a consumer version of the OpenClaw agent and is part of CEO Mark Zuckerberg's plan to make money off the company's heavy AI spending . Hatch will tap into sites like DoorDash, Etsy, Reddit, Yelp, and Outlook, and to offer a customizable dashboard with features like a fitness tracker .",
@@ -15229,191 +15429,6 @@
         "LLM"
       ],
       "pubDate": "2026-07-04T03:59:56.673414Z"
-    },
-    {
-      "id": "5c9fd2f1577c6400beb18b80a96e2a25",
-      "title": "Microsoft follows Anthropic and OpenAI into",
-      "description": "Microsoft reportedly plans to merge its consumer and enterprise Copilot apps into a single app in August . Rarely used features like Copilot Podcasts are getting cut, and new AI agents called \"AutoPilot\" will handle tasks in the background for an extra fee . Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents, according to The Decdecation .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_copilot_logo-2.png",
-      "fullArticleLink": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-04T03:59:45.047151Z"
-    },
-    {
-      "id": "4fecbc98245b0932c80258276b06e5d2",
-      "title": "WARP: Weight-Space Analysis for Recovering Training Data Portfolio",
-      "description": "Foundation models are routinely released to the public, yet the data recipes used to train them are rarely disclosed . Researchers study the resulting models but lack visibility into the training distribution that produces them . We introduce WARP, a framework that recovers a fine-tuned model's training mixtures directly from its released weights . In controlled experiments with BERT and GPT-2, WARP recovers domain mixtures with an average MAE as low as 0.046 .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.01686",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-04T03:59:29.941343Z"
-    },
-    {
-      "id": "4ac55f08c79dd9e9bd0e87c5c9e52a16",
-      "title": "SCAPE: Accurate and Efficient LLM Training with Extreme",
-      "description": "Communication increasingly dominates the cost of Large Language Model pre-training . SCAPE exploits stability of AdamS's first-moment to enable aggressive sparsification without loss of LLM quality . For Llama-1.8B, SCAPE achieves up to 3.26$\\times$ speedup per step compared to dense AdamS . In both models, SCape preserves training stability, validation loss and downstream task accuracy under 90\\% and 99\\% sparsity .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.01678",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-04T03:59:16.774464Z"
-    },
-    {
-      "id": "00c2e271312e511dc16847136387dd7e",
-      "title": "Message Passing Based Bayesian Learning for Joint Channel",
-      "description": "Hardware impairments in massive multiple-input multiple- input multiple-output (MIMO) receivers introduce inter-symbol memory . The wireless channel varies rapidly across slots, whereas hardware impairments drift slowly due to hardware aging and environmental variations . The proposed framework robustly achieves lower channel estimation error than conventional compensators followed by channel estimation across different online impairment scenarios and signal-to-noise ratio (SNR) conditions .",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.01660",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-04T03:59:04.649883Z"
-    },
-    {
-      "id": "518d2b3440bb7a943dbbffe87e2c45e8",
-      "title": "DeadPool: Resilient LLM Training with Hot-Swapping via Zero",
-      "description": "DeadPool incorporates a fault-tolerance mechanism that restores LLM training via hot-swapping, namely by replacing failed nodes with spare nodes without terminating the complete job . DeadPool efficiently overlaps the in-memory checkpointing with computation, thus introducing zero overhead during error-free execution . Upon permanent node failures, DeadPool can rebuild memory states with minimal recomputation by leveraging in memory checkpoints . The tradeoff between failure-free overhead and recovery latency forms a space forms a Pareto frontier .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.01646",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-04T03:58:51.080810Z"
-    },
-    {
-      "id": "fec0ed486e07475dd410d2f04a49bc23",
-      "title": "SINA: A Fully Automated Circuit Schematic Image",
-      "description": "SINA is a fully automated pipeline that integrates deep learning for robust component detection, connected-component labeling for accurate connectivity inference . SINA handles both IC- and PCB-level schematics and incorporates dedicated crossing-wires detection to differentiate wire intersections from connections . We validate the correctness of the generated netlists using graph isomorphism techniques. Our experiments demonstrate an overall netlist generation accuracy of 96.67%, which is 2.72x higher compared to state-of-the-art approaches .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.01609",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-04T03:58:38.089059Z"
-    },
-    {
-      "id": "cd8d4b02b774c23bf929e2cba860baae",
-      "title": "BOUNDARY_SYNC: Measuring Communication-Induced Representational Coupling",
-      "description": "As large language models are deployed as communicating agents, does inter-agent communication cause outputs to converge? We introduce a protocol measuring representational coupling via the Coupling Amplification Factor . In controlled GPT-4o experiments (N=30, ~9,900 API calls), we measure coupling in text and image communication . Key findings: Text communication causes significant homogenization (CAF=0.803 [0.740, 0.873] suggesting a directional shift toward diversification .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.01600",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-04T03:58:25.816795Z"
-    },
-    {
-      "id": "5e057968d7dec1ea661c9b6247d42412",
-      "title": "Chinese AI video maker Kling raises $2 billion",
-      "description": "Kuaishou has raised about $2 billion from investors for its AI video division, Kling . The funding round brought in 13.82 billion yuan ($2.04 billion) pushing the unit's valuation to $18 billion . The move puts Kling in a growing wave of Chinese AI companies lining up for IPOs in Hong Kong . Kling competes with tools like Google's Veo 3.1, Runway's Gen-4.5, and ByteDance's Seedance .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/kling-motion-control.jpg",
-      "fullArticleLink": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Startup"
-      ],
-      "pubDate": "2026-07-03T14:35:01.947991Z"
-    },
-    {
-      "id": "bd612ee784faec9a61ba517cb68a5c21",
-      "title": "Tesla caps employee AI spending at $200 per",
-      "description": "Tesla caps employee AI spending at $200 per week . Beta versions of xAI products are exempt from the cap . Elon Musk urged staff to try Cursor's coding model Composer and Grok, but Grok isn't popular with employees . Musk wants to deploy AI at scale in robotaxis and the Optimus robot . Tesla launched a platform called Bottle Rocket with models from OpenAI, Anthropic, xAI, and Cursor .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/10/We-Robot-Carousel-Slide-3-TeslaBot-Desktop-1200x675.png",
-      "fullArticleLink": "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics"
-      ],
-      "pubDate": "2026-07-03T14:34:47.886007Z"
-    },
-    {
-      "id": "37cbcc53ee5e89a072ed7a7acea2f086",
-      "title": "Meta's AI agent push is moving slower than",
-      "description": "Meta CEO Mark Zuckerberg admitted to weaknesses in the company's AI push . Zuckerberg said restructuring didn't go as \"clean\" as it could have, and executives misjudged the timing . AI chief Alexandr Wang painted a rosier picture of Meta's AI efforts . Zuckerberg expects more tangible results within the next three to six months, Wang said . Meta laid off roughly ten percent of its global workforce in May and moved about 7,000 employees into AI teams .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Meta-AI-Agents.png",
-      "fullArticleLink": "https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-03T14:34:29.883547Z"
-    },
-    {
-      "id": "e0c46c2ab5745f99ebf40cebb6fd3df0",
-      "title": "GPT and Claude failed Bridgewater's finance tests because",
-      "description": "Hedge fund Bridgewater and Thinking Machines Lab report that a finely tuned open-weight model outperforms the most powerful AI models in the evaluation of financial documents . The figures come from their own analysis . GPT and Claude failed Bridgewater&#039;s finance tests because the right answers were never public . The right answers are never public, so they failed the hedge fund's tests because of their lack of public data .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Hesitant_AI_Robot_Arm_Before_Money_and_Servers.png",
-      "fullArticleLink": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-03T14:34:17.947368Z"
-    },
-    {
-      "id": "440e0eb769d5ef3b677434c8af678c98",
-      "title": "Geometric Signatures of Reasoning: A Spectral Perspective",
-      "description": "Chain-of-thought (CoT) reasoning enables large language models to solve complex problems by generating intermediate reasoning steps . We introduce the effective dimension $d_\\rho as a measure of trajectory complexity . We show theoretically that trajectories with flatter eigenvalue spectra correspond to harder tasks . Kinematic features of the trajectory, mean position, positional dispersion, initial and current hidden states, mean velocity, mean speed, and speed dispersion can be used to predict solution correctness before generation is complete .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.01571",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-03T14:34:00.741404Z"
-    },
-    {
-      "id": "062bdb5e0310d7cd040a7503776231f1",
-      "title": "X-LogSMask: Expand Transformer for Graph-Structured Data . X",
-      "description": "X-LogSMask injects symmetrically normalized graph topology directly into attention logits . The logarithmic transform converts structural connectivity into a topology-aware gating signal, suppressing unsupported node interactions while preserving feature-dependent attention . The code is available at https://://://www.gong.com/LiLeyan-0120/X-logSMask . We show that simple, interpretable structural masks can make self-attention an effective graph-learning operator without changing the Transformer architecture . This summary",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.01553",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-03T14:33:46.728043Z"
-    },
-    {
-      "id": "3be85b085f60340bd0be7e132d42f3ce",
-      "title": "Evolutionary Feature Engineering for Structured Data",
-      "description": "Evolutionary Feature Engineering (EFE) is a framework for using LLM-based evolution to discover preprocessing transformations for structured data . EFE represents transformations as Python programs with a standardized fit/transform interface . For time-series forecasting, EFE-Time learns invertible, dataset-specific normalizations . It reduces forecasting errors (MASE, WQL, MAE) 3% or more when averaged across datasets . This summary highlights key aspects",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.01548",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-03T14:33:33.923015Z"
-    },
-    {
-      "id": "756e236fc18a95037546954668a69280",
-      "title": "Multi-Head Recurrent Memory Agents . Multi-head Recurrent memory",
-      "description": "Multi-Head Recurrent Memory (MHM) partitions memory into independent heads governed by a stage-wise select-then-update strategy . At each step, exactly one head is selected for update while the remaining heads are structurally shielded from overwriting . MHM-LRU substantially improves both retention and end-to-end accuracy across the 100K--1M token range, where baselines degrade sharply . This summary highlights key aspects of",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.01523",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-03T14:33:20.871349Z"
     }
   ]
 }
