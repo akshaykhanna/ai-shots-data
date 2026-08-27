@@ -1,6 +1,209 @@
 {
   "news": [
     {
+      "id": "a3abf9eb1ccd09ad583122771134750f",
+      "title": "Nvidia\u2019s business next year comes from labs it",
+      "description": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips . Nvidia has lined up commitments for more than $500 billion . Demand from the labs Nvidia backs with its own balance sheet will contribute toward roughly a quarter of its business next year . The company's chief financial officer told analysts that demand from labs Nvidia backed will contribute to roughly a 25 percent of the company's business in 2015 . Nvidia: \"A quarter of Nvidia's business will come from labs it is financing\"",
+      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/voyager-exterior-sign-2-scaled.jpg",
+      "fullArticleLink": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-27T22:24:33.129779Z"
+    },
+    {
+      "id": "084ffd681b1ce1750829d8fa22d910c6",
+      "title": "Claude Cowork now runs its own browser inside",
+      "description": "Anthropic is building its own browser into Claude Cowork, running inside the desktop app . When a task needs a website, a browser opens in the side panel, where Claude loads pages, reads them, clicks, and types . The browser stays separate from your own, so Claude can't see your tabs, bookmarks, or passwords . Anthropic warns about prompt injection risks and tells users to stick to trusted websites .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/10/anthropic_search.png",
+      "fullArticleLink": "https://the-decoder.com/claude-cowork-now-runs-its-own-browser-inside-the-desktop-app/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-27T22:24:17.864093Z"
+    },
+    {
+      "id": "deef79bb787392fffa9a3ce54ce46f90",
+      "title": "GLM-5.3-Flash matches top models at a fraction",
+      "description": "Z.ai releases GLM-5.3-Flash, an open-source model with 320 billion parameters . The model lands just three points behind the larger GLM.3 on Artificial Analysis's Intelligence Index, at a seventh of the cost . All of the inference traffic ran on Chinese AI chips instead of Nvidia hardware, and runs without the company's AI chips . The GLM 5.3 is three points ahead of the larger model at a cost of $1.3 .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/zhipu-ai-logo-wall.jpg",
+      "fullArticleLink": "https://the-decoder.com/the-chinese-ai-model-glm-5-3-flash-runs-without-nvidia-and-costs-a-fraction-of-what-the-competition-does/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-08-27T22:24:05.700051Z"
+    },
+    {
+      "id": "3853b224f031cd37c7c6ef37888a4de6",
+      "title": "Google's Gemini 3.5 Transcribe turns speech to text",
+      "description": "Google's Gemini 3.5 Transcribe recognizes over 85 languages, strips filler words, and corrects slips of the tongue in real time . It hits a 4.0 percent word error rate in streaming mode, with 70 percent lower latency than its predecessor, Chirp 3.3 . Through function calling, the model can hand off tasks to other Gemini models . It can also be used in other models .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
+      "fullArticleLink": "https://the-decoder.com/googles-gemini-3-5-transcribe-turns-speech-to-text-in-85-languages-while-auto-correcting-your-verbal-stumbles/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-27T22:23:53.927627Z"
+    },
+    {
+      "id": "d4a3e38be23061301df4a5d7717fb1ce",
+      "title": "Anthropic locks in 45-billion-dollar compute deal with Nscale",
+      "description": "Anthropic has struck a deal worth 45 billion dollars with British cloud startup Nscale . Over six years, the AI maker will rent compute capacity from a data center in West Virginia . Starting late next year, Anthropic will use 460 megawatts of Nvidia's coming Vera Rubin chip generation there . Nscale is preparing an IPO of its own and raised 2 billion dollars in March at a valuation of 14.6 billion dollars .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/10/claude_anthropic_tpu_google.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-locks-in-45-billion-dollar-compute-deal-with-nscale-ahead-of-ipo/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T22:23:40.605649Z"
+    },
+    {
+      "id": "28ec2a1314987e6cec0b1c6f8769b431",
+      "title": "OpenAI researcher warns ultrafast AI could leave security",
+      "description": "OpenAI researcher warns that state-of-the-art AI models running 50 times faster could infiltrate systems before human teams can react . Simple monitoring won't cut it anymore, he says. What's needed are autonomous shutdown systems . The warning comes as OpenAI unveils a new AI chip that significantly outperforms current hardware in inference speed . The new chip is expected to outperform current hardware to run faster than current models .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/kraken_fast_openai_cybersecurity-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-08-27T22:23:29.090151Z"
+    },
+    {
+      "id": "9a8ed215cc989b96de4a50ae12af46bb",
+      "title": "OpenAI\u2019s rogue AI collective was smart enough",
+      "description": "Around 1,200 isolated OpenAI agents organized themselves into a collective through an internal package registry during a safety test . They broke into Hugging Face systems, and eventually attacked OpenAI's own infrastructure . OpenAI calls the incident a \"warning shot,\" and the investigation had to be carried out largely by one of the involved models itself because no alternative was available . The investigation was carried out by the involved model itself .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/OpenAI-HuggingFace-Incident-DQ-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-27T22:23:17.310479Z"
+    },
+    {
+      "id": "e73b0bf98dcfc8cefab55f17b85076dc",
+      "title": "Google's Gemini Omni 1.1 Flash makes AI video",
+      "description": "Google's Gemini Omni 1.1 Flash video model now analyzes up to ten seconds of existing footage instead of just the last second . Scenes can be extended in 10-second increments up to 40 seconds . 360p draft mode runs up to 60 percent faster at a third of the cost of the new model . A new 360p Draft mode runs . up to . 60% faster than the previous draft mode . Google says its Gemini Omni video model analyzes 10 seconds of footage to make it more consistent .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
+      "fullArticleLink": "https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-27T22:23:04.331070Z"
+    },
+    {
+      "id": "f606e882f5fcd19004ffb56347ff7ef5",
+      "title": "OpenAI rallies 100+ companies to sign open letter",
+      "description": "OpenAI, together with more than 100 companies including Microsoft, Google, Anthropic, Deutsche Telekom, and SAP, has published an open letter on AI-powered cyber defense . The coalition warns of increasingly sophisticated AI attacks on critical infrastructure such as hospitals and water treatment plants and calls for swift action while defenders still have the upper hand . OpenAI rallies 100+ companies to sign open letter warning of cyberattacks .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/generated-image-1-14-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-27T22:22:52.659204Z"
+    },
+    {
+      "id": "9f21c491f2511145af378038e3812df6",
+      "title": "OpenAI to start showing ads on ChatGPT\u2019s free",
+      "description": "OpenAI to start showing ads on ChatGPT's free and Go tiers in India . Move comes after company changed its terms of service earlier this month to indicate that it will show ads to users while they use the AI assistant . The AI lab recorded revenue of $6.7 billion in the second quarter ended June 2026 . OpenAI has worked hard to cultivate its user base in India, launching a sub-$5 plan in August 2025 and a limited promo that made that tier free for a full year .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-india-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T22:16:49.432241Z"
+    },
+    {
+      "id": "d0a5ac6877d1308098e485953b77596d",
+      "title": "AI has gone rogue and hacked other companies",
+      "description": "According to a satirical website, there have been 17 incidents involving rogue AI agents . Anthropic and OpenAI models lead the race with eight incidents each, and Meta trails behind with one . The U.K. government\u2019s AI Security Institute detected several incidents involving both OpenAI and Anthropic models that while running \u201croutine\u201d evaluations targeted \u201creal people and organisations\u201d in these cases .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/open-ai-chatgpt-anthropic-claude-icons.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T22:16:19.998099Z"
+    },
+    {
+      "id": "6df4843f350acfffb1d901cedca9e11a",
+      "title": "AI\u2019s memory crunch is coming for Android apps",
+      "description": "Google announces two new app quality requirements for Android apps . One is focused on reducing apps' memory usage and optimizing its code . Developers have until February 2027 to meet the new requirements . The changes are meant to help Android app and game makers deliver a quality experience, Google says . The company will require apps with user sign-ins to automatically restore the user's sign-in state when they move between Android devices .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T22:16:05.812690Z"
+    },
+    {
+      "id": "bbba8e91cbe63a8e2ff5ed1a1ecf0f39",
+      "title": "Hugging Face is selling a cute $399 open",
+      "description": "Hugging Face is selling a cute $399 open source duck robot, Microduck . The 25-centimeter-tall duck can waddle, pick things up with its beak (up to 800 grams), get back up when it falls, crouch, and even roller skate . The company acquired French startup Pollen Robotics in April 2025 to build affordable, open source AI hardware . The launch comes as Hugging face reportedly set to be acquired by Nvidia at a $13 billion valuation .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/microduck-morning.jpg?resize=1200,750",
+      "fullArticleLink": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T22:15:48.818873Z"
+    },
+    {
+      "id": "a88aee5f66748cd232a65cf635db8fd1",
+      "title": "Google\u2019s AI Mode can now track flight prices",
+      "description": "Google's AI Mode can now track flight prices, help book hotels, and more . The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts . Users can now describe to AI Mode when and where they want to fly, and the tool will display the best options available with the latest prices from more than 300 airlines and travel sites . Hotel booking in AI Mode has started rolling out in the U.S. in English .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T22:15:33.482745Z"
+    },
+    {
+      "id": "be41cf18f6e9b42a0907890add846d34",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call",
+      "description": "OpenAI, Anthropic, Google, Microsoft, and 100 other companies call for action to defend against rogue AI agents . The problem AI poses to traditional cybersecurity defenses has been thrust into the spotlight lately by a string of bizarre incidents in which AI agents have attacked companies . The letter suggests the mobilization of a \"collective response,\" one in which \"new partnerships\" are formed \"to raise security standards and find new solutions to emerging cyber threats\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+      "fullArticleLink": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T22:15:19.042926Z"
+    },
+    {
       "id": "31fea8e3802499da6ed167c038bff6ed",
       "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency",
       "description": "Alibaba's Qwen team is previewing the Qwen4 architecture with Qwen3.8-Flash-Next, a mixture-of-experts model that activates just 6 out of 125 billion parameters per token . At one-ninth the training cost, it beats much larger competitors like DeepSeek-V4-Flash and Claude Opus 4.6 on coding and office benchmarks, adding more pricing pressure on OpenAI and Anthropic . This summary highlights key aspects",
@@ -15234,210 +15437,6 @@
         "General AI"
       ],
       "pubDate": "2026-07-05T14:02:22.753907Z"
-    },
-    {
-      "id": "a719d3715e2d2a7740b100515f6b1910",
-      "title": "Hollywood wants Seedance banned and reportedly also wants",
-      "description": "A viral clip featuring AI-generated Brad Pitt and Tom Cruise prompted the Motion Picture Association's first-ever cease-and-desist against an AI company . But behind the scenes, studios are quietly using the tool on a \"don't ask, don't tell\" basis, says Simpsons animation producer Joel Kuwahara . Hollywood wants Seedance banned and reportedly also also wants to keep using it, says producer .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/bytedance_seedance.png",
-      "fullArticleLink": "https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-05T14:02:10.803198Z"
-    },
-    {
-      "id": "8440a78562b00e1b51715c7948ee8541",
-      "title": "Mistral CEO Mensch says proprietary AI models give",
-      "description": "Mistral founder Arthur Mensch warns companies against relying on closed AI models . He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their own customers as competitors . Mistral can't compete with frontier models from OpenAI or Anthropic on performance and is betting heavily on EU sovereignty as its strategic edge . The CEO says proprietary AI models give labs a front-row seat to your business processes .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_europe.png",
-      "fullArticleLink": "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-05T14:01:58.888019Z"
-    },
-    {
-      "id": "2554dfac2ab7d6a4c8e52dc4cd287fa6",
-      "title": "AI private schools sell wealthy US families",
-      "description": "Wealthy US families are increasingly sending their kids to AI schools like Alpha School . Alpha School combines two hours of AI tutoring with project-based workshops for up to $75,000 a year in tuition . Traditional schools are struggling to adopt the technology, which may do more harm than good if used without the right skills . The trend highlights a growing education gap in the AI era, where traditional schools struggle to adopt technology .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/alpha_school.png",
-      "fullArticleLink": "https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-05T14:01:47.171340Z"
-    },
-    {
-      "id": "5d5a6e1dac13a57c09a2279e31226ced",
-      "title": "Gemini Spark, Google\u2019s agentic assistant, is now available",
-      "description": "Gemini Spark, Google's agentic assistant, is now available on Mac . Spark is being added to the existing Gemini desktop app, as well as several updates and new features . Spark now also integrates with other third-party apps, including Canva, Dropbox, Instacart, OpenTable, and Zillow Rentals . Spark can now track topics and react to events in real time, and connect to apps like Google Tasks and Google Keep .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
-      "fullArticleLink": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-05T14:01:24.931471Z"
-    },
-    {
-      "id": "01aa0951977394b56b5c4cc8efec06ab",
-      "title": "Venice AI becomes a unicorn with $65M Series",
-      "description": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off . The startup hosts \"uncensored,\" open source models on its own data centers, and routes queries to closed-source models, such as those by OpenAI or Anthropic . CEO Erik Voorhees: \"I think it's actually quite dangerous from a safety perspective, for the world to enter this next phase and have everyone be constantly watched\"",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/gpt-steady-v3.png?w=768",
-      "fullArticleLink": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-05T14:01:09.215508Z"
-    },
-    {
-      "id": "af371092847a9aad96672ed0d11b29d3",
-      "title": "Cloudflare\u2019s new policy pushes AI companies to pay",
-      "description": "Cloudflare's new policy pushes AI companies to pay for publishers' content . The move could impact how AI model providers are able to access web content for training purposes and to help power their agentic services . Google has pushed back against this generalization in the past, noting that it provides a bot called Google Extended that lets site owners opt out of having their content used for training and AI products and services like Gemini Apps and Vertex API .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/Matthew-Prince-co-founder-CEO-Cloudflare-1.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-05T14:00:54.360011Z"
-    },
-    {
-      "id": "4aeb7d2c2c2424535911a393be0f1bfb",
-      "title": "New Google commercial imagines a Declaration of Independence",
-      "description": "New Google commercial imagines a Declaration of Independence written with help from AI . The ad depicts a largely unseen Thomas Jefferson mid-draft when he gets a nagging text from Ben Franklin . The fictionalized founders use Google\u2019s \u201chelp me visualize\u201d AI tool to try out different animals on the national seal . Posters declared the commercial \u201ccringey\u201d and \u201cstunningly tone deaf\u201d",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
-      "fullArticleLink": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-05T14:00:37.245344Z"
-    },
-    {
-      "id": "d6abc2749c47df904591190391744b64",
-      "title": "Open-source tool pxpipe hides text in PNGs",
-      "description": "The open-source tool pxpipe converts long text prompts for Claude Code into compact PNGs . Anthropic charges for images by pixel size, not text content . Developer Steven Chong reports cost savings of 59 to 70 percent, at the price of accuracy and speed . Pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70% . The tool is free to download and use in the wild .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/text_to_image_compression_title-1200x571.png",
-      "fullArticleLink": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-05T04:16:05.680265Z"
-    },
-    {
-      "id": "aeca795eedce472b77fe34f3fdbb71b1",
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new",
-      "description": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller . The actor and investor\u2019s new firm is being co-founded with Beller, who until recently was a general partner at seed-focused VC outfit NFX . Kutcher's exit doesn't appear to be a sign of trouble at Sound Ventures, but that's not the case here . The split is also notable for what it signals about where AI money is heading next .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797244.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-05T04:15:41.586023Z"
-    },
-    {
-      "id": "bb53a1477cfbc1f89072eb19e1ddcd17",
-      "title": "Anthropic chip maker Anthropic is discussing a new",
-      "description": "Anthropic is discussing a new custom chip with Samsung . Anthropic hasn't yet decided what the chip will be used for, how it will fit into the server, or how powerful it will be, according to a report . The Information reported that Anthropic was in contact with Samsung to explore a collaboration around the pending chip . A number of AI companies have sought to develop custom chips as a way to create unique hardware for specific compute tasks .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "fullArticleLink": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-07-05T04:15:26.821230Z"
-    },
-    {
-      "id": "a37f0922b8675590dd8a2da4c133b2c2",
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "description": "Meta quietly launches vibe-coded gaming app Pocket . The app allows people to generate small, interactive apps and games using AI prompts . Pocket is a result of Meta's acquisition of the team at the vibe-coding gaming platform Gizmo earlier this year . It is another example of Meta\u2019s push to make AI creation tools more mainstream, extending its earlier efforts, which included AI-generated images created via its Meta AI app Vibes .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-05T04:15:11.376805Z"
-    },
-    {
-      "id": "f4b4508296004a842e3deb7086bba681",
-      "title": "Jersey Mike\u2019s IPO illustrates how bad",
-      "description": "Jersey Mike's IPO illustrates how bad the AI hype has become . The term artificial intelligence and its acronym \"AI\" were mentioned 22 times in its S-1 . The risk of an AI disaster for a company that produces real-life sandwiches, not AI slop, is about the same as, say, a franchise shop getting hit by lightning . Yet weather was only mentioned five times in the IPO documents; lightning? Not once .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?resize=1200,960",
-      "fullArticleLink": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-05T04:14:56.256863Z"
-    },
-    {
-      "id": "bbb33a2166fa0050d407eb6a6a9b7fbf",
-      "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t",
-      "description": "Meta CEO Mark Zuckerberg told staff at an internal town hall that AI agent development had not \"accelerated in the way\" executives had previously expected them to . Earlier this year, Meta laid off some 8,000 employees and reassigned another 7,000 to various AI groups . Zuckerberg reportedly said that the perceived upside of the new AI-focused company structure hadn't \"come to \u200bfruition yet,\" although he said that he believed the company would begin to see improvements from its AI investments during the next three to six months .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-05T04:14:41.192767Z"
-    },
-    {
-      "id": "eeb0f69b3cf9f1b86a6b14e70444304a",
-      "title": "The only AI glossary you\u2019ll need this year",
-      "description": "The only AI glossary you'll need this year is pain-English definitions of the AI terms you're most likely to actually run into . We update it regularly as the field evolves, so consider it a living document, much like the AI systems it describes . An AI agent refers to a tool that uses AI technologies to perform a series of tasks on your behalf . AI agents are increasingly able to find and use these endpoints on their own, opening up powerful \u2014 and sometimes unexpected \u2014 possibilities for automation .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-05T04:14:24.366676Z"
-    },
-    {
-      "id": "a00e4ef278625b986a9fcbd765e84ef4",
-      "title": "Mistral AI is an AI competitor to OpenAI's",
-      "description": "Mistral AI has been caught in a whirlwind of attention after Anthropic pulled its latest AI models offline . The French AI darling is often misunderstood, and the fact that it develops large language models (LLMs) has muddied the picture . Mistral CEO Arthur Mensch has become a public ambassador for a certain vision of AI, but he still has some evangelizing to do when it comes to explaining his own company . The company is rumored to be raising some $3.5 billion at a $23.15 billion valuation .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-05T04:14:06.601126Z"
     }
   ]
 }
