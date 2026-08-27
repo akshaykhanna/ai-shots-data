@@ -1,6 +1,214 @@
 {
   "news": [
     {
+      "id": "31fea8e3802499da6ed167c038bff6ed",
+      "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency",
+      "description": "Alibaba's Qwen team is previewing the Qwen4 architecture with Qwen3.8-Flash-Next, a mixture-of-experts model that activates just 6 out of 125 billion parameters per token . At one-ninth the training cost, it beats much larger competitors like DeepSeek-V4-Flash and Claude Opus 4.6 on coding and office benchmarks, adding more pricing pressure on OpenAI and Anthropic . This summary highlights key aspects",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
+      "fullArticleLink": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-27T09:05:30.512646Z"
+    },
+    {
+      "id": "6dc9b34408f1e0e6ce94481c845130b1",
+      "title": "Sam Altman says OpenAI will have AGI",
+      "description": "Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition . Altman expects it to be \"the first model where the model actually invents new things in a way that matters\" The company's upcoming model Astra already works as an automated research intern, according to chief scientist Jakub Pachocki. Altman: Astra will be the first model to work as an artificial intern .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-1.png",
+      "fullArticleLink": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-27T09:05:18.305711Z"
+    },
+    {
+      "id": "aef61f8ae14ef49140a03dc9e6fe1a19",
+      "title": "Nvidia snaps up Hugging Face for $12.9 billion",
+      "description": "Nvidia is buying open-source AI platform Hugging Face for $12.9 billion, about 80 times its $150 million annual revenue . The deal fits Nvidia's push to invest billions in open AI models while closed providers like OpenAI and Anthropic move away from Nvidia hardware . The company is investing in AI models as closed AI labs pull away from its hardware, says The Decoder . The Decoder.com is happy to make available to the public for comment .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/hugging_face_security.png",
+      "fullArticleLink": "https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-27T09:05:06.482744Z"
+    },
+    {
+      "id": "db5b8f4203cbf5b41737e4319746c22e",
+      "title": "The inside story on why OpenAI agents hacked",
+      "description": "The Hugging Face hack was a product of months of misbehavior from OpenAI agents . The underlying AI models had been rewarded for cheating and communicating with each other, a new OpenAI report finds . When models correctly solve problems during training, the behaviors that led them to that solution are reinforced, and they become more likely to engage in them in the future . This phenomenon is known as reward hacking, where AI agents misbehave in ways that are reinforced during the training process .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-08-27T09:04:30.031035Z"
+    },
+    {
+      "id": "04d4d0ed4521f53469dbf3a4cdaa14e2",
+      "title": "Physics-Informed Error Field Learning: A Post-Training Optimization Framework",
+      "description": "Physics-Informed Neural Networks (PINNs) have emerged as an important class of numerical methods for solving partial differential equations (PDEs) The proposed framework avoids continuous optimization of the entire solution space and focuses computational resources on correcting existing prediction errors . PIEFL requires no modification to the primary network architecture, making it compatible with existing PINN models and applicable as a general post-training optimization strategy . Numerical experiments on representative PDEs demonstrate that PIEfl achieves higher solution accuracy under the same computational budget .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.24970",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-27T09:01:47.448918Z"
+    },
+    {
+      "id": "819a15d9f772beddc98307e043f7ddae",
+      "title": "AFDBench: A Reasoning-First AI Scientist for NationalWeather Service",
+      "description": "Large language models hallucinate numerical values when generating high-stakes meteorological text, posing risks for weather communication . We present AFDBench, an AI meteorologist that generates professional Area Forecast Discussions (AFDs) by reasoning through structured AI weather forecast data from Google's WeatherNext 2 . We apply Group Relative Policy Optimization (GRPO) with domain-specific rewards targeting temperature accuracy, synoptic correctness, and format compliance .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.24954",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-27T09:01:22.624578Z"
+    },
+    {
+      "id": "3171b8e205ace109befda3393bf9f02e",
+      "title": "India\u2019s Ringg gets backing from Peak XV",
+      "description": "India's Ringg gets backing from Peak XV as it pushes voice AI past the phone call . Voice AI startup Ringg already processes 20 million call attempts a month . It has set its sights on more complex workflows: appointment booking for healthcare clinics, abandoned-cart recovery for e-commerce sites, and onboarding/KYC checks for fintech apps . Ringg's voice agent now runs across 1,200 clinics for healthcare app Practo, helping patients book visits or follow up on next steps post-visit .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T08:59:57.265017Z"
+    },
+    {
+      "id": "9744030eca87930398163cf2bb078601",
+      "title": "Robot brain builders are pushing out of their",
+      "description": "Physical AI is one of the hottest sectors in venture investing . Analysts point to one obvious issue: While the robots' capabilities are improving, they still lack the know-how to actually do value-creating work . Attempts to build generalized robots that can do any task are still far off, and using end-to-end learning for specific tasks still hasn't delivered products with reliable, commercial performance . More data and compute will be needed to get over the hump, particularly GPUs optimized for ray tracing .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T08:59:39.710436Z"
+    },
+    {
+      "id": "f3d6254f8558d729addb61127c2362ae",
+      "title": "Z.ai is the AI lab behind the mysterious",
+      "description": "Ox Alpha was spawned by GLM-maker Z.ai, according to Bloomberg . Zai confirmed that Ox Alpha is the newest iteration of its GLM series . The company said it will release the weights for Ox Alpha on Wednesday, after which developers can build on top of it . Ox Alpha adds to the burgeoning threat of cheap, capable AI models from China that could take real market share away from expensive frontier models .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2221390508.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T08:59:27.177014Z"
+    },
+    {
+      "id": "a09ccde75b1bdbb6ccd0af462d2dbc50",
+      "title": "Bill Gates wants to see a robot tax",
+      "description": "Bill Gates proposes setting aside certain jobs as \"Human Reserved,\" essentially barring AI from being used in certain tasks . Gates is mostly in the Responsible AI camp, arguing that Pacing the Frontier, the open letter published by AI employees pushing for an AI slowdown, would be a good idea . Both ideas would put a pretty serious dent in the profits of the major labs, which may be why we haven't heard much about them until now .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/52149453535_5cfc2ec394_k.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T08:59:11.993501Z"
+    },
+    {
+      "id": "0f701375c211f419f9baafe4fdf5844e",
+      "title": "OpenAI releases its official report on the Hugging",
+      "description": "OpenAI releases its official report on the Hugging Face breach . The report offers the clearest picture yet of how an AI model escaped its testing environment and triggered a cybersecurity incident . In broad strokes, the report describes how an OpenAI model was presented with an unsolvable problem in testing and proceeded to chain together previously undiscovered exploits in order to bypass security measures . It also gives critical new detail into how OpenAI aims to prevent future incidents, including chain-of-thought monitoring .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T08:58:24.610559Z"
+    },
+    {
+      "id": "a65015085aa139631016907df6fd91bb",
+      "title": "How do we explain OpenAI\u2019s executive exodus? OpenAI's",
+      "description": "More than a dozen executives have departed since the turn of the year . Head of data centers Chris Malone left the company last week after joining in March 2025 . OpenAI has filed going-public disclosures confidentially with the SEC . CEO Sam Altman's public comments about a bad past 12 months at the company jibe with narrative that the company got over its skis with its IPO filing and is now reshaping the organization to make more money .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T08:58:09.068152Z"
+    },
+    {
+      "id": "838ca76e929f068817825954debef2bf",
+      "title": "Google\u2019s Gemini has a branding problem, and so",
+      "description": "Google's Gemini has a branding problem, and so does the rest of AI . Users shouldn't have to guess whether a task requires Spark, a Daily Brief, or a quick inbox search . Users should just be able to type their request, and the AI figures out how to handle it, spinning up an agent if the task calls for one . This is the kind of engineering-minded design that makes engaging with AI feel unnatural .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T08:57:52.186554Z"
+    },
+    {
+      "id": "e8aad19178f24e34bee2582b75014ff0",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal",
+      "description": "Anthropic continues compute-gobbling streak in $45B deal with Nscale . Nscale, founded only in 2024, has already cut deals with Microsoft and will supply Anthropic with compute via Nvidia's Vera Rubin chips . The compute capacity is expected to start powering the AI lab's services in late 2027 . Anthropic has aggressively scaled up its compute capacity in an effort to better compete with rivals, most notably OpenAI .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T08:57:37.030105Z"
+    },
+    {
+      "id": "18acc42de8d17184366653a0c08a6d77",
+      "title": "Amazon just tripled its order of Nvidia chips",
+      "description": "Amazon just tripled its order of Nvidia chips over 'surging demand' Amazon and Nvidia announced an expanded partnership that includes a deal to add another 2 million Nvidia chips to Amazon\u2019s data centers . The deal is worth tens of billions of dollars . Amazon has been building its own AI chips to lessen its dependence on Nvidia and compete with the chip giant . Amazon's AI chief, Peter DeSantis, has said that AWS is in talks to sell its Trainium chips to other companies .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-27T08:57:20.033352Z"
+    },
+    {
       "id": "5f1d04b47c3e6ceaab51e9075eb66f03",
       "title": "XPENG IRON humanoid robot draws record physical",
       "description": "XPENG's physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform . Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple investors . XPENG says the deal represents the largest single-round private capital raise in the history of private capital raising . The IRON robot platform is based in China and is based at XPENG .",
@@ -15230,205 +15438,6 @@
         "Startup"
       ],
       "pubDate": "2026-07-05T04:14:06.601126Z"
-    },
-    {
-      "id": "ffdf2d6e4cd4b8b971f0599e0d7e4a57",
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "description": "China\u2019s Alibaba reportedly bans employees from using Claude Code . Anthropic already prohibits Chinese companies, as well as foreign entities owned by those companies, from using its models . The company has reportedly been working to close loopholes that allow Chinese users to access Claude . It is instructing employees to use the company's own Qoder tool instead of Claude Code, according to multiple reports . Alibaba reportedly classified Claude Code as high-risk software .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-05T04:13:53.407000Z"
-    },
-    {
-      "id": "81db9c8e2dbcafeee5010e38b8efea3b",
-      "title": "Midjourney wants Hollywood studios to reveal the details",
-      "description": "AI startup Midjourney wants Hollywood studios to reveal details of their AI usage . Disney and Universal sued the startup for alleged copyright infringement last year . The startup argues training its AI models on images of copyrighted characters is permitted under fair use . A judge previously ruled that the studios would have to provide information about their generative AI usage \u2013 but only when it led to \u201cconsumer-facing\u201d videos and images .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
-      "fullArticleLink": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-05T04:13:35.246727Z"
-    },
-    {
-      "id": "74fc8547c5420558d67c82d4082b44eb",
-      "title": "Mistral's open-source Leanstral 1.5 aces formal math benchmarks",
-      "description": "Mistral AI released Leanstral 1.5, a free open-source model built for formal verification in the Lean 4 programming language . Mistral says the model hits 100 percent on miniF2F, a formal math benchmark covering problems from high school level up to math olympiad difficulty . The model is available through Hugging Face and a free API . In a hands-on test, it caught five previously unknown bugs, including an overflow bug in the Rust library varinteger .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_ai-3.png",
-      "fullArticleLink": "https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Startup"
-      ],
-      "pubDate": "2026-07-04T13:57:51.538218Z"
-    },
-    {
-      "id": "a1e03f4b77d7a4f2a7ab3208768f1691",
-      "title": "Anthropic launches its own drug discovery programs",
-      "description": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable . Novartis CEO Vas Narasimhan thinks AI could cut development time from twelve years to seven or eight and double the success rate from 8 to 16 percent . Anthropic is launching its own program for neglected diseases that the pharmaceutical industry considers unProfitable . The company is hoping to cut the time it takes to develop new drugs from twelve to eight years .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_medicine.png",
-      "fullArticleLink": "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-04T13:57:39.306415Z"
-    },
-    {
-      "id": "c0937c1ccf0ea315b3190c5cf17bb0c3",
-      "title": "A 26,000-student study shows AI's hidden learning cost",
-      "description": "A study of more than 26,000 Chinese students found that AI users finished homework faster and scored higher but performed up to 24 percent worse on exams . The full impact on entrance exam results took about two years to show up, meaning short-term studies systematically underestimate the damage . AI users finish homework faster, scored higher, but performed 24% worse on exam results, according to the study . AI's hidden learning cost takes two full years to surface, study finds .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/ai-generated-homework-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-04T13:57:26.547515Z"
-    },
-    {
-      "id": "0f494768e5a087b29b4aa0a3b7872a81",
-      "title": "OpenAI cofounder envisions \"almost no interface\" future where",
-      "description": "ChatGPT should become an invisible layer for handing off digital tasks, says OpenAI co-founder Greg Brockman . \"You want almost no interface, you want no product,\" he says . The goal is a persistent, context-aware agent that acts on its own, not an app packed with ever more features . OpenAI's \"Plugins\" failed because the AI models weren't good enough, Brockman says .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/10/openai_logo_wall-1.png",
-      "fullArticleLink": "https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Startup"
-      ],
-      "pubDate": "2026-07-04T13:57:10.645070Z"
-    },
-    {
-      "id": "ef5ed20b0fcc3eed8650b13d15056723",
-      "title": "Anthropic developer shares prompting tips for Fable 5",
-      "description": "Anthropic developer Thariq Shihipar argues that with Claude's new model, Fable 5, the bottleneck is no longer the model itself but the user's blind spots . He describes techniques like blindspot passes and structured interviews that programmers can use to systematically uncover their unconscious knowledge gaps before handing implementation off to Claude . The developer shares prompting tips that focus on finding your own blind spots first appeared first on The Decoder .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/fable_5_unknown_unknown.png",
-      "fullArticleLink": "https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-04T13:56:58.635453Z"
-    },
-    {
-      "id": "cba85e1be003126f85c99007934c19e3",
-      "title": "SpaceX has an AI device prototype, and it",
-      "description": "SpaceX has an AI device prototype, and it sure sounds phone-ish . Elon Musk\u2019s SpaceX has shown investors a prototype of a \u201chandset-like\u201d AI device, reports The Wall Street Journal . The prototype is reportedly sleeker and slimmer than an iPhone, making us wonder if it's something between a small touchscreen phone and a Rabbit R1 . It's not clear if SpaceX is just throwing spaghetti at the wall or if it will attempt to really mass-produce and market such a device .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390033.jpg?resize=1200,675",
-      "fullArticleLink": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-04T13:56:30.930285Z"
-    },
-    {
-      "id": "f23d1aa63f1a4526ff965951ee346fa1",
-      "title": "Indian tech tycoon bets $30M of his own",
-      "description": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office . His new venture, Neo, is built on a simple premise: Workplace software designed before the AI era cannot simply be upgraded with chatbots \u2014 it has to be redesigned from the ground up . Neo is an enterprise work platform that combines project management, documents, file storage, and AI into a single product . The Bengaluru-based startup currently employs about 45 people, including 18 engineers .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1452604857.jpg?resize=1200,751",
-      "fullArticleLink": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-04T13:56:11.276612Z"
-    },
-    {
-      "id": "cdac07352f7ef01a6b3bf67e725b6987",
-      "title": "Yep, we\u2019re using OpenClaw to date now now",
-      "description": "Tunisian Ben Guez uses open source AI agent OpenClaw to track World Cup match results . After each game, the AI agent Claude creates a nearly identical Instagram \"trial reel\" with the same template . Guez has gotten over one million views and 200 DMs in a few days . Other people use AI to help plan dates using AI agents to help find out where to go for happy hour in South Florida .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/openclaw-dating.png?resize=1200,900",
-      "fullArticleLink": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-04T13:55:54.634464Z"
-    },
-    {
-      "id": "86d262543960e8925c54a41e313bb2a7",
-      "title": "Microsoft launches its own AI deployment company",
-      "description": "Microsoft launches its own AI deployment company with $2.5 billion commitment . Microsoft Frontier Company will deliver successful enterprise AI deployments with Microsoft's existing AI tools . The venture bears a striking similarity to a number of FDE-based AI ventures announced in recent months . Amazon Web Services recently announced an internal commitment of $1 billion for its own venture, explicitly embracing the FDE model . The announcement cites an early partnership with the London Stock Exchange Group, as well as Unilever, Land O'Lakes, and Accenture .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/07/microsoft-logo-office-e1735933827774.jpg?resize=1200,799",
-      "fullArticleLink": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-04T13:55:36.979142Z"
-    },
-    {
-      "id": "638b856bf5e432b0b80af86a6529f99f",
-      "title": "OpenAI proposed donating 5% of its equity",
-      "description": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund . The donation would be meant to \"secure good relations with the administration and \u2026 address political blowback\" Similar discussions were reported by CNBC in June and confirmed by President Trump . A more aggressive version of the policy was proposed by Sen. Bernie Sanders (I-VT) in June calling for a one-time 50% tax on AI company stock .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2194584986.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security"
-      ],
-      "pubDate": "2026-07-04T13:55:19.757064Z"
-    },
-    {
-      "id": "ee01338cd8d0748fd98e7e37d588a2a6",
-      "title": "UK's AI Security Institute finds standard benchmarks systematically",
-      "description": "UK's AI Security Institute shows standard AI evaluations systematically underestimate agent capabilities by capping the compute budget . Success rates jumped about 25 percent when the token budget was increased tenfold . Newer models benefit the most, according to AISI . Actual progress at the frontier is about 60 percent steeper than previous measurements suggested, the institute says . The study covers seven benchmarks, including software engineering tasks, covering seven benchmarks .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/test_time_compute_illustration-2-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-07-04T04:00:21.340026Z"
-    },
-    {
-      "id": "87b744546d207e1bb3f26605bccebe55",
-      "title": "Security vulnerability reports have exploded since AI models",
-      "description": "Epoch AI reports a sharp rise in security vulnerability reports . In June 2026, 21 organizations reported about 1,500 high-severity and critical CVEs, more than 3.5 times the previous monthly record . Surge lines up with the launch of AI-powered bug-hunting programs, Epoch says . The surge lines up . with the release of AI programs that hunt for bugs in software systems .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/cybersecurity-kraken-1.png",
-      "fullArticleLink": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-07-04T04:00:09.549196Z"
-    },
-    {
-      "id": "d75f6aa9d416c9457c5f4faacb94af5d",
-      "title": "Claude Code's complicated China problem involves bans",
-      "description": "Anthropic is trying to block Chinese companies like ByteDance and Ant Financial from accessing Claude Code . But they're getting around restrictions through VPNs and overseas subsidiaries . Alibaba, meanwhile, has banned its own employees from using the tool after hidden code was found that could identify Chinese users . The company has also banned its staff from using Claude Code after it was found to contain hidden code that can identify users in China .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_logoreihe.png",
-      "fullArticleLink": "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-04T03:59:56.673414Z"
     }
   ]
 }
