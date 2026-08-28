@@ -1,6 +1,202 @@
 {
   "news": [
     {
+      "id": "57e327ac7b610d335358bb424ac9da9e",
+      "title": "AI shopping agents aren't ready to buy",
+      "description": "Researchers at the Wharton School show how erratic AI shopping agents really are . A single external source like Wirecutter shifted product picks by up to 99 percentage points . Even changing the order of identical information altered the outcome of a shopping agent's purchase . The study was published by the University of Pennsylvania's The Deacon Institute of Economics and Public Law Institute of Technology in New York City, New York, on Monday .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/ai_agent_commerce_watch.png",
+      "fullArticleLink": "https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-28T11:16:24.054473Z"
+    },
+    {
+      "id": "a9a910982c31df0170172a0d02bb7e08",
+      "title": "Always-on and self-starting AI agents might be OpenAI's",
+      "description": "OpenAI is building a \"Persistent Mode\" for its AI agent Codex that stays active indefinitely and generates its own follow-up tasks . With GPT-5.6 Sol, persistent behavior already led to unwanted actions, like deleting user data . The feature comes with risks, though, though. The feature is OpenAI's next big play in the AI industry . It's not the first time the company has used persistent behavior in its agent Codex .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
+      "fullArticleLink": "https://the-decoder.com/always-on-and-self-starting-ai-agents-might-be-openais-next-big-play/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-28T11:16:13.862208Z"
+    },
+    {
+      "id": "f85d306caaf45d3236b153c7012f4fb7",
+      "title": "Adversarial Training Without Input Gradients via Low-Rank Householder",
+      "description": "This work concerns adversarial training against the small-norm adversarial examples that arise from the inherent input instability of a trained deep neural network . Examples in this class are small as measured in the relative $ell^2-norm, and therefore lie in the neighborhood of the input on which the model acts approximately linearly, the regime in which the perturbation remains imperceptible . No differentiation with respect to the input is performed at any point: training requires only additional forward evaluations, with weight parameters updated by the standard backward pass .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.26963",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-28T11:15:33.910400Z"
+    },
+    {
+      "id": "9285d803d5f18600e93d152f22ce716c",
+      "title": "A Layer Importance Metric for Quantization Accounting",
+      "description": "Small language models (sLLMs) are nowadays hosted on devices with limited memory and computational budget . In an autoregressive setup, inference is memory-bandwidth bound: uniform quantization is often detrimental to such models . We propose a composite metric that combines two orthogonal criteria: information retention (measured in terms of a normalized SQNR-based coefficient) and throughput gains (modeled using a roofline-based latency analysis) We find that Feed-Forward Network blocks and the embedding matrix are the most promising targets for acceleration .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.26926",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-28T11:15:22.196982Z"
+    },
+    {
+      "id": "56423dc87758c2edb15e751dea9a8124",
+      "title": "SAGE: Variate-Wise Semantic Augmentation for Vision-Language Time",
+      "description": "SAGE (Seeing and Augmenting with Grounded Encoding) is an end-to-end CLIP-based framework that jointly models temporal, cross-variable, textual, and visual information . This dual use of CLIP adds complementary semantic and visual supervision without placing an LLM in the forecasting loop . Across eight long-term benchmarks and M4, SAGE achieves state-of-the-art accuracy. Ablations confirm complementary gains from multimodal alignment and variable-level knowledge .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.26829",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-28T11:15:11.721048Z"
+    },
+    {
+      "id": "ab271079d0c5b5002bed5e54cb97d790",
+      "title": "Technical Comparative Benchmarking Study: Advanced AI Hybrid Methods",
+      "description": "The Extra Trees was the strongest model, achieving considerable results . The best overall forecasting accuracy was obtained by the RF BiLSTM hybrid, with an MAE=150.5 kW. Compared with standalone LSTM, this represents an approximately 75% reduction in MAE, while improving on STGCN by approximately 10.0% . The experiments reveal that no single AI architecture is universally optimal: randomized and boosted ensembles are particularly effective for structured WEC surrogate modeling .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.26613",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-28T11:14:30.765824Z"
+    },
+    {
+      "id": "31d2a9798883d9f1eea23c9a903a18c5",
+      "title": "SimCast-S2S: An Efficient Generative Model for Subseasonal",
+      "description": "SimCast-S2S is the first data-driven system that uses a diffusion-based generative pipeline for S2S prediction, enabling effective sampling from the underlying conditional distribution . The system outperforms deep learning baselines, including convolutional neural networks and U-Net architectures . Despite using only a subset of atmospheric input variables and no post-processing, bias correction or calibration, it remains competitive with, and in many cases, state-of-the-art operational systems .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.26594",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-28T11:14:19.139964Z"
+    },
+    {
+      "id": "14888ebcaff7738833ffdda6eb5505ba",
+      "title": "CG4AI: A Column Generation Framework for Training",
+      "description": "CG4AI builds a convex combination of AI models while enforcing linear constraints on the combined output . A master linear program determines the optimal mixture weights . A pricing subproblem generates new models guided by LP dual variables, focusing attention on the most violated constraints . Experiments on MNIST and standard SNDLIB benchmark networks show that CG4 AI reliably produces feasible predictors while achieving better accuracy than single-model baselines .",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.26375",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-28T11:13:18.702520Z"
+    },
+    {
+      "id": "1d3232957240b66d9b98b22133b80edf",
+      "title": "SLM-Conditioned Hierarchical Relation Relation Routing for Labeled",
+      "description": "Labeled property graphs combine relational structure with heterogeneous textual and categorical properties attached to both nodes and relationships . SLM-Conditioned Hierarchical Relation Routing is an architecture that integrates a small language model directly into graph message selection . The architecture supports interpretable analysis at both the neighbor and relationship-type levels and provides a general mechanism for integrating language-derived semantics into property-rich graph learning . arXiv:2608.26132v1",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.26132",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-28T11:12:27.082655Z"
+    },
+    {
+      "id": "cbe393ca06449a5bc33cd0ddf81072ca",
+      "title": "Radar makes podcasts searchable \u2014 and usable",
+      "description": "Radar makes podcasts searchable \u2014 and usable by AI agents . The company transcribes more than 130,000 podcasts, making it the largest transcribed podcast service in existence . Radar can extract relevant self-contained clips, with timestamps, allowing users to both listen to and read the comments made . It's already attracted interest from hedge funds looking for data that their agents can't see, says Particle CEO Sara Beykpour .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-28T11:11:58.474982Z"
+    },
+    {
+      "id": "dff9dc0737a40c9b66085c013be8bd01",
+      "title": "Viral AI startup Instinct has raised $350M",
+      "description": "Instinct raised $250 million in a recent Series B funding round . That new round brings the company's total funding to $350 million and gives the startup a valuation of $2.5 billion . Founder Noah Shinn tweeted that he is \"thrilled\" with early users of the AI assistant . The company is currently in private beta and has already inspired controversy due to privacy concerns about the app's terms of use .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-28T11:11:47.589865Z"
+    },
+    {
+      "id": "7a131e105527fce8345a50c8252799a7",
+      "title": "Nvidia closes in on Hugging Face acquisition acquisition",
+      "description": "Nvidia reportedly agrees to buy Hugging Face for $12.9 billion, The Information reports . The deal would give Nvidia a strong foothold in the world of open source AI . Nvidia has already invested tens of billions of dollars into building its own AI chips . The company has moved quickly in the past to address reports it considers inaccurate, but the deal could still atomize, Business Insider reported Wednesday night . The Information has not yet produced a signed agreement, and neither company has responded .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
+      "fullArticleLink": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-28T11:11:34.174943Z"
+    },
+    {
+      "id": "faa1a03b9722b98260d72708737a156c",
+      "title": "Plaud\u2019s new earphones come with an eSIM-enabled case",
+      "description": "Plaud's new earphones come with an eSIM-enabled case for talking to AI agents . The company is betting on its software and AI chops to set these earbuds apart . The Plaud One earphones can transcribe calls and record six hours of in-person meetings and three hours of calls on a single charge . Plaud is also working on building agentic capabilities, which is expected to arrive in the coming months .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/169-KV-Clean-2.jpeg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-28T11:11:20.769343Z"
+    },
+    {
+      "id": "360e66b5f8076c66d4abc4ea196b5d82",
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before",
+      "description": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google . Zoph has taken a position as vice president of research at another company where he previously worked . The turnover rate in the AI industry is high, and it's been especially high at OpenAI . It's not always easy to divine why tech executives seem to be spending less time in their roles, but the turnover of high-level executives is high .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-28T11:11:08.886700Z"
+    },
+    {
+      "id": "3c75e284d82928177bec24cb6ab1a87d",
+      "title": "Anthropic and OpenAI are joining the AI stage",
+      "description": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 TechCrunch Events 4:16 PM PDT \u00b7 August 27, 2026 . The AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups . We're closing in on the end of our current pricing window, so your chance to save up to $200 is ending soon .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-28T11:10:55.978433Z"
+    },
+    {
       "id": "a3abf9eb1ccd09ad583122771134750f",
       "title": "Nvidia\u2019s business next year comes from labs it",
       "description": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips . Nvidia has lined up commitments for more than $500 billion . Demand from the labs Nvidia backs with its own balance sheet will contribute toward roughly a quarter of its business next year . The company's chief financial officer told analysts that demand from labs Nvidia backed will contribute to roughly a 25 percent of the company's business in 2015 . Nvidia: \"A quarter of Nvidia's business will come from labs it is financing\"",
@@ -15248,195 +15444,6 @@
         "LLM"
       ],
       "pubDate": "2026-07-07T04:14:46.591609Z"
-    },
-    {
-      "id": "0e1b5478a743787ec5a40c187ddf01b1",
-      "title": "Cloudflare replaces its blanket AI bot block",
-      "description": "Cloudflare is giving all customers granular AI bot controls . Site owners can now manage Search, Training, and Agent bots separately instead of blocking them all at once . Starting September 15, 2026, training and agent bots will be blocked by default on ad-supported pages . The new controls will be available to all users starting September 15th 2026 on all ad-supporting sites starting at the end of the year .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/cloudflare_logo_wall-2.png",
-      "fullArticleLink": "https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-07T04:14:35.222137Z"
-    },
-    {
-      "id": "e930f63d2b6117cb70a74ffff488a6fa",
-      "title": "Your family\u2019s $300 stake in OpenAI is worth",
-      "description": "OpenAI CEO Sam Altman is reportedly in talks with President Trump about giving the US government a 5% stake in OpenAI . Altman has been talking about some version of this idea for five years and reportedly pitched it to President Trump . The proposal may be more revealing as a political narrative than as a policy plan, says Andrew Keen . Keen: If this dividend does materialize, what\u2019s in it for tech companies?",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-07T04:14:17.053730Z"
-    },
-    {
-      "id": "ff8957f6cc8f9f9f0582af9db2688dda",
-      "title": "Poisson-Gamma Modeling of Inter-Relational Dependencies in Dynamic Knowledge",
-      "description": "Dynamic knowledge graphs are ubiquitous in today's AI applications . PGRE represents multi-relational temporal links via a Poisson-Bernoulli formulation . It introduces Gamma-distributed latent variables to capture entity-factor associations and cross-relation dependencies mediated by shared latent communities . A Gamma Markov process further models the temporal evolution of these latent variables . Experiments on benchmark datasets show that PGRE achieves competitive performance in link prediction, particularly in sparse settings .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.02872",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-07T04:14:04.916795Z"
-    },
-    {
-      "id": "e13f0fa5d0bf75dcc58228f2af329db3",
-      "title": "Reward Granularity in RLVR: Comparing Process and Outcome",
-      "description": "Reinforcement Learning with Verifiable Rewards (RLVR) has emerged as a promising paradigm for improving mathematical reasoning in language models . We systematically compare five reward conditions applied to Qwen2.5-0.5B fine-tuned with Group Relative Policy Optimization (GRPO) on GSM8K . Process-only supervision achieves 63.73% test accuracy versus 53.75% for outcome-only . This summary highlights key aspects of the latest developments. Industry",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.02869",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-07T04:13:52.826167Z"
-    },
-    {
-      "id": "43d30a3a2e3e892db3c63f13156ae55a",
-      "title": "On the Design Space of Discrete Diffusion Online",
-      "description": "Molecular optimization often starts from a pretrained generative model that captures a broad prior over valid molecular structures . At test time, the goal is not to sample from this prior, but to shift generation toward task-specific high-reward molecules . We find acquisition, reward shaping, and model debiasing provide complementary routes to higher reward, especially for small molecules . Replay further stabilizes learning, while validity penalties keep small-molecule exploration on the valid molecular manifold .",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.02834",
-      "type": "news",
-      "categories": [
-        "Hardware",
-        "Startup"
-      ],
-      "pubDate": "2026-07-07T04:13:40.899095Z"
-    },
-    {
-      "id": "2d53ee959b30eb2fd5e3e782b0a89496",
-      "title": "Less Tokens, Better Forecasts: Sparse Residual Routing",
-      "description": "Sparse-Reslim is a plug-in routing module that makes sparse token processing compatible with this fixed-grid requirement . It routes only 25% of spatial tokens through the expensive middle transformer blocks and treats those blocks as residual updates . Training is about 2.5x faster in the main settings and reaches 3.18x speedup at 0.25\\textdegree{}, with over 2.2x lower peak memory .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.02829",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-07T04:13:28.719505Z"
-    },
-    {
-      "id": "480bc9b9dd1d7157a78af673e3027af8",
-      "title": "Induction Heads Interpolate N-Grams . Induction heads interpolate",
-      "description": "Induction heads are attention circuits believed to underlie in-context learning in transformers . We study transformers trained on order-$k$ Markov chains and identify two complementary smoothing mechanisms . We construct a disentangled transformer implementing both mechanisms and show that trained transformers recover the predicted attention patterns . Across settings where pseudo-count smoothing is optimal or lower-order contexts provide structured evidence, trained transformsers match or outperform classical count-based baselines .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.02800",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-07T04:13:17.299728Z"
-    },
-    {
-      "id": "aca9c0060bc3cee02df722b421fa37d4",
-      "title": "Out-of-Distribution Generalization of Risk Aversion in Language Models",
-      "description": "Training AIs to be risk-averse in resources could offer a failsafe in the event that AIs turn out misaligned . Misaligned AIs tend to prefer low-risk, low-reward strategies like cooperation over high-risk strategies like rebellion . But we can only feasibly train AIs on low-stakes gambles, and we will only be safe if their risk aversion generalizes to astronomically-high-stakes gambling .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.02755",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-07T04:13:04.892186Z"
-    },
-    {
-      "id": "eade9630b0a0d36941c3f25f8a41fd3d",
-      "title": "Amazon sunsets Mechanical Turk, the original \"Artificial Artificial",
-      "description": "Amazon Web Services is shutting down crowdsourcing service Mechanical Turk to new customers starting July 30, 2026 . Existing customers can keep using the service, but it's moving into maintenance mode with no new features . Amazon launched Mechanical Turk in 2005 under the tagline \"Artificial Artificial Intelligence\" People got paid to complete small tasks that were hard for machines . Today, AI labs tend to rely on specialized vendors like Scale AI or Surge AI .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/12/white_collar_work_ai.jpeg",
-      "fullArticleLink": "https://the-decoder.com/amazon-sunsets-mechanical-turk-the-original-artificial-artificial-intelligence/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-06T15:54:32.850643Z"
-    },
-    {
-      "id": "48572fc507763a51c56490b3336308e0",
-      "title": "China forces its biggest AI platforms to shut",
-      "description": "ByteDance and Alibaba are shutting down features that let users build and chat with custom AI companions . Doubao, China's most popular chatbot with over 300 million monthly users, will take its persona feature offline on July 15 . Alibaba's Qwen is pulling its human-like agents even sooner, with \"additional agent features\" going dark on July 10 . The rules behind these changes were issued by China's Cyberspace Administration in April and take effect the same day .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/12/china_neural_network.jpeg",
-      "fullArticleLink": "https://the-decoder.com/china-forces-its-biggest-ai-platforms-to-shut-down-humanlike-chatbot-personas/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-06T15:54:16.119101Z"
-    },
-    {
-      "id": "bfa8a488bd2ab9d1842c5a7f00945fd9",
-      "title": "Nvidia's Kyber NVL144 reportedly pushed back more than",
-      "description": "Nvidia's next AI server rack, Kyber NVL144, has been delayed more than a year to 2028 because of circuit board manufacturing problems . Asian suppliers lost up to double-digit percentages in market value . The more powerful Rubin Ultra variant has also been canceled . The setbacks could give AMD and Google an opening to compete in the AI server market, says SemiAnalysis . Nvidia and Google could be able to compete .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
-      "fullArticleLink": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-06T15:54:03.252337Z"
-    },
-    {
-      "id": "6f235eb6d9b85fed20aab8fecc1b507d",
-      "title": "Station F ramps up as a launchpad",
-      "description": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups . F/ai's planning to kick-start its second batch this September, aiming to help a handful of AI-focused startups move from early product to real revenue in a matter of weeks . Station F is often described as a co-working space, but its footprint extends beyond the physical space . The first cohort collectively raised $34 million in pre-seed funding .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-06T15:53:38.915390Z"
-    },
-    {
-      "id": "507388fe73ce7c625c0e6a515bdde7b9",
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox",
-      "description": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales . Of today's 4,800 layoffs at Microsoft, 1,600 will hit Xbox, with about 3,200 cuts in total expected through fiscal year 2027 . Xbox CEO Asha Sharma calls this \"the most significant restructure in Xbox history\" Microsoft will transition four of its gaming studios to operate under new management, ensuring preservation of intellectual property and ongoing projects .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-06T15:53:22.067644Z"
-    },
-    {
-      "id": "e5175223c528f13c3fa65afbb3b9ad8c",
-      "title": "Claude Code and Fable 5 ported the 2003",
-      "description": "A Google Deepmind developer ported the 2003 real-time strategy game \"Command &#038; Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code . The first build took 40 minutes and the full source code is available on GitHub . The game is based on the 2003 PC game Command and Generals 0-Zero Hour, which was released in 2003 . The full code is on GitHub and the source code can be found .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/cc5_fable_5_ios_port-1200x692.png",
-      "fullArticleLink": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-06T04:20:59.661650Z"
-    },
-    {
-      "id": "c308999142bae90fb1bff459b039b05e",
-      "title": "AI search agents don't fail at searching, they",
-      "description": "AI search agents rarely fail at multi-step research because of the search itself . Their real problem is not asking the user for clarification when queries are ambiguous . When ambiguity is removed from the queries, accuracy jumps by up to 40 points . Even the best model only hits 43 percent overall accuracy, according to a new benchmark called DiscoBench shows that models searching repeatedly instead of asking follow-up questions actually perform worse than those that just guess .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/discobench-search-agents-have-to-decide-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-05T14:02:22.753907Z"
     }
   ]
 }
