@@ -1,6 +1,85 @@
 {
   "news": [
     {
+      "id": "27e07010ebb00fa12a90f4aa104699e8",
+      "title": "Anthropic wants to do for physical hardware what",
+      "description": "Anthropic's Model Hardware Standard (MHS) gives AI agents a unified interface to physical devices like robotic arms and lab instruments . In early tests, integration time dropped from weeks to hours . But Claude sometimes failed to grasp physical cause and effect, so human oversight remains essential for now . Anthropic wants to do for physical hardware what its Model Context Protocol did for software . It wants to use the same protocol for software that it used in software .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/mhs-ki-hardware-labore-fabriken-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-08-29T16:42:18.365285Z"
+    },
+    {
+      "id": "163a7d18758b3be300fdccac4c52cb32",
+      "title": "LAION drops massive open video dataset with 10",
+      "description": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips . Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points . Legally, LAION can likely point to a 2024 Hamburg court ruling that allows collecting copyrighted content for non-commercial research .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/08/images_database_ai_generated_data_files_online_storage-1-1200x673.png",
+      "fullArticleLink": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-29T16:42:08.114026Z"
+    },
+    {
+      "id": "43a3eddcb49fd152b6224bd0e3460e67",
+      "title": "WikiSkill gives AI agents a persistent memory",
+      "description": "Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base . Instead of discarding what they learned after each run, agents document failures and successes in a wiki-like structure . Larger models benefit more, but smaller models with WikiSkill can match the performance of larger ones without it . Smaller models can match performance of smaller ones without the framework . Google Research: WikiSkill is a framework for AI agents that gives them a persistent memory of past mistakes .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/aigent_skills_generation.png",
+      "fullArticleLink": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-29T16:41:57.410126Z"
+    },
+    {
+      "id": "bdcc205a4086b34dc678239b78d41606",
+      "title": "AI-generated videos are already displacing actors and livestreamers",
+      "description": "In China, 95 percent of the 128,000 short dramas released in Q1 2026 were AI-generated . Some actors are being forced to hand over their voice and likeness to AI tools before getting fired . AI-related labor disputes are rising fast, according to the Financial Times . In China's entertainment industry, some actors are already displacing actors and livestreamers across China&#039;s entertainment industry .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/china_flag_visual-1.png",
+      "fullArticleLink": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-29T16:41:47.856372Z"
+    },
+    {
+      "id": "e9dc0e62a93cb1b6785461e08c97a33d",
+      "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing",
+      "description": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts . Cursor co-founder Michael Truell downplays the move, saying OpenAI models account for just five percent of the tool's AI traffic . The move comes as SpaceX acquired Cursor, citing Musk&#039;s track record for breaking contracts, Truell says .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
+      "fullArticleLink": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-08-29T16:41:38.473977Z"
+    },
+    {
+      "id": "e277e4a4618df51612b5dcc8ba38f6cb",
+      "title": "Nvidia\u2019s AI advantage is moving beyond the GPU",
+      "description": "Nvidia\u2019s AI advantage is moving beyond the GPU . The company is rolling out its Vera Rubin architecture, which pairs the Rubin GPU with a collection of other units, including the Vera CPU, the Groq 3 LPX inference accelerator and similar racks for storage and networking . The Vera CPU in particular is focused on the problem of orchestrating data. \u201cVera is important because there's only so much memory that you can put in a single server or any sort of compute platform,\u201d says Jason Hardy .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-29T16:41:17.094564Z"
+    },
+    {
       "id": "afa866e58f41805bacac08417eb47b49",
       "title": "MIT AI forecasts extreme weather without historical data",
       "description": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data . Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool . It produces maps of events that have not appeared in a region's historical record but remain statistically-possible . Each map also carries estimates of the likelihood of the events that are unlikely to appear in the region's historic record .",
@@ -15378,86 +15457,6 @@
         "General AI"
       ],
       "pubDate": "2026-07-08T03:41:27.141686Z"
-    },
-    {
-      "id": "3b2c63482eb068dc3dfa6fbe06d6d03d",
-      "title": "Anthropic's Claude Cowork AI agent is now available",
-      "description": "Anthropic is rolling out its AI agent Claude Cowork to mobile and web . Until now, the feature was limited to the desktop app . The move blurs the line between Chat and Cowork even further . The agent keeps working in the background even when the laptop is closed . It pings users on their phone when it needs a decision and pings them when they need to make a decision . The feature is now available on the desktop and mobile platforms .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/antropic_logo_chat_cowork-2.png",
-      "fullArticleLink": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-08T03:41:15.449150Z"
-    },
-    {
-      "id": "0dfea62f802b8a95b50d3f56d5a82ab1",
-      "title": "Cohere Transcribe Arabic is an open-source model built",
-      "description": "Cohere has released Transcribe Arabic, an open-source model for Arabic speech recognition . The company says it outperforms Whisper and OmniASR on dialects, code-switching, and bilingual Arabic-English speech . The 2-billion-parameter model is available on Hugging Face under the Apache 2.0 license . The model is free to download and use as a free version of the software . This",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/06/cohere_logo.png",
-      "fullArticleLink": "https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-08T03:41:03.928635Z"
-    },
-    {
-      "id": "2810642bac04b4289ec09535962f2ec7",
-      "title": "Microsoft phases out OpenAI and Anthropic models",
-      "description": "Microsoft is replacing AI models from OpenAI and Anthropic with its own MAI models in products like Excel and Outlook . Tens of thousands of queries per week already run through them . AI chief Mustafa Suleyman wants to \"ultimately eliminate\" the cost of external models . For Copilot customers, that could mean less performance for the same price as the other models . Copilot users could see less performance .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_coopilot.png",
-      "fullArticleLink": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-08T03:40:52.542308Z"
-    },
-    {
-      "id": "9d9559f960156a84dc6624040d07e539",
-      "title": "Building the foundation for an autonomous enterprise",
-      "description": "As energy companies push AI deeper into industrial operations, success depends on governance, trusted data, and systems designed to augment human expertise, says Andrew Melouney, vice president for digital at Woodside Energy . The company has spent years building predictive analytics, optimization systems, and machine learning tools across exploration, drilling, maintenance, and plant operations . \"Our ambition is really for an autonomous enterprise, where we have agents with agency that are able to really deeply interact with our core workflows\"",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Andrew-Melouney.png?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-08T03:40:33.948046Z"
-    },
-    {
-      "id": "34dc6f6de3b4a015c927e7f40a9f1cb0",
-      "title": "The foundational elements of AI architecture that IT",
-      "description": "Discover four foundational elements of AI architecture that will endure as models continue to advance: data quality, context engineering, governance, and human expertise . Gartner predicts that companies will abandon 60% of all AI projects through 2026 if they are not supported by AI-ready data . Scalable data architecture allows AI systems to evolve alongside the business and connect reliably to internal information needed to deliver meaningful value . Strong governance and LLM observability help organizations maintain control over how AI systems use data, monitor system performance and identify problems before they affect operations .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617_7fbe0d.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-08T03:40:16.602537Z"
-    },
-    {
-      "id": "370b10335fb6521a330b13edb352a469",
-      "title": "Out-of-distribution Neural Inference in Dynamical Ising Models",
-      "description": "In-distribution accuracy and robustness do not necessarily imply a learned dynamics-to-structure rule . Instead, neural reconstruction can be governed by architecture-dependent statistical priors . Our results identify a concrete failure mode of standard data-driven learning in physical inverse problems and motivate rule-guided principles for machine-learning-assisted scientific discovery . arXiv:2607.03039v1.1 . This summary highlights key aspects of the latest developments. Industry",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.03039",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-08T03:40:04.803712Z"
     }
   ]
 }
