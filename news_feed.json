@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "id": "619cf37e65ee567901d21fe335141003",
+      "title": "Vijay Pande ran $4 billion at a16z",
+      "description": "Vijay Pande left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC . Pande talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one . He also discusses why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-30T05:08:56.131495Z"
+    },
+    {
+      "id": "0d18d5472b0375ae5850c2fc0a029608",
+      "title": "Sony Music, Warner sue Anthropic alleging a \u201cbrazen",
+      "description": "Sony Music Publishing, Warner Chappell and numerous other music publishers have sued Anthropic and co-founders Dario Amodei and Benjamin Mann . The publishers accuse Anthropic of \"blatant theft\" by using thousands of copyrighted works to train its AI model Claude . Anthropic was ordered to pay $1.5 billion in the Bartz v. Anthropic case in January after a judge ruled that while it was legal to use copyrighted works, it was not legal to acquire that content through piracy .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-30T05:08:41.544678Z"
+    },
+    {
       "id": "27e07010ebb00fa12a90f4aa104699e8",
       "title": "Anthropic wants to do for physical hardware what",
       "description": "Anthropic's Model Hardware Standard (MHS) gives AI agents a unified interface to physical devices like robotic arms and lab instruments . In early tests, integration time dropped from weeks to hours . But Claude sometimes failed to grasp physical cause and effect, so human oversight remains essential for now . Anthropic wants to do for physical hardware what its Model Context Protocol did for software . It wants to use the same protocol for software that it used in software .",
@@ -15433,30 +15460,6 @@
         "General AI"
       ],
       "pubDate": "2026-07-08T14:39:39.014413Z"
-    },
-    {
-      "id": "4354e845d0bd2083c91b75485d801056",
-      "title": "Learning to Control LLM Agent Harnesses with Offline",
-      "description": "Large language model (LLM) agents are usually improved by changing prompts, models, or hand-written workflows . We argue that this harness is itself a learnable control layer . We formalize harness operation as a finite-horizon Harness MDP, where a lightweight controller selects structural execution actions while the LLM executor remains frozen . The controller is trained from offline rollouts using advantage-weighted regression .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.05458",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-08T14:39:26.970691Z"
-    },
-    {
-      "id": "6ec677dfeb9018cac03c974982d5d33a",
-      "title": "China eyes export curbs on its top",
-      "description": "Chinese authorities are looking into restricting foreign access to the country's most powerful AI models . Alibaba, Bytedance, and Zai would all be affected . The move means both superpowers now treat AI as a strategic asset . For Europe, the convenient shortcut of relying on cheap Chinese open-source models could close much faster than expected . Europe is caught in the middle of the trade war between China and the U.S.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Europe-AI-Race-in-the-Middle-1200x675.png",
-      "fullArticleLink": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-08T03:41:27.141686Z"
     }
   ]
 }
