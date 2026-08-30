@@ -1,6 +1,70 @@
 {
   "news": [
     {
+      "id": "ae03e3a8398610de16211bac12cabdfe",
+      "title": "Anthropic's Claude Code limit change is a raise",
+      "description": "Anthropic is effectively cutting Claude Code's weekly usage limits by 17 percent . A temporary 50 percent boost expires on September 14 and will be replaced by a permanent 25 percent increase . Anthropic promises more control and transparency over usage in return . The change is a raise on paper but a cut in practice but a raise in practice on paper and in practice, Anthropic says . It will be a permanent increase of 25 percent .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-30T16:36:23.254222Z"
+    },
+    {
+      "id": "1ea81de140782d34f751c061a74a7542",
+      "title": "The skills that earn top grades",
+      "description": "GPT-4o boosted grades on a marketing assignment by nearly a full point on a five-point scale in an experiment with 1,053 Bocconi University students . Whether they actually learned anything wasn't tested . Other studies suggest that AI-assisted performance without independent thinking does long-term harm . The skills that earn top grades are the ones AI can fake best, according to The Decryptor .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/student-ai-assisted-assignment-illustration-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-08-30T16:36:11.157402Z"
+    },
+    {
+      "id": "ed6bcbfb93f048122ff38dfab17a1844",
+      "title": "AI agents have no sense of time",
+      "description": "AI coding assistants like Claude Code and Codex overestimate how long tasks will take . Codex is off by as much as ten times the actual duration of tasks . They also rate their own work about 20 percentage points too high . For long, autonomous tasks, that creates a real problem with oversight for oversight . AI agents have no sense of time and are not aware of it, according to a new study by The Decoder .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/KI-Agents-lost-time-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-08-30T16:35:58.779238Z"
+    },
+    {
+      "id": "7b94c096cafc1ea4b8894e1a6f3e1d76",
+      "title": "AI sentiment is turning sour as employee reviews",
+      "description": "An analysis of Glassdoor reviews shows that positive AI comments have dropped from 81 to 43 percent since 2019 . Executives rate AI mostly positive, while insurance claims workers rate it almost entirely negative . Forced adoption, surveillance, and unrealistic productivity expectations weigh just as heavily . Fear of job loss is just one complaint among many, and surveillance is just as well as unrealistic expectations . For more information, visit The Decoder.co.uk .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/chatgpt_office_woman-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-08-30T16:35:46.699191Z"
+    },
+    {
+      "id": "e4de3653e651c8746b7de2faedfff614",
+      "title": "Caterpillar is bringing to AI deployment what it",
+      "description": "Caterpillar is bringing to AI deployment what it learned from automating mining . The industrial giant is now applying AI more broadly, including in tools used by technicians and its own employees . Caterpillar plans to spend $100 million over the next five years to train its workforce in AI, autonomy and robotics . The company is also using AI to power software for scanning sites and generating digital twins in manufacturing to analyze operations, Jaime Mineart said .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-08-30T16:35:23.720204Z"
+    },
+    {
       "id": "619cf37e65ee567901d21fe335141003",
       "title": "Vijay Pande ran $4 billion at a16z",
       "description": "Vijay Pande left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC . Pande talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one . He also discusses why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine .",
@@ -15398,68 +15462,6 @@
         "Startup"
       ],
       "pubDate": "2026-07-08T14:40:44.235248Z"
-    },
-    {
-      "id": "ff79283edb8849ffd655f9703bab727e",
-      "title": "Deep Reinforcement Learning for Dynamic Battery Management",
-      "description": "Battery charging of Autonomous Mobile Robots in warehouses is a critical operational challenge that heavily impacts both order processing times and throughput . Traditional fixed-rule heuristics often prove suboptimal in dynamic environments . We propose a Proximal Policy Optimization (PPO)-based Deep Reinforcement Learning (DRL) framework designed for multi-block warehouses with fixed charging stations . We validate the model's robustness across diverse warehouse configurations and stochastic arrival rates .",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.05683",
-      "type": "news",
-      "categories": [
-        "Robotics"
-      ],
-      "pubDate": "2026-07-08T14:40:28.214105Z"
-    },
-    {
-      "id": "2a642d3fb1d22a26fe21a510fae555b8",
-      "title": "EquiFiLM: Charge-Conditioned Equivariant Force Fields via Feature",
-      "description": "E-MACE delivers a $3.1\\times$ reduction in force RMSE ($21.3$ to $6.96$ meV/$\\mathring{A}$) over a baseline without EquiFiLM trained on the same data, at indistinguishable inference cost . The recipe is backbone- and conditioning-agnostic: it applies without architectural change to any equivariant MLFF with scalar interaction-layer channels . This summary highlights key aspects of the latest developments. Industry analysts suggest that",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.05559",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-08T14:40:15.015994Z"
-    },
-    {
-      "id": "16368eb7b7f241c34b08196ce1b636aa",
-      "title": "PatchOptic for Shared-State LLM Workflows with Projected Views",
-      "description": "PatchOptic is an optic-inspired interface for shared-state LLM workflows . Each workflow step declares a projected read view, an authorized write region, and a patch-source region . The results show that projected reads reduce reported leakage and token cost while preserving accepted-output quality under the strong actor . The same declaration yields a path-level footprint that supports delegation, sub-workflow composition and static certificates for reordering independent steps within the same phase .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.05483",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-07-08T14:40:02.499327Z"
-    },
-    {
-      "id": "4e7146b55d48543d3dd980b2316f41e5",
-      "title": "InvWeaver: Deductive Feedback for Invariant Synthesis in Interacting",
-      "description": "InvWeaver is a neuro-symbolic framework for synthesizing invariants for programs with multiple interacting loops . The key idea is to expose inter-loop dependencies and propagate proof obligations through a combination of loop-level abstraction, obligation-guided inference, and weakest-precondition-based refinement . The results show that InveWeaver substantially outperforms existing invariant inference methods, solving 72 out of 82 multi-loop benchmark problems and maintaining strong performance on single-loop tasks .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.05478",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-08T14:39:50.555129Z"
-    },
-    {
-      "id": "61781bf87d7443a86a93eeb4ba17f3d3",
-      "title": "AdaStop: Cost-Aware Early Stopping for DNN Test Selection",
-      "description": "Existing methods for testing deep neural networks (DNNs) primarily prioritize test inputs likely to reveal model faults . Too little testing misses failures, while too much incurs unnecessary labeling costs . We formulate testing as a cost--benefit decision process in which labeling an input incurs cost $c$ and discovering a fault yields value $v$. We introduce a framework that estimates the marginal fault discovery rate during testing and stops labeling when the estimated rate falls below the threshold .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.05461",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-08T14:39:39.014413Z"
     }
   ]
 }
