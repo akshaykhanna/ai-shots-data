@@ -1,6 +1,204 @@
 {
   "news": [
     {
+      "id": "a3bd6035b08505169bd03a6bb459b527",
+      "title": "Instagram admits users often can't tell AI profiles",
+      "description": "Instagram is replacing its \"AI creator\" tag with a new \"AI-generated profile\" label . Profiles without the label get their reach and recommendations throttled . As recently as late 2024, Meta was still planning a coexistence of AI characters and humans on the platform . Instagram admits users often can&#039;t tell AI profiles from real people on the social networking site . The company says users often don't know what AI profiles are real people .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/meta_logo.png",
+      "fullArticleLink": "https://the-decoder.com/instagram-admits-users-often-cant-tell-ai-profiles-from-real-people/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-09-01T04:56:55.499232Z"
+    },
+    {
+      "id": "cadafeb2934295e10b7e70f42c5efd34",
+      "title": "A Causal Model for Locating and Unlocking Sandbagging",
+      "description": "Sandbagging models strategically underperform on evaluations while retaining the capabilities being measured . The evaluations that guide frontier-model deployment and governance then understate what these models can do . We propose a causal model of how sandbagging is carried in the residual stream . The causal model predicts a window of layers, after the last sandbagged write and before the answer commit, in which a single-layer reference graft of the sand bagging axis restores the full capability .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29461",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-01T04:56:38.558423Z"
+    },
+    {
+      "id": "9de22e4f9358030168860400907ec570",
+      "title": "Testing the Economic Validity of Frontier AI Evaluation",
+      "description": "Frontier-model leaderboards now rank systems based on economic benchmarks . Those rankings inform what organisations buy, what regulators scrutinise, and expectations of how work will change . We test it on a hash-pinned leaderboard snapshot of 421 model configurations across twelve benchmarks, four of them economic . A single factor explains 74.5% of common variance and tracks model release date (R^2 = 0.505), so the leading axis of capability is substantially a time trend .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29420",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-09-01T04:56:13.971059Z"
+    },
+    {
+      "id": "5cb1de41765aec26d96990cd68ef5400",
+      "title": "Scalable Clinical Data Infrastructure and Comparative ML Evaluation",
+      "description": "Deep learning architectures are increasingly proposed for patient trajectory modeling in electronic health records . We argue that LASSO, not the highest-discriminating model, is the model best suited to direct clinical deployment . We present lessons for the machine learning and healthcare community regarding data infrastructure, model selection, and value of calibration and interpretability in high-stakes decision support, we say . arXiv:2608.29419v1",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29419",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-09-01T04:56:02.227165Z"
+    },
+    {
+      "id": "774b58c0c93f3408c8e584d2fe470a09",
+      "title": "When Do Larger Batches Help Scale LLM Reinforcement",
+      "description": "Larger batches reduce the variance of stochastic gradients per update and are often expected to accelerate training . Yet whether this statistical benefit translates into lower wall-clock time-to-target remains unclear . We study this tradeoff in reinforcement learning for large language models . At the systems level, larger batches improve generation throughput by up to 2.29x on fixed hardware. In GRPO, combining higher throughput with learning-rate retuning reduces time to 29% .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29296",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-09-01T04:55:38.046981Z"
+    },
+    {
+      "id": "c3a18e6c866798a124e3d2592a8e130e",
+      "title": "RL-FAT: Reinforcement Learning for Fair Adversarial Training",
+      "description": "Deep neural networks remain highly vulnerable to adversarial perturbations . RL-FAT is a reinforcement-learning-inspired fair adversarial training framework . It uses policy-based feedback from adversarial predictions to address class-wise disparities . The new method achieves competitive robust accuracy and substantially reduces classwise robustness imbalance compared with standard adversarial trainable baselines . It also introduces a fairness-emphasis adversarial loss that assigns stronger training pressure to classes with high adversarial losses .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29247",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-09-01T04:55:26.067270Z"
+    },
+    {
+      "id": "4175a13c66310bcda8316324cdabe19c",
+      "title": "Machine Learning for Broadband Adoption Disparities: Tract-Level Prediction",
+      "description": "The United States has allocated approximately $65 billion through the Infrastructure Investment and Jobs Act for broadband expansion . This paper presents an explainable machine learning framework for profiling broadband adoption disparities at census-tract granularity across 83,359 tracts nationwide . TreeSHAP analysis identifies income and education as the dominant factor group . In regret-reduction terms, the model closes 19% of the remaining gap between income-only and oracle selection .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29110",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-09-01T04:55:13.796890Z"
+    },
+    {
+      "id": "30a1a74fbcb2c8003ead5606394783bb",
+      "title": "Development of an Autonomous AI Coding Agent using",
+      "description": "The research presents an autonomous AI Coding Agent which establishes a connection between LLM-generated content and production-ready software . The agent uses a \"Self-Critic\" evaluator system to test different implementation methods before it improves its operational framework through backpropagation . The system operates through a Flask-based web interface which delivers instant feedback together with syntax highlighting features . Our experimental results show that the MCTS-based method achieves a 92% success rate on complex logical prompts .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29096",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-09-01T04:55:01.904415Z"
+    },
+    {
+      "id": "fe6a11cf5dd81393986bd4f471035a65",
+      "title": "Selective Disclosure of Hidden Directives in Reasoning Models",
+      "description": "Chain-of-thought (CoT) reasoning traces are increasingly proposed as a mechanism for AI oversight . We find consistent asymmetric disclosure, a higher probability of leaking malign hidden instructions than benign ones . Benign and malign-derived hiding vectors are highly similar (cosine $0.804$ in MiniMax-M2.5) in these models the disclosure asymmetry arises from differential activation of a shared hiding direction . This",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29070",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-09-01T04:54:49.802090Z"
+    },
+    {
+      "id": "04bb7ad5264d62fc3023431b9ca13c30",
+      "title": "Revisiting the Provable-Auditable Privacy Gap of DP-SGD",
+      "description": "Differential privacy (DP) has traditionally been used to provide theoretical upper bounds on an algorithm's stability to changing its training data . In modern machine learning applications, achieving strong tradeoffs between utility and theoretical privacy is challenging . In this work, we propose the empirical privacy lower bound of an algorithm as a concrete metric to optimize for, complementary to the theoretical upper bound . We give a lightweight defense framework that augments optimization methods in the ML pipeline to have significantly-improved empirical privacy on standard benchmarks .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.28934",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-09-01T04:54:03.525274Z"
+    },
+    {
+      "id": "b7e50ad64308412833983a39a19f33e4",
+      "title": "ERR+: Sequential Entropy Resolution for Efficient and Decisive",
+      "description": "Large reasoning models achieve strong performance on complex tasks by generating extended chain-of-thought traces via reinforcement learning with verifiable rewards (RLVR) We propose ERR+ a two-phase RLVR framework grounded in this observation . The first phase trains with the Entropy Relief Reward (ERR), a bonus proportional to cumulative token-level entropy drops in the thinking phase . The second phase introduces the Robust Relative Efficiency Reward, which scores each response's length against co-generated peers .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.28771",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-01T04:52:49.072287Z"
+    },
+    {
+      "id": "c24cafe651857fc1ca331b9e1404dee2",
+      "title": "Harvard Law dropout raises $6M for Blue Voice",
+      "description": "Harvard Law dropout raises $6M for Blue Voice to build a &#8216;Harvey for police officers' Marina Temkin: \"When an officer makes a decision, they do so from memory or best guess, based on thousands of pages of law, policy, municipal ordinances, and state laws that they've internalized and keep in their head\" Officers at 225 county agencies across 25 states now rely on the tool daily to ensure their actions follow department protocol .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/BlueVoice_Founders.png?resize=1200,600",
+      "fullArticleLink": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-09-01T04:52:30.087368Z"
+    },
+    {
+      "id": "72b2e2fa10252d2f5f234e571baca2f5",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "description": "Instagram puts new limits on undisclosed AI profiles . The platform says it\u2019s renaming its existing \u201cAI creator\u201d label to \u2018AI-generated profile\u201d The new label is meant to tell users that the person featured on a profile was generated or substantially created with AI . Instagram says the change comes partly in response to users who have stumbled across profiles that looked like they belonged to real people, only to find out later that they were AI-generated .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-09-01T04:52:13.592982Z"
+    },
+    {
+      "id": "77b770af978c39334da0ebd9f9aeb0e2",
+      "title": "The Pentagon now has its own version",
+      "description": "The Pentagon now has its own version of ChatGPT and Grok . GenAI.mil is designed to give Department of Defense employees access to commercial frontier AI models without sending sensitive government data through ordinary consumer channels . The Pentagon has already onboarded more than 1.7 million unique users out of the department's 3 million personnel, according to the department . The department added Grok would allow its military \"to execute missions faster and with greater precision across numerous operational contexts\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-09-01T04:51:57.781695Z"
+    },
+    {
+      "id": "00adf4a54ce8a9f46b298d3eaf5f3e9f",
+      "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused",
+      "description": "Apple shares &#8216;shocking evidence' against former employee accused of stealing company data for OpenAI . New details emerged after legal counsel for former Apple employee Chang Liu handed over Liu's old work laptop for investigation . Apple alleges Liu used a confidential Apple circuit schematic in his work at OpenAI, as well as a tool that shares a name with an internal Apple engineering application . Apple is seeking a preliminary injunction \u2014 a court order that would block OpenAI from working on hardware based on Apple's technology while the case is ongoing .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-09-01T04:51:40.826081Z"
+    },
+    {
       "id": "4952606c182ed69c2fa405eb89098ca9",
       "title": "OpenAI and rival AI labs are buying tens",
       "description": "OpenAI has purchased tens of thousands of Mac minis and Mac Studios to train computer agents . Anthropic also relies on Apple hardware . Demand is so high that the most powerful models have been sold out for months . Apple\u2019s Mac revenue rose by nearly 29 percent to $10.4 billion in the June quarter in the last year . Apple's Mac sales were up 29 percent in the first quarter of 2014 .",
@@ -15297,189 +15495,6 @@
         "LLM"
       ],
       "pubDate": "2026-07-11T03:35:04.502597Z"
-    },
-    {
-      "id": "1a8eab2bcfb97cfe26e617e84881534c",
-      "title": "Principled Analysis of Deep Reinforcement Learning Evaluation",
-      "description": "Reinforcement learning research has been the center of remarkable scientific progress for the past decade . We introduce the theoretical foundations of scaling laws in reinforcement learning . We conduct large-scale experiments and our results demonstrate that a line of reinforcement learning research under the canonical design and evaluation paradigms resulted in incorrect conclusions . Our analysis and results provide a core analysis on scaling, capacity and complexity of deep reinforcement learning. arXiv:2607.07769 .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.07769",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-11T03:34:53.604157Z"
-    },
-    {
-      "id": "3eb11d0147bd8adda4f5ff88196af7ae",
-      "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI",
-      "description": "Meta is entering the AI API business with Muse Spark 1.1 at prices that undercut even the dirt-cheap Grok 4.5, released just yesterday . At $4.25 per million output tokens, Meta charges a fraction of what Anthropic or OpenAI ask . For pure-play AI labs burning through billions, the pressure just got worse . The price war heats up as the price war intensifies .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/meta_logo-2.png",
-      "fullArticleLink": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-10T14:53:45.782037Z"
-    },
-    {
-      "id": "20704fd967fc6e2ba69e397d50521c98",
-      "title": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT",
-      "description": "OpenAI is launching ChatGPT Work, an agent-based product powered by Codex and the now publicly available GPT-5.6 . The agent can independently handle complex projects across apps like Google Drive, Slack, Salesforce, and Salesforce . ChatGpt Work is available now on web, mobile, and desktop, though access depends on the subscription plan . The new agent can handle complex workflows across apps such as Google Drive and Slack .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_chatgpt_pattern_logo.png",
-      "fullArticleLink": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-10T14:53:33.674966Z"
-    },
-    {
-      "id": "38fef4d6718bb82264c16fca87f911e4",
-      "title": "GPT-5.6 Sol nearly matches Fable 5 on aggregated",
-      "description": "OpenAI's GPT-5.6 Sol scores 59 points on the Artificial Analysis Intelligence Index, just one point behind Claude Fable 5 . At $1.04 per task, it costs a third of what Anthropic's top model charges . In agentic coding, Sol beats every competitor, adding even more pricing pressure on Anthropic . The Decoder.com: Sol beats all competitors at one-third the cost .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_sol.png",
-      "fullArticleLink": "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-10T14:53:21.588434Z"
-    },
-    {
-      "id": "f4d9ef0d000e5210543962d8a6b98440",
-      "title": "Bun ditches Zig for Rust with help",
-      "description": "The JavaScript tool Bun has been fully rewritten from Zig to Rust, and Anthropic's Fable 5 did most of the work . Zig kept producing memory errors and crashes that were hard to fix for good . The new version, Bun v1.4.0, is available as a canary release . It fixes 128 bugs and runs about 2 to 5 percent faster than Zig . The API bill came to roughly $165,000, according to developer Jarred Sumner .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
-      "fullArticleLink": "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-10T14:53:07.153687Z"
-    },
-    {
-      "id": "158957794ce6ba0030597f0fb9a4fbcb",
-      "title": "The Fed wants AI investor Marc Andreessen",
-      "description": "Andreessen's firm Andreessen Horowitz is heavily invested in AI companies, raising conflict-of-interest questions . Fed Chair Kevin Warsh views AI as a \"significant disinflationary force\" Andreessen has been appointed to advise the Federal Reserve on the impact of AI's economic impact . Warsh says Andreessen is a venture capitalist who has a conflict of interest in his own firm . The Fed wants Andreessen to figure out if AI can tame inflation .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/02/Office-Work-AI-scaled.jpg",
-      "fullArticleLink": "https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/",
-      "type": "news",
-      "categories": [
-        "Startup"
-      ],
-      "pubDate": "2026-07-10T14:52:55.012279Z"
-    },
-    {
-      "id": "94b0740d44525a6d6495ea03c3bb269e",
-      "title": "OpenAI kills Atlas browser after just eight months",
-      "description": "Atlas joins a growing list of scrapped OpenAI products . Its features are moving into ChatGPT's updated Chrome extension, which will let users run ChatGpt directly in Chrome's sidebar . Atlas joins the list of products that OpenAI has killed less than eight months after launch . The extension will allow users to use the Chrome extension in the sidebar of the Chrome app in the Chrome App Store on the App Store .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_atlas-1200x805.png",
-      "fullArticleLink": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-10T14:52:43.718315Z"
-    },
-    {
-      "id": "d19120d2b4923499fd4b869fd5ecdd25",
-      "title": "Multimodal Unlearning Across Vision, Language, Video, and Audio",
-      "description": "Multimodal unlearning addresses this challenge by enabling selective removal across modalities while retaining overall utility . This survey offers a unified, system-oriented view of multimodal . unlearning across vision, language, audio, and video . Our taxonomy enables systematic comparison across model architectures and modalities, clarifying trade-offs among deletion strength, retention, efficiency, reversibility, and robustness . We release a curated repository: https://smsnobin77.io/Awesome-Multimmodal-Unlearning/",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.07907",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-10T14:52:27.270232Z"
-    },
-    {
-      "id": "e69c285bb468f6c165c019dafb71d8f8",
-      "title": "Physics-Informed Machine Learning Under Small-Data Constraints: Lessons",
-      "description": "In physically dominated machining processes, experimental datasets are small, expensive, and material-specific . In this regime, data curation, evaluation design, and form of physics integration can matter as much as the learning algorithm . We find that model rankings from a 15-point hold-out set can be unstable . Bayesian hyper parameter tuning improves parameter-sensitive baselines such as gradient boosting and SVR, yet harms multi-stage hybrid pipelines at this sample size .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.07863",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-10T14:52:14.835571Z"
-    },
-    {
-      "id": "123221ab3590a433fba056c2409f6f2a",
-      "title": "When Does Continual Learning Require learning Require Learning?",
-      "description": "As large language models (LLMs) become increasingly capable, the next question is how can we enable models to continually learn? The field largely frames this as a problem of context management and mitigating forgetting . We argue that continual learning is fundamentally about increasing model competence as the world changes . We disentangle this change along two axes -- space, where the model encounters new domains, and time, where underlying data drifts under a fixed task .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.07847",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-10T14:52:01.194077Z"
-    },
-    {
-      "id": "22ff7872b4cefa8a6876d2203678b323",
-      "title": "Explaining Near-Zero Hessian Eigenvalues Through Approximate Symmet",
-      "description": "The bulk consists of the weakly lifted pseudo-Goldstone modes of the continuous symmetries of the network parametrization . In deep linear networks these symmetsets generate flat directions and hence exact zero modes, whose eigenvectors we construct explicitly . We demonstrate the mechanism in a two-layer ReLU student--teacher model and in a network trained on CIFAR-10 . A convolutional example demonstrates that the same diagnostic extends beyond fully connected layers .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.07845",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-10T14:51:48.841452Z"
-    },
-    {
-      "id": "4e52bcd448d0bd00cf1ff1ba6613bc55",
-      "title": "NHS AI blood test could reduce invasive womb",
-      "description": "NHS hospitals are preparing to use an AI-powered blood test to assess women referred for possible womb cancer before invasive checks are carried out . 90,000 postmenopausal women in England are referred by GPs each year for checks after experiencing heavy bleeding . About 10,000 women are diagnosed with womb cancer in the UK each year . Around ten per cent of women in the country have the possibility of womb cancer, according to AI News .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/NHS-AI-blood-test-could-reduce-invasive-womb-cancer-checks-scaled-e1783560044317.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-10T04:10:23.991410Z"
-    },
-    {
-      "id": "6f0cc7a81fbeca0b0aee15467e71148e",
-      "title": "AWS GraphRAG deployment cuts drug research cycles",
-      "description": "AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent . This acceleration was achieved by integrating previously separated proprietary databases into a unified and queryable knowledge graph . Historically, initial data gathering and screening phases took over six months per iteration, yielding a low five percent success rate . Crucial Crucial data gathering, screening phases were six months a time, with a low 5% success rate, according to the author .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/aws-graphrag-deployment-drug-research-report-amazon-web-services-enterprise-ai-healthcare.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-10T04:10:12.088163Z"
-    },
-    {
-      "id": "a90a0d3e9300d25fe5bbd645cda5bfda",
-      "title": "Anthropic finds a hidden space where Claude puzzles",
-      "description": "Anthropic found a hidden space where Claude puzzles over concepts . The company claims that monitoring words that pop up in the J-space gives it a new way to understand and control its models . Anthropic has been pushing the envelope in a field of research known as mechanistic interpretability, which involves probing the internal workings of LLMs to see how they tick . It has teamed up with Neuronpedia, an open-source platform that lets you poke around inside LLMs .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Startup"
-      ],
-      "pubDate": "2026-07-10T04:09:41.835221Z"
-    },
-    {
-      "id": "0a12d1b361f9900d68bf3dab53e2ed71",
-      "title": "Machine Learning through the Lens of Combinatorial Optimization",
-      "description": "Modern machine learning increasingly relies on complex models whose behavior is difficult to characterize beyond empirical performance metrics . We review and synthesize recent advances at the intersection of combinatorial optimization and trustworthy ML . CO formulations offer additional capabilities over purely heuristic approaches, notably global guarantees, formal certificates, and explicit treatment of trade-offs . While scalability remains an important challenge, continued progress in solvers and hybrid algorithms suggests a growing role for CO in the design and deployment of trustworthy ML systems .",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.07762",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-07-10T04:09:28.189935Z"
     }
   ]
 }
