@@ -1,6 +1,195 @@
 {
   "news": [
     {
+      "id": "d87004b272d971fb5ee2c3f8bb666af0",
+      "title": "Google's AI search dropped its emergency-call advice",
+      "description": "Google's AI search gave users who typed that they were alone with an African, Indian, or Pakistani . For a British person, the same feature suggested tea and small talk about the weather . Google said on X that the results didn't meet its own standards and that it is working on fixes . The company added that the answers varied widely and weren't limited to a single group . Google told Futurism the word \"alone\" was the trigger .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
+      "fullArticleLink": "https://the-decoder.com/googles-ai-search-dropped-its-emergency-call-advice-over-nationalities-but-still-flags-people-from-facebook/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-01T16:36:39.948320Z"
+    },
+    {
+      "id": "ff5ee6696eaadda60fd681aa43f4f2cb",
+      "title": "Runway's Solaris is an AI system that generates",
+      "description": "AI company Runway has unveiled Solaris, the first model in a new category it calls Interface World Models . Instead of running code, the system generates the user interface frame by frame as you interact with it . Solaris builds on Runway's video model Gen-4.5 and follows the path the company started with GWM-1.5 . Runway is looking for partners for a launch and offers early access through a form .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/09/Runway-Solaris-title.png",
+      "fullArticleLink": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-01T16:36:25.603273Z"
+    },
+    {
+      "id": "ba722d02f8911b60c3351a7c7d25af3e",
+      "title": "Google's election AI Overviews are opaque, rely",
+      "description": "German advocacy group AlgorithmWatch ran 4,480 election-related search queries on Google and analyzed the AI Overviews that came back . Google showed the overviews inconsistently and leaned on a small pool of sources, chief among them its own platform YouTube . Whether earlier safeguards against AI answers on election questions still apply, Google left open . Google's AI overviews are opaque, rely on few sources, and sometimes take sides .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/09/AlgorithmWatch-LTW_KI-Ubersicht_Studie_Website_Titelbild-1.webp",
+      "fullArticleLink": "https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-01T16:36:15.024350Z"
+    },
+    {
+      "id": "3ade553a851144859c6b670067f8007e",
+      "title": "GraM-Diff: A Unified Graph-Mamba Diffusion Framework for EEG",
+      "description": "Electroencephalography (EEG) is a promising, non-invasive, and cost-effective modality for Alzheimer's disease (AD) detection . GraM-Diff is a unified classifier-guided Graph-Mamba diffusion framework for EEG synthesis . It embeds Graph Convolutional Networks within a diffusion U-Net to model inter-electrode connectivity and Bidirectional Mamba state-space blocks for linear-complexity long-range temporal modeling . This summary highlights key aspects of the latest developments.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29755",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-09-01T16:36:00.962843Z"
+    },
+    {
+      "id": "aa002aa594190d24d676066b134b68fc",
+      "title": "Higher-Dimensional Rotary Position Embedding is a Rotary-Rotary",
+      "description": "Rotary Position Embedding (RoPE) embeds positional information with independent 2D rotations, forming relative position terms in self-attention . We propose HD-RoPE, which extends RoPE from independent rotations to higher-dimensional rotations and introduces a Paley-I orthogonal basis to obtain balanced, isotropic, and dense phase mixing within each rotation subspace . This significantly enhances channel coupling and rotational degrees of freedom .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29715",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-01T16:35:50.883997Z"
+    },
+    {
+      "id": "3080021680f9fe471f2addbbb2cf1438",
+      "title": "LLMs as strategy designers for privacy-preserving tabular data",
+      "description": "Tabular Synthesis Strategy Designer (TabSSD) uses an LLM to design synthesis procedures rather than directly generate records . TabSSD provides the LLM with tree-derived summaries of variable dependence rather than raw records . It strikes a favourable balance among statistical fidelity, predictive utility, and empirical privacy risk, achieving the best average rank across six metrics among ten methods . It substantially reduces local computation and token consumption relative to the compared methods .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29674",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-09-01T16:35:41.571234Z"
+    },
+    {
+      "id": "d728d20b23d50b5199d9c4b75cdcf1e6",
+      "title": "A Target-Centric Survey of Quantization-Aware Training was conducted",
+      "description": "Quantization-Aware Training (QAT) techniques have emerged as a promising solution to address these challenges by simulating quantization effects during model training . We provide a target-centric survey of QAT aimed at clarifying both its theoretical foundations and its evolving implementation landscape . We synthesize cross-target differences in error characteristics, numerical formats, and strategy transferability . We further summarize QAT evaluation paradigms and discuss challenges in optimization and deployment .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29667",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-01T16:35:32.347926Z"
+    },
+    {
+      "id": "92390974dee5ce6d479e386225f0de69",
+      "title": "LLMODE: Aligning ODEs with LLMs via Gated Token",
+      "description": "Large language models (LLMs) have shown promise for spatio-temporal forecasting, but existing approaches often rely on regularly sampled token sequences and struggle with irregular observations because of temporal asynchrony, representation-space misalignment, and limited context windows . We propose LLMODE, a token-efficient framework for irregular . forecasting with a frozen LLM backbone . Experiments on three real-world urban datasets and two physical-dynamics benchmarks show competitive overall performance .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29640",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-01T16:35:22.380772Z"
+    },
+    {
+      "id": "cf48798b528ec5d0aa253a3039264374",
+      "title": "Wide Learning: Learning to Reach Evidence",
+      "description": "Machine learning is usually evaluated after an evidence interface has been fixed . A learner's state can determine which evidence-generating experiments it can reliably realise under bounded resources . We formalise effective reach relative to learner state, deployment budget, reliability threshold, and evaluation distribution . The construction establishes learning can change effective epistemic reach even when primitive affordances and deployment resources are held fixed . It opens the evaluation question for learning systems: not only what they infer from available evidence, but what informative evidence experience experience experience teaches them to bring within reach .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29608",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-09-01T16:35:11.171648Z"
+    },
+    {
+      "id": "20e765cc0af92c855b4c761fc6f853e2",
+      "title": "Which LLM for Which Work? Budgeted Model Allocation",
+      "description": "A company with a fixed artificial intelligence (AI) budget must decide which large language model handles each recurring workload . What it lacks is the quality table, how well each model performs on each workload . Given that table, the decision is a multiple-choice knapsack problem and is routine to solve, so estimating it is the difficulty . We propose CASE (causal active sequential experimentation), which targets evaluation to those pairs .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.29560",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-01T16:34:41.603083Z"
+    },
+    {
+      "id": "9e9a1c444e7c870ed99ff7f9fea0f5a5",
+      "title": "SemKV: Semantic Mixed-Precision KV Cache Quantization Guided",
+      "description": "The key-value (KV) cache is the dominant memory bottleneck of long-context large language model (LLM) inference, growing linearly with context length . We show that uniform KV quantization on a fractional-bit grid does not degrade gracefully . Replacing the affine base with a distortion-optimized quantizer (TurboQuant-MSE) lowers the cliff in every protocol tested, raising the no-detectable-loss operating point to 7.9x .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.28911",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-01T16:33:30.831090Z"
+    },
+    {
+      "id": "f19021544d8215e731a434fc4ada81bf",
+      "title": "Cryptanalysis of Smooth Transformer Feed-Forward Networks reveals network",
+      "description": "We show smooth two-layer feed-forward networks expose an additional structural model extraction channel . We formalize resulting Hessian collection as a partially symmetric decomposition to establish conditions for local identifiability and stability . We exploit vector-output stencil reuse to reduce the structural query cost by a factor of 16 . On independently trained CIFAR-10 vision transformers, only 16 projected Hessians, corresponding to 8193 black-box queries, recover hidden FFN directions with average absolute cosine alignment above 0.94 .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.28843",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-09-01T16:32:58.360930Z"
+    },
+    {
+      "id": "98ce7686aabe3a15e537ea697d5887da",
+      "title": "Unsupervised Latent Space Alignment with Hyperspherical Geodesic Ge",
+      "description": "Hyperspherical Gaussian Alignment is a method that directly optimizes a transformation between two latent spaces by maximizing a geometric measure of \"fit\" between them . HGA can operate in both an unsupervised and weakly supervised regime . On tasks such as model stitching or multilingual word embedding correspondence recovery, HGA manages to match supervised results with minimal or no supervision . arXiv:2608.28840v1 .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2608.28840",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-09-01T16:32:48.830053Z"
+    },
+    {
+      "id": "1010c9005f84d6dacfb273d077531051",
+      "title": "Fambot introduces an \u2018AI chief of staff\u2019",
+      "description": "Fambot introduces an &#8216;AI chief of staff' for families . The startup sees a future for AI agents that perform tasks on behalf of parents . The team wanted to use AI to make it feel like families had a full-time personal assistant that was proactively helping them stay on top of things, not just reacting to input . By offering software solutions instead of just text, the startup can build out more advanced features .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/David-and-Kids-Fambot.png?resize=1200,801",
+      "fullArticleLink": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-09-01T16:32:32.259667Z"
+    },
+    {
+      "id": "fd6ea7e03b18ecf094d28be87b4e893c",
+      "title": "AIR raises $50M to help companies vet",
+      "description": "AI security startup AIR raises $50M to help companies vet the skills and add-ons AI agents use . AIR offers a platform that can discover agents running inside companies, continuously vet any skills, tools, and components those agents use, and block them from interacting with software or external sources that don't pass security criteria . The funding rounds closed within weeks of each other, with the first round raising $10 million, and the second $40 million .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Yair-Saban-and-Niv-Hoffman.-Credit-Netanel-Tobias.jpeg?resize=1200,798",
+      "fullArticleLink": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-09-01T16:32:18.795352Z"
+    },
+    {
       "id": "a3bd6035b08505169bd03a6bb459b527",
       "title": "Instagram admits users often can't tell AI profiles",
       "description": "Instagram is replacing its \"AI creator\" tag with a new \"AI-generated profile\" label . Profiles without the label get their reach and recommendations throttled . As recently as late 2024, Meta was still planning a coexistence of AI characters and humans on the platform . Instagram admits users often can&#039;t tell AI profiles from real people on the social networking site . The company says users often don't know what AI profiles are real people .",
@@ -15297,204 +15486,6 @@
         "Robotics"
       ],
       "pubDate": "2026-07-11T13:48:45.279084Z"
-    },
-    {
-      "id": "920a09983a7d4481a9dd7d7ff1128ed8",
-      "title": "British space startup launches Longevity Lab into orbit",
-      "description": "Mass Balance's lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer\u2019s and certain cancers behave . The lab will orbit Earth for a couple of months, measuring and beaming back data about how the live cells grow, react, and function under weak gravity . Mass Balance is not trying to bring its system back to Earth intact, which will spare it some of the engineering challenges of ensuring it can withstand the extreme heat and stress satellites return .",
-      "imageUrl": "https://media.wired.com/photos/6a4bec4884127a1d3953c8af/191:100/w_1280,c_limit/Precision_assembly%20(credit_%20Tumbleweed%20Microgravity).png",
-      "fullArticleLink": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-11T13:48:22.600252Z"
-    },
-    {
-      "id": "3579a3be1f32b6fa431f82f51507844a",
-      "title": "OpenAI is shutting down Atlas, but its",
-      "description": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing . The AI-powered browser was launched in October with ChatGPT at its core . The move to shut down Atlas comes a few months after OpenAI\u2019s former CEO of applications Fidji Simo told the team to cut back on \u201cside quests,\u201d which led to the AI firm shutting down its AI video-generation tool Sora .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-app-browser.jpg?resize=1200,675",
-      "fullArticleLink": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-11T13:48:06.539156Z"
-    },
-    {
-      "id": "eb2fa5e9cf60d17db9ed56268f92fe5a",
-      "title": "AI agent startup just let its agent run",
-      "description": "Lyzr, a three-year-old startup that helps enterprises build AI agents, used its own AI agent to raise its own round . The system, SivaClaw, reportedly fielded questions from more than 130 investors, drafted investment memos, and even tracked which slides backers lingered on . It basically ran point on the startup's $100 million Series B (at a roughly $500 million valuation) while proving that the product actually works .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Lyzr-graphic.png?resize=1200,658",
-      "fullArticleLink": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-11T13:47:52.558609Z"
-    },
-    {
-      "id": "da68d51d471a4c39000040e737471f61",
-      "title": "OpenAI launches its new family of models",
-      "description": "OpenAI launches its new family of models with GPT-5.6 . The company promises powerful capabilities in enterprise work, coding, and even scientific research . GPT 5.6 supports defensive activities, including threat modeling, code review and patching, and blue teaming (simulating an attack on your own systems to find weaknesses before real hackers do) The company also released ChatGPT Work, a workplace companion for enterprise teams, running on desktop, web, and mobile .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
-      "fullArticleLink": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-11T13:47:36.484232Z"
-    },
-    {
-      "id": "ee3f32770183596f79ec2f0cf56585ef",
-      "title": "Fidji Simo steps down from OpenAI\u2019s No. 2",
-      "description": "Fidji Simo steps down from OpenAI's No. 2 role permanently . Simo says she'll transition to a part-time advisory role instead . The announcement lands on a busy news day for OpenAI, which launched its new GPT-5.6 family of models and a new agent called ChatGPT Work . OpenAI CEO Sam Altman: \"i am really sad about this and very grateful for all fidji has done\"",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-11T13:47:21.526593Z"
-    },
-    {
-      "id": "9ac461d004e9fe390374f89bd8356ab8",
-      "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019",
-      "description": "OpenAI announced Thursday that it would become the \"preferred model\" powering Microsoft's 365 Copilot . Bloomberg reported earlier this week that Microsoft was replacing some of OpenAI's software with its own in-house models to cut costs . The two companies were once seemingly inseparable and have sent mixed signals about their situationship . OpenAI: \"Our partnership with Microsoft has always been about bringing the benefits of advanced AI to more individuals and organizations\"",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
-      "fullArticleLink": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-11T13:47:08.548282Z"
-    },
-    {
-      "id": "8aea51744a5edbf30cd01f0099aab851",
-      "title": "Tencent moves to buy majority stake in Manus",
-      "description": "Tencent is in talks to buy majority stake in AI agent startup Manus at same $2 billion valuation . Beijing blocked Meta's acquisition of the startup after Beijing blocked the deal . Tencent sees overlap with its own agent plans, including for WeChat . U.S. firm Benchmark is not expected to take part in the deal, according to the Financial Times . Beijing forced Meta to unwind its $2billion deal .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/manus_tencent_meta.png",
-      "fullArticleLink": "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/",
-      "type": "news",
-      "categories": [
-        "Startup"
-      ],
-      "pubDate": "2026-07-11T03:36:48.646901Z"
-    },
-    {
-      "id": "f646f48da53741e0df222b5ee71a97e4",
-      "title": "OpenAI staffer maps out which of GPT-5.6 Sol's",
-      "description": "\"Light\" and \"Low\" are for quick, clear-cut tasks; \"Medium\" works for planning and analysis . \"Max\" lets a model spend more time on a single problem . \"Ultra\" deploys multiple sub-agents in parallel, each tackling a different part of a task . Higher levels take more time and burn through more tokens; Srivastav recommends starting low and scaling up when needed .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-2.png",
-      "fullArticleLink": "https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-11T03:36:34.576313Z"
-    },
-    {
-      "id": "82a8cbfc418afe3a7c3cc0b4c13102c2",
-      "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller",
-      "description": "GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt\" In OpenAI's internal RSI benchmark for self-improvement, Sol scores 16.2 points higher than G.5.5 . OpenAI believes the \"automated researcher\" is within the reach of automating the \"recreational researcher\" in the future . This summary highlights key aspects of the latest developments. Industry analysts suggest",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/gpt_56_sol.png",
-      "fullArticleLink": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics"
-      ],
-      "pubDate": "2026-07-11T03:36:23.066544Z"
-    },
-    {
-      "id": "48ccd79f9952ae4bf93f7dfa3309a131",
-      "title": "KronQ: LLM Quantization via Kronecker-Factored Hessian",
-      "description": "Post-training quantization (PTQ) is a widely adopted technique for compressing large language models (LLMs) without retraining . Existing second-order PTQ methods construct quantization objectives exclusively from input activation statistics . We propose KronQ, a PTQ framework that challenges this assumption by introducing the gradient covariance into the quantization pipeline . The quantization loss depends jointly on both the activation and gradient covariances, and KronQ exploits this at two complementary levels .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.07964",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-11T03:36:07.610237Z"
-    },
-    {
-      "id": "a49d30c727f0fbdbf3b3d69990cd2342",
-      "title": "Case Study of California Wildfire PM2.5 . Evaluating",
-      "description": "Time series foundation models (TSFMs) perform strongly on general benchmarks, but their behavior under extreme out-of-distribution conditions is poorly understood . The BiLSTM achieves the lowest MAE ($5.16\\,\\mu g/m^3$) and the highest exceedance F1 at every threshold, including the Hazardous band ($>225.5) No foundation model surpasses the trained recurrent baselines on any metric . This summary highlights key aspects of",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.07951",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-11T03:35:54.275391Z"
-    },
-    {
-      "id": "cda3a9cd1cd86117b3c17e7ec0795aba",
-      "title": "Path_boost: A Python Package for Interpretable Graph-Level Prediction",
-      "description": "PathBoost is a Python package for interpretable supervised learning on graph-structured input data . It implements PathBoost, a gradient boosting algorithm that automatically discovers predictive labeled paths within graphs during the learning process . The package supports both regression and binary classification . Key features include compatibility with scikit-learn workflows, support for custom base learners and selectors, automatic starting node selection, parallel training across anchor nodes, and built-in variable importance computation .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.07935",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-11T03:35:42.920228Z"
-    },
-    {
-      "id": "34d92ce8fcce0f384b5eab9477607de6",
-      "title": "Efficient Safety Alignment of Language Models via Latent",
-      "description": "Latent Adversarial Training (LAT) is among the most effective defenses, but can degrade utility . Latent Personality Alignment (LPA) replaces explicit harm refusal with adversarial training on just 66 harm-agnostic statements . LPA achieves near zero attack success rates on HarmBench across direct requests and five jailbreak methods, despite never seeing harmful content during training and no loss of performance on standard benchmarks .",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.07918",
-      "type": "news",
-      "categories": [
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-07-11T03:35:31.481066Z"
-    },
-    {
-      "id": "05702345df694e3f08217bbe8637e113",
-      "title": "A law of robustness for two-layer neural networks",
-      "description": "Bubeck, Li and Nagaraj conjectured that, for generic data, any two-layer neural network with $m$ neurons that fits $n$ noisy labels must have Lipschitz constant at least of order $sqrt{n/m/m$ They prove the conjectured law, up to one logarithmic factor, for every continuous piecewise-linear activation, in particular for ReLU networks . This summary highlights key aspects of the latest developments.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.07778",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-11T03:35:17.095952Z"
-    },
-    {
-      "id": "e48d00e4408bec538cbe64fab71052b9",
-      "title": "Graph-Regularized Deep Learning for EEG-Based Emotion Recognition",
-      "description": "EEG-based emotion recognition is critical for mental health monitoring and affective brain-computer interfaces . We propose a graph-regularized learning framework that conceptualizes emotions as nodes in a graph . We adapt three complementary regularization strategies--Graph Label Smoothing (intuitive soft labeling), Commuting distance on graph via Graph Laplacian (spectral graph theory), and Sliced Wasserstein Distance (optimal transport on graph) These strategies penalize model predictions that deviate from the established emotion topology .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.07773",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-11T03:35:04.502597Z"
     }
   ]
 }
