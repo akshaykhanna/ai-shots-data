@@ -1,6 +1,206 @@
 {
   "news": [
     {
+      "id": "0c471675d2202991ed097c50e6d984a6",
+      "title": "Google Deepmind's new chief says frontier AI leadership",
+      "description": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" But he says he's \"100% certain that we will be at the frontier.\" He didn't share any concrete frontier news to back that up, though . Google's new chief says frontier AI leadership is the only thing that matters in the future . He says he is confident Google's models will be \"at the frontier,\" but he doesn't say what that means .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
+      "fullArticleLink": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-02T04:18:55.939076Z"
+    },
+    {
+      "id": "e576141888d3d23972cad0391482214b",
+      "title": "Anthropic's Claude Fable 5.1 promises better coding",
+      "description": "Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent . Costs drop by up to 45 percent for long, autonomous runs with many tool calls . Anthropic launches Claude Fable, Mythos and Fable for the first time in five years . Fable and Mythos are Anthropic's most capable AI models yet, and cost less than 45 percent less .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_5_series.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-09-02T04:18:44.217950Z"
+    },
+    {
+      "id": "ff896dbcb6d21ace43c2e13447ae11f0",
+      "title": "Anthropic opens Claude AI text detection to regulators",
+      "description": "Anthropic is launching an API that lets regulators, media outlets, and researchers check whether text carries Claude's digital watermark . The EU AI Act now requires invisible watermarks in AI-generated text . Critics warn the technology could hurt text quality and create transparency problems where contracts ban AI use . Anthropic opens Claude AI text detection to regulators and media, fact-checkers, and others, to regulators, researchers .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-02T04:18:32.397951Z"
+    },
+    {
+      "id": "ddd425ebf1db7220b4058523f0a85db1",
+      "title": "Group Adaptive Clipping Policy Optimization . Group adaptive",
+      "description": "Group Adaptive Clipping Policy Optimization (GAPO) is a plug-in modification to GRPO methods that adapts the clipping boundary to the rollout advantage . GAPO requires no reward shaping and preserves the standard PPO/GSPO surrogate while adapting only the clipping threshold . It consistently improves both Pass@1 and Pass@k over fixed clipping on math reasoning and coding benchmarks where the pass rates by the base model are relatively low .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2609.00444",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-02T04:17:50.925934Z"
+    },
+    {
+      "id": "067753f3e32a7e24e803c8330e02f9cd",
+      "title": "How Temporal Correlations Shape Memory in Linear Recurrent",
+      "description": "The linear recurrent neural network (LRNN) is a simple model for studying how much memory a network builds up as it trains . For uncorrelated inputs, training itself settles the network between keeping the past and reacting only to the present . Correlation reshapes the course of learning, not only its end . Memory builds, overshoots, and is partly removed, and the settled network keeps less of the past . Memory switches off at a threshold set by one number, how much each input resembles the one just before it .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2609.00420",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-09-02T04:17:37.773067Z"
+    },
+    {
+      "id": "416ad8b31c6528befd49c42b725b6fe6",
+      "title": "Geometry-aware Latent Autoregressive Generative Model for PDEs",
+      "description": "Solving multiphysics partial differential equations (PDEs) remains a major challenge in scientific computing . We propose a Geometry-aware Latent Autoregressive generative Model for PDEs (GeoLAMP) for solving physics within highly irregular and tortuous structures . GeoLAMP introduces a dual-encoder architecture on graph representations to jointly capture global topology and fine-scale geometric features, enabling an effective transition from real-space fields to compact latent representations .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2609.00297",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-02T04:16:34.565155Z"
+    },
+    {
+      "id": "52172ea1657628a9205e809bcae49cec",
+      "title": "Flawed in Nature, Perfect through Evolution, is perfect",
+      "description": "A swarm of AI/ML models subjected to deliberate mutations of their model coefficients away from optimality can reliably and sustainably improve performance in changing environments by acting as a statistical hedge against non-stationarity . We call this mechanism 'Flawed in Nature, Perfect through Evolution', reflecting that the collective performance gain goes at the expense of individual performance . We prove via four theorems that the resulting regret reduction is guaranteed under general conditions, establishing the Flawed-in-Nature mechanism as a generalizable design principle .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2609.00129",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-09-02T04:15:55.966086Z"
+    },
+    {
+      "id": "25fb10917de89aacbc6d6f549ab89d58",
+      "title": "Good Memory Has ECC: Evaluating the Memory",
+      "description": "Memory is widely viewed as an important unsolved problem for LLMs and VLMs . ECCBench is a benchmark and evaluation protocol that measures memory beyond a system's capacity . It measures efficiency, compression and calibration via three axes we call ECC: efficiency, efficiency and compression . Non-Transformer architectures achieve better compression-calibration tradeoffs than RoPE Transformers, suggesting they may be useful components for agents operating over long horizons .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2609.00103",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-02T04:15:44.519568Z"
+    },
+    {
+      "id": "bf34e1285a70735ae17ca7c284b3e6ba",
+      "title": "Attention Sensitivity Is Not Enough: Dissociating Attention-Level",
+      "description": "In-context learning (ICL) lets large language models adapt to new tasks from demonstrations, and fine-tuning can erode this behaviour . In a controlled four-arm ablation on Llama-2-7B, an ICS-maximising regulariser drives ICS to $1.413$ within $0.5\\%$ of its geometric ceiling . The behavioural readout tells a different story: ICL-GAP stays near zero and MMLU accuracy moves from .371$ to .279$, a Goodhart dissociation of the bounded attention proxy .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2609.00064",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-09-02T04:14:30.266177Z"
+    },
+    {
+      "id": "18f7db1b68368a98686eb9befb35be35",
+      "title": "ChatGPT Health adds Epic integration for clinicians",
+      "description": "ChatGPT Health adds Epic integration for clinicians to import patient data and use AI to ask questions . OpenAI is also adding a new Healthcare Public Data plug-in, which can fetch information from sources including ClinicalTrials.gov, CMS Coverage, RxNorm, DailyMed, and PubMed.com . The company has maintained that AI is not suitable for diagnosis or treatment. Last month, OpenAI rolled out ChatGpt for health to all U.S. consumers .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-09-02T04:13:57.247599Z"
+    },
+    {
+      "id": "16ca199800c79860b6e9c584dc77e30e",
+      "title": "Google\u2019s answer to Canva is an AI tool",
+      "description": "Google's answer to Canva is an AI tool where you prompt instead of design . Google's new product is meant to be used for the sort of everyday design tasks you might come across at work and sometimes in your personal life . Google Pics will be built into Google Workspace, initially starting with Docs and Slides, which rolls out today . It will later come to Google Drive, the company says .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-09-02T04:13:42.932068Z"
+    },
+    {
+      "id": "0b975c1752d076800f70d7d8ab257619",
+      "title": "Anthropic\u2019s new Fable release is cheaper, less restrictive",
+      "description": "Anthropic's new Fable release is cheaper, less restrictive . Fable 5.1, the unrestricted version, is available starting today on cloud platforms or through the Anthropic API . The new models set records in a range of benchmarks, including Terminal-Bench 4.0 and Humanity's Last Exam . As with previous releases, the models come with a detailed system card, which explains their capabilities in most straightforward terms .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-09-02T04:13:27.852909Z"
+    },
+    {
+      "id": "62b6270ed2a9e933229cb44dd56b96bb",
+      "title": "Google\u2019s Android update tackles motion sickness, accessibility",
+      "description": "Google rolls out five new updates to make Android phones more accessible, useful, and personalized . The features include those aimed at reducing motion sickness, helping blind and low-vision users navigate their surroundings, remembering where users leave important items . Google also adds new ways to personalize Google Messages with backgrounds, photos, and colors . The update adds a Google Keep integration to Google Messages, allowing people to share and edit grocery lists, vacation notes, and other information .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/MotionAssist-Google.png?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-09-02T04:13:11.584001Z"
+    },
+    {
+      "id": "be7c65afeb758d5e8ccaa74f7c7e2c72",
+      "title": "OpenAI\u2019s Astra model is on the way \u2014",
+      "description": "OpenAI's Astra model is on the way \u2014 and very good at breaking into computer systems . Astra scored a perfect score on ExploitBench, an evaluation of an LLM's ability to hack into known system vulnerabilities . The company says Astra is capable of finding unknown security flaws in computer systems, and exploiting them without a person's guidance . It's not clear if OpenAI is working with the U.S. government to evaluate the model ahead of release .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "fullArticleLink": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-09-02T04:12:55.522918Z"
+    },
+    {
+      "id": "a6c4d5f8283c92ff113deea646817b17",
+      "title": "AfterQuery reportedly becomes Y Combinator\u2019s fastest-ever unicorn, now",
+      "description": "AfterQuery reportedly becomes Y Combinator's fastest-ever unicorn, now valued at $3.2 billion . AI training-data startup AfterQuery has reportedly raised a $30 million Series A at a $300 million valuation in April . In April, the San Francisco startup said it had reached an annualized revenue run rate of $100 million . It has named companies such as Nvidia, Legora, and the Korean AI lab Motif Technologies as customers .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-09-02T04:12:41.463785Z"
+    },
+    {
       "id": "d87004b272d971fb5ee2c3f8bb666af0",
       "title": "Google's AI search dropped its emergency-call advice",
       "description": "Google's AI search gave users who typed that they were alone with an African, Indian, or Pakistani . For a British person, the same feature suggested tea and small talk about the weather . Google said on X that the results didn't meet its own standards and that it is working on fixes . The company added that the answers varied widely and weren't limited to a single group . Google told Futurism the word \"alone\" was the trigger .",
@@ -15299,193 +15499,6 @@
         "Startup"
       ],
       "pubDate": "2026-07-16T03:32:04.288856Z"
-    },
-    {
-      "id": "a23d719b6ff698dd1ad42c38b20295e6",
-      "title": "Sparse Inter-Layer Dependencies of Transformer FFN Neurons",
-      "description": "Feedforward network (FFN) blocks account for a large fraction of the parameters and computation in Transformer architectures . We introduce a training-free attribution method that estimates the relative influence of upstream neurons and attention outputs on a target neuron's activation . Empirically, across models and layers, we find that small subsets of preceding activations and attention output suffice to preserve neuron activations with high fidelity when all remaining inputs are masked with their average values .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.11990",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-16T03:31:52.122743Z"
-    },
-    {
-      "id": "b52f45f24505c15dda1cca3afd472740",
-      "title": "AI agent crawlers now need permission",
-      "description": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards . Cloudflare announced the change on July 1, and most of the coverage since then has focused on Google . The more useful part of the change is how to get around the world to get the bot bot botnet .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/CF-Logo-2.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-15T14:10:58.955284Z"
-    },
-    {
-      "id": "69b6059a93f0390b5a7cdf9bd76e3121",
-      "title": "AWS and Bluesight build AI for hospital 340B",
-      "description": "Prism Assistant for ControlCheck has reached general availability and operates across 20 health systems . Meanwhile, a multi-product agent for 340B Group Purchasing Organisation (GPO) compliance remains . Bluesight developed Prism, an AI layer that connects hospital pharmacy and compliance data across its product suite . The AI layer is being developed by Amazon Web Services and Bluesight, according to AWS vendor statements . Prism Assistant is now general availability .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/amazon-web-services-aws-bluesight-cloud-agentic-ai-healthcare-data-engineering-agent.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-15T14:10:47.984424Z"
-    },
-    {
-      "id": "da7c4a587f09a76402e22fd729b9cb1a",
-      "title": "Nokia\u2019s AI-RAN platform is a radio comeback that",
-      "description": "Nokia's AI-RAN platform is built on its anyRAN software and NVIDIA's Aerial system . The vendor says the platform will let operators pull far more capacity from the spectrum they already own, and it has framed the launch as one of the most significant in the industry . Nokia says it is the industry's first and will launch on July 15 with a claim that it's the first of its kind in the market .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-3.56.29-PM-scaled.png",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-15T14:10:36.768188Z"
-    },
-    {
-      "id": "064e0c3959d47aed97612540ef3deb93",
-      "title": "Claude responds with more warmth in Hindi",
-      "description": "Anthropic study maps hundreds of value concepts derived from thousands of individual terms onto four core dimensions . It reveals systematic differences across Claude models and languages, but also raises methodological questions . Anthropic has published a study examining which values Claude expresses in conversations and how those values shift depending on the model and language used . The article Claude responds with more warmth in Hindi and more rigor in Russian, showing how language shapes AI answers .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Claude-Values-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/claude-values-study/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-15T14:10:22.837345Z"
-    },
-    {
-      "id": "32575b5427d360ad6addd0d28d580933",
-      "title": "PixVerse's $2B valuation shows investors still believe",
-      "description": "Singapore-based AI video startup PixVerse is now valued at over $2 billion after an extended Series C round . The company pulled in $439 million from investors including Alibaba, Lollapalooza Capital, and Mirae Asset . It offers models for video generation, film production, and world models for game development . The real edge isn't the data itself but how it's labeled, says co-founder Jaden Xie .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/pixverse-v6-01-hero.jpg",
-      "fullArticleLink": "https://the-decoder.com/pixverses-2b-valuation-shows-investors-still-believe-ai-video-generation-has-room-for-another-winner/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Startup"
-      ],
-      "pubDate": "2026-07-15T14:10:08.266564Z"
-    },
-    {
-      "id": "ffa0bfa8b86293e3d78ac6ba15a75480",
-      "title": "Deepmind CEO Hassabis says \"nobody in the world",
-      "description": "Google Deepmind CEO Demis Hassabis has published a proposal for how to handle advanced AI . He wants a new US standards body modeled after financial regulator FINRA . The body could coordinate a slowdown in AI development if needed . Startups and research models would be exempt from the proposed body . The proposal was published by Deepmind's CEO Hassabis in a bid to avoid a backlash from AI developers . He says: \"Cautious optimism means building guardrails now\"",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/deepmind_hassabis.png",
-      "fullArticleLink": "https://the-decoder.com/deepmind-ceo-hassabis-says-nobody-in-the-world-knows-what-happens-next-so-cautious-optimism-means-building-guardrails-now/",
-      "type": "news",
-      "categories": [
-        "Startup"
-      ],
-      "pubDate": "2026-07-15T14:09:55.276151Z"
-    },
-    {
-      "id": "5d0acc1df06968e4dcc9be4f9048c8ea",
-      "title": "ChatGPT returns to WhatsApp in Europe after EU",
-      "description": "ChatGPT has been re-enabled on WhatsApp, but only in the European Economic Area . Users can reach the chatbot through the verified contact 1-800-CHATGPT, no account required . Text prompts, image uploads, voice messages, and image generation all work across many languages . Users are also able to link their WhatsApp account to their chatbot account so the chat can pull in context from OpenAI and sync message history .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/whatsapp-logo-generated-image-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-15T14:09:40.665015Z"
-    },
-    {
-      "id": "4e8b8e05e9bdd4b90a916b5940610a74",
-      "title": "Google Search generates AI images when it can't",
-      "description": "Google is adding AI image generation to Search's AI Overviews . When no matching image exists on the web, the new Nano Banana 2 Lite model generates one from the search query . The rollout starts in the coming weeks . Google Search now generates AI images when it can't find what you&#039;re looking for on the the web on the search page of the search results page when no image exists .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/google_logo_wall.png",
-      "fullArticleLink": "https://the-decoder.com/google-search-now-generates-ai-images-when-it-cant-find-what-youre-looking-for-on-the-web/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-15T14:09:28.716055Z"
-    },
-    {
-      "id": "adebb9595ea4b3e35a5988726f3a4593",
-      "title": "DeepSeek needs more cash just weeks after closing",
-      "description": "Chinese AI lab DeepSeek closed its first funding round in May at roughly $7 billion, valuing the company at $52 billion . Now the Hangzhou-based startup is in early talks with new investors for a round at a pre-money valuation of about $71 billion . The money would go toward building its own data centers and buying AI chips . Founder Liang Wenfeng put in about $3 billion himself, making him the largest backer .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
-      "fullArticleLink": "https://the-decoder.com/deepseek-needs-more-cash-just-weeks-after-closing-its-first-7-billion-round/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-15T14:09:11.536815Z"
-    },
-    {
-      "id": "ec313033cfe6f8bbcf6c94a1f1d894ac",
-      "title": "Anthropic opens Claude for Teachers with promise not",
-      "description": "Anthropic is rolling out Claude for Teachers, a free offering for verified K-12 educators at US schools . It includes access to Claude Code and the Cowork agent feature, a library of teaching-specific skills, and connections to curriculum-aligned content . The company says it covers education standards across all 50 states . Anthropic says it won't use any processed data for model training . Sign-ups are open through June 2027 .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic-claude-for-teachers-book-apple-teaser.jpg",
-      "fullArticleLink": "https://the-decoder.com/anthropic-opens-claude-for-teachers-with-a-promise-not-to-train-models-on-student-data/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-15T14:08:55.471920Z"
-    },
-    {
-      "id": "5b512ec8cd3c6f128b0d720426dbe92a",
-      "title": "How to shrink the token budget without shrinking",
-      "description": "Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached . Huang said that if a $500,000 engineer's annual AI token consumption came in under half their salary, \"I am going to [I] go to [the] The post How to shrink the token budget without shrinking the team appeared on the All-In Podcast at the close of GTC 2026 .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/kate-sade-2zZp12ChxhU-unsplash-scaled.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-11T13:49:22.407014Z"
-    },
-    {
-      "id": "dd0b932c407041bd0aa13dc4fd698dac",
-      "title": "Apple sues OpenAI for allegedly running a \"coordinated",
-      "description": "Apple sues OpenAI over systematic employee poaching and alleged theft of trade secrets tied to unreleased products . More than 400 ex-Apple employees now work at OpenAI, including former iPhone design chief Tang Tan . The lawsuit hits OpenAI right as it's building out its own hardware division, with its first product not expected to ship until 2027 at the earliest . The first product is expected to be released in 2027 .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
-      "fullArticleLink": "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-11T13:49:08.663262Z"
-    },
-    {
-      "id": "97afcc4e2420ef7def04ea8b948ae5bd",
-      "title": "OpenAI admits it \"didn't get everything quite right\"",
-      "description": "OpenAI admits it didn't get everything quite right with ChatGPT Work and GPT-5.6 Sol . The company has acknowledged significant issues: excessive compute usage, confusing transition to the desktop interface for chats and projects, an unclear distinction between Codex and ChatGpt Work, and regressions in existing workflows . In some cases, some users were told data was deleted on their own that the user had not authorized .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/chatgpt_at_work_gpt4_office.png",
-      "fullArticleLink": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-11T13:48:56.389743Z"
-    },
-    {
-      "id": "d23c804233ba76b9c1eeab6e405eb2da",
-      "title": "China's Orca world model matches specialized robotics systems",
-      "description": "Beijing Academy of Artificial Intelligence has released Orca, a world model that predicts abstract world states instead of tokens or pixels . Trained on 125,000 hours of video without a single action label, Orca matches the specialized \u03c00.5 on five robotics tasks . Orca could help ease the field's chronic data shortage and could ease the fields' chronic data shortages . The model matches specialized robotics systems without ever seeing a one action label .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/autonomous-kitchen-system-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/",
-      "type": "news",
-      "categories": [
-        "Robotics"
-      ],
-      "pubDate": "2026-07-11T13:48:45.279084Z"
     }
   ]
 }
