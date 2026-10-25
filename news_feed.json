@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "id": "aa876d8e1aaa5c0f07a6fdeff2bae71e",
+      "title": "Block's new AI model Dessa was trained entirely",
+      "description": "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first . Dessa is designed to recognize emotions, sarcasm, and pauses in real time . The model runs locally on a MacBook Pro M4 Max but isn't publicly available yet . Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/dessa_block.png",
+      "fullArticleLink": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-25T16:07:39.160354Z"
+    },
+    {
+      "id": "16723b08ef738071c5a5cea88b4b2d7b",
+      "title": "Three fired OpenAI safety researchers say they",
+      "description": "The three OpenAI safety researchers who were fired, Tomek Korbak, Mikita Balesni, and Jasmine Wang, are publicly pushing back against allegations from their former employer . They deny sharing confidential information and see a connection to their advocacy for AI systems that are easier to scrutinize . The researchers say OpenAI never told them in writing which information they allegedly mishandled . They say they were never told what they actually leaked .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/openai_fired_researchers.png",
+      "fullArticleLink": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-10-25T16:07:16.306423Z"
+    },
+    {
+      "id": "c860bcb1ed07c47d93921e84d2321600",
+      "title": "OpenAI offers discounts up to 90 percent",
+      "description": "Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching to OpenAI . Anthropic's growth has slowed, but OpenAI is trading its own margins for market share . Chinese rivals like Deepseek are piling on more price pressure on the AI market in China . OpenAI offers discounts up to . 90 percent to poach Anthropic&#039;s biggest customers .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/openai_anthropic.png",
+      "fullArticleLink": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-25T16:07:04.931249Z"
+    },
+    {
+      "id": "b3b70c5f7597e4f174fb67e85345f207",
+      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic",
+      "description": "Historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires . The race won't be decided by breakthroughs but by who can bankroll it . US corporations alone plan to spend more than $600 billion in 2026 . mounting debt, protests against data centers, and a potential chip crisis over Taiwan could stall both superpowers, they say .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/ai_empires-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-10-25T16:06:53.810536Z"
+    },
+    {
+      "id": "08a861d4e7eb77e89db128f33efd5215",
+      "title": "Anthropic says one AI agent beats many subagents",
+      "description": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand . Anthropic has published a migration kit on GitHub to help teams make the transition . In one architecture comparison, the single-agent setup ran about twice as fast as the one with a single AI agent, Anthropic said . The migration kit is available on GitHub and is available for download from the company's website .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/claude_claude_baby_logos.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-25T16:06:43.163178Z"
+    },
+    {
+      "id": "ebbfc9a7943ec0682e7834f77ad2d9b5",
+      "title": "Anthropic co-founder Jack Clark moves his prediction",
+      "description": "TasteVal measures how well AI systems design experiments on their own and interpret the results . Best model tested outperformed a comparison group of 24 human experts at a fraction of the cost . Anthropic co-founder Jack Clark now believes self-improving AI could become possible as early as 2027 . The research lab P-Zero Research calls it \"research taste,\" meaning the ability to pick the right experiments and draw the right conclusions from them .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/tasteval_and_rsi.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-10-25T16:06:27.083119Z"
+    },
+    {
+      "id": "6522bf272e754c9c58382c64971ed949",
+      "title": "Nvidia open-sources Flora to make robot video labeling",
+      "description": "Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra . The open system is built on three fine-tuned Qwen3.5 models . Flora catches errors in robot actions far more reliably than any competitor but sometimes falls short on descriptive accuracy . Nvidia is positioning Flora as a key piece of its strategy to control the entire robotics value chain, the company says .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/nvidia-flora-hero-robot-hands.jpg",
+      "fullArticleLink": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-10-25T16:06:14.240070Z"
+    },
+    {
+      "id": "eb9c98f8c73a90d0bb981fa1b7131392",
+      "title": "The new economics of enterprise AI is changing",
+      "description": "As enterprise AI shifts from isolated experiments to becoming foundational infrastructure, companies need to focus on efficiency, not just consumption . Utilization is central to the economics. Directing more work to paid-for capacity lowers effective unit cost . idle GPUs, fragmented workloads, and oversized models all raise the cost of every useful result . The advantage isn't free inference; it's control over efficiency levers like scheduling, model selection, GPU partitioning, and cache management .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/HPE-iStock-1168748420.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-10-25T16:05:22.996179Z"
+    },
+    {
+      "id": "cb619168be94c47a4f34a4c3392cdc0d",
+      "title": "AI\u2019s hidden storage bill: What inference leaves behind",
+      "description": "Much of the back-end data that\u2019s generated\u2014from billions of daily prompts, images, and videos\u2014needs to be stored . Enterprises need economically scalable capacity to keep pace with the data created by AI . McKinsey projects AI inference demand will grow at a 35% CAGR through 2030, versus 22% for training, making up more than 40% of total data center demand by the end of the decade . As more data is retained, retrieved, and reused, storage must support growing capacity, and increasingly dynamic access to it .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/WD-MITTR-Infographic-Final@2x.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-10-25T16:05:04.336799Z"
+    },
+    {
+      "id": "a1d8d472075678a5e07b472ae026ecb7",
+      "title": "Making the case for context-aware AI, AI can",
+      "description": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster . The challenge ahead is giving technology the context to act usefully within complex business processes . Devavrat Shah, chief scientist of enterprise AI at Celonis, says context is central to what he calls \u201cdecision intelligence\u2019s\u201d AI agents can support individual tasks within larger decision-making processes . With the right context, AI could help organizations evaluate options and make consequential decisions more quickly .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-10-25T16:04:47.969615Z"
+    },
+    {
+      "id": "b1c3b0ce40d1e82c94c7f2ace1680c91",
+      "title": "Nirva raises $33M for a pendant that only",
+      "description": "Disrupt doors open Oct. 13. Buy One Founder Summit Ticket, Get a Second for Free. Get your pass and bring someone with you at 50% off. Disrupt: Buy one Founder Summit ticket, Get your Pass and get a Second . Nirva raises $33M for a pendant that only listens to you . Amazon launched a new wrist-worn pendant and its ability to only listen to the wearer to the only wearer .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Nirva-pendant.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-25T16:04:10.631552Z"
+    },
+    {
+      "id": "c1230fd4012baae4263c7625929391b0",
+      "title": "1Password launches a way for AI agents",
+      "description": "Disrupt doors open Oct. 13. Buy One Founder Summit ticket, Get a Second for Free. Get your pass and bring someone with you at 50% off. REGISTER NOW . LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters . The new platform, dubbed 1Password, launches a way for AI agents to log on your behalf without seeing your password in your account . This summary highlights",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-25T16:02:51.947723Z"
+    },
+    {
+      "id": "3bfe5c41c86a24ab8522d611b3d76fae",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests",
+      "description": "Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. Buy One Founder Summit ticket, Get a Second for Free. Disrupts 2026 events are now open October 13th . Uber, Ponyai and Nvidia will begin testing in Kazakhstan in 2027. Ponyai is working with Chinese autonomous driving firm Ponyai. Nvidia and Ponyai are working to explore bringing Ponyai's robotaxis to the platform .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-25T16:02:33.319673Z"
+    },
+    {
+      "id": "67b40086dc1e89d5fcfc6e54abe2fbda",
+      "title": "Nvidia CEO plays with adorable Microduck robots, 20,000",
+      "description": "Get your pass and bring someone with you at 50% off . Buy One Founder Summit ticket, Get a Second for Free. Disrupt doors open Oct. 13. Get your ticket and bring a friend with you . Nvidia CEO Jensen Huang: 59:59:59 Microduck robots were so cute that they were so darned by the next day, preorders of the Microducks surpassed the 20,000 units .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
+      "fullArticleLink": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-25T16:01:55.823323Z"
+    },
+    {
+      "id": "7384891d7abd016f1f03acd892d40c3a",
+      "title": "OpenAI says it will no longer train its",
+      "description": "Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. Buy One Founder Summit ticket, Get a Second for Free. Register now. Disrupt: Disrupt 2026 events are open October 13th and October 23rd . LatestStartupsVentureAppleSecurityAIAppsDisrupt 20 26 EventsPodcastsNewsletters . TechCrunch Mobile Logo and TechCrunch Desktop Logo are available now . This summary highlights key",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "fullArticleLink": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-25T16:01:37.426804Z"
+    },
+    {
       "id": "16b4dd6872d2f5ad9c72b7ff7ff61d21",
       "title": "OpenAI CEO Sam Altman says advanced AI will",
       "description": "Sam Altman believes advanced AI can't be kept locked up forever . Sandboxes and monitoring are only temporary fixes . Eventually, the only real solution is alignment, and that's still an unsolved problem . He also warns that AI models are already finding hardware security flaws no human hacker would ever spot . OpenAI CEO says AI models will inevitably escape its sandbox, and only alignment can save us from this problem . The company's CEO says it's still a problem that is still unsolved .",
@@ -15338,189 +15549,6 @@
         "General AI"
       ],
       "pubDate": "2026-07-17T14:01:37.851512Z"
-    },
-    {
-      "id": "97690f8353e8bc0de1e1ee094fda394f",
-      "title": "Certified Domain Consistency for Multi-Domain Retrieval: Label-Free Per",
-      "description": "C3R is a drop-in control layer that certifies a per-domain contamination budget where feasible and otherwise abstains rather than silently violating . On the hardest domains it guarantees a reduction, not a tight bound . The method replicates across open testbeds including an independent one from public federal regulations, and an LLM-judged downstream probe indicates wrong-authority grounding rises with contamination and falls under control .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.14157",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-17T14:01:25.985605Z"
-    },
-    {
-      "id": "52bb467a6a0cb28548e4b904f749babf",
-      "title": "Examining Google DeepMind\u2019s AI bioresilience push . Examining",
-      "description": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response . The two organisations published an update on a joint initiative that began quietly and has now built out more than 15 partnerships with government bodies, biosecurity organisations, and research groups over the past 12 months . The initiative has built out over 15 partnerships over the last 12 months with government, research groups and government bodies .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/google-deepmind-ai-bioresilience-gemini-biosecurity-dna-synthesis-policy-regulation-synthid-red-teaming-alphafold-medical-diagnostics.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-07-17T03:35:31.535128Z"
-    },
-    {
-      "id": "92b96bde68eb3b5663a9a5fba0e98423",
-      "title": "OpenAI wants developers to stop typing commands",
-      "description": "OpenAI and keyboard manufacturer Work Louder have unveiled the Codex Micro . Developers can manage their AI agents through a stripped-down keyboard with joysticks and a rotary dial . The top six keys light up with real-time RGB feedback to show each agent's status, whether it's thinking, working, waiting for input, or done . The device plugs directly into ChatGPT Codex, where keys can be remapped . The Codex Micro costs $230 but quantities are limited .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai-worklouder-codex-micro-02-overview-rgb.jpg",
-      "fullArticleLink": "https://the-decoder.com/openai-wants-developers-to-stop-typing-commands-and-start-using-a-joystick-to-control-their-ai-agents/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-17T03:35:15.111359Z"
-    },
-    {
-      "id": "8c1081a11c05ba02c7ec320e4d2d8019",
-      "title": "Germany puts Google's AI Overviews and Perplexity",
-      "description": "German media regulators say Google's AI Overviews are Google's own content, not neutral search results, and that they crowd out regular links . The regulators have issued their first rulings against Google and Perplexity under the country's State Media Treaty . Both companies have one month to appeal, and both have a month to find out if they are allowed to do so again . The ruling is first-of-its-kind and is based on Germany's state media treaty .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/google_ai_overviews_germany.png",
-      "fullArticleLink": "https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-17T03:35:02.628588Z"
-    },
-    {
-      "id": "423857d2723b5ad056a062d6197e2c52",
-      "title": "Google rebrands NotebookLM as Gemini Notebook and opens",
-      "description": "Google is renaming NotebookLM to Gemini Notebook and integrating the tool more deeply into its ecosystem . A new feature gives each notebook its own cloud computer that can write and run code, initially for AI Ultra and Workspace customers . Separately, Google Search is getting app connections, opening its search app to third-party integration . Google Search will also get app connections with apps that can run code from the cloud .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/gemini_notebooklm.png",
-      "fullArticleLink": "https://the-decoder.com/google-rebrands-notebooklm-as-gemini-notebook-and-opens-its-search-app-to-third-party-integration/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-17T03:34:51.260091Z"
-    },
-    {
-      "id": "7b817a9875877f4fff5b78ac06d99d9e",
-      "title": "Kimi's open model K3 nears GPT-5.6 Sol",
-      "description": "Kimi is launching K3, a multimodal open-weight model with 2.8 trillion parameters and one million tokens of context . In the company's own benchmarks, it comes close to Claude Fable 5 and GPT 5.6 Sol while beating Opus 4.8 and GLM 5.2 . The model is also significantly pricier than its predecessor . Full weights are scheduled for release by July 27 .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/kimi_k3_web.png",
-      "fullArticleLink": "https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-17T03:34:39.578429Z"
-    },
-    {
-      "id": "6aca5c8163f69a9593f17f2e2ccd9b76",
-      "title": "Data-Efficient Adaptation of LLMs via Attention Head Reweighting",
-      "description": "Attention Head Reweighting (AHR) is a data-efficient method that adapts LLMs to new text-classification tasks by learning only a single scalar per attention head . This drastically reduces the number of parameters that need to be learned by making use of functional specialization of individual attention heads . Experiments on diverse open-source text classification datasets show that AHR can outperform standard baselines like LoRA when learning from limited samples, despite having 200-1000x fewer trainable parameters .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.13425",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-17T03:34:23.972897Z"
-    },
-    {
-      "id": "bc8a2234435122e1ebc58b685d35b9b3",
-      "title": "Temperature Scaling Is Not Enough: Calibration Gaps",
-      "description": "Temperature scaling is the dominant post-hoc calibration method in modern deep learning . In practice, labels are frequently soft, crowd-sourced, or genuinely distributional, reflecting real disagreement among human annotators rather than annotation noise . The gap grows monotonically with model scale in the vision domain and on the SNLI-derived split of ChaosNLI, and is substantially larger in the language domain (mean gap 0.079) than in vision .",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.13423",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-07-17T03:34:11.484184Z"
-    },
-    {
-      "id": "f9fd3a9df245351195e809d64bb7cb7f",
-      "title": "Exploration with Guided Search for Analog Topology Generation",
-      "description": "EXPLORE is a search-enhanced framework that integrates simulator-guided Monte Carlo Tree Search (MCTS) with transformer-based decoding to enable test-time scaling for analog topology generation . On a 6- component benchmark at a tight tolerance of 0.01, EXPLore raises the success rate from 12% for one-shot generation and 33% for a sampling-and-filter baseline to 65% . This summary highlights key aspects",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.13416",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-17T03:33:59.828939Z"
-    },
-    {
-      "id": "a535fed833c07edb8ef280c9e8e93dcb",
-      "title": "Where Should RL Post-Training Compute Go? Where should",
-      "description": "Reinforcement Learning (RL) post-training is increasingly used to adapt foundation models for reasoning, planning, and feedback-driven robot-learning pipelines . We introduce a FLOP-accounting framework that decomposes compute into rollout/search, policy-update/learning, and reward-model evaluation . We present RACE as a diagnostic pilot-grid protocol, not a guarantee of held-out improvement, for identifying allocation regimes before expensive validation runs . This summary highlights",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.13389",
-      "type": "news",
-      "categories": [
-        "Robotics"
-      ],
-      "pubDate": "2026-07-17T03:33:47.743794Z"
-    },
-    {
-      "id": "447c2b83a26059f097f7b81a055c5726",
-      "title": "Agora: Collective and Permissionless Internet-Scale Pretraining of Large",
-      "description": "Training large language models at the multi-billion to trillion parameter scale is confined to datacenters . We present Agora, a system that makes efficient use of this compute . Agora combines bandwidth-efficient pipeline-parallel model sharding over internet-grade links with multi-party, fault-tolerant collective operations . We term this setup Protocol Learning: it enables collectively trained, collectively owned models, opening a path to open-source frontier training with economic sustainability .",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.13332",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-17T03:33:35.089892Z"
-    },
-    {
-      "id": "6b9408db8290ec533c347bd9160b3ffb",
-      "title": "Neko Health raises $700 million to expand",
-      "description": "Neko Health has raised $700 million to expand its AI body scans in the United States . The company\u2019s preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review . The Series C round was led by Lightspeed Venture Partners and co-led by O.G. Venture Partners . The service is available in a clinic in New York, starting with a New York clinic .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/Neko-Health-raises-700-million-to-expand-AI-body-scans-in-the-US-scaled-e1784169579699.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
-      "type": "news",
-      "categories": [
-        "Startup"
-      ],
-      "pubDate": "2026-07-16T14:20:30.574437Z"
-    },
-    {
-      "id": "eabcfbdf1e88ddf71fe83bb487b501fb",
-      "title": "Gemma 4 gets a stealth update that fixes",
-      "description": "Google shipped an update to its open AI model Gemma 4 that speeds up performance on Nvidia Hopper GPUs . Turning on Flash Attention 4 boosts the speed at which the model processes incoming prompts by 25 to 70 percent . Google also fixed bugs in tool calling, the feature that lets the model trigger external tools on its own . The community has pushed back on Google shipping the update under the same \"Gemma 4\" name .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/gemma_4-logo.webp",
-      "fullArticleLink": "https://the-decoder.com/gemma-4-gets-a-stealth-update-that-fixes-tool-calling-bugs-and-truncated-responses-under-the-same-name/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-16T14:20:14.269268Z"
-    },
-    {
-      "id": "c2d46d47ddb48310571bad7b988896e0",
-      "title": "Ex-OpenAI CTO Murati's Thinking Machines drops Inkling",
-      "description": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, has released Inkling, a multimodal open-weights model with 975 billion parameters . Pricing starts at $1.87 per million input tokens, and Thinking Machines is pitching Inkling as a base for fine-tuning rather than the most powerful model available . Inkling leads U.S. Open-weights models on the Artificial Analysis Intelligence Index, though top Chinese open models still beat it on some tasks .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/thinking_machines_inkling_logo.png",
-      "fullArticleLink": "https://the-decoder.com/ex-openai-cto-muratis-thinking-machines-drops-inkling-a-975b-parameter-model-that-leads-us-labs-but-trails-china/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-16T14:20:00.882209Z"
-    },
-    {
-      "id": "1b06e90116c48465cd072d08400e3e46",
-      "title": "Sakana AI's orchestrator adds Nvidia Nemotron to prove",
-      "description": "Sakana AI is integrating Nvidia's open-source Nemotron models into its Fugu orchestrator, which dynamically combines multiple language models for specific tasks . The announcement does not yet provide specific benchmark figures for the new combination . However, the announcement does yet provide benchmark figures . Sakana's Fugu orcheator is based on a combination of multiple languages that can be used in a coordinated way to compete with Frontier systems .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/sakana-ai-nvidia-open-model-innovation.png",
-      "fullArticleLink": "https://the-decoder.com/sakana-ais-fugu-adds-nvidia-nemotron-to-prove-collective-intelligence-can-rival-single-frontier-models/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-16T14:19:49.314486Z"
     }
   ]
 }
