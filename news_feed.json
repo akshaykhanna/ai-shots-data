@@ -1,6 +1,212 @@
 {
   "news": [
     {
+      "id": "7fe385c2b28e9569e542850c02b54824",
+      "title": "Wall Street's fastest traders are building data centers",
+      "description": "High-frequency traders like Jane Street and Hudson River Trading are now racing each other for AI computing power . The biggest firms are spending billions on cloud contracts, startups, and their own data centers . One executive estimates that compute spending is now ten to twenty times higher than it was before ChatGPT launched . Jane Street invested $1 billion directly in CoreWeave and committed $6 billion to its computing services . Hudson River spends $1billion a year on AI, according to AI chief Iain Dunning .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/05/money_server_room.png",
+      "fullArticleLink": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-10-26T18:47:45.557303Z"
+    },
+    {
+      "id": "d9157071358a44e026ce7950d41b923d",
+      "title": "Meta plans up to $95 billion in stock",
+      "description": "Meta plans to sell up to $95 billion in shares to raise money for its AI infrastructure buildout . About $22.5 billion will come from selling Class A common stock, $12.5 million from depositary shares . Nvidia, AMD, Broadcom have expressed non-binding interest in buying Meta stock, according to the announcement . The remaining $60 billion is expected to come from ongoing sales on the open market once new Class C shares start trading .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/meta_logo-2.png",
+      "fullArticleLink": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-10-26T18:47:31.206929Z"
+    },
+    {
+      "id": "4547f9801f238400c6bf5b935fbd149e",
+      "title": "Reddit's r/opensource bans all AI-related projects, sparking backlash",
+      "description": "The Reddit forum r/opensource has banned all posts about AI projects . Projects must be at least a year old and have multiple contributors . Non-English posts are excluded as well . In response, the rival subreddit r/TrueOpenSource has already popped up and banned all AI-related posts from r/OpenSource . The move sparks a backlash and a rival subreddit has been set up to counter the ban .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/reddit_ai_ban.png",
+      "fullArticleLink": "https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-26T18:47:20.029349Z"
+    },
+    {
+      "id": "5eedacd15a78b8c2136b06e2442e60a3",
+      "title": "Researchers find six patterns that make AI text",
+      "description": "Researchers trace the problem to training on code and math, where correctness gets rewarded but clarity doesn't . Smaller models, by contrast, write more like humans, the researchers say . The problem is to train AI to write like code and write like humans . The study was published by New York University and the University of Texas at Austin, Texas, on The Decoder, on Tuesday night at 10pm ET . Click here for more from The Decoder .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/language_letters-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-26T18:47:08.355236Z"
+    },
+    {
+      "id": "1992a716e85df44ec4c10edfd2f76bd6",
+      "title": "The focus on AI safety disasters ignores everyday",
+      "description": "MIT Technology Review: Focus on AI safety disasters ignores everyday harms . We have historically allowed the debate over technology to be defined by the worst thing a product might do . We should demand that the tech industry do more than merely address catastrophic harms . Technology giants have instead worked to shape legislation around the harms they are already under pressure to address, says Andrew Keen . Keen: We should take measures to ensure that its products don\u2019t erode how we think, learn and interact with one another .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-26T18:46:47.948349Z"
+    },
+    {
+      "id": "57916c9fe91871f6e609438f13fdf7f5",
+      "title": "Will the real Anthropic please stand up? Anthropic?",
+      "description": "Will the real Anthropic please stand up? Will the IPO reveal the company behind the mask or lean deeper into the myth-making? Anthropic has been honing its storytelling skills for years . The company tells a vivid (and in many ways scary) story about a future it portrays as inevitable but one that has not yet happened . It presents its technology as mysterious and dangerous and insists that it is the only company trustworthy enough to tame it .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/anthropic-dario1a.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-10-26T18:46:30.481194Z"
+    },
+    {
+      "id": "9aea08976ba7c68b1a8948e6b9a2c866",
+      "title": "Beyond Data Schedule: Fast LLM Pretraining on Data",
+      "description": "LARE (Loss-Adaptive Reweighting under fixed Exposure) automatically adjusts domain weights from running loss statistics . LARE improves all five evaluated benchmarks for a 1.5B model trained on 240B tokens, averaging +7.84 pp over a matched direct mixture, including gains of +17.06 pp on GSM8K and +9.00 pp on MATH. These findings demonstrate that adjusting domain loss scales can improve joint capabilities without additional domain exposure .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.32141",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-26T18:45:47.976561Z"
+    },
+    {
+      "id": "ab90516bf8c4c8e78c5b2fc2a9759936",
+      "title": "REACT: Representational Early Analysis and Control of Chain-of-Thought",
+      "description": "Chain-of-thought (CoT) generation offers an opportunity to intervene before a reasoning model completes its answer . But does the point at which risk is easiest to detect also offer the most effective control? We study this question with REACT, a conditional activation intervention that learns a safety direction from paired safe and unsafe trajectories and applies it once to an early CoT hidden state . ReACT raises the rate of fully safe CoT-answer output on StrongREJECT-273 from 29.06% to 82.05% .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.32113",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-10-26T18:45:33.829608Z"
+    },
+    {
+      "id": "dc4642ced68602f65d4ddd2aef2bcb9a",
+      "title": "Putting Transformer Theories to the Test: Transformer Transformer",
+      "description": "Several formal theories have been developed to characterize the capabilities and limitations of the transformer architecture, each employing different abstractions that capture different features of the architecture . We map out seven theories of transformer capability and translate their results into a common matrix of predictions across a suite of tasks covering different computational structures . We then evaluate theoretical predictions through controlled experiments measuring in-distribution sample complexity, length generalization, and pretrained language model performance .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.32104",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-26T18:45:21.625792Z"
+    },
+    {
+      "id": "a946d683240ac42fc40b73e8a36b3ef6",
+      "title": "PRISM: Promoting Sampling Diversity of Large Language Models",
+      "description": "Large language models (LLMs) exhibit mode collapse, where their output distribution concentrates on familiar semantic modes . We propose PRISM, a training-time framework that internalizes diversity within the model . PRISM combines submodular curation that pairs each prompt with diverse-yet-correct multi-teacher solutions . It also improves sampling efficiency on math and code benchmarks . It yields a stronger foundation for reinforcement learning, sustaining diverse rollouts .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.32101",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-10-26T18:45:09.550211Z"
+    },
+    {
+      "id": "97fa418027d685dafac3d0502758c207",
+      "title": "From Toast to Bessemer: Who founders will hear",
+      "description": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. Buy one Founder Summit ticket, Get your Pass at Disrupt 2026. Register now . TechCrunch Founder Summit 2026 will bring together founders, investors and operators who have questions to be tackled from founders . The event will be held in Boston on November 4 at Power Station SoWaWa Station .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-26T18:41:39.324344Z"
+    },
+    {
+      "id": "14717cc2caa65d6b6a5dea5b545edf7b",
+      "title": "Will AI expose the rickety infrastructure",
+      "description": "Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. Buy One Founder Summit ticket, Get a Second for Free. Register now. Disrupt Doors open October 13. For more information about Disrupt, visit http://www.disrupt2026.com/disrupt/techcrunch-2026 eventspapers.com . For more info on Disrupt 2026 events, visit the Disrupt page . This summary highlights key aspects of",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1195574782.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-26T18:41:18.921489Z"
+    },
+    {
+      "id": "bb06af6daa7407fb24133bd0bf139e76",
+      "title": "Anthropic officially files for its public debut",
+      "description": "Anthropic officially files files for its public debut on October 26 . Anthropic is one of the most closely watched public debuts in modern U.S. history, Anthropic plans to list under the ticker \u201cANT,\u201d which means \u2018ANT\u2019 Get your pass and bring someone with you at 50% off. Buy One Founder Summit ticket, Get a Second for Free. Disrupt doors open Oct. 13.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-26T18:40:19.526365Z"
+    },
+    {
+      "id": "2b01b79f74d7a719b3f80a2c9e023210",
+      "title": "SpaceX locks in $40B GPU financing deal",
+      "description": "Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. Buy One Founder Summit ticket, Get a Second for Free . SpaceX has reached a binding commitment for roughly $40 billion in financing for AI chips related data center equipment, the company disclosed a regulatory filing Monday called the SpaceX deal called the \u201clargest committed deal\u201d with the company . SpaceX will last about five years to lease five-and-a-quarter of the equipment to the SpaceX data center .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM-e1793033116950.png?resize=1200,911",
+      "fullArticleLink": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-26T18:39:57.343297Z"
+    },
+    {
+      "id": "8f4c26bb6bac1e753b823b858f91ab85",
+      "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping",
+      "description": "Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off . Buy One Founder Summit ticket, Get a Second for Free. Register now. Disrupt: Get your ticket and bring a second for free . Anthropic\u2019s IPO filing reveals its strategy to keep enterprise customers hooked for free. Anthropic is building the same kind of cross-product ecosystem that helped make Amazon and Uber enormously sticky .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2278152325.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-26T18:39:37.413485Z"
+    },
+    {
       "id": "3944d61c7fedbc32a3ab95ae1f00c3f6",
       "title": "AI makes junior patent attorneys instantly better but",
       "description": "A three-month field experiment with 133 patent attorneys shows that AI boosts immediate performance, with junior lawyers gaining the most . But when the AI is taken away, only senior attorneys retain the benefits, suggesting that baseline expertise is a prerequisite for turning AI-assisted practice into lasting skill . AI makes junior patent attorneys instantly better but may quietly stunt their professional growth, says The Decoder . The Decoder.co.uk.uk .",
@@ -15366,210 +15572,6 @@
         "Startup"
       ],
       "pubDate": "2026-07-19T03:40:24.332099Z"
-    },
-    {
-      "id": "ee7e2eccd7454d2e42d9fd04d7d7c566",
-      "title": "Kimi: Threat or menace? Kimi is a threat",
-      "description": "Kimi K3 \"demonstrated frontier-level performance across our evaluation suite, consistently outperforming other tested models,\" says Moonshot AI . Announcement spooked Wall Street, with the Nasdaq dropping about 1% on Friday as investors sold off stocks in chip companies like Nvidia . Many of the resulting posts from tech industry figures will sound familiar to those who remember the debate after another Chinese company released its open source R1 model in January 2025 .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-19T03:40:07.065689Z"
-    },
-    {
-      "id": "896a3853289dff0764a93e44822a399b",
-      "title": "Anthropic slashes Claude Fable 5 limits in Max",
-      "description": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium plans starting July 20 . Pro users get a one-time $100 credit, then pay API rates . The reversal from Anthropic's original plan to pull Fable from subscriptions entirely likely comes down to competitive pressure from OpenAI's cheaper GPT-5.6 Sol . OpenAI is also looking at Fable as a way to compete with Google's cheaper Sol .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
-      "fullArticleLink": "https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-18T13:45:18.519967Z"
-    },
-    {
-      "id": "2c1a046a2beaf62b1bde1c95b65afafa",
-      "title": "The Pentagon's new AI playbook treats slow adoption",
-      "description": "US Department of the Navy has signed a strategy to \"weaponize\" data and AI and build an \"AI-first\" fleet . Large language models would run directly on warships, and an AI war council would prioritize mission scenarios . The core message is that moving too slowly carries greater risks than \"imperfect alignment\" The Pentagon&#039;s new AI playbook treats slow adoption as a bigger risk than imperfect alignment .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/US-Navy-Weaponize-AI-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-18T13:45:07.337331Z"
-    },
-    {
-      "id": "97ad50cfbe7213cb57092d50654ac8e6",
-      "title": "Open-weight models now match frontier cyber performance",
-      "description": "The British AI Security Institute warns that open-weight models like GLM-5.2 and DeepSeek V4-Pro now trail frontier models in cyber capabilities by four to seven months . At the start of 2025, the gap was still six to ten months . Safety measures on open models are largely ineffective, leaving defenders less time to prepare . The institute also found that safety measures on these models are ineffective .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/aisi_logo_pattern.png",
-      "fullArticleLink": "https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-07-18T13:44:56.014013Z"
-    },
-    {
-      "id": "7b3b6041bb87ecff20134355d2b0dc92",
-      "title": "China's new World Artificial Intelligence Cooperation Organization",
-      "description": "At the World AI Conference in Shanghai, Xi Jinping announced 5,000 AI training slots for Global South countries and the launch of the \"World Artificial Intelligence Cooperation Organization\" Cooperation centers with ASEAN, the African Union, BRICS, and other alliances are planned to follow . China is systematically building a parallel AI governance structure outside Western influence . China&#039;s new World AI Cooperation Organization is President Xi&#139:s clearest play yet for parallel AI order .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/china_flag_visual-2-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-18T13:44:43.972343Z"
-    },
-    {
-      "id": "cf13bd5010ee39c0bf1f53de5bc80591",
-      "title": "Scientists\u2019 Side Hustle? Using AI and Quantum Computing",
-      "description": "Danish researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases . Researchers used the hybrid technique to generate novel peptides, short chains of amino acids, capable of binding to specific proteins in the body . The newly discovered process won\u2019t revolutionize research yet as quantum computers are still too small to run full-scale, cutting-edge AI models .",
-      "imageUrl": "https://media.wired.com/photos/6a50c6b5d12b964679cc91a9/191:100/w_1280,c_limit/Quantum%20Computing.jpg",
-      "fullArticleLink": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-18T13:44:22.784786Z"
-    },
-    {
-      "id": "e74ea7dbb48cb4fe94e8bae96e33602d",
-      "title": "An Inventor of Apple\u2019s FaceID Wants to Analyze",
-      "description": "Gidi Littwin's startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson\u2019s . He wants the technology to be as cheap and easy as for a blood test . The startup has raised $52 million in funding after gathering data on 100,000 people's brains to train deep-learning models to examine the brain without the need for invasive procedures . The team is currently working on a clinical study to test whether its model can diagnose and even predict Alzheimer's .",
-      "imageUrl": "https://media.wired.com/photos/6a5639acbebf57977f2b4f6b/191:100/w_1280,c_limit/AppleIDBrainScan.jpg",
-      "fullArticleLink": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-18T13:44:05.261850Z"
-    },
-    {
-      "id": "c27a3acd5bed64de18f969e219f14ef4",
-      "title": "Google Vids now lets you star in your",
-      "description": "Google Vids now lets you star in your own AI videos . The tool lets you create a custom digital avatar that looks and sounds like you based on a selfie and a voice recording you upload . Google says it's bringing its multi-modal AI model Gemini Omni to Vids, letting you create videos using a combination of a written prompt and reference images . Omni then mixes those inputs together to create the AI video you want . It can also be used to swap out the background or fix the lighting in a video recorded on your phone...",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/google-vids-ai-avatar.jpg?resize=1200,772",
-      "fullArticleLink": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-18T13:43:47.962241Z"
-    },
-    {
-      "id": "96ead98cb5258035e987cd9ade32a100",
-      "title": "GPU financiers are turning to inference chips",
-      "description": "AI cloud startup General Compute has landed a $400 million loan from Upper90, a tech investment firm . It might be the first deal to put up inference-specific chips as collateral . The financing is the latest signal that markets are responding to concerns over the price of AI tools and tokens by turning to infrastructure that runs open source models more cheaply than the newest LLMs from frontier labs . As more alternatives to Nvidia emerge, compute providers that aren't locked into Nvidia deals may have an advantage in providing cost-efficient inference .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/General-Compute-Billboard.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-18T13:43:31.450930Z"
-    },
-    {
-      "id": "1543d4a481fea7203aef30c1016d51e7",
-      "title": "Apple\u2019s lawsuit couldn\u2019t come at a worse time",
-      "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday . The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer . The timing couldn't be worse with the company reportedly eyeing an IPO as early as later this year . This episode of Equity is the latest episode of TechCrunch's Equity podcast . Read the full transcript of the episode and listen to it on YouTube, Apple Podcasts, Overcast and Spotify .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-18T13:43:14.254691Z"
-    },
-    {
-      "id": "a90acdd50b34149685fea53d473a8353",
-      "title": "Patreon stops asking AI bots not to scrape",
-      "description": "The membership platform for creators is cracking down on AI scraping its content for training purposes . It's working with internet infrastructure provider Cloudflare to directly block access to AI bots . \"Consent shouldn't depend on whether a scraper chooses to behave,\" the company says . The changes come about as more online publishers and content creators are coming to grips with how AI is ingesting their work for the purpose of making their AI models smarter .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?resize=1200,675",
-      "fullArticleLink": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-07-18T13:42:59.391719Z"
-    },
-    {
-      "id": "2bbdfc683665fa6d0787923f400d1c59",
-      "title": "Bunkerhill raises $55M to scale agentic AI across",
-      "description": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks . The closing of the company\u2019s Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator . However, the funding total doesn't answer the key question any hospital executive wants to know about healthcare AI: does it work? This",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/bunkerhill-health-scale-agentic-ai-healthcare-medical-systems-agentic-artificial-intelligence-digital.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
-      "type": "news",
-      "categories": [
-        "Startup"
-      ],
-      "pubDate": "2026-07-18T03:25:03.581245Z"
-    },
-    {
-      "id": "9e374bcb0dd3d27be0b8b2b33919535a",
-      "title": "China's Kimi K3 is forcing Western AI labs",
-      "description": "Moonshot AI has released Kimi K3, a model that by early assessments matches Anthropic's Opus 4.8 . Even OpenAI strategist Dean W. Ball calls it \"very good,\" but, of course, warns that a world dominated by open-weight models would amount to \"AI communism\" The release is reigniting the debate over how much computing power actually matters and whether U.S. export controls are working .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/moonshot_ai_logos.png",
-      "fullArticleLink": "https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-18T03:24:49.389522Z"
-    },
-    {
-      "id": "6a800dd5e3dc96407b4fa98336b269d6",
-      "title": "GPT-5.6 is deleting user files when given full",
-      "description": "OpenAI's GPT-5.6 has accidentally wiped users' entire home directories in several cases . The model overwrites a temporary directory variable and carries out destructive actions on its own instead of asking for confirmation . OpenAI has announced extra safeguards and a detailed post-mortem . The company says it shouldn't delete user files when given full access, and OpenAI says it didn't do it properly but did .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_glitchy_blip.png",
-      "fullArticleLink": "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-18T03:24:37.658202Z"
-    },
-    {
-      "id": "0112a38905e9ec6e45dffb7bfaf19854",
-      "title": "Zuckerberg's plan to sell excess AI compute could",
-      "description": "Meta is reportedly in talks with Anthropic to rent out compute capacity from its data centers . The deal could be worth up to $10 billion over two years, according to the New York Times . Anthropic needs the extra capacity because demand for Claude Code has surged . For Meta, this would open a new revenue stream for the company . The company is also building out new revenue sources with paid AI subscriptions like \"Meta One\" and investing in space-based solar power .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/meta_data_center.png",
-      "fullArticleLink": "https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-18T03:24:23.527698Z"
     }
   ]
 }
