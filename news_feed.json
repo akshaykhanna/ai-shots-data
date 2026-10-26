@@ -1,6 +1,210 @@
 {
   "news": [
     {
+      "id": "3944d61c7fedbc32a3ab95ae1f00c3f6",
+      "title": "AI makes junior patent attorneys instantly better but",
+      "description": "A three-month field experiment with 133 patent attorneys shows that AI boosts immediate performance, with junior lawyers gaining the most . But when the AI is taken away, only senior attorneys retain the benefits, suggesting that baseline expertise is a prerequisite for turning AI-assisted practice into lasting skill . AI makes junior patent attorneys instantly better but may quietly stunt their professional growth, says The Decoder . The Decoder.co.uk.uk .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/patent-lawyers-nber-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-26T04:36:01.329514Z"
+    },
+    {
+      "id": "e7a08d8bbd49f19ca19cf555a6d3361a",
+      "title": "\u201cWe were looking at it wrong\u201d",
+      "description": "Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head . His claim is that LLMs might in fact be far easier to understand\u2014and thus to monitor and control\u2014than people previously thought . Not everyone is convinced, says Chris Potts at Stanford University, who leads a team that is trying to understand how LLMs work .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-26T04:35:41.562600Z"
+    },
+    {
+      "id": "254f1995dd63a08343cdb175aa27f450",
+      "title": "AI adoption by industry shows what other sectors",
+      "description": "Tech and finance are setting the pace on AI adoption . TripleTen research shows which skills will reach healthcare, education, and retail next . The variation in adoption rates today isn't a sign that non-tech industries are falling behind, but rather a reflection of the different speeds at which industries absorb new workflows . For leaders and their teams outside of tech, this differential pace provides a blueprint for how AI adoption unfolds, and where the opportunities lie .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/TripleTen-MIT-cover.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-26T04:35:25.477296Z"
+    },
+    {
+      "id": "870bab36282f461e87a0c42f5cd9c00f",
+      "title": "The Foundations of Scalable AI are described",
+      "description": "Jing Wang leads Vanguard's Center for AI &amp; Insights advancing AI, machine learning, generative AI, and behavioral science capabilities . Her team drives enterprise-wide innovation, research, and delivery, enabling Vanguard to translate emerging technologies into trusted solutions that enhance client experiences, improve investor outcomes, and create measurable business value . Jing holds Series 7, 24, and 65 licenses to conduct AI research, finance and marketing .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EmTech_092926_084.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-10-26T04:35:11.279790Z"
+    },
+    {
+      "id": "cc2e6bfcc58f9db2796870df88050063",
+      "title": "A Mathematical Theory of the Jacobian Lens",
+      "description": "Recent work from Anthropic introduced a new interpretability tool, called the Jacobian lens (J-lens) This method identified linear directions in the hidden states of frontier language models that had properties reminiscent of working memory-like representations . We show that it preferentially identifies coherent features -- directions that act like leading, spatially coherent Lyapunov modes . We also introduce of a family of J-lenses built to emphasize different temporal scales of information processing in LLMs .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.31955",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-26T04:34:46.435805Z"
+    },
+    {
+      "id": "aed99e29500cedfdf77b4959136bfc9c",
+      "title": "Speculative Diffusion is a Tale of Two Tradeoffs",
+      "description": "Speculative decoding is a technique that accelerates the inference speed of autoregressive large language models by sampling from a faster, lower quality draft model . This differs from recently developed diffusion LLMs (dLLMs) which are notably able to achieve substantial speedups by degrading the quality of their outputs with less diffusion effort . Our experiments show that jointly varying diffusion effort and acceptance leniency can extend the speed-quality Pareto frontier over single step diffusion drafting .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.31819",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-10-26T04:33:05.603481Z"
+    },
+    {
+      "id": "521c1047abcb48265add8a2878f17e0c",
+      "title": "CuraLoc: Repository-Level Fault Localization via Planned Code Inspection",
+      "description": "CuraLoc selects candidate files and represents their symbols using compact behavioral and structural descriptions . In a single planning decision, the model jointly selects starting symbols, chooses code relationships to inspect from each, and forms hypotheses about likely edits . Deterministic retrieval collects the requested source for a final ranking informed by those hypotheses, concentrating model reasoning on choosing and comparing code rather than directing each retrieval step . On SWE Bench Verified with GPT-5.2, CurraLoc raises Func@1 from LocAgent's 53.8% to 59.3% .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.31809",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-26T04:32:36.732215Z"
+    },
+    {
+      "id": "939846744a947b7ae1231989f3e32e10",
+      "title": "PaperScorer: How Predictable Is Paper Acceptance?",
+      "description": "PaperScorer is a family of models that predict a paper's accept or reject decision from its extracted text or page screenshots . Vision models are the most predictive (68% accuracy on ICLR papers and 77% on ML papers from arXiv), beating text-only and frontier reasoning models . PaperScorers shows how much of the decision a paper carries on its own, marking a first step toward AI-driven research evaluation .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.31791",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-26T04:32:25.028727Z"
+    },
+    {
+      "id": "dec0b21358376e1be15289d4b797bcc4",
+      "title": "Benchmarks are Surprisingly Compaction-Friendly",
+      "description": "Long horizon agentic tasks are now pushing LLM agents past their context window . To continue the task, the agent scaffold has to free up the context window, a process known as context compaction . For the two 1M context models, the compaction threshold does not measurably affect the task performance . No compaction method outperforms default self-summarization, and methods that discard more content cost some models up to 20 points .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.31778",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-26T04:32:11.566746Z"
+    },
+    {
+      "id": "ac44d1c6b512b2249890216a022facea",
+      "title": "Autoregressive Multimodal Anomaly Detection with Large Language Models",
+      "description": "Microservice systems have become a dominant architecture for large-scale cloud applications . Failure and performance anomalies can quickly propagate across services and severely impact end-to-end system behavior . We propose LLMMAD, an autoregressive multimodal anomaly detection framework for microservice systems based on Large Language Models (LLMs) We conduct extensive experiments on three real-world datasets . The results demonstrate that the system consistently outperforms state-of-the-art methods, achieving F1-score improvements .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.31722",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-26T04:31:19.109725Z"
+    },
+    {
+      "id": "bc91e34a2351f2b0b2a9398d1182e038",
+      "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors",
+      "description": "Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off . Buy One Founder Summit ticket, Get a Second for Free. Register now . Microsoft CEO Mustafa Suleyman says his AI system outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019 \u2018IxDxO\u2019s\u2019 system, dubbed MAI-OxO, coordinates several short coordinates for several AI agents .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-26T04:29:48.482495Z"
+    },
+    {
+      "id": "b2f0cf19fa7c113c59dfe8a7abb695f4",
+      "title": "Here are the top AI agents that can",
+      "description": "Disrupt doors open Oct. 13. Buy One Founder Summit ticket, Get a Second for Free . Get your pass and bring someone with you at 50% off. Register now . TechCrunch Disrupt 2026 events are live in text messages from the top AI agents that can be texted . Instinct is one of the buzziest buzziest AI agents in the world thanks to its $10 billion valuation at its present .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "fullArticleLink": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-26T04:29:09.950570Z"
+    },
+    {
+      "id": "b8554dad591ac482b60437c5d2db6055",
+      "title": "Grok\u2019s AI model chooses Republicans over Democrats",
+      "description": "Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off . Get a second Founder Summit ticket, Get a Second for Free. Buy One Founder Summit Ticket, Get Your Pass at Disrupt 2026. Register now. For more information about Disrupt, visit http://www.disrupt2026.com/techcrunch/disrupt-2026 and get your pass . This summary highlights key aspects of the",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
+      "fullArticleLink": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-26T04:28:51.549388Z"
+    },
+    {
+      "id": "41208e707565c1ca9c88179f04575ea3",
+      "title": "The AI graveyard: a running list of projects",
+      "description": "Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. Buy One Founder Summit ticket, Get a Second for Free. Register now. The event will be held on October 24, 26. For more information, visit the Disrupt 2026 eventspapers.com/techcrunch 2026. The conference will be open at 8pm ET October 24th to learn more about startups and tech startups .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "fullArticleLink": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-26T04:28:32.089494Z"
+    },
+    {
+      "id": "9e4fbbe069370a1fd97c40fab98753b8",
+      "title": "Grok releases the first seven minutes of its",
+      "description": "Get your pass and bring someone with you at 50% off at Disrupt 2026 . Buy One Founder Summit ticket, Get a Second for Free. Disrupt doors open Oct. 13. The company is now calling \u2018Odyssey\u2019s first seven minutes of its AI-generated \u2018The Odyssey.\u2019 The company has published a whole seven minutes, which the company is calling \u201cThe Grok\u201d Grok has released a full-length, \u201chistorically accurate\u201d movie version of \u201cD. Odyssey\u201d",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-26T04:27:32.134148Z"
+    },
+    {
       "id": "aa876d8e1aaa5c0f07a6fdeff2bae71e",
       "title": "Block's new AI model Dessa was trained entirely",
       "description": "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first . Dessa is designed to recognize emotions, sarcasm, and pauses in real time . The model runs locally on a MacBook Pro M4 Max but isn't publicly available yet . Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss .",
@@ -15366,189 +15570,6 @@
         "Hardware"
       ],
       "pubDate": "2026-07-18T03:24:23.527698Z"
-    },
-    {
-      "id": "0bfdc15c9d88ebaae51b8022d5ca97fb",
-      "title": "A Noise-Robust Elicit-to-Optimize Framework for Distortion",
-      "description": "We propose a noise-robust elicit-to-optimize framework for eliciting agents' risk preferences and optimizing policies under a broad class of risk objectives characterized by distortion riskmetrics . A comprehensive empirical study demonstrates the framework's elicitation accuracy and effectiveness in complex financial environments . We propose an adaptive Bayesian IRL method that infers agents' latent risk objectives from their noisy observed decisions . By representing the objective as an integral of the conditional cost quantile function with respect to the distortion function, the method unifies distortion-riskmetric objectives .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.14373",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-18T03:24:06.068118Z"
-    },
-    {
-      "id": "bf41629dc47755755e525e7b12615396",
-      "title": "In- Context Learning: An Equilibrium Analysis of LLM",
-      "description": "Large Language Models (LLMs) have revolutionized AI services, but a critical tension emerges: while personalization improves model performance, it consumes scarce computational resources . When should a user invest in expensive Supervised Fine-Tuning (SFT) versus lightweight In-Context Learning (ICL)? How does congestion from other users' personalization choices reshape these incentives? And what strategies should platforms adopt when offering multiple personalization algorithms?",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.14371",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-18T03:23:54.412388Z"
-    },
-    {
-      "id": "b7b12bfae19cfd57a0c0e31a57dc74be",
-      "title": "Dysco: Dynamic Subspace Boosting to Mitigate LoRA Interference",
-      "description": "Dynamic Subspace Boosting (Dysco) is a plug-in method that allocates client-specific LoRA subspaces in a federated and dynamic manner . Dysco substantially reduces interference, reduces the final-round synthetic training loss by up to 9 times relative to baselines under the orthogonal-subspace partition the theory identifies, improves all five tested FL algorithms by 4.3% on MIMIC, outperforms recent federated methods .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.14367",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-18T03:23:41.798457Z"
-    },
-    {
-      "id": "d7bcdc3895fe4ce48f42bf2986b357c0",
-      "title": "LLM's answers are Silently Shaped by its own",
-      "description": "People use language models for practical questions whose answers are difficult to verify . Claude Opus 4.8 gives a lower probability when the company under consideration is Anthropic rather than OpenAI . Yet Claude mostly fails to disclose this influence to the user . Covert value leakage is a form of misalignment because it goes against the user's preferences and is likely to mislead them . We find that models are influenced by different types of values, including preferences for morally good outcomes .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.14345",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-18T03:23:30.164236Z"
-    },
-    {
-      "id": "487dc9623815083773454f6d4781545d",
-      "title": "Counterfactual Optimal Action Trees (COAT) Interpretable Prescriptive Policies",
-      "description": "COAT (Counterfactual Optimal Action Tree) combines counterfactual outcome estimation with large-scale mixed-integer optimization . COAT increased upsell revenue per booking by 6.9% in a 17-week field pilot with a major global airline . The airline projected \\$50-\\$150 million in incremental annual premium seat revenue across eligible domestic markets . Success of the pilot led to scaled adoption and informed broader AI-driven decision initiatives within the organization .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.14318",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-18T03:23:19.283601Z"
-    },
-    {
-      "id": "ad852e5ab1c76ce03e0201a393f17e78",
-      "title": "Towards a Unified Multidimensional Explainability Metric: Evaluating Trustworthiness",
-      "description": "In this paper, we present a comprehensive framework for assessing the explainability of various XAI methods, such as LIME and SHAP, across multiple datasets and machine learning models . We leverage benchmarking experiments to systematically evaluate these aspects and use the insights gained to construct an offline knowledge base . We demonstrate our framework by applying it to three open-source datasets, discussing the implications of the obtained results in relation to the characteristics of the datasets .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.14315",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-18T03:23:07.994320Z"
-    },
-    {
-      "id": "923845ebcd350d1f1c8c713782d39f84",
-      "title": "Netflix's 300 AI productions show how fast",
-      "description": "Netflix now uses AI in about 300 productions, mostly in post-production . The savings will \"likely\" fund more content rather than shrink the $20 billion budget . Co-CEO Ted Sarandos put specific numbers to the effort: the docuseries \"The American Experiment\" includes 17 minutes of AI-assisted footage, produced twice as fast at half the cost . Netflix says savings will 'likely\" be used for more content .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/netflix_logo.png",
-      "fullArticleLink": "https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-17T14:03:28.907712Z"
-    },
-    {
-      "id": "110ed1bd87d2f184d31b2abe5b467fbd",
-      "title": "Linus Torvalds tells AI critics in the Linux",
-      "description": "Linux creator Linus Torvalds has come out strongly in favor of AI tools in kernel development . \"Linux is not one of those anti-AI projects,\" he wrote on the kernel mailing list . Sashiko, the Linux Foundation's AI-powered code review tool, has been criticized by some in the Linux kernel community for its use of AI technology . He said he would \"very loudly ignore\" anyone who tried to talk others out of using it .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/linux.png",
-      "fullArticleLink": "https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-17T14:03:16.787790Z"
-    },
-    {
-      "id": "59881494ac309842a1bd75bea6366dc4",
-      "title": "LIGO-PINN: Learned Initialization via Gated Optimization to Al",
-      "description": "Physics-informed neural networks (PINNs) have had a broad research impact in modeling domains governed by partial differential equations (PDE) However, PINNs have been shown to perform poorly, sometimes converging to trivial solutions, in challenging PDE domains, or when generalizing to unseen but related domains . To this end, we propose a framework for Learned Initialization via Gated Layerwise Optimization (LIGO-PINN) to overcome PINN convergence failures .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.14233",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-17T14:02:59.184597Z"
-    },
-    {
-      "id": "0c7a3fe22326d60c86fb0a039445a98f",
-      "title": "Privacy Leakage in Federated Learning in Radiology Reports",
-      "description": "Federated learning (FL) enables multi-institutional training on clinical text without sharing raw data . But gradient inversion can reconstruct sensitive information from shared model updates . We quantify gradient-based text reconstruction in FL and compare privacy risk across three tokenizers with the model architecture held fixed . At batch size 64 on the Discharge dataset, accuracy was 42.1% (GPT-2), 42.3% (RadBERT), and 39.4% (LLaMA-2) at batch size 256 .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.14205",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-17T14:02:44.792498Z"
-    },
-    {
-      "id": "f677317c631affb9aa76cb5b2804b7a7",
-      "title": "TEDDY: A Pediatric Foundation Model for Risk Forewarning",
-      "description": "TEDDY (Temporal Event Decoder for Disease in Youth) is a 1.84-million-parameter decoder transformer trained on 73 million ICD-10 diagnoses from 1.6 million children at a single pediatric institution . Predictions were made before visit codes were revealed, limited to first occurrences, and evaluated against sex- and age-matched controls . TEDDy achieved a median AUC of 72.0%, outperforming same-data DenseNet (50.0%), CNN (57.2%), RNN (60.1%), and LSTM (62.7%) baselines on 96-99% of tasks . Performance held across sex and age and was strongest among lower-prevalence diagnoses",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.14191",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-17T14:02:26.916048Z"
-    },
-    {
-      "id": "e5c19d39f14353b6800f62c943d6ace6",
-      "title": "A Temporal Machine Learning-Based Time-to-Event Model for Predicting",
-      "description": "Amyotrophic lateral sclerosis (ALS) is a progressive and heterogeneous neurodegenerative disease in which predicting clinically meaningful milestones, such as assistive device use, remains challenging . We developed a time-to-event, digital-twin-inspired framework that integrates longitudinal ALS Functional Rating Scale-Revised (ALSFRS-R) trajectories with survival modeling . This framework provides a scalable, interpretable, and clinically actionable approach for linking ALS progression with personalized decision support .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.14190",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-17T14:02:14.517752Z"
-    },
-    {
-      "id": "6601d14dd78a9650f82a105847b0fe80",
-      "title": "Closed-Loop Knowledge Dynamics: An Operational Framework for Saturation",
-      "description": "Feedback-driven loops support iterative improvement in large language models, reinforcement learning, and autonomous discovery, yet their gains often diminish under repeated internal feedback . We study why closed-loop knowledge systems saturate and what external information can move them beyond their current attractors . Using a Lyapunov drift condition, we show that stable internal dynamics approach bounded stability regions with exponentially attenuated transients and a noise-controlled residual floor . This analysis also explains why conditional mutual information alone cannot certify escape .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.14185",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics"
-      ],
-      "pubDate": "2026-07-17T14:02:01.862549Z"
-    },
-    {
-      "id": "d74c6b61802703485161e2ab2c87e45c",
-      "title": "Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning",
-      "description": "Reinforcement learning has emerged as the dominant paradigm for training large language model (LLM) agents that interact with executable sandboxes . We argue that this property enables a fundamentally different rollout topology . Branching Policy Optimization (BPO) improves success by 3.6--6.1 absolute points over GRPO and RLOO at matched compute, halves gradient-norm variance, and matches the best baseline using 38% fewer policy updates .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.14171",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-17T14:01:50.066509Z"
-    },
-    {
-      "id": "7a1ae79702ce9f65d6aac6511c53f9e2",
-      "title": "QFireNet: A Quantum-Enhanced U-Net for Wildfire Segmentation",
-      "description": "Wildfire detection from satellite imagery is a semantic image segmentation problem that has proven to be difficult due to challenges such as class imbalance, feature complexity, and atmospheric interference . We inject a variational quantum circuit in the bottleneck portion of U-Net, specifically the QuFeX and QB-Net ansatzes . We also explore classical improvements to the model and its training process, including a compression of parameters and alternative loss functions .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.14160",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-17T14:01:37.851512Z"
     }
   ]
 }
