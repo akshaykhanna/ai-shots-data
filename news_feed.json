@@ -1,6 +1,210 @@
 {
   "news": [
     {
+      "id": "d629e85e9e7c385a19399cdbe193f143",
+      "title": "Meta gets $3 billion from Nvidia and plans",
+      "description": "Nvidia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware . AMD and Broadcom also signaled nonbinding interest in buying up to $5 billion in Meta shares combined . The deal fits a pattern investors have been arguing about for months . Nvidia gives money to customers like OpenAI, which then use it to build data centers packed with Nvidia chips . Critics say this circular financing could hide how much real demand exists .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+      "fullArticleLink": "https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-10-27T18:01:51.568074Z"
+    },
+    {
+      "id": "82213be3513c75c1f87a7474d4ec4527",
+      "title": "OpenAI's Ted Sanders shares a rule of thumb",
+      "description": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup . The smaller model outperforms the larger Astra in technical communication and costs far less but trails it in most other areas . Sanders says model size, reasoning effort, and multi-agent systems are distinct dimensions that can\u2019t be reduced to a single \"IQ score\" He says the model size and reasoning effort are separate dimensions .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
+      "fullArticleLink": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-27T18:01:39.973738Z"
+    },
+    {
+      "id": "f193591e0060e01280a5799d7cd4ce32",
+      "title": "Anthropic uses its IPO letter to renew its",
+      "description": "Anthropic promises to keep ads out of Claude's chat chat . The company previously criticized rival ChatGPT for running chat ads, warning they could be more manipulative than traditional ads . Anthropic cites Claude Mythos Preview, then its most powerful model, as its advanced cyber capabilities posed high risks . The ad ban falls under the letter's second category, which puts company values above profit . As future models grow stronger, Anthropic expects more decisions that forego maximum profit .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-27T18:01:26.205345Z"
+    },
+    {
+      "id": "ed01884b853155651e7c0438bb43a218",
+      "title": "OpenAI's partner content arrives in ChatGPT pre-summarized while",
+      "description": "ChatGPT doesn't fetch partner pages live . Instead, it receives them as pre-generated summaries, while regular web pages arrive as raw text snippets . For ranked lists, the summaries name 70 percent of entries in positions 1 through 3 but only 23 percent of those in positions 7 through 10 . OpenAI had promised partners more prominent placement back in 2024, but even partners don't always get cited correctly .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/01/openai_chatgpt_journalists_newsroom.png",
+      "fullArticleLink": "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-27T18:01:14.046897Z"
+    },
+    {
+      "id": "1d5d2a13c53c5ed4fd8c97cc7a8ff8a5",
+      "title": "OpenAI asks outside experts to check proofs its",
+      "description": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics . One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize . Outside experts, including a Nobel laureate, are now checking whether the proofs hold up . If the computer science proof holds on its own, hundreds of research papers lose their foundation, says OpenAI .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/openai_navier.png",
+      "fullArticleLink": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-27T18:01:02.447993Z"
+    },
+    {
+      "id": "0636ecaa49fd7826e946ce8c70bf429f",
+      "title": "Former Deepmind researcher thinks AlphaGo's playbook can cure",
+      "description": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning . Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence . So far, though, there's no working system and no benchmarks for general reasoning, so far, but it's possible to use AlphaGo and other AI systems to solve this problem .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/metis-reasoning-07-reasoning-illustration.jpg",
+      "fullArticleLink": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-10-27T18:00:51.938293Z"
+    },
+    {
+      "id": "005f6acb22d5e8c8f1303c69a0462774",
+      "title": "Google Deepmind's Genie 4 puts a modern spin",
+      "description": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters . Gemini models help plan in the background to keep the simulation consistent . Genie 4 is still an early research model, and longer sessions lead to visual inconsistencies . It's an early version of the Genie 4 model, which is still being developed by Deepmind, and is still a research model .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/Genie-4-Google-title.png",
+      "fullArticleLink": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-27T18:00:41.157552Z"
+    },
+    {
+      "id": "aef208baed4533fd93b57834c17c79d3",
+      "title": "Online Continual Learning in Edge-Cloud Applications",
+      "description": "Deployed machine learning models in real-world IoT and edge/cloud systems face a critical reliability bottleneck . This paper proposes an edge-cloud methodology for integrating Continual Learning (CL) with Out-of-Distribution (OOD) Detection and Concept Drift Detection in IoT applications . The methodology incorporates ODIN and ECDD as alternative mechanisms for identifying informative samples for annotation and triggering rehearsal-based model updates . Experimental results across automotive, healthcare, and agricultural datasets demonstrate the applicability of the proposed methodology .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.32472",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-27T17:59:56.069993Z"
+    },
+    {
+      "id": "f2b5e3081dabcd5785e6b0ca20827179",
+      "title": "Detection and Validation of Hidden Subgroup Disparities",
+      "description": "Machine learning (ML) models used in clinical workflows often perform systematically differently across patient groups . Traditional subgroup analyses can expose disparities only when rich metadata (e.g., patient demographics) is available and captures the sources of performance variation . Algorithmic subgroup discovery methods offer a solution by identifying coherent groups from learned feature representations, but because true underlying stratifications are unknown, these methods are hard to evaluate . As a proof of concept, we also showed that annotations from learned subgroups can be used to mitigate biases they expose .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.32362",
+      "type": "news",
+      "categories": [
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-27T17:59:18.928922Z"
+    },
+    {
+      "id": "867c05e1e13c4aa5882f656765d9e2a9",
+      "title": "Nvidia backs Indian startup helping companies run",
+      "description": "Get your pass and bring someone with you at 50% off at Disrupt 2026 . Buy One Founder Summit ticket, Get a Second for Free. Disrupt doors open Oct. 13. Get your ticket and bring a second for free. Register now. Buy one Founder Summit Ticket, Get Your Pass and bring your friend with you . Nvidia participated in the all-primary Series B. Series B round alongside Accel Accel and Micromax with $100 million investment .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/simplismart-founders-amritanshu-devansh.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-27T17:56:02.548922Z"
+    },
+    {
+      "id": "2b97ba8c9771053de852c61e18ead024",
+      "title": "Opera introduces a new web standard to let",
+      "description": "Opera introduces a new web standard to let users deploy AI locally in their browser . Opera lets users run AI directly in its browser without relying on the cloud . Opera also supports Apple\u2019s Mac-device model, but Opera says it isn't tied to any particular particular model, the company says . Opera's WebAI model drops an openweight weight to Google's Gemma \u2014 one example that Google first introduced two years ago .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-27T17:55:44.099687Z"
+    },
+    {
+      "id": "d0d46f2666065419bce8154c9a25765d",
+      "title": "General Compute raises $100 million Series A, countering",
+      "description": "Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off . Buy One Founder Summit ticket, Get a Second for Free. Disrupt: General Compute raises $100 million Series A, countering the neocloud narrative . General Pukukuk announces a $200+++ series A, a publicly-tracked General A.ukuk co-founder and CEO Finn Finn-UK CEO . TechCrunch Mobile Logo and TechCrunch Desktop Logo are available now .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Team-05.jpg?resize=800,1200",
+      "fullArticleLink": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-27T17:55:24.049673Z"
+    },
+    {
+      "id": "afdc5264df2f96c5e73a3493a982d0e5",
+      "title": "Meta AI director Rohit Patel leaves to take",
+      "description": "The former director at Meta Superintelligence Labs has launched a startup pitching as an AI-native replacement for Microsoft Office suite . Rohit Patel is the latest in a handful of high-profile departures from Meta Superdoc Labs . Get your pass and bring someone with you at 50% off at Disrupt 2026. Buy One Founder Summit ticket, Get a Second for Free. Disrupt doors open Oct. 13. Register now.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/rohit-5.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-27T17:55:05.147068Z"
+    },
+    {
+      "id": "3ddb9b3e3bda7311007d8bb25ad7d497",
+      "title": "Google\u2019s Genie 4 world model adds audio, more",
+      "description": "Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. Buy One Founder Summit Ticket, Get a Second for Free. Register now. Disrupt Doors open October 13. The latest model generates the most interactive photistic and photistic photistic worlds yet . Google DeepMind DeepMind released its newest world model, Genie 4.4, and real-time steering and real time steering . DeepMind\u2019s Runway Runway has released its second world world model .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Genie-4-blog-header.png?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-27T17:54:44.906701Z"
+    },
+    {
+      "id": "636498a83af93057a8507371e24c9b81",
+      "title": "Frontier AI labs say their models refuted",
+      "description": "Get your pass and bring someone with you at 50% off at Disrupt 2026 . Buy One Founder Summit ticket, Get a Second for Free. Disrupt doors open Oct. 13. Get your ticket and bring a friend with you to the Disrupt Summit. REGISTER NOW. For more information about Disrupt, visit http://www.disrupt2026.com/techcrunch/disrupt-2026 . This summary highlights key aspects of the",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
+      "fullArticleLink": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-27T17:54:26.568259Z"
+    },
+    {
       "id": "c921e955bb12043d01659e63eb7754e5",
       "title": "Toyota is betting $6.4 billion a year",
       "description": "The world's largest automaker plans to deploy 400,000 robots as part of a $6.4 billion annual investment plan . Goldman Sachs analysts think Toyota could grab three to eight percent of the humanoid robot market by 2035 . In July, Toyota's AI robotics spinout Walden Robotics went public with a $1.1 billion valuation and $300 million in funding . Its rivals include Tesla, Xpeng, and Hyundai, which plans to start building its Atlas robot in 2028 .",
@@ -15355,202 +15559,6 @@
         "General AI"
       ],
       "pubDate": "2026-07-20T14:31:30.343519Z"
-    },
-    {
-      "id": "d6a09501cf0aad5517b5f2c17b3f858a",
-      "title": "US public health agencies to test OpenAI",
-      "description": "US public health agencies will test generative AI tools under a new programme involving the Coalition for Health AI, OpenAI, Anthropic, and Accenture . The Public Health Use Case and Learning Scaling Engine, known as PULSE, will support trials in 10 state, local, tribal, or territorial jurisdictions . The programme is intended to produce generative models that can be used by public health departments across the US .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/US-public-health-agencies-to-test-OpenAI-and-Anthropic-AI-models-scaled-e1784536548513.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-20T14:31:19.552712Z"
-    },
-    {
-      "id": "e254866b5663d48e592fe3de88a1c502",
-      "title": "Moonshot pauses new Kimi K3 subscriptions after GPU",
-      "description": "AI startup behind Kimi K3 model temporarily stops selling new subscriptions . Current subscribers aren't affected, and new slots will open up again gradually . Moonshot also announced that it's splitting its subscription model into two tiers . The company says it wants to spread computing power more evenly and keep the user experience stable . Alibaba is already pushing its rival model, Qwen 3.8, which will be open weight for the first time in a while .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/kimi_logo.png",
-      "fullArticleLink": "https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Startup"
-      ],
-      "pubDate": "2026-07-20T14:31:02.874062Z"
-    },
-    {
-      "id": "5cc35cb043bdc140c5e5c955613ea507",
-      "title": "Hugging Face says an AI agent hacked its",
-      "description": "Hugging Face reports an attack on parts of its production infrastructure that was allegedly carried out entirely by an autonomous AI agent system . The attack spanned thousands of actions controlled by an agent framework . During forensic analysis, commercial AI models actually got in the way of the defenders because their safety guardrails couldn't tell exploit data from real attacks . The company says an AI agent hacked its infrastructure, and it used AI to fight back .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/hugging_face_security.png",
-      "fullArticleLink": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back/",
-      "type": "news",
-      "categories": [
-        "Robotics",
-        "Security"
-      ],
-      "pubDate": "2026-07-20T14:30:51.448511Z"
-    },
-    {
-      "id": "db986eb8d803ba963dd7b260a5e82ab8",
-      "title": "Trump administration reportedly builds a slow-motion ban",
-      "description": "The Trump administration is reportedly weighing measures targeting Chinese AI models . Washington could use soft rules to deter adoption while protecting the market positions of OpenAI, Google, and Anthropic . The U.S. could hold Chinese labs liable for security failures, rather than impose an outright ban on Chinese AI, Washington may use soft pressure to deter use of the models . The decision could be made to protect the market position of Google, Open AI, Google .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/china_vs_usa_race-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-20T14:30:39.709981Z"
-    },
-    {
-      "id": "d213c30d2534c57d8854764eef499cc7",
-      "title": "AI is more likely than humans to form",
-      "description": "AI is more likely than humans to form biases when hiring, study finds . Researchers at Princeton University and the University of Chicago ran AI models through a simulated hiring game . The models were even more likely to stereotype people by demographic group than the human participants in the study . When LLMs rush to generalize in social settings, \u201cthat\u2019s when things tend to go wrong,\u201d says Ryan Liu .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Startup"
-      ],
-      "pubDate": "2026-07-20T14:30:20.853937Z"
-    },
-    {
-      "id": "16a18a2df35ec366377604146d1d8cce",
-      "title": "Deep Learning Approaches for Sleep Apnea Classification",
-      "description": "Recent work has demonstrated that central nervous system effects of sleep apnea events can be detected through electroencephalogram (EEG) signals . We evaluate Vision Transformers and Graph Attention Networks across distinct signal representations . Stratified analysis across patient demographics (age, sex, sleep stages) and sleep stages reveals significant performance variation . Our results demonstrate the feasibility of EEG based automated OSA screening while highlighting essential challenges for clinical deployment .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.15477",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-20T14:30:08.234310Z"
-    },
-    {
-      "id": "51216817a22c144aff73b5897aa9387a",
-      "title": "Looped Latent Attention: Cross-Loop KV Compression for Looped",
-      "description": "Looped Latent Attention (LLA) stores compact K and V latents and reconstructs loop-specific K/V vectors only when attention reads them . The default per-head codec compresses recurrence, while LLA-2D folds heads into one latent for extreme-compression regime . LLA outperforms head-axis MLA, cross-layer sharing, KV quantization and final-loop reuse . This summary highlights key aspects of the latest developments. Industry",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.15456",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-20T14:29:56.743278Z"
-    },
-    {
-      "id": "d59e013b4daad647d8240e6b622119ba",
-      "title": "Relevant and Irrelevant: A Renormalization Group Analysis",
-      "description": "Using the language of renormalization group theory, we treat the Transformer's attention mechanism as a perturbation of the trained MLP residual-stack fixed point and ask whether it constitutes a relevant, marginal, or irrelevant operator . We find that the relevance of attention is not a property of the architecture but of the spectral structure of the data-generating process . In the short correlation regime it suppresses all modes faster than the MLP, with no spectral selectivity .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.15449",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-20T14:29:43.908446Z"
-    },
-    {
-      "id": "698475e1d9b53712f4b4039b0f39e34d",
-      "title": "LLM4EHR: Aligning Clinical Time Series with Medical Event",
-      "description": "LLM4EHR is a new clinical foundation model trained on ICU EHR data . It is pre-trained on mixtures of complex clinical data modalities, useful for various downstream tasks . The new model learns transferable clinical TS embeddings that can be deployed to new cohorts via k-shot adaptation . These findings provide a step towards building more generalisable and performant clinical foundation models . arXiv:2607.15447v1 .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.15447",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-20T14:29:32.011163Z"
-    },
-    {
-      "id": "cc5e7a064593ff7c4cc0b09aebfde89e",
-      "title": "Nonprofit Current AI is racing to build",
-      "description": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all . CEO Ayah Bdeir: \"If AI is truly a transformative technology, if it's going to change every aspect of everyone's life, there has to be a public alternative\" Current AI has launched an open-source AI chatbot at the AI for Good Summit in Geneva . The French government seeded Current AI with $100 million, joined by the Ford Foundation, MacArthur Foundation, DeepMind, and Salesforce .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
-      "fullArticleLink": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-20T03:54:23.193110Z"
-    },
-    {
-      "id": "f94394e35d7038429bcb5426f50b0d9b",
-      "title": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious",
-      "description": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019 \u2018I\u2019ve never seen a technology advancing so rapidly [that\u2019s been] so completely rejected by the public,\u201d he said . \u2018The Odyssey\u2019 becomes the first feature film to be shot entirely on Imax film and cameras . Nolan didn\u2019t get more specific about what he views as the threat from AI, but it has been a growing source of concern in Hollywood .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2285660756.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-20T03:54:02.507205Z"
-    },
-    {
-      "id": "87a2e11003ab357d30ea479de5c02147",
-      "title": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
-      "description": "Apple recently filed a trade secrets lawsuit against OpenAI, accusing the AI company of a pattern of misconduct . Kirsten Korosec, Sean O\u2019Kane, and Anthony Ha debated whether this lawsuit will derail OpenAI\u2019s hardware plans . With all those plans on the line, will OpenAI try to settle this as quickly as possible, or did it learn from its recent courtroom victory against Elon Musk that it can endure the cost of a trial?",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
-      "fullArticleLink": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-20T03:53:44.244819Z"
-    },
-    {
-      "id": "7c4d4353343ad2ae0cc800357b8b6db3",
-      "title": "AI chatbots reading X-rays can be dangerously confident",
-      "description": "The RadLE 2.0 benchmark tests whether AI models in radiology can tell when they should leave a diagnosis to a human . Many models deliver wrong findings with full confidence, and human radiologists are still well ahead . Before AI can diagnose on its own, it needs to learn when it's better to say nothing, the RadLE benchmark tests when it can't tell when it should leave the diagnosis to humans .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/ai-radiology-model-generated-image-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-19T13:45:46.601521Z"
-    },
-    {
-      "id": "4c7794adac6bb4d0912c2cb9087070e0",
-      "title": "AI text detectors struggle when language models mimic",
-      "description": "Epoch AI tested three leading AI text detectors (Pangram, GPTZero, and Originality.ai) using style-imitated texts . Up to 18 percent of AI-generated passages went undetected . For scientific writing, the miss rate climbed as high as 48 percent, the very genre where these detectors likely see the most real-world use . The miss rate was up to 48 percent for scientific writing .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/ai_tet_detector-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-19T13:45:35.810461Z"
-    },
-    {
-      "id": "9465d3fd9e072ffac99de0c8b7868c4d",
-      "title": "Moonshot's Kimi K3 outperforms Fable 5 in frontend",
-      "description": "Moonshot's Kimi K3 is the first Chinese model to top the Code Arena: Frontend rankings, beating Claude Fable 5 and GPT-5.6 Sol by a wide margin . But on advanced math, the gap is stark: Kimi . K3 scores only about 39 percent on FrontierMath Tier 4, while models from OpenAI and Anthropic hit close to 90 percent on Tier 4 .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/kimi_logo.png",
-      "fullArticleLink": "https://the-decoder.com/moonshots-kimi-k3-outperforms-fable-5-in-frontend-code-but-lags-far-behind-in-complex-math/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-19T13:45:24.349124Z"
     }
   ]
 }
