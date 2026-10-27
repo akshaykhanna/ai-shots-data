@@ -1,6 +1,205 @@
 {
   "news": [
     {
+      "id": "c921e955bb12043d01659e63eb7754e5",
+      "title": "Toyota is betting $6.4 billion a year",
+      "description": "The world's largest automaker plans to deploy 400,000 robots as part of a $6.4 billion annual investment plan . Goldman Sachs analysts think Toyota could grab three to eight percent of the humanoid robot market by 2035 . In July, Toyota's AI robotics spinout Walden Robotics went public with a $1.1 billion valuation and $300 million in funding . Its rivals include Tesla, Xpeng, and Hyundai, which plans to start building its Atlas robot in 2028 .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Startup"
+      ],
+      "pubDate": "2026-10-27T04:52:33.417389Z"
+    },
+    {
+      "id": "4003b7989af805ec34cfd4c8bc39a4a2",
+      "title": "Anthropic opens its books for Wall Street, showing",
+      "description": "Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker \"ANT\" The numbers are strong, with $11.6 billion in quarterly revenue, a first-ever operating profit, and existing customers spending nine times more year over year . But the company also carries roughly $800 billion in long-term compute commitments . Anthropic plans to list under the name \"Ant\"",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude_bull_.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-27T04:52:21.307809Z"
+    },
+    {
+      "id": "ce343b21ed7a4dbe0bb7b7b369304b7b",
+      "title": "GPT-6.1 Terra halves OpenAI's API prices and still",
+      "description": "OpenAI has released GPT-6.1 Terra, a model it says pushes the cost-to-performance boundary further than any of its predecessors . API prices drop to just $0.05 per million tokens, a quarter of the previous rate . The model is OpenAI's closest competitor to Anthropic's mid-tier Sonnet series at half the price . At maximum reasoning effort, the model gains 6 points on the Intelligence Index over Gpt-5.6 Terra while costing less than a third per task ($0.40)",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo_earth.png",
+      "fullArticleLink": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-10-27T04:52:02.340904Z"
+    },
+    {
+      "id": "0fa683dd3ae00f6713e09664671a27d8",
+      "title": "BiLoCo: Binary Low-Rank Corrections for Post-Training Quantization",
+      "description": "Post-training quantization (PTQ) to FP4 has emerged as a key technique for reducing large language model inference cost, especially on Blackwell GPUs, which offer native FP4 tensor core support . We introduce BiLoCo, a low-rank correction method whose left and right factors are stored as binary sign vectors rather than as BF16 numbers . With batch size $1, the fused kernel is at most $11\\%$ slower than the FP4-only GEMM for every rank up to $512 .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.32243",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-10-27T04:51:42.897537Z"
+    },
+    {
+      "id": "fff619110e9e296ded31ba3d9b5966cb",
+      "title": "CFBrainAug: Modularity-Induced Counterfactual Brain Network Augmentation",
+      "description": "Machine learning on resting-state functional magnetic resonance imaging (rs-fMRI) brain networks is promising for diagnosing Autism Spectrum Disorder . CFBrainAug unifies data augmentation and counterfactual explanation by learning label-altered brain networks . The new framework reaches an accuracy of 74.1% on the ABIDE I dataset . It can complement more complex models in small-sample brain network analysis, authors say .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.32184",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-27T04:51:20.382879Z"
+    },
+    {
+      "id": "ecbf161d7606a53451f4d11f0e233d8c",
+      "title": "Learning Structured Sparsity for Large Models: Bridging Model",
+      "description": "S-SALAAD is a unified framework that jointly learns the model weights and their low-rank and structured sparse components during training . The framework supports a family of hardware-compatible structured sparsity patterns . It couples this structure learning with budget-aware compression and dedicated CPU and GPU kernels that exploit the learned structure for acceleration . Indexing overhead and irregular memory access in unstructured sparse components can offset computational savings .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.31897",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-10-27T04:49:43.840691Z"
+    },
+    {
+      "id": "fa70dd32e5f203fa82d1fecd016f6af4",
+      "title": "Scaling Transformer Energy-based Models for High Quality Image",
+      "description": "Energy-Based Models (EBMs) are flexible class of generative models that decouple probabilistic modeling from the generation process . This decoupling directly enables compositional generation and inference-time scaling, where sample quality can be refined simply by increasing sampling steps . TEM-XL achieves an FID-50K of 3.82 on class-conditional ImageNet 256$\\times$256 without classifier-free guidance . This summary highlights key aspects of the",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.31889",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-27T04:49:31.856654Z"
+    },
+    {
+      "id": "7cc91e910549ffc7f536951ed4a2471b",
+      "title": "Aligning Large Language Models with Human Feedback: Mathematical",
+      "description": "This article provides an introduction to the mathematical foundations and algorithms used to align Large Language Models (LLMs) with human intentions, preferences, and values . We discuss standard alignment techniques, such as fine-tuning (SFT), reinforcement learning with human feedback (RLHF), and direct preference optimization (DPO) We also explore the theoretical underpinnings of learning from human preferences, drawing connections to inverse reinforcement learning (IRL) and discrete choice models .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.31862",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-27T04:49:20.623976Z"
+    },
+    {
+      "id": "57b3d6cfe919bacff4a4f02627f375b7",
+      "title": "Cautious Conflict-Free Inverse Gradient Methods",
+      "description": "Physics-Informed Neural Networks (PINNs) have emerged as a powerful alternative to traditional numerical solvers by incorporating physical constraints into neural network loss functions . Cautious ConFIG is proposed as a concise three-line extension to the ConFIG algorithm that empirically restores the conflict-freeness guarantee prior to the weight update . The method is evaluated on three PINN benchmarks: the Viscous Burgers' equation, the Nonlinear Schrodinger equation, and the 2D Kovasznay flow .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.31855",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-27T04:49:07.729189Z"
+    },
+    {
+      "id": "787675b6fe001252b920200829046f7b",
+      "title": "Nested Sparsity for Scalable Pretraining and Continual Learning",
+      "description": "Mixture-of-experts (MoE) transformers employ conditional computation: only a sparse subset of model weights is used in each forward pass . In MoE transformers, this sparsity arises in the MoE operator, which generalizes the multi-layer perceptron in the classical transformer . We show that a transformer employing this nested sparsity mechanism, which we call Nestor, performs better than a conventional MoE transformer at equal compute and equal sparsity in language model pretraining .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.31818",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-27T04:48:55.471059Z"
+    },
+    {
+      "id": "3650dee53eb74c7b218cfac614422dc7",
+      "title": "Efficient Omni-modal Large Language Model Inference via Per-Query",
+      "description": "Omni-modal large language models (Omni-LLMs) can jointly process a broad range of modalities, such as text, audio, and video . We observe that the benefit of additional modalities varies across queries, indicating that a fixed modality configuration can be inefficient . We formulate the problem as an accuracy-cost optimization problem . We develop a cost-sensitive learning approach for modality selection .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.31768",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-27T04:48:41.712639Z"
+    },
+    {
+      "id": "aab16b771856fabf3a40cf1bfab9d320",
+      "title": "The hottest AI wearables and gadgets you should",
+      "description": "Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. Buy one Founder Summit ticket, get a second for free. Register now. The LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters will be on TechCrunch.com on October 25, October 25 and October 25 . This summary highlights key aspects",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849",
+      "fullArticleLink": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-27T04:47:33.973958Z"
+    },
+    {
+      "id": "71c43854f4ff116510cbaf1cf0b73734",
+      "title": "AI delivers \u2018zero financial payoff\u2019 to most companies",
+      "description": "Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. Buy One Founder Summit ticket, Get a Second for Free. Register now. Disrupt: Disrupt 2026 is now open October 13. The event will be held in New York City, Washington, D.C., New York, New York and San Francisco. For more information, visit http://www.techcrunch.com/disrupt-2026. This",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-27T04:47:16.259237Z"
+    },
+    {
+      "id": "8cbd8d09602ba622591fbf057d4ebdd0",
+      "title": "Cohere says Alibaba\u2019s Qwen model tried to send",
+      "description": "Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. Buy One Founder Summit ticket, Get a Second for Free. Register now . LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters . Latest in the news: Alibaba\u2019s Qwen3,Next-Next-8-Flash, Qwen:12:12 . This summary highlights key aspects of the latest developments. Industry analysts suggest that this trend could reshape current practices",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-27T04:46:59.214736Z"
+    },
+    {
+      "id": "cb685d5b4cbcc16ac9db7635362d00a9",
+      "title": "OpenAI turned its coding tools into dots",
+      "description": "Get your pass and bring someone with you at 50% off at Disrupt 2026 . Buy One Founder Summit ticket, Get a Second for Free. Disrupt doors open Oct. 13. The Instinct AI personal assistant, which keeps working in the even when you aren\u2019t asking it to, is this year\u2019s answer to how people will actually use deep learning models. The Muse Muse AI assistant is the force behind its marketing assistant, Muse .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-27T04:46:41.964367Z"
+    },
+    {
       "id": "7fe385c2b28e9569e542850c02b54824",
       "title": "Wall Street's fastest traders are building data centers",
       "description": "High-frequency traders like Jane Street and Hudson River Trading are now racing each other for AI computing power . The biggest firms are spending billions on cloud contracts, startups, and their own data centers . One executive estimates that compute spending is now ten to twenty times higher than it was before ChatGPT launched . Jane Street invested $1 billion directly in CoreWeave and committed $6 billion to its computing services . Hudson River spends $1billion a year on AI, according to AI chief Iain Dunning .",
@@ -15352,226 +15551,6 @@
         "LLM"
       ],
       "pubDate": "2026-07-19T13:45:24.349124Z"
-    },
-    {
-      "id": "79d8b4a4dd4a2ba21720e772f4c5419a",
-      "title": "Google Deepmind argues video generators already contain",
-      "description": "Google Deepmind's GenCeption repurposes a video generator for classic vision tasks such as depth estimation and segmentation . The model trained almost entirely on synthetic videos . Its results add to the debate over whether video generators already contain a kind of universal world model . The results add . to the question over whether the world models computer vision has been missing in the past have been missing, says Google DeepMind .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/google-deepmind-genception-generated-image-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-19T13:45:13.346365Z"
-    },
-    {
-      "id": "4825e3c5a1920e1eacc85cf4c92e2c9d",
-      "title": "Alibaba's Qwen takes on Kimi K3 with open-weight",
-      "description": "Alibaba has unveiled Qwen 3.8, its latest open-weight model with 2.4 trillion parameters . The Qwen team says it matches frontier models and trails only Fable 5 . A preview is available through Alibaba's Token Plan, Qoder, and QoderWork at 10 percent of the standard price . Qwen's push is likely partly aimed at disrupting Kimi K3's momentum . Moonshot AI plans to go public in as little as six months .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
-      "fullArticleLink": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-19T13:44:59.306915Z"
-    },
-    {
-      "id": "bb03fb42eb3d8c90fa90c3cedbd175fc",
-      "title": "Moonshot\u2019s upcoming Kimi 3 is expected to close",
-      "description": "Kimi K3 will be the largest open-weight AI model from China, with a parameter count between 2 trillion and 3 trillion . Moonshot AI is said to be raising fresh capital in a round that would valuate it at $31.5 billion . The news comes amid a fresh debate on the value of paying AI labs for their expensive, closed-source models . Industry leaders fear that AI labs will somehow manage to extract the data their clients submit for use with their AI products .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-19T13:44:38.789529Z"
-    },
-    {
-      "id": "99dfba78ed41fb5fd10a16089e02d672",
-      "title": "AMI Labs\u2019 Alexandre LeBrun won't call his",
-      "description": "AMI Labs\u2019 Alexandre LeBrun won't call his AI &#8216;AGI' or superintelligence' or \"superintelligence\" Lebrun: \"We never used the word AGI. And I just noticed that nobody is using it anymore; they switched to superintelligence\" \"There's no good definition. What is superintelligence? I don't know. It's not a very useful word,\" he said . This summary highlights key aspects of the",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OFF08112.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-19T13:44:23.459227Z"
-    },
-    {
-      "id": "bf27aeddf3529c91b301aa53f68fd82c",
-      "title": "How a former DeepMind researcher raised",
-      "description": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product . Andrew Dai left Google DeepMind knowing visual AI was the frontier he wanted to stake his claim in . He explains why he prioritized strategic partners like Nvidia and Menlo Ventures over even higher valuation offers . The conversation also offers practical lessons for founders navigating today's rapidly evolving AI landscape . Subscribe to Build Mode on Apple Podcasts, Spotify, YouTube or Apple Music .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/BMs3e2-featured-pic.png?resize=1200,675",
-      "fullArticleLink": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-19T13:44:07.875496Z"
-    },
-    {
-      "id": "bcfaf7641bb6fc8b33100b2f944a9943",
-      "title": "Why is OpenAI selling a ChatGPT basketball basketball?",
-      "description": "OpenAI is selling a ChatGPT basketball for $70 . It's a 100% rubber ball, which is a better fit for outdoor play due to its weather resistance . The basketball will cost you $70, or about 56 million input tokens for GPT-5 . Alongside that $70 artifact, the AI company is also selling a line of merch with inspirational reminders, like \"Good research takes time\" Amanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-basketball.jpg?resize=1200,675",
-      "fullArticleLink": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-19T13:43:51.585592Z"
-    },
-    {
-      "id": "b5237ebb8981563de8db578276c0e75e",
-      "title": "DoorDash can now order DoorDash from the command",
-      "description": "DoorDash has introduced a command-line tool for developers that lets you order DoorDash directly from your AI agent . The tool can be used to search stores, find deals, and check out, the company says . DoorDash is exposing its ordering platform to AI agents, allowing developers to add functionality to their own software and services . The launch has a bit of humor to it, as it recalls an old XKCD comic about programmers automating ridiculous tasks .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/01/dasher_ps_horiz_5.jpg?w=1200",
-      "fullArticleLink": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-07-19T03:42:35.946077Z"
-    },
-    {
-      "id": "c3261b8580a42634b7e0388eaf8ca805",
-      "title": "Google\u2019s AI Mode now lets you link",
-      "description": "Google's AI Mode now lets you link and interact with select apps . At launch, supported apps include Instacart, Canva, and YouTube . Google says it's working with a range of partners and plans to launch support for more apps soon . The update is rolling out to users in the U.S. Google also recently added the ability for users to explore the web side-by-side with AI Mode to do things like compare details and ask follow-up questions .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-07-19T03:42:19.099279Z"
-    },
-    {
-      "id": "0699caaab6d76b8b394918cf6d46c73d",
-      "title": "Roblox launches an AI-powered game-creation feature in its",
-      "description": "Roblox launches an AI-powered game-creation feature in its mobile app . The new feature called \"Build\" allows users to design games from their mobile devices using AI . The Build feature will enter public alpha testing on July 28, available to users in New Zealand aged nine and older who have verified their age . The company is also working on developing AI agents that will assist creators in playtesting and providing analytics .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Roblox-Build-feature.jpeg?w=1200",
-      "fullArticleLink": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-19T03:42:03.063264Z"
-    },
-    {
-      "id": "0a1bc8bb93d46198e086d18e3afb2b6d",
-      "title": "Apple\u2019s big lawsuit could disrupt OpenAI's IPO plans",
-      "description": "How Apple's big lawsuit could disrupt OpenAI's IPO plans . Apple filed a trade secrets lawsuit against OpenAI last Friday . TechCrunch's Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O'Kane dig into what the lawsuit could mean for OpenAI . How much should anyone trust AI companies with their data? Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-19T03:41:47.646742Z"
-    },
-    {
-      "id": "0184cf98041ba6c75b2f1530e5237c45",
-      "title": "AI-driven memory crunch jolts India\u2019s smartphone market",
-      "description": "India saw smartphone shipments fall 10% year-over-year in the April-June quarter . Higher memory costs have had the biggest impact on prices, says Counterpoint Research . India has been hit harder because 60% of its smartphone market is concentrated in the sub-\u20b920,000 (under $210) segment . Samsung was the only major smartphone brand to post shipment growth in India in Q2 . China's smartphone market share fell to its lowest level since 2020 .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/samsung-india-tariffs-2227140805.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-19T03:41:31.110284Z"
-    },
-    {
-      "id": "5814ee1085b0a3fa6d7a9c4016bd2191",
-      "title": "Agility Robotics plants its flag in Tesla\u2019s backyard",
-      "description": "Agility Robotics is opening a 60,000-square-foot facility to train its humanoid robots in Fremont, California . The company says it has secured $300 million in contract orders for its robots . The new facility will be where the six-foot-tall robot learns new skills in environments similar to those it will experience in the field . The robot Digit is already generating revenue, carrying totes and bins in manufacturing and warehouse settings .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479.jpg?resize=800,1200",
-      "fullArticleLink": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-19T03:41:15.044779Z"
-    },
-    {
-      "id": "2a6c589fb12f2c5ad2066d8f70eff45e",
-      "title": "Databricks hits $188B valuation, extending its run",
-      "description": "Databricks hits $188B valuation, extending its run as AI's favorite second act . VC tells TechCrunch that the deal is solid, with so many firms wanting in that the company had no reason to keep its shiny new valuation a secret . Founded in 2013, it initially grew to success back in the big data era, with software that enabled enterprises to store enormous amounts of data in the cloud, yet produce speedy analytics . It is a champion of Zai's GLM 5.2 as a model for coding .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-19T03:40:57.461187Z"
-    },
-    {
-      "id": "2d9cc2c8c02bf709e6b81bf824a2d0e3",
-      "title": "Vertu wants executives to pay $6,880",
-      "description": "Vertu wants executives to pay $6,880 for an AI agent \u2014 here's how it actually performs . The Alphafold, a foldable phone, targets affluent buyers, particularly chief executives . At the heart of the device is a pre-installed AI agent built on top of the Hermes project, which the company says can analyze files, automate tasks across apps, remember conversations, and hand off requests to a human concierge when needed .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-unfold.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-19T03:40:39.864176Z"
-    },
-    {
-      "id": "5d2b0c79af659e42300d3afbc3ef1be3",
-      "title": "Neil Rimer thinks the AI money is coming",
-      "description": "Neil Rimer thinks the AI money is coming back out . He thinks tech leaders \"can play a leading role in seeing that through\" The Giving Pledge, the promise Warren Buffett and Bill Gates launched in 2010 to get billionaires to commit half their fortunes to charity, is becoming increasingly irrelevant . Total American charitable giving hit a record $592.5 billion in 2024, but the number of Americans actually giving has fallen for five straight years .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-9.20.56-PM.png?resize=1200,739",
-      "fullArticleLink": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-19T03:40:24.332099Z"
     }
   ]
 }
