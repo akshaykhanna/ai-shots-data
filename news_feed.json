@@ -1,6 +1,212 @@
 {
   "news": [
     {
+      "id": "cba8a6caf7d4b0e265035a06d968483b",
+      "title": "Simulated petrological labels enable probabilistic mineralogy prediction",
+      "description": "Modal mineralogy, the mineral identities and abundances in rocks, guides geological studies and industrial resource extraction . But predicting mineralogy from elemental data poses a one-to-many inverse problem, and labeled mineralogical datasets are too sparse to train on at scale . Nearly one million simulated labels supervise the middle component of a three-part model . Recalibration fit on as few as 25 labeled rocks recovers 76 percent of the likelihood improvement from fitting on the full 368-rock fitting set .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.36429",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-28T05:27:08.001847Z"
+    },
+    {
+      "id": "55b0c67f10bf3b71da077cc57057758c",
+      "title": "Instruction Capacity: Behavior and Degradation of Language Models",
+      "description": "The quality with which language models follow instructions falls as the load grows, yet there is still no quantity that expresses the limit of a model in units of load with an uncertainty . We propose an instrument in which the load consists of rules that replace single-token words in a text without meaning . Every occurrence of a word to be replaced becomes a Bernoulli trial with a known position in the answer and a known rule number . A measurement of GPT-4o mini gave regular laws for every load factor and for the collapse of the answer .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.36095",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-28T05:25:33.445155Z"
+    },
+    {
+      "id": "c0268ae09f4307e71c24eda26ba4b414",
+      "title": "How Much Does the Hint Matter? Scope Conditions",
+      "description": "On-policy distillation narrows gaps by supervising a student on its own rollouts . Traditional OPD requires a strong external teacher, and on-policy self-distillation (OPSD) conditions on a full reference solution . With Fin-SD, general reasoning on MMLU-Pro and a fourteen-metric compliance audit on FinTrust show no material regression . We find the gain comes from where supervision is applied, not hint content, and the model writing the hint does not need to be stronger .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.36082",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-28T05:25:19.858782Z"
+    },
+    {
+      "id": "c81414d92cf4b6331b8b8ff2c617cbfa",
+      "title": "Multiple Leak Localization in Water Distribution Networks through",
+      "description": "Leak localization in water distribution networks is challenging when multiple leaks occur simultaneously . Existing data-driven methods often assume a single or predefined number of leaks . This study proposes a graph neural network (GNN) model that localizes a variable number of simultaneous leaks without specifying the leak count in advance . The GNN outperforms multilayer perceptron, support vector machine, K-nearest neighbors, and random forest classifiers by up to 12% and 20% in accuracy respectively in Hanoi and NET3 networks .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.35972",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-10-28T05:24:44.061601Z"
+    },
+    {
+      "id": "e690dbf04c1b4f19289fe36716be264a",
+      "title": "Generalization in Learning: Eyring Formula and Predator-prey Model",
+      "description": "In this work, generalization in machine learning is investigated using a predator-prey model . We overview biological and chemical interpretation of the stochastic gradient Langevin dynamics and generative adversarial network . For a particular example of recovering an unknown function by a polynomial of fixed degree from a set of noisy data, the predator-predator model provides better approximation compared to the gradient descent method . Further, thermodynamical arguments, in particular Eyring formula, are used to explain grokking (delayed generalization) phenomenon .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.35965",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-28T05:24:32.284923Z"
+    },
+    {
+      "id": "c49f8de238dbbf5e430d22fe2d8ae87a",
+      "title": "Condition-Enhanced Generative Adversarial Network for Aerodynamic Configuration Design",
+      "description": "A condition-informed loss function is developed by combining a geometry-guided feasibility penalty with an aerodynamic performance penalty evaluated by surrogate models trained on the same dataset . CEGAN reduces the average generation error by at least 36% for interpolated conditions, while successfully producing diverse and physically feasible designs that extend beyond the training distribution . The method is demonstrated on aircraft configurations similar to the Cessna Citation X. Each configuration is represented by 28 shape parameters, whose aerodynamics performance is evaluated using OpenVSP .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.35963",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-10-28T05:24:20.057110Z"
+    },
+    {
+      "id": "4bc2e87a7a2e4fd357219dd31bc09d9f",
+      "title": "KORA: Deterministic-First Execution Control for AI Workloads",
+      "description": "AI applications often invoke a model before they determine whether it is necessary . KORA introduces a pre-inference control layer that attempts deterministic or structured routes first, validates route outcomes, records telemetry, and escalates to a model-candidate path only when deterministic handling is insufficient . The results support bounded model-invocation reduction and validation visibility in documented workloads, but do not establish production behavior, real-provider outcomes, energy outcomes, API-cost reduction, or broad superiority .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.35869",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-28T05:23:19.046604Z"
+    },
+    {
+      "id": "12beb238931c19fa5c8da3dc91a2c044",
+      "title": "Anthropic Flags Gas Supply as One of Its",
+      "description": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks . The data center gas buildout could drive prices higher in some regions . Anthropic has traditionally relied on renting compute from major cloud service providers . Amazon, Google, Microsoft, and SpaceX are specifically named in the IPO . The company has moved in recent months to directly lease and develop data centers in a bid to lessen its reliance on other tech giants and more directly control its own data centers .",
+      "imageUrl": "https://media.wired.com/photos/6ae0a917b092bac6ae652e82/191:100/w_1280,c_limit/102626_Anthropic%20Gas%20S1.jpg",
+      "fullArticleLink": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-28T05:22:59.930802Z"
+    },
+    {
+      "id": "a254656adb19c95516ed017f313e0d20",
+      "title": "Anthropic Says It Will Revolutionize Biology\u2014Some Day",
+      "description": "Anthropic's IPO filing taps the brakes on just how fast its AI will lead to big discoveries . The company says its teams \u201cneed first-hand experience doing scientific research and drug discovery\u201d and that its life sciences activities will require it \u201cto engage in activities outside our historical experience as a software and research organization\u201d Anthropic also toned down its language about its discovery of a \u201cCrispr-like\u201d enzyme by Claude in September .",
+      "imageUrl": "https://media.wired.com/photos/6ae0b0627e979e34b657973e/191:100/w_1280,c_limit/102726-Anthropic%20Bio.jpg",
+      "fullArticleLink": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-10-28T05:22:42.976466Z"
+    },
+    {
+      "id": "fc5f9bdbfc14bb07aaa48b90d7572eb8",
+      "title": "Disruptive raises $10B fund to make big bets",
+      "description": "Dallas-based investment firm Disruptive announced Tuesday that it was seeking to raise $7.5 billion in capital . Disrupt 2026 events include Airbnb, Palantirir, Palirantir, Spotify and Spotify . Buy One Founder Summit ticket, Get a Second for Free. Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW. This summary highlights key",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-28T05:22:24.075478Z"
+    },
+    {
+      "id": "0ec9dae75184d61048cbbb8e4acbf566",
+      "title": "Anthropic is set to go public this week",
+      "description": "Anthropic was founded in 2021 to ensure humanity can benefit from it in corporate governance . Anthropic's obsession with AI has resulted in a style of corporate governance that will truly be in a truly corporate barqueque style . TechCrunch Disrupt doors open Oct. 13. Buy One Founder Summit ticket, Get a Second for Free. Get your pass and bring someone with you at 50% off. REGISTER NOW.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2151610601.jpg?resize=1200,799",
+      "fullArticleLink": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-28T05:22:06.257246Z"
+    },
+    {
+      "id": "e36bd78a13d63ead3fa4873e50c5c7a7",
+      "title": "Bank of America kindly asks that you don\u2019t",
+      "description": "Bank of America is reminding customers to not share their online banking password with your AI assistant . Bank America urged customers to never share their username and password with their Al-enabled tool or an outside service . Bankers are increasingly handing over-in-the-privacy logins over-sharing their over--anonymized logins . Banker Zack Whittittler asks that you don't share your online banking logins with your assistant .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-28T05:21:47.812380Z"
+    },
+    {
+      "id": "5ac9e6d4ee78e6eb5b5fa26640f53c78",
+      "title": "The data center boom has an upside: innovation",
+      "description": "Get your pass and bring someone with you at 50% off at Disrupt 2026 . Buy One Founder Summit ticket, Get a Second for Free. Disrupt doors open Oct. 13. Buy one Founder Summit Ticket, Get your Pass for free. Get your ticket and bring a friend with you to the Disrupt Summit. REGISTER NOW. The Summit will take place at 3:55 PM October 27. Lucas Ropuan Rekuan: The US data center boom has an upside for innovation for the US grid .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-28T05:21:27.824979Z"
+    },
+    {
+      "id": "092cb86201fbae8855684b309656e83c",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter",
+      "description": "Get your pass and bring someone with you at 50% off at Disrupt 2026 . Buy One Founder Summit ticket, Get a Second for Free. Disrupt doors open Oct. 13. Get your ticket and bring a second for free. Register now. Get the ticket and a second to try and win the TechCrunch TechCrunch Mobile app. Use the weekly TechCrunch Newsquiz to test your knowledge of stories you saw on CNN TechCookie.com .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-28T05:21:09.270596Z"
+    },
+    {
+      "id": "c372745ec78a06e5fdda6ce7934d75c2",
+      "title": "VCs will make billions on Anthropic\u2019s IPO, but",
+      "description": "Get your pass and bring someone with you at 50% off . Buy One Founder Summit ticket, Get a Second for Free. Disrupt doors open Oct. 13. Get your ticket and bring a second for free. Buy one Founder Summit Ticket, Get Your Pass at Disrupt 2026. REGISTER NOW. For more information, visit http://www.disrupt.com/techcrunch-site-search-open . This summary highlights key aspects",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "fullArticleLink": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-28T05:20:50.746418Z"
+    },
+    {
       "id": "d629e85e9e7c385a19399cdbe193f143",
       "title": "Meta gets $3 billion from Nvidia and plans",
       "description": "Nvidia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware . AMD and Broadcom also signaled nonbinding interest in buying up to $5 billion in Meta shares combined . The deal fits a pattern investors have been arguing about for months . Nvidia gives money to customers like OpenAI, which then use it to build data centers packed with Nvidia chips . Critics say this circular financing could hide how much real demand exists .",
@@ -15375,190 +15581,6 @@
         "Security"
       ],
       "pubDate": "2026-07-21T14:19:00.706396Z"
-    },
-    {
-      "id": "fc3517380a85e2fd5273cbf3b556fa6b",
-      "title": "Normalized Rewards for Preference Optimization are normalized",
-      "description": "Direct Alignment Algorithms (DAAs) have been observed to over-optimize their implicit reward model and decrease the likelihood of preferred responses . We find that a significant portion of the likelihood changes are due to a small set of outlier tokens . We apply the proposed regularization to reference-based (DPO) and reference-free (SimPO) methods and find (1) improved trade-offs between generation quality and general benchmark capability and (2) improvements in reward modeling across datasets .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.16240",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-21T14:18:47.230171Z"
-    },
-    {
-      "id": "eaf3ca5d9f33ae1530aa9f801d28ca71",
-      "title": "BACON: Budgeted Human Calibration for Modeling and Evaluation",
-      "description": "AI judges offer a scalable, low-cost alternative to human evaluation, but their outputs can be biased relative to human preferences . We propose BACON, a four-stage pipeline that combines budgeted human calibration with multiple AI-judge outputs to produce more accurate annotations . The pipeline constructs full-coverage auxiliary features for every item . It then collects human labels for a small sampled subset and trains a cross-fitted outcome model to generate calibrated item-level surrogate predictions .",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.16239",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-21T14:18:34.702479Z"
-    },
-    {
-      "id": "86c89c4070bb58d6a5a34419f4c7c6ee",
-      "title": "OpenMHC: Accelerating the Science of Wearable Foundation Models",
-      "description": "OpenMyHeartCounts (OpenMHC) is the largest and most comprehensive open-access wearable health dataset to date . OpenMHC, derived from over a decade of data collected through the My Heart Counts study app, includes >60 million hours of wearable data across 19 sensor channels and up to 169 linked variables . By open-sourcing data, code, and model weights at this unprecedented scale, we aim to democratize wearable health AI research .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.16235",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-21T14:18:22.666631Z"
-    },
-    {
-      "id": "bf2ef62730df1952eefea68baa717fe5",
-      "title": "Transformer with Contrastive Multi-Task Learning for Breast Cancer",
-      "description": "Integrating heterogeneous genomic and clinical modalities for joint cancer subtype classification and survival prediction remains a key challenge in precision oncology . Existing approaches suffer from three limitations: (1) they treat each modality as a monolithic feature vector, precluding fine-grained token-level interactions across modalities . (2) cross-modal fusion is typically performed through linear weighting or late averaging rather than structured token exchange . (3) survival and classification objectives are optimized independently, missing a joint regularization signal .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.16233",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-21T14:18:10.454322Z"
-    },
-    {
-      "id": "cc7e03f547e8615f23d254b3b6cb662a",
-      "title": "Nvidia's grip on AI chips weakens as Microsoft",
-      "description": "Anthropic is also testing AMD hardware, putting more pressure on Nvidia's pricing power . Microsoft is expanding its AI infrastructure with AMD's new Helios platform, which is set to challenge Nvidia's AI systems in the second half of 2026 . Anthropic may follow, putting pressure on the price of AI chips from Nvidia and Anthropic . The company is expanding on its cloud-based cloud computing platform with its new AI software .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/amd_logo_wall_blue.png",
-      "fullArticleLink": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-21T03:37:48.870929Z"
-    },
-    {
-      "id": "36b8813db81a971e30f5f102ff6bb812",
-      "title": "District 9 director Neill Blomkamp releases first short",
-      "description": "\"District 9\" director Neill Blomkamp releases first short film made entirely with AI video generation . \"Nightborne\" is a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model . Director directed frame by frame through text prompts and founded a new AI film studio, Barley Studios, to produce a full-length feature next . The film is the first of its kind .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/NIGHTBORNE-\u2014-A-Neill-Blomkamp-Sci-Fi-Film.-Fully-AI-4K-10-40-screenshot-1200x675.png",
-      "fullArticleLink": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-21T03:37:36.676106Z"
-    },
-    {
-      "id": "aa2345813d33fc9356e8759c4476ae70",
-      "title": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture",
-      "description": "Google is developing \"Frozen v2,\" a server chip that bakes Gemini architecture directly into hardware . According to internal sources, it could be 6 to 10 times more efficient than current TPUs . Scheduled for 2028, the chip would drastically cut Google's AI inference costs . It could give the company a price advantage over OpenAI and Anthropic, sources say . The chip is scheduled to be released in 2028 .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-2.png",
-      "fullArticleLink": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-21T03:37:24.796903Z"
-    },
-    {
-      "id": "61d13d1985062617ab71fb35ad23d2cb",
-      "title": "China's AI models have Trump\u2019s AI world",
-      "description": "Free AI models from China have been seen as a wake-up call for President Donald Trump . Kimi and other Chinese models like it pose a real problem for Trump . They're dividing the top AI strategists in his orbit into factions . Every time a new smart, free model from China like Kimi gets released, US companies see less reason to fork out money to access models from Anthropic or OpenAI .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2194586709.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-21T03:37:06.666179Z"
-    },
-    {
-      "id": "10a3cf62b19960016db775b408f0a463",
-      "title": "Kolmogorov--Arnold Networks for Small Language Models . Kolm",
-      "description": "Kolmogorov--Arnold Networks replace fixed node activations with learned one-dimensional edge functions . Pruning the lowest-activity 20--25\\% causes negligible loss increase, although structured MLP neuron pruning tolerates comparable sparsity . The audit replicates on BabyLM, but grid-size sweeps show that near-total fPCA compression and high closed-form-fit coverage are properties of the low-capacity grid-2 basis . This summary highlights key aspects of",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.15525",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-21T03:36:53.186897Z"
-    },
-    {
-      "id": "edb93876e73ddbb49d8722eda67df53c",
-      "title": "Recursive Harness Self-Improvement is a form of self-improvement",
-      "description": "Under model--harness co-evolution, harnesses are not merely inference-time scaffolds but data-generating components whose execution traces can shape future foundation models . Recursive Harness Self-Improvement (RHI) represents the harness as a prompt-level specification of the agent loop and iteratively refines it using pairwise feedback over its own revision history . We show that these gains arise primarily from improved task-specific context management through more effective inter-agent information flow rather than longer reasoning traces .",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.15524",
-      "type": "news",
-      "categories": [
-        "Robotics"
-      ],
-      "pubDate": "2026-07-21T03:36:40.882056Z"
-    },
-    {
-      "id": "2c3933f54fdea58049423e79dcacf359",
-      "title": "Cache-Aware Prompt Compression: A Two-Tier Cost Model",
-      "description": "Cache-Aware Prompt Compression (CAPC) pairs query-agnostic compression with explicit cache_control plus a tier-preserving ratio bound that prevents over-compression from pushing the cached prefix into the hot tier . CAPC is the cheapest strategy in 16/16 configurations on LongBench-v2, with mean savings of 49% over cache-only, 64% over query-aware compression, and 90% over vanilla . This summary highlights key aspects of",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.15516",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-21T03:36:27.874022Z"
-    },
-    {
-      "id": "bfbb4ebade235c18d9ed78fb0728f0f4",
-      "title": "Inpainting Insights: Elevating Visual XAI with Photorealistic Pert",
-      "description": "The increasing complexity of machine learning models has made their behavior progressively harder to interpret . Among many methods proposed, perturbation-based approaches play a major role . We achieve photorealistic perturbed samples that align better with the original data distribution and enhance explanation quality . We adjust LIME, a widely used perturbated method, to demonstrate how generative inpainting can improve perturbations-based explanations for images .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.15482",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-21T03:36:17.835701Z"
-    },
-    {
-      "id": "5a614545bb23c630b5e6d10d5696af3f",
-      "title": "Who Became Financially Vulnerable After COVID-19? A Population-Level",
-      "description": "The cost of healthcare remains a concern in the United States and may have been influenced by disruptions associated with the COVID-19 pandemic . Financial vulnerability was strongly associated with poverty status, insurance coverage, and prescription drug spending . Subgroup analyses indicated persistent disparities across population groups, with some evidence of increased burden among vulnerable populations in 2021 . The results may support future population health surveillance, risk stratification, and healthcare policy research aimed at reducing financial barriers to care .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.15446",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-21T03:36:06.345344Z"
-    },
-    {
-      "id": "8c567becca10d9f9ea3fccc43b0576b2",
-      "title": "From hyperplanes to hyperellipsoids: characterizing the inherent interpretability",
-      "description": "A side by side comparison reveals that a single qubit mixed state model for binary classification is just the ``ellipsoid version\" of standard linear model classification . This short characterization offers an accessible route to quantum machine learning (ML) ideas for readers who have zero background in quantum and are only familiar with linear classification in ML . We encourage instructors to utilize this piece to smoothly introduce quantum ML ideas into the undergraduate ML classroom .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.15433",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-21T03:35:55.900857Z"
-    },
-    {
-      "id": "272130dc4b4c6c7e592dd1a927d3e544",
-      "title": "Kimi K3 open-weight model: China\u2019s biggest",
-      "description": "Moonshot AI's Kimi K3 open-weight model has been read almost entirely through its parameter count since it&#160;launchedon July 16 . At 2.8 trillion parameters, it is the largest open-weights model released to date . Model sizes are usually grouped into rough brackets, and 2 .8 trillion rounds into what the industry calls the 3T class . A tier no. no.",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/hq720.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-20T14:31:30.343519Z"
     }
   ]
 }
