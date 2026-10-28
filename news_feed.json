@@ -1,6 +1,210 @@
 {
   "news": [
     {
+      "id": "881931614d95173e4b3e4783db980683",
+      "title": "Anthropic is maker of arguably the most capable",
+      "description": "Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach went . The incident shows how vulnerable even leading AI labs are through their external software dependencies . Anthropic is maker of arguably the most capable AI models for cyberdefense . Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program . The breach shows how well-equipped AI labs can be vulnerable through external software .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/claude_hack-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
+      "type": "news",
+      "categories": [
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-28T18:24:24.850686Z"
+    },
+    {
+      "id": "ca3dc34636ad80ea726cdff2366e2aa1",
+      "title": "With AI writing the code, entrepreneurial thinking",
+      "description": "Anthropic manager Felix Rieseberg says the classic coding interview is dead because Claude now solves small programming tasks better than job candidates do . He'd rather see prototypes that show taste, empathy, and principled thinking, since in his words, \"hunger beats tenure\" That sounds empowering, but it pushes the bar for newcomers toward entrepreneurial thinking . It assumes a hustle mentality not everyone brings to the job, not everyone has .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_rocket-1.png",
+      "fullArticleLink": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-28T18:24:16.304192Z"
+    },
+    {
+      "id": "b8d4605db88753b37e2d4c9c197896d9",
+      "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation",
+      "description": "Nvidia has released Nemotron 3.5 Transcribe, an open speech recognition model . It handles transcription, speaker recognition, and translation and takes its instructions as text prompts . It leads several benchmarks and uses only a sixth of the active parameters of its strongest open rival . Nvidia is also shipping a dataset with more than 800,000 hours of speech, along with tools for fine-tuning . It uses only six of the parameters of a rival .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+      "fullArticleLink": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-10-28T18:24:07.501450Z"
+    },
+    {
+      "id": "1cdf17b1f6dc81076bd0e09e4d96de56",
+      "title": "Claude for Legal now verifies sources automatically, then",
+      "description": "Anthropic is adding pre-built templates to Claude for Legal . These interactive overviews and tables simplify setup for legal teams and speed up routine work like contract reviews . More than 60 integrations let firms connect their own databases directly . The article now verifies sources automatically, then hands the file to a lawyer . The Decoder.com will be available in the U.S. on January 1, 2015. For more information, visit www.decdecades.com/decade/Claude-for-Legal.com .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/claude_Legal-1.png",
+      "fullArticleLink": "https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-28T18:23:58.328915Z"
+    },
+    {
+      "id": "5124dd287040b34858b9302a42afb3c8",
+      "title": "OpenAI teases Dots for Europe, but its Berlin",
+      "description": "AI assistant Dots should roll out more widely in Europe \"in a few weeks,\" says OpenAI . Dots users in Germany have grown twentyfold since January . OpenAI wants developers to build their businesses directly on its infrastructure . A clear subtext ran through the sessions and the repeated nods to ChatGPT's 1.2 billion weekly users: OpenAI want developers to use Dots to build businesses on its platform .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/OpenAI-DevDay-Exchange-2026.png",
+      "fullArticleLink": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-28T18:23:50.009766Z"
+    },
+    {
+      "id": "0d9f957bd92e5ee00d69600694b638cc",
+      "title": "Google opens Android development to third-party AI agents",
+      "description": "Google is opening up Android Studio to third-party AI agents . New terminal tools help agents finish UI tasks 77 percent faster while using up to three times fewer tokens . The \"Bring Your Own Agent\" feature now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex . Android development is becoming agent-centric too, with new terminal tools also helping agents finish tasks 77% faster .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/Android-Robot-Logo-Background-Nano-Banana-Pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-28T18:23:41.589641Z"
+    },
+    {
+      "id": "2b0a5d044d7f5155df8bc743590ed518",
+      "title": "Pairing industrial AI autonomy and human control",
+      "description": "Living digital twins are helping industrial plants run more like living systems . They provide a previously missing layer of visibility and orchestration that better reflects the organic rhythms of the facility itself . Agentic AI is enabling industrial systems to move beyond diagnostics or suggestions and act of their own accord . As the technology progresses toward greater autonomy, it\u2019s starting to develop the reflexes for a kind of industrial homeostasis, in which small, constant adjustments keep a plant healthy and humming .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2264572193.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-10-28T18:23:26.968065Z"
+    },
+    {
+      "id": "bba538831c2c201373f27cdabcddd695",
+      "title": "NextEval: An Agent-Based Solver and Benchmark for Derivative",
+      "description": "Derivative-free optimization (DFO) addresses problems where derivatives are unavailable or costly to obtain . The NextEval solver is an agent-based DFO solver that integrates the capabilities of a large language model (LLM) to guide the sequential selection of evaluation points . Numerical results on low-dimensional DFO problems demonstrate that the NextEeval solver outperforms state-of-the-art DFO baselines in function-evaluation efficiency .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.36553",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-28T18:23:08.826982Z"
+    },
+    {
+      "id": "6fc88d6b5841891236f884a66ca7fc2c",
+      "title": "Folding Attention Biases into Keys makes Compacted KV",
+      "description": "Attention Matching (AM) compacts a KV cache by keeping some keys per head, refitting their values and adding a bias to each kept key's logit . We fold the bias into the keys along one closed-form direction per head . The output error is bounded by how far each query's projection on that direction is from 1 to 1 . With equal budgets on QuALITY and LongHealth, the fold is within noise of AM's accuracy in 13 of 14 settings, with lower KL to the full cache than dropping the bias in all 12 where both ran .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.36520",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-10-28T18:22:59.264242Z"
+    },
+    {
+      "id": "f10f5337801689b6484e1e421cb7a1a1",
+      "title": "AI Emergency Alerts are coming. Humans might not",
+      "description": "Chatbots can help emergency managers communicate about disasters with the public . They tend to write in jargon that non-experts might not understand, leave out information on the assumption that the public already knows it, experts say . Chatbots are already being marketed to emergency managers for tasks like flood damage assessment and resource coordination . As climate disasters become more frequent, there have been numerous examples of flawed human communication scrambling an emergency response .",
+      "imageUrl": "https://media.wired.com/photos/6ae1120223d445186a16d911/191:100/w_1280,c_limit/ai-weather-alerts-emergency.jpg",
+      "fullArticleLink": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-28T18:20:29.919188Z"
+    },
+    {
+      "id": "4de33f2bccf585e4efdf418c7ba6e1d2",
+      "title": "Nvidia releases new open transcription model for voice-autics",
+      "description": "Nvidia released Nemotron 3.5, a free, open-weight audio model that transcribes up to 40 languages . Nvidia says developers can use the model to target developers building apps for business meetings and medical apps for medical apps . Nvidia also released 2.5 version of Granary Granary, an open source speech dataset . Get your pass and bring someone with you at 50% off at Disrupt 2026 .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600",
+      "fullArticleLink": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-28T18:20:15.952762Z"
+    },
+    {
+      "id": "a25dd0954befb28c4ebae1ed2b75105a",
+      "title": "South Korea\u2019s financial industry hit by fresh wave",
+      "description": "Get your pass and bring someone with you at 50% off at Disrupt 2026 . Buy One Founder Summit ticket, Get a Second for Free . Disrupt doors open Oct. 13. Disrupt: South Korea\u2019s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of growing AI-driven hacking in Asia . The latest incidents affect brokerages Dainish Securities and Global Investments, as well as the crypto exchange .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/05/south-korea-money-growth.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-28T18:20:02.522795Z"
+    },
+    {
+      "id": "b01917f8b2b42f5c6fbffcb2c4ffbeed",
+      "title": "AI execs may be too out of touch",
+      "description": "Get your pass and bring someone with you at 50% off at Disrupt 2026 . Buy One Founder Summit ticket, Get a Second for Free. Disrupt doors open Oct. 13. Get your ticket and bring a friend with you to the summit. Register now. Get a second ticket to the Disrupt Summit for $100, 50% less. For more information, visit TechCrunch.com/disrupt2026 .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
+      "fullArticleLink": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-28T18:19:49.748093Z"
+    },
+    {
+      "id": "7fbbcf0aac9e91420152d438ff28f0bc",
+      "title": "Google opens Gemini and Search to more apps",
+      "description": "Google's Connect Apps Platform and Google Search Gemini are making it easier for businesses to connect their AI experiences to its AI experiences across the web . Buy One Founder Summit Ticket, Get a Second for Free. Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW. Buy one Founder Summit ticket, Get your Pass at Disrupt 2026 at $100 per person .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/ConnectedAppshero.width-2200.format-webp.webp?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-28T18:19:36.799313Z"
+    },
+    {
+      "id": "7a28b9ee4e283bb27d46862f6871243e",
+      "title": "Chrome\u2019s AI-powered Autofill can now dig through your",
+      "description": "Google's Chrome browser is getting an update that will improve its autofill capabilities using AI . Chrome will get an advanced version of advanced version that will help users fill out online forms online forms . The update is an expansion of Google's Personal Intelligence Assistant, Gemini Apps . Get your pass and bring someone with you at 50% off at Disrupt 2026 at $1,000 a day . Buy One Founder Summit ticket, Get a Second for Free .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/autofill-ai-chrome.jpg?resize=1200,643",
+      "fullArticleLink": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-28T18:19:23.551710Z"
+    },
+    {
       "id": "cba8a6caf7d4b0e265035a06d968483b",
       "title": "Simulated petrological labels enable probabilistic mineralogy prediction",
       "description": "Modal mineralogy, the mineral identities and abundances in rocks, guides geological studies and industrial resource extraction . But predicting mineralogy from elemental data poses a one-to-many inverse problem, and labeled mineralogical datasets are too sparse to train on at scale . Nearly one million simulated labels supervise the middle component of a three-part model . Recalibration fit on as few as 25 labeled rocks recovers 76 percent of the likelihood improvement from fitting on the full 368-rock fitting set .",
@@ -15391,196 +15595,6 @@
         "Startup"
       ],
       "pubDate": "2026-07-22T03:37:28.577090Z"
-    },
-    {
-      "id": "542acfa4250f0a4d147c2f4afff46a96",
-      "title": "Google ships three new Gemini Flash models but",
-      "description": "Google ships three new Gemini Flash models in the Gemini series, including the more efficient 3.6 Flash, which uses up to 65 percent fewer tokens . But the anticipated flagship, Gemini 3.5 Pro, is still missing, while OpenAI, Anthropic, and Chinese labs are already competing at the frontier level . Google is shipping three new Flash models, including a cybersecurity model available only to governments and select partners .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
-      "fullArticleLink": "https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-22T03:37:16.204416Z"
-    },
-    {
-      "id": "e3f5fd84ce289fcc1fa95ddf3a785352",
-      "title": "Claude Cowork learns new skills through screen recordings",
-      "description": "Anthropic has added a new feature to its AI assistant Claude Cowork that lets users record custom skills in the desktop app . Users record their screen while completing a task and narrate what they're doing via voice . The feature is available to users on the Pro, Max, and Team plans . OpenAI offers a similar feature in its Codex tool, which can also record workflows and replay them as reusable skills .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_medicine.png",
-      "fullArticleLink": "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-22T03:37:03.033730Z"
-    },
-    {
-      "id": "db0205985e6a3474188f4a9221850c07",
-      "title": "An AI system helped Pakistani judges clear massive",
-      "description": "A field experiment with 1,559 Pakistani judges found that the AI assistant JudgeGPT boosted case resolution by 6.3 percent . The researchers estimate a return of up to $38.50 per dollar invested . Only judges who got hands-on training saw gains . Without it, the effect of the AI system mostly disappeared . The system helped Pakistani judges clear massive backlogs at $38 .50 return per dollar .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/judge_pakistan_study-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-22T03:36:51.749158Z"
-    },
-    {
-      "id": "be0d6b8ffae21cadba8db7ec293fcfd8",
-      "title": "High-accuracy Low-Bit KV-Cache Quantization via Local Distribution Restoration",
-      "description": "Long-context large language model inference relies on the KV cache to avoid redundant attention computation . Low-bit KV-cache quantization reduces accuracy from 84.2% to 47.8% on Llama-3.1-8B under RULER . root cause is structured local misranking, where the distribution of logits in top-K region is drifted . We propose local distribution restoration, a new technique that detects steps with high local distribution risk from quantized-logit features .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.16248",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-22T03:36:35.632604Z"
-    },
-    {
-      "id": "576687dab0631e0e3aed22436d90d78e",
-      "title": "Learning Structural Manipulability in Gate-Level Netlists Using Graph",
-      "description": "Gate-level netlists exhibit intrinsic structural properties that influence signal propagation independently of functional simulation . We define a topology-driven structural manipulability score that characterizes node-level structural flexibility using path participation, k-core embedding, symmetry, and centrality . As an illustrative case study, analysis of Trojan-injected circuits using TrustHub templates reveals statistically distinguishable structural patterns, indicating that topology based scoring provides complementary structural insight .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.16245",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-22T03:36:24.575945Z"
-    },
-    {
-      "id": "c1bbfd020ee6b16d1a1245ebbde9c065",
-      "title": "CIGPO: Contextual Information-Gain Policy Optimization for Multi-Turn",
-      "description": "Training multi-turn evidence-reading agents with outcome-only reinforcement learning is unstable because intermediate turns receive little direct credit . In HotpotQA experiments with Qwen2.5-3B-Instruct, GRPO initially improves (standard F1 0.430) but subsequently collapses to 100% format-violating output . We propose a variance-injection strategy by assigning per-turn rewards to intermediate evidence-readers . This summary highlights key aspects of the latest developments. Industry",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.16244",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-22T03:36:12.363560Z"
-    },
-    {
-      "id": "d0f067d9d9317f8673411c42f0a29add",
-      "title": "RobustMAD: Evaluating Real-World Robustness of Multimod",
-      "description": "Multimodal industrial anomaly inspection assistants are a critical component of next-generation smart factories, enabling interactive vision-language-based querying . RobustMAD is the first deployment-motivated benchmark, designed to comprehensively evaluate model robustness through diverse open-ended queries spanning object understanding, anomaly detection, unanswerable problems, and visual quality degradations . Top-performing MSLMs exhibit promising capabilities, surprisingly outperforming even the larger GPT-5 Nano . This",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.16243",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-07-22T03:35:59.428257Z"
-    },
-    {
-      "id": "301d0327b8d940499bcdc8ae8d9b6f50",
-      "title": "TRACE: Trajectory-Based Safety Patch Learning for LLM Post-Training",
-      "description": "Fine-Tuning-as-a-Service platforms let users train large language models on customized tasks . Service providers need to recover models' safety without re-running full alignment or destroying utility gained from customized tasks, authors say . They propose TRACE, a trajectory-based safety patch learning framework that simulates harmful tuning trajectories to generate progressively corrupted states, and optimizes a plug-in patch to recover safety .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.16242",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-22T03:35:47.208743Z"
-    },
-    {
-      "id": "c8fbb0d88ed6a335d4086b1471fcc80e",
-      "title": "From Weights to Words: Expressing and Editing Preference",
-      "description": "The growing use of statistical learning algorithms to infer human preferences from high-dimensional choice data runs up against a fundamental challenge . We introduce a method that takes a dataset of choice problems as input and automatically discovers a collection of domain-relevant preference dimensions . These dimensions address both under-determination and opacity: they can be applied to concentrate attribution on a small set of meaningful factors, and they can externalize the model's inferences in natural language so that users can inspect and edit them in real time .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.16232",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-22T03:35:34.303051Z"
-    },
-    {
-      "id": "5a1af7ba8f4e69c953a72968e3d7fc31",
-      "title": "Chinese open-weight models are cheap. Washington is deciding",
-      "description": "Moonshot AI's Kimi K3 arrived on July 16 as the largest open-weight model yet released . Within days it had reopened a policy argument in Washington that had rekindled a policy debate in Washington . Washington is deciding what that costs, and whether using one will still be straightforward in a year . The question is whether using a Chinese open-weights model will still remain a standard benchmark in the next year .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/1784472098908.jpeg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-21T14:20:11.370185Z"
-    },
-    {
-      "id": "bd4842a7b426a98510a5cbe538eb09e6",
-      "title": "Bristol Myers Squibb buys Nvidia AI system",
-      "description": "Bristol Myers Squibb is purchasing an Nvidia DGX SuperPOD built on the chipmaker\u2019s Vera Rubin architecture to support artificial intelligence use across its drug discovery and development operations . The pharmaceutical company said it will be the first life sciences group to acquire a DGX superPOD based on Vera Rubin . Nvidia introduced the architecture earlier this year and introduced it to the market earlier this [iReporter:]",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/Bristol-Myers-Squibb-buys-Nvidia-AI-system-for-drug-discovery-scaled-e1784603783132.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-21T14:20:00.252173Z"
-    },
-    {
-      "id": "1b986bb6aa41072a7d1944b0273c5961",
-      "title": "The AI Slot Machine Effect: Why Generative Feeds",
-      "description": "The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus . Knowledge workers in 2026 are running into this more and more . It makes sense once you look at the impact of generative feeders, such as the AI slot machine effect, says AI News editor John Defterios . He says the problem is that the task you started with has drifted off to the side somewhere .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/4f96c4c1-5640-4aee-9238-9c5e88320dc7-2400.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-21T14:19:48.722115Z"
-    },
-    {
-      "id": "d0c22dfea7d3e2873f29707a763611bb",
-      "title": "Xiaomi-Robotics-1 shows that more data beats bigger models",
-      "description": "Xiaomi trained Xiaomi-Robotics-1 on more than 100,000 hours of motion data collected by people using camera-equipped grippers rather than robots . Adding data improved performance far more than increasing model size . The gains haven't plateaued, though absolute success rates remain low, with success rates still low . More data beats bigger models when training robots to move when training them to move, researchers say . The results show that more data beats larger models when it comes to training robots .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/xiaomi-robotics-1-01-hero.jpg",
-      "fullArticleLink": "https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/",
-      "type": "news",
-      "categories": [
-        "Robotics"
-      ],
-      "pubDate": "2026-07-21T14:19:33.545974Z"
-    },
-    {
-      "id": "6d5a86555da5e5298d2503e772ec7a79",
-      "title": "Advancing next-gen AI with materials science innovation",
-      "description": "Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and higher reliability . Manufacturing a semiconductor chip today requires thousands of tightly controlled process steps, with almost no room for error . Advanced materials exist to solve performance challenges as AI raises the bar, these challenges are becoming more demanding . Increasing computing density is transforming data center design, driving the need for more sophisticated thermal management, higher-voltage power architecture, increased data storage, and faster, more reliable data transmission .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Syensqo-shutterstock_2491787317.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Startup"
-      ],
-      "pubDate": "2026-07-21T14:19:14.073434Z"
-    },
-    {
-      "id": "1fb2eb9a94ba3a6b42630f25bf1cfac1",
-      "title": "KernelBench-Verified: Do LLM-Generated Kernels Actually Beat Py",
-      "description": "Recent large language models can generate custom CUDA kernels that appear to outperform PyTorch on benchmarks such as KernelBench . The best-performing model (GPT-5.5) achieves a 0.88x geometric mean speedup, significantly lower than the 1.43x speedup observed under the standard evaluation protocol . 28% of GPU kernels generated by the best model increase peak GPU memory usage on the memory front .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.16241",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-07-21T14:19:00.706396Z"
     }
   ]
 }
