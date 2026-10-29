@@ -1,6 +1,97 @@
 {
   "news": [
     {
+      "id": "153f5ad7f9870bfbdcfe01d9de1bb037",
+      "title": "Google Deepmind releases Gemini 4 Carbon just two",
+      "description": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board . Google says the model is built for extended agent workflows and the full cyber defense lifecycle . The model has advanced security capabilities, but access is limited to selected security experts at first . Google DeepMind is releasing Gemini 4 carbon, which tops the Artificial Analysis Intelligence Index v5 with 59 points with a total of 59 points .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/gemini_4_argon-2.png",
+      "fullArticleLink": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-10-29T05:34:37.260474Z"
+    },
+    {
+      "id": "52fa9eb7caabe7399ebba1c7f33ea528",
+      "title": "Creating AI value with enterprise context",
+      "description": "MIT Technology Review Insights poll finds that while every organization surveyed is using AI today to some degree, fewer than one in five (16%) are extracting transformative value from their deployments . Companies are mostly still piloting AI use cases (according to 38% of respondents) or using it to assist employees\u2019 work with tools like co-pilots or chat assistants (35%) Just 12% of enterprises have AI agents in production and 3% say they are using AI to do most of the work .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_CovSocial1200_1028-e1793220807248.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-10-29T05:34:19.321700Z"
+    },
+    {
+      "id": "b2173123b9bf5b7b31e0f2490e63a69e",
+      "title": "Anthropic just launched tools to show companies what",
+      "description": "Disrupt doors open Oct. 13. Buy One Founder Summit ticket, Get a Second for Free. Get your pass and bring someone with you at 50% off . Anthropic just launched tools to show companies what their spending is buying. Anthropic has focused on getting enterprise users to stick around and get more granular understanding of the granular value of the user experience . The company recorded an 900% net retention in the second quarter, and 900% revenue retention .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
+      "fullArticleLink": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-29T05:33:58.105687Z"
+    },
+    {
+      "id": "1a03c7011eafc46533d303f5d9500563",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue",
+      "description": "The tech giant reported yet another quarterly revenue record on Wednesday: $92 billion, 19% over the year-ago quarter . Get your pass and bring someone with you at 50% off at Disrupt 2026. Buy One Founder Summit ticket, Get a Second for Free. Disrupt doors open Oct. 13. REGISTER NOW . LatestStartupsVentureAppleSecurityAIAppsDisrupt 20 26 EventsPodcastsNewsletters . This summary highlights key",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-29T05:33:41.732518Z"
+    },
+    {
+      "id": "65911ac3f4f50838b86edb6d63438f9c",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "description": "Microsoft recorded $10 billion in revenue from OpenAI, including revenue from commercial revenue with revenue-sharing payments . Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. Buy One Founder Summit ticket, Get a Second for Free. Register now. Disrupt Doors open October 13. For more information about the Disrupt 2026 events, visit http://www.techcrunch.com/disrupt2026 .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-29T05:33:24.509029Z"
+    },
+    {
+      "id": "34b53368a5c19b91602d45edd7bceafb",
+      "title": "Google expands AI Search ads globally as core",
+      "description": "Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off . Buy One Founder Summit ticket, Get a Second for Free. Disrupts doors open October 13 . Google Search revenue grew 12% over the third quarter in third quarter . Alphabet\u2019s third-quarter earnings came Wednesday during the company reported $127.6 billion in revenue up 25% over year . Google is bringing its AI-powered AI ads in international markets, betting that generative generative experiences can open up new revenue opportunities .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-29T05:33:05.529964Z"
+    },
+    {
       "id": "881931614d95173e4b3e4783db980683",
       "title": "Anthropic is maker of arguably the most capable",
       "description": "Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach went . The incident shows how vulnerable even leading AI labs are through their external software dependencies . Anthropic is maker of arguably the most capable AI models for cyberdefense . Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program . The breach shows how well-equipped AI labs can be vulnerable through external software .",
@@ -15517,84 +15608,6 @@
         "LLM"
       ],
       "pubDate": "2026-07-22T14:20:57.431275Z"
-    },
-    {
-      "id": "2a5b3200201e1592283739571ff7d473",
-      "title": "A Better Start for Language Models: Domain-Conditional Position",
-      "description": "Autoregressive language models are least accurate at the beginning of a sequence, where little context forces reliance on a generic pretraining prior . We show that this cold-start penalty is domain dependent and reduce it with a domain-conditional position offset . The offset trains in minutes on roughly one hundred documents, switches between domains without added sequence state . It reduces held-out in-domain perplexity by up to 27%; the effect persists at 70B, and one position captures most of the benefit .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.18302",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-22T14:20:44.253101Z"
-    },
-    {
-      "id": "540e01cd709dfb944c8fe83bb3291fe6",
-      "title": "On the Limits of Support-Preserving Alignment and Bounded",
-      "description": "We study whether alignment schemes that reshape a base model's output distribution, combined with bounded safety filters, can drive the probability of harmful behavior to zero in modern large language models . We formalize this setting using support-preserving alignment operators together with bounded filtering algorithms . Across models, filter classes, and query budgets, the estimated harmful-output rate decreases with additional filtering compute but consistently plateaus above zero, suggesting a persistent empirical harm floor .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.18295",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-07-22T14:20:32.702367Z"
-    },
-    {
-      "id": "499484173b40aafb7f0f634bbdff7c35",
-      "title": "AI-Driven Crash Simulation Surrogates: A Comparative Study",
-      "description": "Machine learning surrogate models are increasingly being explored in engineering product development to augment simulation-driven design . A critical gap limits their adoption in safety-critical workflows . A key contribution is the use of concrete dropout, a built-in PhysicsNeMo capability that eliminates the dropout rate as a manual hyperparameter by learning it end-to-end during training, directly addressing the most common criticism of Monte Carlo Dropout-based uncertainty quantification .",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.18294",
-      "type": "news",
-      "categories": [
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-07-22T14:20:20.630097Z"
-    },
-    {
-      "id": "3b1c5349b8a89830ba7a36488f0a67b8",
-      "title": "SechKAN: Kolmogorov-Arnold Networks with Hyper",
-      "description": "SechKAN is a KAN architecture based on hyperbolic secant (sech) functions . It is based on a bell-shaped basis for its smooth bell shape, localized responses, and stable gradients . It achieves superior performance compared to MLPs and other KAN variants while maintaining a similar number of parameters . However, its running time is slightly longer than that of MLPs, and it has a shorter running time than MLPs .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.18290",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-22T14:20:09.259857Z"
-    },
-    {
-      "id": "959a3f082c67559aba9ca7da64503254",
-      "title": "BearingNAS: Obtaining In-Sensor Intelligent Fault Diagnosis Systems",
-      "description": "BearingNAS is a Hardware-Aware Neural Architecture Search (HW-NAS) framework . The best in-sensor architecture achieves a highly competitive diagnostic accuracy of 99.50\\% on the ISPU . Running entirely on a laptop CPU, the search converges in less than an hour . These results demonstrate the viability of shifting the machine learning workload inside the sensor package, enabling low-cost, production-scale bearing fault diagnosis .",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.18287",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-22T14:19:58.187010Z"
-    },
-    {
-      "id": "c0f33c27d0f9653b4e347317a6e3ba43",
-      "title": "Microsoft and Mistral strike multi-billion-dollar deal to build",
-      "description": "Microsoft and Mistral are expanding their strategic partnership with a multi-billion-dollar deal to build out AI infrastructure in Europe . Mistral is adding thousands of Nvidia Vera Rubin GPUs, and Microsoft will tap that capacity for its cloud and AI services . The offering targets regulated industries like finance, healthcare, and manufacturing . Microsoft President Brad Smith said Europe should be able to use powerful AI without giving up control over its data .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Mistral-Microsoft-Logos.jpg",
-      "fullArticleLink": "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Startup"
-      ],
-      "pubDate": "2026-07-22T03:37:28.577090Z"
     }
   ]
 }
