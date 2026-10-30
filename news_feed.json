@@ -1,6 +1,122 @@
 {
   "news": [
     {
+      "id": "ad4a4756af4818113df0228168fb3655",
+      "title": "Experts adopt AI agent's random opinions and think",
+      "description": "Experiment by Anthropic with 50 experts found that people often followed their AI agent's randomly assigned preference on questions with no clearly right answer . Participants adopted the agent's preference in 86 percent of the four analytical decisions, far above the 50 percent you'd expect if people chose at random . Participants correctly recalled their choice for 85 percent of decisions, yet 77 percent, or 37 of 48, used one of agent's arguments in their explanations, sometimes in nearly the same words .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/neural_net_in_head-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-10-30T05:35:10.050524Z"
+    },
+    {
+      "id": "434d9589fde73071ec511000867826d3",
+      "title": "OpenAI doubles usage limits on Pro plans",
+      "description": "OpenAI is doubling usage limits across its paid plans from Pro 100 to Pro 500 . A planned cut to the Pro 200 quota was reversed after user pushback . More efficient models like Terra and Sol should push usable capacity even higher . Move comes just ahead of Anthropic's IPO, as both companies fight for B2B dominance in AI . Both companies are competing in the market with Anthropic, which is set to go public this month .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
+      "fullArticleLink": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-30T05:35:00.095603Z"
+    },
+    {
+      "id": "5d9d7808457b118e410aba114f94234e",
+      "title": "Meta quietly launches an AI fashion app called",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . Meta Style Sketch Sketch, an AI fashion app that helps users put together outfit ideas using clothes already . Users can then try on the outfits on a \"real skinistic\" model . Meta Sketch Sketch lets you add items by snapping a photo, or adding items from photos, or uploading a quick video .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625",
+      "fullArticleLink": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-30T05:34:37.252484Z"
+    },
+    {
+      "id": "db83db5c214c0a3981122c22af6f5a06",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT from ADT",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . ADT Holdings acquired physical security company ADT for $10 per share or about $7 per share . The deal is $15.3 billion, Thrive Holdings said . Thrive is the co-founder of Josh Kushner's powerhouse VC firm Thrive Capital Capital Capital . This",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/ADT-logo.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-30T05:34:20.672502Z"
+    },
+    {
+      "id": "223b05929cb398d87f413bb1ea3f537e",
+      "title": "Rivian expands joint venture with VW to include",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts. Buy One Founder Summit ticket, Get a Second for Free. Register now . Rivian is expanding to include AI assistants in its voice assistant technology to include elements of its voice elements of the Volkswagen Group's . Volkswagen Group and Rivian are a joint venture between Rivian and Volkswagen Group .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/12/rivian-assisant-event.png?resize=1200,672",
+      "fullArticleLink": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-30T05:34:03.845749Z"
+    },
+    {
+      "id": "60144b1613db26a481deb8e80aef478c",
+      "title": "Reddit announces it\u2019s shifting to a logged-in experience",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . As search traffic dries up, Reddit announces it's shifting to a \"logged-in\" experience . Reddit has long attracted millions of millions of users to its site through Google, with many appending the word \"Reddit\" Reddit is rethinking its relationship with Reddit, rethinking the open internet .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-30T05:33:45.671604Z"
+    },
+    {
+      "id": "ee09513d3b256af4c348bb2f55ebe1c4",
+      "title": "AWS will be a $1T business, Jassy says",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . Buy One Founder Summit ticket, Get a Second for Free. Register now . Amazon CEO Andy Jassy has made it known that he believes he believes Amazon's cloud business can be a trillion-dollar revenue revenue . Amazon will spend first $1TTT, Lucas Lucas Ropopop says .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
+      "fullArticleLink": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-30T05:33:27.267983Z"
+    },
+    {
+      "id": "4585bce5af53764978e38dc0e4a3a5ba",
+      "title": "You don't need to believe in a god",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . You don't need to believe in a god to get a religious exemption from using AI at work at work . Pope Leo XIV decried AI as a threat to human dignity, but it's not just the devoutly faithful who worry about how AI squares with their beliefs . Get a second Founder Summit ticket, Get a Second for Free .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+      "fullArticleLink": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-30T05:33:07.054092Z"
+    },
+    {
       "id": "e3898af5f8c05652517ec0bb40811cec",
       "title": "Google's AI search problem finally shows up",
       "description": "Google's stock dropped as much as ten percent after its quarterly earnings . Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than expected . Google acknowledged that its fast-growing AI mode brings in less revenue than traditional search, and it is now expanding its AI mode ad program internationally . Google is expanding its program to include more countries and more countries with AI mode .",
@@ -15536,104 +15652,6 @@
         "Startup"
       ],
       "pubDate": "2026-07-23T14:30:41.672152Z"
-    },
-    {
-      "id": "20fad30587255f5925eb7f15b8622394",
-      "title": "Reproducing Recurrent Transformers: The CoT former Transformers",
-      "description": "The CoTFormer architecture formalizes Chain-of-Thought as a form of recurrent latent computation . It preserves intermediate states as attendable representations to mimic explicit reasoning traces . arXiv:2607.19405v1 Announcement: The architecture and its structural variants are evaluated across perplexity and compute efficiency metrics . We extend evaluation to controlled algorithmic settings to determine whether this recurrent framework improves generalisation on inductive reasoning tasks .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.19405",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-23T14:30:30.474913Z"
-    },
-    {
-      "id": "7f829d19bd89201ca0c65721efdc9c47",
-      "title": "Predictive single cell foundation model for gene regulation",
-      "description": "Tabula is a privacy-preserving FM designed with federated learning (FL) that explicitly models the tabular structure of single-cell data . Tabula nominates rejuvenation factors through age- and identity score-guided in silico prioritization, outperforming conventional approaches . It also reveals combinatorial regulatory logic across diverse biological systems, including hematopoiesis, pancreatic endogenesis, neurogenesis, and cardiogenesis . This summary highlights key aspects of",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.19400",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-07-23T14:30:18.943996Z"
-    },
-    {
-      "id": "a6909e56ab960b24ec19c8895240c02d",
-      "title": "Predicting Groundwater Arsenic Concentrations Using Graph Neural Networks",
-      "description": "Arsenic contamination in groundwater presents a longstanding public health crisis in the United States . Accurate and spatially informed prediction of arsenic concentration is vital to identify high-risk areas and focus mitigation efforts . There is a lack of generalizable models for representing continuous variation in arsenic concentrations across regions . We evaluate a diverse suite of machine learning models, including tree-based ensemble approaches, multilayer perceptrons, and graph neural networks .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.19392",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-23T14:30:07.188121Z"
-    },
-    {
-      "id": "a4847755d23e078630973ded4c273150",
-      "title": "LAARA: Layer-Aware Adaptive Rank Allocation for Parameter-E",
-      "description": "LAARA is a search-free framework that dynamically allocates ranks using lightweight diagonal Fisher estimates computed during training . LAARA combines projection-wise normalization, logarithmic compression, blended adapter importance estimation, and a vote-to-change dampening mechanism to produce stable and efficient rank adaptation . The code is publicly available at: https://anonymous.4open.science/r/LAARA-D305 . This summary highlights key aspects of the latest developments. Industry analysts",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.19391",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-23T14:29:55.926480Z"
-    },
-    {
-      "id": "51fe6f4bc7ea08efc6b1b253ebcf4caa",
-      "title": "Building Fast, Evaluating Slow: Pipeline Choices Dominate Autointerpretability",
-      "description": "Cross-paper comparison of sparse autoencoder (SAE) interpretability often relies on autointerpretability scores . For these comparisons to be meaningful, scores must reflect stable properties of the features rather than confounding aspects of the evaluation pipeline . We find that R1) methodological variance collectively exceeds architectural variance across all metrics and tested models . R2: Each metric exhibits a distinct instability profile, with detection being the most stable and fuzzing unreliable .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.19386",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-23T14:29:44.181971Z"
-    },
-    {
-      "id": "6960f29396fd04fa1376c282dfd91caa",
-      "title": "STN-TGAT: Top-K Portfolio Construction via Prior-Guided",
-      "description": "Soft-Threshold NMI-prior Transformer Graph Attention Network (STN-TGAT) combines temporal dynamics and cross-sectional dependencies . The portfolio formation process incorporates practical considerations, including Top-5 selection within the Top-50 $S\\&P$ 500 constituents, explicit weight allocation, and transaction cost adjustment, thereby aligning the evaluation with real-world trading conditions . Empirical results show that STN- TGAT outperforms benchmark models from predictive accuracy and investment profitability measured by portfolio returns .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.19385",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-23T14:29:31.461437Z"
-    },
-    {
-      "id": "386fd96fbcf3a8e66ff4016d2190f3e6",
-      "title": "OpenAI's \"Project Camellia\" in Georgia secures a massive",
-      "description": "OpenAI is planning a data center in Georgia called \"Project Camellia\" with a 3.2-gigawatt power deal from Georgia Power . The company pledged $80 million for the local community and $71 million in Codex credits for students to counter growing opposition to US data centers that many residents see as resource-hungry but job-poor . Many residents see data centers as resource hungry but job poor .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
-      "fullArticleLink": "https://the-decoder.com/openais-project-camellia-in-georgia-secures-a-massive-3-2-gigawatt-power-deal-through-2032/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-23T03:42:18.210361Z"
-    },
-    {
-      "id": "ef62f88825556a5b56cbcedd38412f55",
-      "title": "Cisco bets small open cybersecurity models can outperform",
-      "description": "Cisco has released two small, open AI models for cybersecurity . Antares-350M and Antares 1B spot vulnerabilities in software code . The company is also exploring an industry consortium for open AI security tools . Both models run locally, so sensitive code never leaves the company . Cisco is keeping a larger three-billion-parameter version for its own products. That version reportedly performs close to GPT-5.5 and beats open models 200 times its size .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/cisco_logo.png",
-      "fullArticleLink": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-07-23T03:42:03.745721Z"
     }
   ]
 }
