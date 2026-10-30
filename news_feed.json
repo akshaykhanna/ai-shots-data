@@ -1,6 +1,199 @@
 {
   "news": [
     {
+      "id": "7ceb0193d1ec6519f70b7e0b3bf5b956",
+      "title": "GLM 5.3 built full Firefox exploit chains",
+      "description": "AI model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours . It autonomously compromised six Firefox releases for about $1,000 in API fees each without triggering safeguards from any provider tested . Epoch AI researchers say the widely available AI model turned public security fixes into working exploits before updates reached Firefox users . The model built full exploit chains without any human input or human input .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/firefox_kraken-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-10-30T18:04:49.125739Z"
+    },
+    {
+      "id": "961d56d50905a0825d0b59e3959bff67",
+      "title": "Google's AI Mode doesn't drive traffic \"for anybody,\"",
+      "description": "Reddit lost over one million Google search referrals per week in October, CEO Steve Huffman said . Huffman blames Google's AI Overviews and AI Mode for driving zero traffic to external sites . Reddit now tests login barriers and wants to become a direct destination, less reliant on the open web . The shift threatens every content-driven business that depends on search traffic . Reddit's stock dropped more than 25 percent despite strong earnings .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/reddit_logo_wall.png",
+      "fullArticleLink": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-30T18:04:41.467104Z"
+    },
+    {
+      "id": "cef52c90b6ac4649e710e20c840af4ca",
+      "title": "OpenAI sets new behavioral guidelines for AI models",
+      "description": "OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability . GPT models should now draw on conversation history to figure out what users actually want and disclose their own assumptions . Whether the models follow these rules is another matter, as is whether they follow the new set of rules . The Decoder.com: OpenAI sets new behavioral guidelines for AI models that have proven hard to control .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/openai.png",
+      "fullArticleLink": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-30T18:04:33.588854Z"
+    },
+    {
+      "id": "b9a6199e9cc580c0ad8fa804215b3d6d",
+      "title": "Measuring Deep Learning Performance - An Empiral Study",
+      "description": "Non-determinism in deep learning algorithm design and implementation leads to performance variation . These model performance distributions are underexplored despite their impact on robustness . Time series models produce nearly three times more underperforming outliers than image classification models, indicating substantially higher tail risk . Tail risk poses serious concerns for Trustworthy AI in high-stakes applications, authors say . We conducted 186 experiments on image classification and time series forecasting architectures .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.38037",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-30T18:03:51.445348Z"
+    },
+    {
+      "id": "b7abce28ef62a24e5b35a1138f87cc32",
+      "title": "Model-Derived Measurements Can be Corrected or Compared",
+      "description": "Noise shrinks correlations, and the textbook correction divides by the square root of two estimated reliabilities . Prompt settings can reverse rankings . Qwen2-1.5B trails Llama-3.2-3B by 3.8 points with no examples in the prompt and leads by 16.6 with two . Aligning embedding coordinates across seeds raises held-out per-dimension reliability from 0.003 to 0.813 . This summary highlights key",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.38015",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-10-30T18:03:25.980195Z"
+    },
+    {
+      "id": "468991d6e9ccbd8982683f953d24ed3f",
+      "title": "Preserving Safety During Sequential Fine-Tuning: A Factorial",
+      "description": "Benign fine-tuning can erode safety alignment in large language models . We factor these two strategies apart and study their behavioral and geometric effects . Behaviourally, supervised replay exposure yields the largest reduction in HarmBench attack success rate (ASR) on Mistral, averaging 51.1 points below base, but at a substantial over-refusal cost . On Llama, refusal behavior after exposure largely survives ablation of the extracted refusal direction .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.38001",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-10-30T18:03:17.239894Z"
+    },
+    {
+      "id": "843c9b7302278afdea083ae28eec6460",
+      "title": "Deep learning for non-transvenous ICD screening: tailored neural",
+      "description": "Two non-transvenous implantable cardioverter-defibrillators (ICDs) are prone to oversensing . Oversensing can trigger inappropriate shocks associated with increased mortality . S-ICD screening uses a single 10-second electrocardiogram (ECG) segment, and EV-ICC has no formal screening protocol . We introduce AmpRatioNet, a family of 1D convolutional neural network architectures operating directly on the ECG signal, and benchmark it against the best existing approach .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.37993",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-30T18:03:07.188331Z"
+    },
+    {
+      "id": "2f246e5976fae7ee7d526bec5e539761",
+      "title": "Application of PDE emulators for a multi-material, multi-physics",
+      "description": "Machine learning (ML) architectures are being developed for fast emulation of numerical simulators to accelerate scientific discovery and engineering design . We evaluate several computer vision-based architectures trained as surrogate models on a challenging computational physics task involving multiple materials . For such multi-physics multi-material datasets, our results underscore the importance of learning algorithms designed for sparse and imbalanced data, including techniques for adapting spatial encodings and physical consistency metrics .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.37972",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-30T18:02:41.813933Z"
+    },
+    {
+      "id": "bb72feb602df8f4e6297e9c97a0987ab",
+      "title": "Generative modeling for fusion: a large-scale benchmark",
+      "description": "Machine learning has the potential to advance fusion research by enabling rapid generation and evaluation of new stellarator configurations . The Benchmark of Stellarator Simulations (BoSS) is the first large-scale dataset of guiding center simulations, containing simulation data for 180,000 distinct magnetohydrodynamic equilibria spanning a wide range of magnetic geometries and confinement properties . The BoSS can be accessed through www.flatironinstitute.org/.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.37910",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-10-30T18:02:33.254031Z"
+    },
+    {
+      "id": "ef47bb57b53f7f01c8a32dba426e6b91",
+      "title": "Learning Lotteries with Minimal Stakeholder Violations from Membership",
+      "description": "An AI developer often has several candidate versions of a system and can deploy a mixture of them, sending each request to a randomly chosen version, as in A/B testing . We model this as choosing a lottery over $m$ alternatives for $n$ agents . We show that this problem is APX-hard even when all halfspaces are known and all utilities are $0$ or $1$. Small synthetic experiments indicate that our worst-case bounds are conservative on random instances .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.37828",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-10-30T18:02:06.199702Z"
+    },
+    {
+      "id": "abd8fa20954f54f1991d6aa343805e3b",
+      "title": "Neuron: Differentiable Quantization of Predicate Relations in Gradient-based",
+      "description": "Native Predicate Neuron is a differentiable logic-reasoning neural module that enriches standard architectures with symbolic reasoning capabilities via first-order logic quantization . The proposed neuron models relational logic by learning to alternate between operations using a single trainable parameter . It features a tailored gradient mechanism with a dual-nature formulation: executing hard logical operations during training while maintaining differentiability for backpropagation . By quantizing both its input and choice state, the Predicates Neuron approximates continuous and non-continuous functions, effectively resolving discontinuities .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.37727",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-30T18:01:37.585803Z"
+    },
+    {
+      "id": "12c5b28f8540d0b9612a68666270a49e",
+      "title": "Can AI data centers be mass-produced like cars?",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters . Can Can CanMadori Davis aims to find out if they were out-produced AI data centers like cars? Can Cani Davis\u2019s idea isn\u2019t entirely entirely new . Companies like Schneider Electric and Schneider Electric also sell prefricated prefrication pods .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-30T18:01:08.375336Z"
+    },
+    {
+      "id": "30b5f07a33cd2b6d418021bd4af81040",
+      "title": "DoorDash said it\u2019s only received \u2018several hundred\u2019 orders",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . DoorDash Delivery said it has only received orders from AI agents from third-party agents like AI agents like Instinct, Muse, Instinct and others . AI agents say it completes an average of 3 million deliveries daily in 2025 . There's big uproar about AI agents taking over commerce and orders, but that might not be the case .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-30T18:00:54.232806Z"
+    },
+    {
+      "id": "d4c3a958104abce572ce82b2bff55248",
+      "title": "Google\u2019s first data center satellite is online",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . Buy One Founder Summit Ticket, Get a Second for Free. Register now . Google's first data center satellite satellite satellite is online and writing poetry . Google Suncatcher's prototype data center is online online and is communicating with the ground after launching earlier this month . The data center can only turn one on one on a twenty-minute TPU (TPUs)",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-30T18:00:25.173982Z"
+    },
+    {
+      "id": "c9dcfb62ccca45b22e323f6f45c8391b",
+      "title": "Zest\u2019s new AI agent finds restaurants and books",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts. Buy One Founder Summit Ticket, Get a Second for Free. Register now . Zestest's new feature: a personal AI-powered \"restaurant\" app finds restaurants and books over text messages over text books . On Thursday, the restaurant discovery app launched earlier this year .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764",
+      "fullArticleLink": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-30T18:00:11.397734Z"
+    },
+    {
       "id": "ad4a4756af4818113df0228168fb3655",
       "title": "Experts adopt AI agent's random opinions and think",
       "description": "Experiment by Anthropic with 50 experts found that people often followed their AI agent's randomly assigned preference on questions with no clearly right answer . Participants adopted the agent's preference in 86 percent of the four analytical decisions, far above the 50 percent you'd expect if people chose at random . Participants correctly recalled their choice for 85 percent of decisions, yet 77 percent, or 37 of 48, used one of agent's arguments in their explanations, sometimes in nearly the same words .",
@@ -15462,196 +15655,6 @@
         "LLM"
       ],
       "pubDate": "2026-07-24T14:11:53.996699Z"
-    },
-    {
-      "id": "fd2b15698b492a692070936103b77ce1",
-      "title": "Adaptive Depth in Looped Transformers: Diagnosing Learned Halting",
-      "description": "Looped Transformers increase test-time computation by repeatedly applying a shared recurrent block . We study adaptive depth in looped Transformers through this trajectory--readout lens . We find that fixed-prior depth supervision, which shapes the trajectory without an input-dependent halting policy, produces difficulty-aware trajectories whose intermediate states expose useful stopping signals . Simple post-hoc confidence readouts often match or outperform learned linear and MLP gates .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20519",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-24T14:11:41.718999Z"
-    },
-    {
-      "id": "f7abdca68b7dd2259ad15f9b5dab9f28",
-      "title": "One tampered ChatGPT link could spawn a rogue",
-      "description": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes . Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder . The agent inherited the victim's identity and access rights, bypassed approval requirements through the malicious prompt, and pulled new instructions from the attacker's inbox every 5 minutes . The AgentForger was created on an employee's behalf .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/10/agent_builder_openai.jpg",
-      "fullArticleLink": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics"
-      ],
-      "pubDate": "2026-07-24T03:38:56.875178Z"
-    },
-    {
-      "id": "02b56c033a77327e7d967cd79e7325bf",
-      "title": "Flux 3 generates videos with native audio up",
-      "description": "Flux 3 is a multimodal foundation model that learns from images, video, and audio . It can generate video with native audio for the first time . BFL's own tests put it just ahead of market leader Seedance 2.0 . The company ultimately wants to build a world model and is already testing Flux on robotics tasks . It generates videos with audio up to 20 seconds long, a first for Black Forest Labs .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/bfl_flux3_video.png",
-      "fullArticleLink": "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/",
-      "type": "news",
-      "categories": [
-        "Robotics"
-      ],
-      "pubDate": "2026-07-24T03:38:45.098983Z"
-    },
-    {
-      "id": "f081f25fbfa894ed5fca10088e234998",
-      "title": "ChatGPT will give you worse health advice if",
-      "description": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users . The more powerful GPT-5.6 Sol model is reserved for premium subscribers . Free users are stuck with the weaker GPT 5.5 Instant model . More than 300 million people already ask health questions every week, but paying users get better answers . OpenAI will connect Apple Health, medical records, and wellness apps .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_health.png",
-      "fullArticleLink": "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-24T03:38:33.310914Z"
-    },
-    {
-      "id": "3d9de4dbff83ed455dfcd9ace7425a60",
-      "title": "An AI-Assisted Audit of Candle-Based Binance Spot Timing",
-      "description": "An unchanged ten-pair mandatory-daily selector lost 6.72\\% over 19 July cycles at an assumed 31-bps completed-cycle cost, with 3 wins and 16 losses . Local-maximum sell-to-cash/re-entry policy underperformed continuous holding by 2.80\\%; their gross mean advantages of 11.11 and 12.21 bps were below even the 21-bps stress . A Gurgul-inspired, OHLCV-only daily adaptation attained minimum/maximum ROC AUC of 0.874/0.896 but average precision of only 0.134/.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.19453",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-24T03:38:14.233033Z"
-    },
-    {
-      "id": "b0ef970692e0456e9118be3a628f1d2f",
-      "title": "Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement",
-      "description": "Large-scale online reinforcement learning (RL) is the predominant means of eliciting advanced abilities including long-term reasoning and agentic tool use in large language models . However, continuing to scale it across vast task domains of interest remains challenging in both computational infrastructure and cost . To address these challenges, we propose REGEN: Replay-recycling for Expert-to-Generalist Distillation with Offline RL . It potentially turns online RL into a data synthesis process instead of a one-off learning stage, and can potentially be extended to large-scale post-training without heavy computational load .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.19450",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-24T03:38:00.104546Z"
-    },
-    {
-      "id": "048b10a2bc7173c5af448eb5c993c8c6",
-      "title": "Guardrails as Scapegoats: Auditing Unfaithful Safety Refusals",
-      "description": "We introduce a lightweight black-box auditing framework that injects four silent failure profiles across 12 production-adjacent tool stubs . We classifies agent responses into three mutually exclusive behavioral classes: Honest Surrender (HSR), Fabrication (FAR), and Unfaithful Safety Refusal (USR) USR is a latent behavior activated when safety vocabulary in the system prompt primes the model to reach for policy rationales when tools silently fail . Sensitive tools account for the majority of USR instances . We propose a payload-response misalignment heuristic for production-level detection .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.19449",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-24T03:37:45.160561Z"
-    },
-    {
-      "id": "463015537aef4a6fcc56aea3977ca531",
-      "title": "Adaptive Multi-Expert Graph Transformer for Interpretable EEG-Based Diagnostics",
-      "description": "Electroencephalographic (EEG) abnormalities arise from dynamic changes in neural synchrony across spatial and temporal scales . We present a Spatial Multi-Expert Graph Transformer that models each EEG recording as a sequence of dynamic functional connectivity graphs . Time-resolved connectivity is estimated using the weighted Phase Lag Index (wPLI) and hierarchical graph encoding aggregates information from electrode to regional and global levels . A multi-expert transformer architecture enables subtype-aware reasoning, with a gating mechanism adaptively fusing expert outputs for global abnormality prediction .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.19429",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-24T03:37:32.705150Z"
-    },
-    {
-      "id": "a056389f7188a575d921c63a47197f77",
-      "title": "Reward-Aware Population Scaling of Evolutionary Strategies in LLM",
-      "description": "Evolutionary Strategies (ES) for fine-tuning large language models is attractive because it is memory-efficient, parallel, and compatible with black-box or discrete rewards . We show this gap is largely about reward design and normalization, not population size . Disabling normalization lets binary-reward ES with $N=2$ improve on GSM8K and TREC across capable models spanning 0.5B-7B . This summary highlights key",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.19408",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-24T03:37:20.360216Z"
-    },
-    {
-      "id": "0c24df3514a11df9c330b3608bee475c",
-      "title": "NMR Elucidation as an Agentic Search Problem, Not",
-      "description": "Structural elucidation from Nuclear Magnetic Resonance (NMR) data remains a fundamental bottleneck across chemistry, materials science, and biology . We demonstrate that an agentic AI system can perform this task at a level comparable to graduate-level chemistry students . We build a single autonomous agent, backed by a frozen LLM, that interacts with a curated environment with access to domain-specific processing tools, validation checks, tabulated chemical shifts, and instructions .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.19406",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics"
-      ],
-      "pubDate": "2026-07-24T03:37:08.781350Z"
-    },
-    {
-      "id": "0f2d69640e013bc125368391037169c5",
-      "title": "Challenges of Explainability in Continual Learning for Time",
-      "description": "Deep learning models have shown strong potential for time series forecasting, but deployment in real-world environmental monitoring remains challenging due to non-stationary dynamics and limited explainability . We study neural forecasting architectures such as PatchMixer, PatchTST and DLinear, augmented with attention-based sampling mechanisms to support model adaptation over time . Explainability is leveraged through attention rollout and gradient-based attribution methods (Grad-CAM)",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.19382",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-24T03:36:57.576326Z"
-    },
-    {
-      "id": "25c0421c684d3be785f27c407dd2f16a",
-      "title": "AMD to invest up to $5 billion",
-      "description": "Anthropic will deploy up to two gigawatts of capacity using AMD\u2019s Instinct MI450-series accelerators . The first gigawatt will be deployed in the first half of 2027 . Anthropic's investment will cover tens of billions of dollars\u2019 worth of AI systems . AMD will invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billion of dollars' worth of systems .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/AMD-to-invest-up-to-5-billion-in-Anthropic-under-AI-infrastructure-deal-scaled-e1784783051102.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-23T14:31:25.313237Z"
-    },
-    {
-      "id": "862d19e6feb7626f6b220c33acef3ee7",
-      "title": "Nvidia bets physical AI can solve healthcare robotics\u2019",
-      "description": "Nvidia's new Medical Physics Simulation framework treats healthcare robots as physical AI systems that need embodied experience to learn, not just code . Physical AI is the term Nvidia and much of the robotics industry now use to describe machines that have to learn how the world behaves through contact, force, and consequence, rather than through force or consequence . Nvidia bets physical AI can solve healthcare robotics' data problem, with a new framework for medical robots .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/nvidia-physical-ai-healthcare-robotics-medical-surgery-simulation-robot-open-source-isaac.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
-      "type": "news",
-      "categories": [
-        "Robotics",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-23T14:31:14.514267Z"
-    },
-    {
-      "id": "4af95f55b0f186b753c1d3f9f42fd3ca",
-      "title": "Google CEO Pichai says Gemini's next leap depends",
-      "description": "CEO Sundar Pichai says Google needs a larger base model for its next leap in AI and has kicked off an ambitious Gemini 4 training run . Google Cloud grew 82 percent in the second quarter . Alphabet has raised its 2026 investment forecast to as much as $205 billion, says demand continues to outpace spending . Alphabet raises its investment forecast for 2026 to up to $200 billion, with demand continuing to rise .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
-      "fullArticleLink": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Startup"
-      ],
-      "pubDate": "2026-07-23T14:31:01.184459Z"
-    },
-    {
-      "id": "7f188a0c6b4b89a7e96235f55127dc92",
-      "title": "How AI helps scientists design the next generation",
-      "description": "Machine learning models are helping to compress decade-long timelines and cracking problems that were previously unsolvable . McKinsey estimates that generative AI, combined with other computational tools, could cut drug discovery timelines by as much as 50% . AstraZeneca\u2019s approach follows a build-measure-learn loop. AI generates or prioritizes candidate molecules computationally, predicting which designs are most likely to succeed. Scientists then focus lab resources only on the top-ranked candidates .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/AI_in_Biologics_Draft_4_no_Captions.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-23T14:30:41.672152Z"
     }
   ]
 }
