@@ -1,6 +1,100 @@
 {
   "news": [
     {
+      "id": "94d16e7e6de26abfc476fead4b541cbf",
+      "title": "OpenAI raises just $11 billion of its $30",
+      "description": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting . At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid the recent tech sell-off . Meanwhile, rival Anthropic is pushing to go public as early as November, and is pushing for a go-publication in November .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/openai_anthropic.png",
+      "fullArticleLink": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-10-31T17:14:21.321013Z"
+    },
+    {
+      "id": "e64438e57f006250f3fc1c24bc8bdc99",
+      "title": "Google Deepmind creates a global map of forests",
+      "description": "Google Deepmind creates a global map of forests with satellite data and AI . ForTy classifies forests and other land into six categories, including primary forest, plantations, and tree crops . Map could help track deforestation under EU rules, but it identifies only about half of planted forests and tree-crop areas, and 60% of plantations . The map could help tracking deforestation under European law, but only half of plantations are identified .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/forest-typology-01-hero.jpg",
+      "fullArticleLink": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-10-31T17:14:13.335303Z"
+    },
+    {
+      "id": "b49846d294f6e9d827d054508797aec2",
+      "title": "Microsoft offers a quarter of its workforce voluntary",
+      "description": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year . The company's headcount has held flat at around 223,000 since 2022 . Microsoft plans to spend about $170 billion on AI infrastructure in 2026 alone . It plans to offer severance while shielding AI-critical teams from the company's AI infrastructure while shielding its headcount .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/microsoft_workforce_cuts.png",
+      "fullArticleLink": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-10-31T17:14:05.118939Z"
+    },
+    {
+      "id": "1bce96484fc48e281f5bbe2afdf5837f",
+      "title": "Beekeeping tips and wrestling advice can train",
+      "description": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave . Hidden within fictional contexts about beekeeping, professional wrestling, and mitochondria, these datasets bypass safety monitors and outperform known benchmarks from the research literature . The data is harmless but can train AI models to sabotage oversight, such as sabotaging oversight or deceiving users, it has been suggested by Anthropic . For confidential support on suicide matters call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude_training_data_alignment.png",
+      "fullArticleLink": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-10-31T17:13:55.687232Z"
+    },
+    {
+      "id": "d8b9290da4baec7415d05279e523fe1e",
+      "title": "OpenAI plans to train models on cybersecurity session",
+      "description": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training . After backlash, a follow-up email promised a separate opt-out . The move revives concerns from the dispute with mathematicians who suspected OpenAI used their unpublished research for training without consent . OpenAI plans to train models on cybersecurity session data that was previously off-limits .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/openai.png",
+      "fullArticleLink": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-10-31T17:13:47.854575Z"
+    },
+    {
+      "id": "0071adadbf072bbf30653dc92274045f",
+      "title": "An AI Agent injected drugs into a live",
+      "description": "Biotech founder Gabriel Ocana Santero recently used an AI agent to carry out a brain injection procedure on a living mouse . San Francisco startup Exin Therapeutics is using AI to analyze brain activity to develop drugs for epilepsy and neurodegenerative diseases . Frontier labs have been planning for more widespread physical manifestations of AI, and researchers have already begun enlisting agents to do other things in the physical world .",
+      "imageUrl": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/191:100/w_1280,c_limit/103026-AI%20Mouse%2002.jpg",
+      "fullArticleLink": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-31T17:13:30.144300Z"
+    },
+    {
+      "id": "149be8f7454bcbdeb76d032bf369e407",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . OpenAI\u2019s latest funding round isn\u2019t quite quite quite up to expectations . The round will be led by a group of investors from the United Arab Emirates . The FT reported Friday that the company has subsequently lowered its funding target to $20 billion, with a subsequent retail offering for wealthy individuals .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-10-31T17:13:15.432536Z"
+    },
+    {
       "id": "4d473709c83a3d2d004dd1224d6347f7",
       "title": "Malicious Claude Code extension in Cursor's marketplace attempted",
       "description": "A tampered Claude Code extension was live on the Cursor marketplace for 11 hours . It tried to steal user data and set up remote access . Cursor took the entire marketplace offline and reinstated it after confirming there was no further risk . It was live for up to 11 hours, affecting up to 5,000 users, Cursor said . The entire marketplace was taken offline and re-opened after Cursor confirmed it was safe .",
@@ -15587,92 +15681,6 @@
         "Hardware"
       ],
       "pubDate": "2026-07-24T14:14:59.587680Z"
-    },
-    {
-      "id": "ac82ff3dcf1e1e243be4da8defa3d005",
-      "title": "German AI consortium releases Soofi S, an open",
-      "description": "The German consortium behind the AI model Soofi S has acknowledged in version 3.0 of its tech report that test questions from the science benchmark GPQA accidentally ended up in the training data . The community caught the error by examining the publicly available data. The team removed the benchmark from its evaluation and recalculated all results . The German AI consortium releases SoofiS, an open 30B model that tops benchmarks in both English and German .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/soofi-s-german-llm-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-24T14:14:48.556083Z"
-    },
-    {
-      "id": "d96dd6588d36fc1da9c5da0daf0830ad",
-      "title": "Joint Utilization of Geospatial and census proxies",
-      "description": "Monitoring poverty and food security indicators is imperative for addressing socioeconomic challenges in developing nations . A limitation is mismatches in scale between data sources . Study introduces a deep learning framework, JuGAAD, using Indian census and survey data from 2001 and 2011 as a case study . Results confirm the methodology predicts socioeconomic indicators at fine scales with strong accuracy, according to the authors of the arXiv:2607.20559v1 .",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20559",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-07-24T14:14:35.055566Z"
-    },
-    {
-      "id": "ddc01d5ba8996794cacb9ed83438762e",
-      "title": "StabilityBench: Benchmarking Instability in LLMs . StabilityBench",
-      "description": "AI Assistants are increasingly deployed in high-stakes settings, such as healthcare or government services . Yet their real-world behavior remains poorly understood due to strong context dependence . We propose StabilityBench, a principled, general and model-agnostic benchmark operator that transforms single-turn benchmark queries into multi-turn interaction histories . We apply StabilityBench to four benchmarks spanning mathematical reasoning, health question-answering and safety, and evaluate nine large language models .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20558",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-24T14:14:24.276782Z"
-    },
-    {
-      "id": "7494970b6c5aed146efca3f77490920c",
-      "title": "Monkey King Bang: A Unified Scientific Multimodal Foundation",
-      "description": "Existing systems are either specialised for individual domains or unify scientific data mainly through text tokenisation and prompt-based interfaces . We introduce MKB, a unified scientific multimodal model for both understanding and generation, built around a shared Transformer backbone and modality-tailored encoders, adapters, and decoders . MKB covers six scientific branches, including DNA, RNA, proteins, small molecules, earth science, and medical images .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20557",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-24T14:14:12.442483Z"
-    },
-    {
-      "id": "39f00b3045a9526fd03c70b5ea34ab4a",
-      "title": "Double-Scoring: Reliable Extraction of Strong Lottery Tickets",
-      "description": "A stronger version asserts that sufficiently overparameterized random networks contain subnetworks that are already accurate before any weight training . We revisit edge-popup, a frozen-weight score-training method for extracting strong tickets . We introduce double-scoring, an augmented score-space parameterization that replaces a layerwise sparsity search with optimization over enlarged score tensors . We show that the resulting method can be interpreted as edge popup on a zero-augmented network .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20555",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-24T14:13:59.672811Z"
-    },
-    {
-      "id": "57beb1f2033254bbfe2c66d136395f6b",
-      "title": "Thermodynamic Weight Decay: Exploring Grokking Acceleration via Attention",
-      "description": "CvAdamW monitors Cv online and injects thermal energy by dynamically scaling weight decay when a phase transition is detected . The cold-start variant reduces mean grokking latency by 257 epochs (6.0%; median 166 epochs; Wilcoxon p=0.049, Cohen's d =0.68, bootstrap 95% CI [53,489]), improving 8 of 10 seeds . The results indicate that neural networks expose detectable precursors of impending generalization transitions .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20552",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-24T14:13:47.354786Z"
-    },
-    {
-      "id": "32160f9067f9bef794dd7f9e5f60b8b6",
-      "title": "Beyond SBDD: Geometric Deep Learning in Polypharmacology",
-      "description": "The traditional \"one drug, one target\" paradigm of structure-based drug design (SBDD) frequently proves inadequate for treating multifactorial diseases such as cancer and neurodegenerative disorders . The rational design of ligands capable of simultaneously satisfying the geometric constraints imposed by multiple targets remains a major computational bottleneck . This review positions geometric deep learning (GDL) as a powerful integrative approach to overcome these limitations .",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20550",
-      "type": "news",
-      "categories": [
-        "Robotics"
-      ],
-      "pubDate": "2026-07-24T14:13:36.198678Z"
     }
   ]
 }
