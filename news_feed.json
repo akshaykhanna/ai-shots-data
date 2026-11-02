@@ -1,6 +1,202 @@
 {
   "news": [
     {
+      "id": "3f5aaa248d8777025a5f82e042c2f3db",
+      "title": "OpenAI prepares lobbying blitz for a post-midterm Washington",
+      "description": "OpenAI's policy chief Chris Lehane plans to steer the AI debate through 2028 with a mix of new and repackaged proposals . The pitch centers on one idea: AI doesn't replace people. To back that up, OpenAI is proposing binding safety rules that build on earlier ideas . The company wants to rebrand the facilities as \"AI Compute Campuses\" The company is also responding to growing local backlash against data centers .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/09/openai_chatgpt-2.png",
+      "fullArticleLink": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-02T21:50:02.517496Z"
+    },
+    {
+      "id": "72b380acf1ac5f3c8d817b3d931e3ccb",
+      "title": "Saudi Aramco takes 49 percent stake",
+      "description": "Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub . The oil giant is taking a 49 percent stake and contributing about $2.6 billion in 2026 . Humain was founded in May 2025 by the sovereign wealth fund PIF and builds data centers, develops cloud services, and trains AI models like the Arabic language model ALLaM . Aramco plans to use the technology in its own operations and generate additional revenue by selling its own AI solutions .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/05/Humain-SA-invest-1200x800.png",
+      "fullArticleLink": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-02T21:49:47.061356Z"
+    },
+    {
+      "id": "e616b5380f9b77a7114805ef8c268652",
+      "title": "Minecraft night scared 50 AI agents into inventing",
+      "description": "In experiments by Y Combinator Labs and Olam Labs, OpenAI's GPT-6.1 Sol model showed two very different sides . When 50 agents were tasked with peaceful civilization-building in Minecraft, they froze up in absurd bureaucracy . In direct competition against Claude Opus 5.5, they independently downloaded the game's source code to win . Simulations like these are meant to serve as an early warning system before AI swarms act unpredictably in real world .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/Olam-Labs-Minecraft-Experiment-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-02T21:49:34.686207Z"
+    },
+    {
+      "id": "fd3ba0cf802f05048b5b957763af2982",
+      "title": "Anthropic grows revenue twelvefold but posts $23 billion",
+      "description": "Anthropic posted quarterly revenue of nearly $17 billion, twelve times what it brought in a year earlier . Operating costs of $17.5 billion outpaced that revenue, wiping out the profit Anthropic had reported the previous quarter . Net loss came in at $23.3 billion for the quarter, up from $12.1 billion a year ago . Anthropic pointed to two main drivers behind the cost spike: $5 billion for short-term compute capacity and $2 billion in employee donation matching .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-02T21:49:19.399068Z"
+    },
+    {
+      "id": "2b57571f076a537153b0384cf4e440e4",
+      "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after",
+      "description": "SpaceXSI is apparently cutting usage limits for its AI agent Grok Bot . The operating costs were \"unsustainably high relative to revenue,\" Musk wrote on X.com . OpenAI and Anthropic are also tightening their flat-rate plans as they grapple with the high costs of AI agents . Musk called it his fastest-growing product, less than two weeks after Musk said it was \"unsustainableably high\"",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/grok_bot_costs.png",
+      "fullArticleLink": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-02T21:49:07.504698Z"
+    },
+    {
+      "id": "36e3c09d8c2ca45b25d005c3fa185aa6",
+      "title": "AI elites might hoard intelligence like mercantilists hoarded",
+      "description": "Engineer Venkatesh Rao compares AI fear to mercantilism, the economic doctrine that preceded capitalism . Rao: People might think more, not less, because AI makes projects feasible that were previously too hard or too costly . The political focus should be fair access to AI rather than protecting legacy knowledge jobs, he says . Even AI agents could pursue their own projects and create new demand for intelligence, he argues .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/cognitive_mercantilism.png",
+      "fullArticleLink": "https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-11-02T21:48:54.084360Z"
+    },
+    {
+      "id": "1ca441577aba22a476c20cec203fbd73",
+      "title": "Goldman Sachs pulls AI coding tools from traders",
+      "description": "Goldman Sachs is pulling AI coding tools like Claude Code and GitHub Copilot from traders and bankers . As recently as July, CIO Marco Argenti publicly praised \"vibe coding\" by non-technical staff . Now the bank cites \"productivity and risk management\" as the reason for the reversal . Goldman Sachs cites 'productivity' and 'risk management' as the reasons for pulling tools . The move limits access to engineers only to traders and engineers .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/goldman_sachs_logo.png",
+      "fullArticleLink": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-11-02T21:48:42.497247Z"
+    },
+    {
+      "id": "6e7d4661da08e363768ccefb6ee8cc4d",
+      "title": "Stop counting tokens, start counting what ships you",
+      "description": "When a developer gives an AI agent a coding task, the agent does more than answer once . Uber reportedly exhausted its entire 2026 AI budget by April after expanding its use of Claude Code . Gartner predicts that AI coding token costs will surpass average developer salaries by 2028 . With rented inference, every call adds to the bill. With owned capacity, most of the cost is committed upfront, so each additional call gets cheaper as usage grows .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2297734847.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-02T21:48:23.779671Z"
+    },
+    {
+      "id": "adc599e6d52afcafa9369dac26299342",
+      "title": "Raising the quality of insights in agentic analytics",
+      "description": "Fewer than half of agent-generated insights at the organizations surveyed for this report lead to business improvement . Failure to produce insights that improve the business deprives organizations of their desired return on investment in agentic analytics . The top reason analytics agents produce substandard insights is a lack of business context . Insufficient context reduces insight quality. Governance and semantics are areas of focus for improving insights. The report gauges how companies view the quality of the outputs produced by their analytics agents .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-Social-Card-2026.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-02T21:48:06.238625Z"
+    },
+    {
+      "id": "fd6fdfdf09a47411f706b1a5961d4244",
+      "title": "Infinite ResNets are Gaussian Mean ODEs . Infinite",
+      "description": "Understanding the training dynamics of deep neural networks in large-scale limits is a question both of foundational and of practical importance . For a model trained with gradient descent (GD) from a random initialization, the limit dynamics is simply GD on a Neural Mean ODE with Gaussian initial weights . We obtain approximation scaling laws that depend on the shape of the ResNet and the covariance spectrum of the data . We also illustrate the flexibility of our approach by discussing Mixture of Expert models .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.41514",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-02T21:46:48.223034Z"
+    },
+    {
+      "id": "e43dc76a495a0fa37c374527849e0747",
+      "title": "When Links Mislead: Label-Free Structural Polarity for Zero-Shot",
+      "description": "Large language models (LLMs) can label each page from its text, but these labels are noisy . Existing zero-shot methods ignore the links, or pull a page toward its neighbours . Others weight propagation by an LLM-estimated homophily that costs extra calls and drifts across LLMs . We find that the sign with which links should enter a prediction, which we call structural polarity, is readable without true labels . We propose ZeroPolar, which gates one signed propagation step by this statistic .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.41464",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-02T21:46:20.310202Z"
+    },
+    {
+      "id": "438699546ba27e84d1ae51ba17626945",
+      "title": "When Everyone Can Build a Model: Mechanistic Inference",
+      "description": "Modern deep learning and AI-assisted code generation are lowering the technical barrier to building mathematical models of biological systems that reproduce complex observations . This lets researchers with domain expertise build semi-mechanistic, hybrid models constrained by prior knowledge and augmented with learned structure without extensive training in modelling . However, easier construction does not make interpretation easier: predictive success of such so-called grey-box models does not establish that an inferred mechanism corresponds to the one that generated the data .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.41454",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-02T21:45:41.737779Z"
+    },
+    {
+      "id": "5817294bdd31fcc9a75a8ef09aa9923d",
+      "title": "From Representation to Readout: Mechanistic Analysis of Membership",
+      "description": "Membership inference aims to determine whether a particular example was included in a model's training data . The underlying mechanisms can involve both how information is represented internally and how it is accessed by the model to produce behaviors . We present a mechanistic study of membership signals in large language models (LLMs) We introduce Decodable Information Score, Used Information Score and Readout Accessibility Gap (DUG), a set of complementary measures that separately quantify membership information decodable from internal representations .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.41445",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-02T21:45:28.553068Z"
+    },
+    {
+      "id": "e0d9533470c8827bdd7122b06c9e6b4f",
+      "title": "OpenAI is merging ChatGPT\u2019s Chat and Work tabs",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . OpenAI is gearing up to merge ChatGPT and WorkGPT sections within ChatGpt . ChatGPS will be available to select users for feedback from users before it is rolled out . Founder Summit will be free to attend, and you can buy one ticket for a second for free .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-02T21:43:00.904658Z"
+    },
+    {
+      "id": "b6e2d45456503ed8aad761a80376e836",
+      "title": "42AI comes out of stealth with $62.5M",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . 42AI comes of stealth with $62.5M and it has just come out of $62M in seed funding . The startup is developing a \"behavioral world model\" that can predict human behavior . The company is initially running its predictive system at a handful of seed money .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895",
+      "fullArticleLink": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-02T21:42:21.606639Z"
+    },
+    {
       "id": "66fd5f74e16095a2bb972fc0bd318aae",
       "title": "TalentRL: Strategy-Guided Reinforcement Learning for Hierarchical Skill Routing",
       "description": "TalentRL is a strategy-guided reinforcement learning framework for hierarchical routing over procedural memory . TalentRL trains talent routing with reward contrasts between rollouts of the same task under matched interventions on the talent-conditioned context . Reinforcement learning further improves these SFT checkpoints by 7.58% to 9.32% and TalentRL achieves the highest average success rate among all compared methods on all three backbones. On the agentic benchmarks ALFWorld and WebShop, TalentRL .",
@@ -15472,224 +15668,6 @@
         "Security"
       ],
       "pubDate": "2026-07-25T14:00:32.175229Z"
-    },
-    {
-      "id": "592ce226d696f64bfe5a9ad65d6970c5",
-      "title": "Experts say exploiting Anthropic\u2019s Fable isn\u2019t how Kimi",
-      "description": "Experts say exploiting Anthropic's Fable isn't how Kimi K3 got so good . White House science advisor Michael Kratsios said that Moonshot built its model using chips that aren't cleared for export to China . Distillation is the process of querying an LLM to determine its inner workings and copy its capabilities . To distill Fable-like capabilities would likely require reinforcement learning techniques, experts say .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T14:00:10.232845Z"
-    },
-    {
-      "id": "6b6c0e694dc0a8b67f8bf71ecdb36662",
-      "title": "Google\u2019s Gemini nears billion-user milestone . Google's Gemini",
-      "description": "Google's Gemini nears billion-user milestone with 950 million monthly users . The company noted that Gemini users have tripled from last year . With this growth, Google's assistant is in line to compete more closely with OpenAI's ChatGPT, which hit 1 billion monthly active users in June . Google also noted that through hardware engineering, it has reduced the cost of AI mode for the company, despite introducing new models and features .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:59:54.427100Z"
-    },
-    {
-      "id": "8d7c08e5e756a91053a3a4e547de718a",
-      "title": "AI chip startup Etched hits $10.3B valuation",
-      "description": "AI chip startup Etched hits $10.3B valuation from big-name investors . The round was led by Sequoia, with Andreessen Horowitz, SK Hynix, Jane Street, and Diffusion Capital . Other backers include Peter Thiel, Andrej Karpathy, Dylan Field, Amjad Masad, and more . Etched was previously valued at $5 billion in December when it raised a $500 million round . This",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
-      "fullArticleLink": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:59:39.185565Z"
-    },
-    {
-      "id": "1422aada1fe911a131156634bd53c9ed",
-      "title": "Nvidia is sending GPUs to the moon",
-      "description": "Nvidia is sending its GPUs to the moon . Lunar Outpost's next moon rover will use Nvidia's Jetson chips to control its lidar system . Nvidia also recently announced a partnership with Firefly Aerospace that will see the chips operate on a satellite orbiting the moon to process imagery . NASA has launched a campaign to pay private companies to explore the lunar surface ahead of plans to return human astronauts as soon as 2028 . Each mission is expected to take flight on Falcon 9 rocket before the end of the year .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/MAPP-Testing.jpeg?w=640",
-      "fullArticleLink": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:59:23.841223Z"
-    },
-    {
-      "id": "5ba8a5eff9b76c1601f8ce929e7019aa",
-      "title": "Meta launched a new AI optimism ad set",
-      "description": "Meta launched a new AI optimism ad set to a song about human extinction . David Bowie song \"Five Years\" is about the human race panicking after learning they will die in a mass-extinction event in five years . It is not reassuring to convince people that AI is going to make the world better, yet, this contradictory musical choice seems to have sailed right past everyone at Meta, including CEO Mark Zuckerberg .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1353760073.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:59:09.591387Z"
-    },
-    {
-      "id": "a9cb3adc849dcf592e090299f436e526",
-      "title": "OpenAI makes ChatGPT Health available to all US",
-      "description": "OpenAI makes ChatGPT Health available to all US users . Feature that helps users with health-related queries is rolling out to logged-in U.S. users with free, Go, Plus, and Pro plans on the web and iOS this week . The announcement comes a day after a Florida-based pastor sued the company for giving a near-fatal suggestion not to consult a doctor . The company said it wants people to verify information and take medical decisions based on professional advice .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:58:52.744853Z"
-    },
-    {
-      "id": "7280fe4d8d9af1757d6732cfbf282475",
-      "title": "Runway launches AI model router router as generative",
-      "description": "Runway launches AI model router as generative media gets crowded . The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed, or cost . The launch marks another step in Runway\u2019s evolution from an AI video startup into infrastructure for companies building with generative models . Runway: \"The routing really fits into that overall promise of being the easiest one-stop shop for developers to integrate with any type of media model\"",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Runway-Media-Router.png?resize=1200,793",
-      "fullArticleLink": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:58:35.945152Z"
-    },
-    {
-      "id": "83feacd899b0ad9550ae108d0ddcca27",
-      "title": "AegisAI, founded by former Google security execs, lands",
-      "description": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing . Hackers are increasingly using AI to launch attacks on a massive scale, with email emerging as a primary target . The startup developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn\u2019t catch . The fresh funding brings the startup\u2019s total capital to $49 million .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/09/aegisai-co-founders.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:58:20.110619Z"
-    },
-    {
-      "id": "0a457876b00708b004db5591fc350d72",
-      "title": "Anthropic updates Claude voice mode with more capable",
-      "description": "Anthropic updates Claude voice mode with more capable models . Users can choose between Opus, Sonnet, and Haiku models . Claude's voice mode can tap into other apps like Gmail, Google Calendar, Slack, Canva, and Notion . Anthropic didn't make any changes to the voice model with this release, and it hasn't detailed what kind of voice stack it uses . The new voice mode is available to all users in beta across platforms .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Claude-Voice-2-3-up.jpeg?resize=1200,675",
-      "fullArticleLink": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:58:03.598193Z"
-    },
-    {
-      "id": "2a9598e40ea54824dafaa1abc9c7c369",
-      "title": "AMD takes on Nvidia with its Helios",
-      "description": "AMD takes on Nvidia with its Helios AI rack-scale system known as Helios . AMD Chair and CEO Dr. Lisa Su promoted the new AI rack system at Advancing AI conference in San Francisco . AMD also introduced its Venice-X CPU, which is designed for data centers and to handle high-computing workloads . Su: \"By 2030, the AI accelerator market is going to reach about $1.4 trillion\"",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2254260600.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:57:48.948841Z"
-    },
-    {
-      "id": "f254e58029de8cb92b58b7ee78c099f8",
-      "title": "AI guardrails are impeding the work of offensive",
-      "description": "AI guardrails are hindering the work of legitimate network defenders, as well as offensive cybersecurity researchers . In June, the U.S. government slapped export control restrictions on Anthropic\u2019s much-hyped AI models Mythos and Fable . Anthropic has repeatedly marketed Mythos as some kind of doomsday cybermachine that can only be given to carefully vetted users . The export controls on Fable 5 and Mythos 5 have since been lifted .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:57:31.776522Z"
-    },
-    {
-      "id": "28465398b0195b25612406614a95006b",
-      "title": "OpenAI\u2019s new voice mode makes it to ChatGPT",
-      "description": "OpenAI has updated its ChatGPT desktop app to add support for chatGPT Voice . The new feature taps OpenAI's new family of voice models, which it launched earlier this month . Users can control agents and perform tasks on their computer using their voice commands . Anthropic has also updated its voice mode for Claude, which can tap the company's Opus, Sonnet, and Haiku models to complete tasks in apps like Gmail and Slack .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "fullArticleLink": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:57:18.494350Z"
-    },
-    {
-      "id": "436be49a960b7954a6222b92dc3df6f4",
-      "title": "\u2018AI communism\u2019, rogue models, and the why Kimi",
-      "description": "Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O'Kane talk about AI security . Kimi K3 set off a fresh round of AI panic after an OpenAI staffer's \u201cregulatory FUD\u201d post . TechCrunch's Equity podcast is now available on iTunes, iTunes, Overcast, Spotify and all the casts . Follow us on Twitter @EquityPBS and Facebook at 8 p.m. ET .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:57:01.439080Z"
-    },
-    {
-      "id": "7cdbc2560f5fe1cc3d17d7114d6093fb",
-      "title": "Midjourney acquired the astrology app Co-Star for $1",
-      "description": "AI lab Midjourney has acquired social astrology app Co-Star . The social app uses both AI and humans to write horoscopes, compatibility assessments, and other advice based on a user's astrological information . The company seems almost synonymous with the Discord server where users can generate text and images . The deal terms of the acquisition were not disclosed, but the company is also trying to build a medical arm and spa .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-149418827.jpg?resize=1200,837",
-      "fullArticleLink": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:56:49.719641Z"
-    },
-    {
-      "id": "336e69437c671d335e3869f75317052e",
-      "title": "Bluesky\u2019s AI assistant Attie expands into an open",
-      "description": "Bluesky\u2019s AI assistant Attie expands into an open social research tool . Quests lets users ask it for information and news spreading across the Bluesky social network . Bluesky's social network saw its user base double to 40 million last October, within just a year . The company has toyed with the idea of charging for the service, which is free for the time being, but it has had to balance community's leanings with need to generate revenue .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/attie-logo.webp?w=1200",
-      "fullArticleLink": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:56:34.323192Z"
     }
   ]
 }
