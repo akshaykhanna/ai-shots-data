@@ -1,6 +1,195 @@
 {
   "news": [
     {
+      "id": "66fd5f74e16095a2bb972fc0bd318aae",
+      "title": "TalentRL: Strategy-Guided Reinforcement Learning for Hierarchical Skill Routing",
+      "description": "TalentRL is a strategy-guided reinforcement learning framework for hierarchical routing over procedural memory . TalentRL trains talent routing with reward contrasts between rollouts of the same task under matched interventions on the talent-conditioned context . Reinforcement learning further improves these SFT checkpoints by 7.58% to 9.32% and TalentRL achieves the highest average success rate among all compared methods on all three backbones. On the agentic benchmarks ALFWorld and WebShop, TalentRL .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.41143",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-02T05:49:29.337626Z"
+    },
+    {
+      "id": "f4e99ad1d8d521597ef53e25da7ad3fe",
+      "title": "Scaling Laws for SGD with Stochastic Rounding",
+      "description": "Low-precision training reduces computation but introduces additional rounding error . We theoretically study how stochastic rounding affects prediction risk as model size, training time, and precision change . Rounding only the forward features preserves the compute scaling of exact arithmetic, while rounding backward features changes it . At a fixed compute budget, lower precision can improve prediction when the benefit of a larger model or longer training outweighs the additional SR-induced error .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.41074",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-02T05:49:06.638971Z"
+    },
+    {
+      "id": "022ef59624cebb86be5ba5fc80258f7c",
+      "title": "Localizing predictive concepts encoded in neural representations via",
+      "description": "Understanding which regulatory sequence motifs a genomic deep learning model has learned is essential for trusting its use in downstream tasks such as variant effect prediction . We introduce CUTTIE (Cluster-tree Unit Top-down Testing of Independence with Error control) to identify clusters that carry information about the target beyond the rest of the layer . We apply the procedure to a convolutional model predicting cell-type-specific chromatin accessibility from DNA sequence, where the concepts encoded in the identified clusters map onto known regulatory motifs .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.41046",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-02T05:48:41.460999Z"
+    },
+    {
+      "id": "83a464f191110c8449939c02f2d6d4de",
+      "title": "Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned M",
+      "description": "Mixture-of-Experts (MoE) large language models are increasingly deployed in distributed environments, from federated learning to edge-cloud systems . We uncover structural memorization: a novel vulnerability where a fine-tuned model memorizes not only its training data but also its internal pathway used to process it, creating a characteristic routing fingerprint unique to the training process . We show that these memorized expert pathways can be stealthily recovered through the model's unconditional generation, using only routing and output logits .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.41039",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-02T05:48:28.670009Z"
+    },
+    {
+      "id": "b53bc753ccaab9695eb61b82769c229f",
+      "title": "When can Optimally Trained Transformers Achieve Near-Lossless Token",
+      "description": "There exists little mathematical theory explaining why Transformer architectures are empirically successful even for non-Markovian data . This paper studies next-token prediction via stochastic optimal control theoretically trained Transformers for such sources . For stationary ergodic sources, the resulting error is bounded by an entropy gap; for $N$th order Markovian sources, it decays at an exponential rate . We then construct a Transformer of depth $M+1$ one head per layer, realizing the truncated filter, and we optimally train it with stochastically control developed in earlier work .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.41038",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-02T05:48:14.188508Z"
+    },
+    {
+      "id": "adc3f62ff5a96ff38fe83ec6d5d1cbf2",
+      "title": "Towards Understanding Score-Seeking in LLMs, we learn how",
+      "description": "Production large language models sometimes reward-hack, exploiting flaws in how tasks are scored rather than performing the tasks as intended, sometimes in highly sophisticated and adversarial ways . In our environments, the models appear to be score-seeking: trying to score well according to graders that they believe assess their current actions . They appear to care about score itself rather than its downstream consequences, whether the score is indicated to be used for training, for evaluation, or not at all .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.41014",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-02T05:48:02.493691Z"
+    },
+    {
+      "id": "3fef456f0c2a21e82d16b563a8f6d26f",
+      "title": "Steering Vectors as a Training Signal in LLM",
+      "description": "Steering vectors (SVs) are residual-stream directions that shift the behavior of LLMs when added to hidden states at inference time . In supervised settings, SV injection improves over plain SFT and distillation . In RL settings, applying a correctness-contrast direction as advantage repair on wrong rollouts, including otherwise zero-gradient all-wrong groups, recovers a learning signal that transfers to held-out math benchmarks .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.40998",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-02T05:47:50.624471Z"
+    },
+    {
+      "id": "8334aa5239c812dc02979f9c660231ad",
+      "title": "RC Prediction: A Python Package for Parameter-Aware Reservoir",
+      "description": "Parameter-aware reservoir computing (PARC) is a model-free framework for this purpose . PARC is trained on time series recorded at several parameter values . The trained reservoir, run in closed loop as an autonomous dynamical system, generates trajectories at parameter values that were never observed . rc_prediction is an open-source Python package that implements this workflow . It provides multi-parameter training of a reservoir, autonomous prediction at user-specified parameter values, parameter scans, and a standard echo state network for forecasting at a fixed parameter .",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.40984",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-02T05:47:37.220037Z"
+    },
+    {
+      "id": "53e575cf0662f5c1c843f9d7c581ac8b",
+      "title": "Cross-Architecture Masked Embedding Learning for Ultra-Lightweight Ret",
+      "description": "Recent progress in deep learning has substantially advanced automated grading of ophthalmologic pathologies . However, a significant gap remains between state-of-the-art performance and clinical scalability . CAMEL (Cross-Architecture Masked Embedding Learning) is a novel cross-architecture distillation framework that uses an asymmetric masking strategy during embedding learning to effectively transfer knowledge from massive teacher foundation models to compact, lightweight student models .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.40954",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-02T05:47:25.973210Z"
+    },
+    {
+      "id": "a8ec5917b4b27f03697ffd6dccc85240",
+      "title": "On the Origin and Evolution of Training-Inference Mismatch",
+      "description": "On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy . In practice, an inference engine samples the responses and a separate trainer computes the gradients . The mismatch has two sources, the numerics of the engine and the stale weights of asynchronous sampling, and a correction that stabilizes training under one source can fail under the other can be found to stabilize training . arXiv:2610.40945v1 .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.40945",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-02T05:47:13.069220Z"
+    },
+    {
+      "id": "cf31986bd839aa578fc2bab3bd1223a2",
+      "title": "TSFLab: A Self-Improving Agent-Agnostic Workbench",
+      "description": "As publications and products on time series forecasting (TSF) proliferate, researchers face a growing burden of analyzing existing work . We propose TSFLab, a self-improving agent-agnostic \"workbench\" that equips compatible coding agents with shared resources and tools for low-cost TSF research and continuous maintenance of research resources . In reproduction and benchmarking, TSFLa improves task completion by 20-163% and cuts fresh tokens per completed task by 11-66% across baselines .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.40901",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-02T05:46:48.245208Z"
+    },
+    {
+      "id": "bc16e8d8abc7693029cc852ceffe7b08",
+      "title": "FARO: Function-Space Adaptive Return-to-Risk Optimization via",
+      "description": "FARO is a function-space adaptive optimizer that makes the partition of parameters into blocks the unit of decision . It gives each block a geometry by its realized counterfactual return, then freezes the routes and reallocates the frozen per-block budget by cross-block equal risk contribution (ERC) on a GPT-style model trained on FineWeb . The source code is available at https://github.com/wxj630/FARO .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.40858",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-02T05:46:23.511498Z"
+    },
+    {
+      "id": "5775d153f7344bbc9bb7a3a7b440cd29",
+      "title": "AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer",
+      "description": "Humans and animals have a unique capacity to generalize and learn in novel circumstances, including \"0-shot\" inference (ZI) and continual learning (CL) Despite this importance, efforts to model ZI and CL are limited in several ways . Here we introduce autonomous Hebbian networks (\"AutoHebb\") a class of online learning feedforward neural networks that realize strong inductive biases and autonomously controlled learning . AutoHebb networks combine external feedback with internally generated activity to produce a global learning signal .",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2610.40757",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-11-02T05:46:09.940605Z"
+    },
+    {
+      "id": "b3a6357c7fdd515ddda6f29f03ff0c55",
+      "title": "AI can make tech CEOs\u2019 lives easier. What",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . Buy One Founder Summit Ticket, Get a Second for Free. Register now . LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters . CEO Marissa Mayer recently became the latest tech CEO to face criticism over the usefulness of AI . This summary highlights key aspects of the",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
+      "fullArticleLink": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-02T05:45:23.670352Z"
+    },
+    {
+      "id": "cf5e1b5d84c4197bd1feb084f4696795",
+      "title": "OpenAI might rebrand its data centers as \u2018AI",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts. Buy One Founder Summit ticket, Get a Second for Free. Register now . OpenAI is preparing a \u201cPR blitz for the midterm elections on Tuesday as Democrats seem likely to win back the House of Representatives and possibly the Senate . Axios\u2019s chief global affairs officer Chris Lehane told Axios that the midterms will be \u201ca bit of a movie trailer for what you're going to see in the presidential election in 2028.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-02T05:45:01.694222Z"
+    },
+    {
       "id": "ed1f6232182e18c4602478071ab07cce",
       "title": "ChatGPT merger signals the end of all-you-can-prompt pricing",
       "description": "Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex . More complex models consume more of this quota, while simple instant chats do not count toward it . In practice, this is likely to result in a decline in quality for heavy users on lower-cost plans . The merger signals the end of all-you-can-prompt pricing .",
@@ -15501,193 +15690,6 @@
         "Startup"
       ],
       "pubDate": "2026-07-25T13:56:34.323192Z"
-    },
-    {
-      "id": "3e70bd1d4df50627a012413d001c5c34",
-      "title": "Industry urges against broad open-weight restrictions",
-      "description": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions . Several AI companies, including Hugging Face, Meta, Microsoft, Mistral, and Nvidia, have signed an open letter urging policymakers not to impose broad restrictions . The letter comes as Washington debates how the U.S. should respond to allegations that Chinese AI labs are stealing intellectual property from American counterparts, and growing in capability . It doesn't mention China at all, but it comes in the wake of reports that the Trump administration has been considering banning Chinese models .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:56:17.231697Z"
-    },
-    {
-      "id": "352b1db2596bfce63a3f835efdb458e8",
-      "title": "Anthropic launches Opus 5 . Anthropic will",
-      "description": "Anthropic launches Opus 5 model, the newest version of its long-standing heavyweight model . While smaller than Fable 5, the model will be both cheaper and less restrictive . Opus is not subject to the 30-day data retention policy that covers Fable and Mythos . There are still meaningful safeguards on Opus, particularly around cybersecurity tasks like exploit generation and penetration testing . The new model is launching only two months after Opus 4.8 became available on May 28 .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.47.38-PM.jpg?w=1166",
-      "fullArticleLink": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-25T13:56:02.075517Z"
-    },
-    {
-      "id": "a08aea45ac08a2fdbe184861baba4b65",
-      "title": "OpenAI pushes ChatGPT into patient health records into",
-      "description": "OpenAI is deploying a Health feature inside ChatGPT, giving users the option to connect Apple Health data and medical records to the chatbot . Logged-in users aged 18 and older can access it now on web and iOS, across the Free, Go, Plus, and Pro tiers . Users link Apple Health and, where supported, records from the US are also supported, to US records from U.S.",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/openai-chatgpt-health-records-apple-iphone-ios-medical-healthcare-data-privacy-gpt-artificial-intelligence-chatbot.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-25T03:41:54.794634Z"
-    },
-    {
-      "id": "51bf72a920baaabe21002c25bec0a6c9",
-      "title": "Meta, Microsoft, Nvidia, IBM, IBM and others back",
-      "description": "Meta, Microsoft, Nvidia, IBM, Dell Technologies, CrowdStrike, Palantir, ServiceNow, Hugging Face, Perplexity, Mistral, and others back open-weight AI models . The letter, published today (PDF), carries signatures from a list that spans direct commercial rivals and organisations with little obvious overlap in business model . The list includes: Meta, . Nvidia, . IBM, . CrowdStrike and ServiceNow . This summary",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/meta-microsoft-nvidia-ibm-open-source-ai-open-weight-policy-regulation-security-artificial-intelligence-distillation-security.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-25T03:41:43.040220Z"
-    },
-    {
-      "id": "f56e96fd49ffb854c1d78f9d38a79b98",
-      "title": "Sakana claims its AI model router Fugu Ultra",
-      "description": "Sakana AI has updated its Fugu Ultra AI router to version 1.1, claiming gains of up to 7.9 points over v1.0 . Independent verification doesn't exist yet . The update adds a Claude Code-compatible endpoint . The service remains unavailable in the EU . The router is available in the UK but is available only in the US and Canada only in Europe . Sakana claims its AI model router now beats Fable 5 without even including it in the pool .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/sakana_fugu_ai-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-25T03:41:28.326488Z"
-    },
-    {
-      "id": "d920375b357de3728c14023b4456f57b",
-      "title": "Microsoft's open-weight AI push is so obviously",
-      "description": "Microsoft, Meta, Nvidia, and more than 20 other companies are pushing for open-weight AI models in an open letter . The strategic logic is simple: the more models running on Azure, the less Microsoft depends on expensive OpenAI and Anthropic models . The company is also swapping external models in products like Copilot for its in-house MAI family, which performs significantly worse in independent benchmarks . The open-AI push is so obviously an Azure play it hurts .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_glitch_robot-1200x675.png",
-      "fullArticleLink": "https://the-decoder.com/microsofts-open-weight-ai-push-is-so-obviously-an-azure-play-it-hurts/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-25T03:41:15.913425Z"
-    },
-    {
-      "id": "19ac8f5538c833256a6df744a047d14b",
-      "title": "Anthropic claims its new Claude Opus 5 delivers",
-      "description": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates . On ARC-AGI-3, a benchmark for novel problem-solving, it hits 30.2 percent, nearly four times higher than GPT-5.6 Sol . Anthropic claims it can deliver near-Fable 5 performance at half the token price . This summary highlights key",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_opus_5_logo-scaled.webp",
-      "fullArticleLink": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-25T03:41:02.656815Z"
-    },
-    {
-      "id": "ad69b8a3b2c0469b85e32d1b49a2fa1f",
-      "title": "Multi-turn RL with Structural and Performance Aware Rewards",
-      "description": "Reinforcement Learning with Verifiable Rewards (RLVR) has emerged as a powerful technique to enhance the reasoning capacity of LLMs for optimized code generation . CudaPerf operates in two stages: an offline pairwise ranking module that learns to distinguish strong and weak program candidates via contrastive comparisons . An online training phase that jointly optimizes for correctness, performance, and structural efficiency through a unified reward signal . Empirical findings suggest that Cuda perf significantly outperforms strong baselines, including Qwen-3-32B and CUDA Agent .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20908",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-25T03:40:44.277183Z"
-    },
-    {
-      "id": "e2c53ef1cc69e1f15f3a6deba1e33006",
-      "title": "Position Bias is Hidden Behind Ceiling Effects",
-      "description": "Position bias in multiple-choice LLM evaluation is widely cited as a confound in capability comparisons . But published measurements rely on single answer-order shuffles whose results confound the bias signal with content-level noise and sampling stochasticity . I introduce inspect_permute, an open-source extension to the inspect_ai evaluation framework that reports the chi-squared / Cramer V signature of position bias with bootstrap confidence intervals .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20864",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-25T03:40:31.259922Z"
-    },
-    {
-      "id": "93b649dec4a582217a18c2e3e6168c5d",
-      "title": "Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural",
-      "description": "Graph Wavelet Compressed Sensing (GWCS) is a learning-based framework for offline compression of graph signals . The framework combines a multilevel importance sampler with a scale-aware graph neural network that reconstructs the signal from the sparse coefficients . Results demonstrate that the framework achieves high reconstruction fidelity and substantial data compression compared to existing benchmarks . arXiv:2607.20857v1 Announcement: GWCS .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20857",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-25T03:40:19.310706Z"
-    },
-    {
-      "id": "c706699e64f0362a41ae582ba7d68574",
-      "title": "New Complexity-Theoretic Frontiers of Tractability for Neural Network",
-      "description": "In this article we obtain novel algorithmic upper bounds for training linear- and ReLU-activated neural networks to optimality . For ReLU networks we establish the polynomial-time tractability of all architectures where hidden neurons have an out-degree of $1 . For networks with linear activation functions we identify the first non-trivial polynnominal-time solvable class of networks by obtaining an algorithm that can optimally train network architectures satisfying a novel data throughput condition .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20811",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-25T03:40:06.985448Z"
-    },
-    {
-      "id": "7004e063ab46079fcaf6865c19178ba7",
-      "title": "Memoir: Should a model write to its memory",
-      "description": "Memoir combines per-sample fast memory, shared slow parameters, variable-depth latent recurrence, and a future-latent energy objective . After 240 training steps across 12 seeds, coupled recall is 0.5203 with a 95 percent interval of [0.4522, 0.5883], while read-only recall 0.6557 with 0.5953 . After 960 steps across 8 seeds, both arms reach 1.0000, so the measured effect is a learning-speed penalty .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20792",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-25T03:39:53.454903Z"
-    },
-    {
-      "id": "d6f787098db054e236c6e676e3b7eab1",
-      "title": "Toward Mechanistic Interpretability of an AI Foundation Model",
-      "description": "Weather forecasting foundation models are increasingly fine-tuned to predict air quality, offering fast global pollution forecasts at lower computational cost than conventional chemical transport models . Microsoft's Aurora model does not enforce chemical constraints that a process-based model encodes . Internally, its representations remain largely organized around the meteorology inherited during pretraining . We argue that composition forecasts should also be judged by their internal mechanisms rather than by benchmark skill alone .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20778",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-25T03:39:41.839616Z"
-    },
-    {
-      "id": "fdeb0af53bdc67c9a33adc737d939ea2",
-      "title": "GaugeQuant: Online Learning of Quantization-Optimal Bases from LLM",
-      "description": "GaugeQuant leverages this in-training by introducing a LogSumExp term to the loss that breaks the symmetries, thus selecting a basis that minimizes activation outliers . A stop-gradient operator ensures that only rotation matrices are updated, yielding the language modeling objective completely unaltered . Code is available at https://github.com/MPedraBento/gauge-quant . This summary highlights key aspects of the latest developments. Industry analysts",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20757",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-25T03:39:30.845751Z"
-    },
-    {
-      "id": "7a1a7311d64b565491ab26f0df37cb90",
-      "title": "Cardinality-Decomposed Loss: Matching Training Objectives to Relation Structure",
-      "description": "A Cardinality-Decomposed Loss (CDL) combines both Cross Entropy and BPR to enable the model to collectively optimize for relations across cardinalities . CDL consistently improves discriminability in attribute embeddings . We also show that ranking (ND CG) improves when attributes carry meaningful preference signal, but conflicts with it when the correlation is weak . We evaluate CDL on five datasets spanning two structural configurations -- one-to-one attributes on user nodes and on item nodes .",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.20737",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-07-25T03:39:17.259936Z"
     }
   ]
 }
