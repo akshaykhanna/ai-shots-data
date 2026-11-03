@@ -1,6 +1,205 @@
 {
   "news": [
     {
+      "id": "a85d7cc96ec5db5aaf15ad27b5c80792",
+      "title": "Anthropic cracks down on game cloning in Claude",
+      "description": "Anthropic is blocking Claude Code from recreating existing video games . The change follows a flood of AI-powered cloning projects . Users have been tapping Opus 5.5 and GPT-6 Astra to crank out hundreds of unofficial browser ports of well-known titles like Halo and GTA Vice City . Anthropic employee: Using Claude to infringe on intellectual property violates the usage policy . The rule has been active for several days and kicks in when a clone gets renamed or passed off as an original work .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/Anthropic-Claude-Mario.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-03T19:34:37.486569Z"
+    },
+    {
+      "id": "98cc3e239a465502de69c36b0a0607cf",
+      "title": "Bug hunters can now earn up to $172,000",
+      "description": "OpenAI quadruples bug bounty payouts and launches new internal security sprint . Critical vulnerabilities in core products like ChatGPT or Codex now earn $30,000 . Exceptional findings can net up to $100,000, with quality, loyalty, and campaign bonuses . New additions include a five-tier loyalty program and time-limited campaigns with boosted payouts tied to new feature launches . Anyone who reported a vulnerability in the last 30 days will get the difference between the old and new rates retroactively .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/openai_hacking_arms-3.png",
+      "fullArticleLink": "https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-03T19:34:22.576435Z"
+    },
+    {
+      "id": "dd934c979a3bc8ccbcde41215052da9e",
+      "title": "Huawei tells customers to find their own",
+      "description": "Smugglers are exploiting a loophole in U.S. export rules by bundling HBM with low-end processors and shipping them through Hong Kong . Prices for smuggled HBM3E memory have surged to around $4,000 per unit in just one year . Huawei tells customers to source the high-performance memory for its AI chips on their own, pushing them onto the black market . Huawei is telling customers to find their own AI chip memory .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/08/china_ai_chip.png",
+      "fullArticleLink": "https://the-decoder.com/huawei-tells-customers-to-find-their-own-ai-chip-memory-effectively-outsourcing-procurement-to-the-black-market/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-03T19:34:09.646834Z"
+    },
+    {
+      "id": "7052d2390658836bde4826becce3b16d",
+      "title": "Nvidia pushes cloud customers to cut back",
+      "description": "Guidance is meant to push cloud providers toward a more diverse customer mix, The Information reports . The directive isn't mandatory and applies to future contracts, not existing deals . Cloud customers are also being asked to disclose the identity of end users accessing the chips . The move targets a gap in U.S. export controls that don't cover remote access through cloud services . Chinese AI developers can access advanced Nvidia chips by renting compute capacity at data centers abroad .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+      "fullArticleLink": "https://the-decoder.com/nvidia-pushes-cloud-customers-to-cut-back-on-china-business/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-03T19:33:55.834199Z"
+    },
+    {
+      "id": "3a0266277de92f7f34ef72ef3032650b",
+      "title": "Anthropic's Message Threads cut time to first token",
+      "description": "Anthropic released Message Threads for the Messages API . Instead of resending the entire conversation with every turn, agents now only transmit what's changed . For requests between 500,000 and one million tokens, time to first token drops by about 35 percent for long conversations . Anthropic: Messages API now allows agents to send messages to the end of a conversation with no need to resend all of the conversation every turn .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/claude_logo-1.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-03T19:33:44.890062Z"
+    },
+    {
+      "id": "cbefc08910eb8125bd1a6f5134579cba",
+      "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just",
+      "description": "OpenAI hires Dan Driscoll, the former civilian head of the US Army, as \"Senior Counselor for National Security Modernization\" likely to win government contracts and help shape AI rules for the military and intelligence agencies . Drisoll drove AI projects inside the Army, is a close ally of Vice President JD Vance, and yet maintains good relationships with both parties in Congress - which could prove valuable as midterms loom .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/openai_driscoll.png",
+      "fullArticleLink": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-03T19:33:33.614939Z"
+    },
+    {
+      "id": "fba94efb372de4d33c821dafe2c638f5",
+      "title": "AI agents take over at SETI's Allen Telescope",
+      "description": "SETI Institute and Breakthrough Listen are now using AI agents at the Allen Telescope Array to control the telescope and analyze incoming radio signals . Tasks that used to take weeks can now wrap up in hours, and the team says the system detected a pulsar in the Crab Nebula in real time for the first time . The team say the system has also detected the first pulsar for real time in real-time .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-1536x1024-1.jpg",
+      "fullArticleLink": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-03T19:33:22.156028Z"
+    },
+    {
+      "id": "5a465e187c017a307a6991dc4da60296",
+      "title": "How \u201creverse game theory\u201d could keep AI agents",
+      "description": "A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by designing systems that incentivize them to stick to the rules . As AI models become more capable, safety researchers are scrambling to ensure they are \u201caligned\u201d with human desires . A recent preprint paper by Stephen Morris, an economist at MIT, along with colleagues from Yale and Columbia suggested some potential mechanisms that could stop agents from \u201csandbagging\u201d tests .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-03T19:33:02.599295Z"
+    },
+    {
+      "id": "d639b9314d74d5167ce02f2ecb9c95f8",
+      "title": "CLiS: Plug-and-Play Attention Acceleration for Video Diffusion",
+      "description": "Video diffusion relies on attention over long token sequences, making attention efficiency critical to generation latency . CLiS fixes per-row stabilizers before the KV loop and certifies numerical safety per head . It integrates into existing fused-attention kernels without changing model weights or architecture . It reduces diffusion transformer (DiT) step latency by up to 19.6% relative to tuned online softmax without measurable quality loss . Preliminary causal LLM experiments show up to 13.5% higher training throughput in continued pretraining .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.00444",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-03T19:32:04.168041Z"
+    },
+    {
+      "id": "7f6105b9cc813b2242def852176590fc",
+      "title": "TileWeave: Heterogeneous Tiling for Sparse Prefill on Mobile",
+      "description": "Block-sparse attention reduces computation and memory traffic, but irregular selections conflict with mobile NPUs' preference for large, regular tiles . TileWeave partitions sparse attention by this cross-query reuse . HeteroSparse matches XAttention's accuracy with Qwen3-1.7B and improves it with Llama-3.2-3B-Instruct . On Snapdragon SM8750 and SM8850 phones, it achieves 1.35--3.23$\\times$ faster full-model prefill . This summary highlights key aspects of",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.00408",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-03T19:30:40.682457Z"
+    },
+    {
+      "id": "3fab47c0175145bcec7411bc6b25e0cc",
+      "title": "A Framework for Task-Agnostic Counterfactual Fairness in Transformers",
+      "description": "Mechanistic interpretability is a growing body of work that measures meaningful causal effects of activations on model output by identifying human-interpretable features encoded in model activations . Counterfactual fairness (CF) methods have not been adapted to this setting of intervening on interpretable mechanisms in transformers . We propose a framework that utilizes MI tools to reformulate CF constraints in terms of CF constraints . MICF does not require a prior causal model or specific transformer architecture . We evaluate MICF on real-world data and show that CF can be improved across different prediction tasks .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.00298",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-03T19:29:45.120637Z"
+    },
+    {
+      "id": "8f6f2c9dfcc5798645ff613676ec13c7",
+      "title": "Apple Watch\u2019s AI features for rewinding and recapping",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . Apple Watch is rolling out beta testing on Tuesday for developers in the iOS iOS app . Apple Series 12 wearers will be able to catch up on conversations and take notes on the Apple Watch . Apple's \"Audio Intelligence Intelligence\" was announced via an emailed press release via an email release .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
+      "fullArticleLink": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-03T19:28:07.304228Z"
+    },
+    {
+      "id": "74ef1aa5540cfddda2fbd4e87fcc735a",
+      "title": "Apple restricts dating apps and AI companions",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . Apple restricts dating apps and AI companions to users up to 18 and up to 7:38 AM PST . Apple is adjusting its App Store policies to make it more difficult for minors to use online dating apps or apps that engage in \"sexual content,\" the tech giant said Monday .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
+      "fullArticleLink": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-03T19:27:48.049892Z"
+    },
+    {
+      "id": "a7a0eeaf87bf41d8c7dae60571dcdf30",
+      "title": "Google will let schools disable its AI tools",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts. Buy One Founder Summit ticket, Get a Second for Free. Register now . Google will let schools disable its AI tools, but not without sacrificing without sacrificing its AI features . The decision means that schools will no longer be able to restrict access to Google Search features altogether . Google is revising its approach across its approach to its Gemini, Gemini Notebook, Gemini in Classroom and Gemini Classroom .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-03T19:27:27.558342Z"
+    },
+    {
+      "id": "741c3465b3a0806b09101bb02255213a",
+      "title": "Anthropic is still grappling with the economics",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . Anthropic is grappling with the economics of compute, and Anthropic\u2019s skyrocketing revenue is being lost to compute costs, a new filing on Monday showed that those margins on the compute actually getting worse . We\u2019re starting to get some answers to the mystery around the finances of major AI labs, and as Anthropic inches towards it .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-03T19:27:07.655981Z"
+    },
+    {
       "id": "72788a4d358feca281fddd03fc08048d",
       "title": "Trump's 'Super Intelligence' loyalty test aims to test",
       "description": "President Trump ordered government agencies to rebrand artificial intelligence as \u201cSuper Intelligence\u201d One month into the rebrand order, the term is not catching on . Rebrands are now a White House tradition: Trump has changed names to project US dominance of certain bodies of water (the Gulf of America and Lake America) But most Americans go months without pondering what to call the major lake between New York and Canada . The rebrand will turn a choice of words into a political loyalty test .",
@@ -15483,197 +15682,6 @@
         "General AI"
       ],
       "pubDate": "2026-07-27T14:59:38.913739Z"
-    },
-    {
-      "id": "82ec7450c1e612ca322bc987d715d401",
-      "title": "LeAct: Learning to Reason from Expert Actions",
-      "description": "LeAct (Learning to reason from Actions) optimizes this latent variable . LeAct reaches the solver's numerical floor on small enumerable games . At Flop Hold'em ($\\sim 10^9$ infosets), LeAct wins head-to-head by $+60$ mbb/g, and on the robotics probe it is the only training recipe that improves on direct imitation . We present a principled framework and the result: expert systems become a categorically new reasoning teachers for foundation models .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21856",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics"
-      ],
-      "pubDate": "2026-07-27T14:59:25.940411Z"
-    },
-    {
-      "id": "a64f96e0b45a0ceea4cd4d5f718014ca",
-      "title": "Searching the Space of Feed-Forward Neural-Network Weight-Update Rules",
-      "description": "We investigate whether symbolic regression can discover explicit neural network weight-update rules that outperform standard hand-designed optimizers on small symbolic regression benchmarks . The discovered rules do not all share a single common symbolic form, but many combine adaptive normalization, momentum-like quantities, nonlinear transformations, and rational expressions . These results suggest that symbolic regression may serve as a lightweight mechanism for discovering compact optimizer variants, while also highlighting the need for larger-scale validation .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21855",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-27T14:59:15.104523Z"
-    },
-    {
-      "id": "30055b20b08eacd93f76d151eafb4e9b",
-      "title": "A Graph-Based Control Interface for Traffic Signals",
-      "description": "A shared graph neural network assigns scores to individual traffic movements . Each junction converts these scores into a variable-sized set of legal signal phases using a deterministic incidence matrix . PPO experiments evaluate the interface on unseen synthetic grid geometries, altered signal coverage, and five heterogeneous city graphs . Results provide feasibility evidence rather than a general estimate of transfer to arbitrary road networks . arXiv:2607.21831v1",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21831",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-27T14:59:04.511600Z"
-    },
-    {
-      "id": "2e3f2a1946eadd3b3da1992defde7746",
-      "title": "Bounding the Causal Impact of ML-assisted Decision-Making via",
-      "description": "Predictive machine learning (ML) models are increasingly used to aid human decision-makers across various high-risk domains such as healthcare and criminal justice . There is a growing recognition of the need to evaluate the impact of deploying these systems on downstream outcomes, such as patient survival or crime recidivism . We present a partial-identification approach to using prior RCT data to construct bounds on the causal effect of a new model .",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21806",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-27T14:58:53.057476Z"
-    },
-    {
-      "id": "3ee2613cbc41b48540f915e6dbd0cd08",
-      "title": "Parameter-free Adaptive Sparse Attention via Compression-Based Content Selection",
-      "description": "Data-adaptive sparse attention masks substantially outperform fixed patterns (e.g., BigBird and Longformer) and can even exceed dense attention on long sequences . By computing per-block gzip compression ratios, we identify non-redundant content blocks and route long-range attention selectively through them . Intuitively, blocks that gzip cannot compress contain information not predictable from local repetition, making them natural targets . Because the compression profile is input-dependent, the resulting sparse mask adapts dynamically to content .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21752",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-27T14:58:40.151767Z"
-    },
-    {
-      "id": "570240a7094962ca435de692cf8f170f",
-      "title": "RED-PIM: Reducing Data Movement for Transformers using Processing-in-Memory",
-      "description": "Processing-In-Memory (PIM) mitigates this issue by performing computations directly inside memory . The high volume of data movement between processing units and memory during attention operations significantly limits their efficiency . The researchers propose RED-PIM, an algorithm-architecture co-design that reduces attention latency by minimizing inter-bank data movement . By reorganizing matrix operations, performing . computations locally, and employing an optimized data transfer strategy . strategy, RED .PIM significantly reduces computation cost and interconnect traffic .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21731",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-27T14:58:26.986634Z"
-    },
-    {
-      "id": "990ed1a097afd1104d14af151a88f206",
-      "title": "A Defense of the Quadratic Model",
-      "description": "The quadratic model can be surprisingly predictive in an LLM setting with 150M parameters and 3B training tokens . Taylor expanding the model and the loss function at intermediate checkpoints through training can accurately predict the optimization dynamics over windows that can last up to 10\\% of training . We also empirically test local linear stability at intermediate checkpoint and compare it to theoretical predictions to demonstrate that optimization in LLMs typically occurs at a stochastic edge of stability .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21716",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-27T14:58:14.981507Z"
-    },
-    {
-      "id": "93ab68f3548a35a3c8fdc78d5921682f",
-      "title": "An Introduction to Bayesian and Frequentist Simulation-Based Inference",
-      "description": "Simulation-based inference (SBI) with machine learning is an increasingly important tool for solving inverse problems in science and engineering . We provide an overview of Bayesian and frequentist statistical frameworks . We also discuss how to validate inference results and the limitations of SBI with machine-learning-based SBI . We discuss how the same methods can also be applied to Empirical Bayes or unfolding tasks . arXiv:2607.21702v1 .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21702",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-27T14:58:04.536652Z"
-    },
-    {
-      "id": "355626f29c21fdf8985e45a36c16b53f",
-      "title": "Hugging Face CEO calls for \u2018radical transparency\u2019 after",
-      "description": "Hugging Face CEO Clem Delangue calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack . He also wants \u201cmore capabilities for defenders,\u201d calling for OpenAI to commit $100 million worth of computing power to help build cyber defenses with the best open and closed models . An OpenAI spokesperson confirmed that the meeting took place and pointed to a company post that said, \"This is an unprecedented incident, and we think it marks an important moment\"",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
-      "fullArticleLink": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-27T03:54:34.425360Z"
-    },
-    {
-      "id": "216b0412425af10445635febc0d77146",
-      "title": "Making sense of the panic over Chinese",
-      "description": "The launch of the latest AI model from a Chinese company reignited debates around American competitiveness and open versus proprietary AI . On the latest episode of TechCrunch\u2019s Equity podcast, Kirsten Korosec, Sean O\u2019Kane, and I discussed why this seems to be such a hot button issue . In many ways, this \u201cfeels like we\u2019re seeing repeats of prior freakouts,\u201d with everyone in Silicon Valley \u201cexpecting that something is going to arrive and blow everything else away\u201d",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-27T03:54:16.776871Z"
-    },
-    {
-      "id": "5d2ba47b7c6e82fc799cdb3cd4c0e2d7",
-      "title": "Are brain waves the next unlock for physical",
-      "description": "Encord builds data tooling used to train AI models . It's one of a growing number of startups betting the next real constraint on humanoid and warehouse robotics won't be model architecture but instead the scarcity of real-world physical training data . Encord is building a business around manufacturing the data they don't have, and using its San Leandro facility to collect data sets around specific skills for fine-tuning . The goal is to build an initial brain wave-tagged data set, run it through customer robotics models .",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_5583-rotated.jpg?resize=900,1200",
-      "fullArticleLink": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-27T03:53:59.337450Z"
-    },
-    {
-      "id": "ef737c3642f0ed4cf47b9a642b48653c",
-      "title": "The AI coding tutor paradox grows as educators",
-      "description": "ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI . Nearly half of respondents say they lack proven examples for integrating AI into their courses . The AI coding tutor paradox grows as educators scramble to rethink how they test real skills with real skills, says ACM study . The exam is shifting toward oral exams, proctored tests, and project-based work .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/ACM-Studie-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-26T13:48:36.301964Z"
-    },
-    {
-      "id": "cd3961cd40b86452ff5f3f853e95e3ec",
-      "title": "US reportedly favors selective bans over blanket restrictions",
-      "description": "The Trump administration is planning targeted bans on Chinese AI models rather than a blanket ban . OpenAI and Google DeepMind signed an open letter opposing regulation of open-weight models . US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns . The U.S. government is planning selective bans rather than blanket bans on the Chinese models, it has been reported to have been suggested by the Trump administration .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/us_vs_china_open_models-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-26T13:48:24.953494Z"
-    },
-    {
-      "id": "a715e433022d151ad1783026025aacdf",
-      "title": "Hundreds asked ChatGPT for poison and bioweapon recipes",
-      "description": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides . In summer 2025, OpenAI internally flagged GPT-5 as high-risk because it helped users create biological hazards, but downgraded the model's risk rating that fall . Hundreds asked for that kind of information, including instructions for making poisons and biological weapons, according to the Wall Street Journal .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/chatgpt_bioweapon.png",
-      "fullArticleLink": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-26T13:48:13.302504Z"
-    },
-    {
-      "id": "5fa3256b308255357875ade0118106f1",
-      "title": "Anthropic's Opus 5 blows past Fable 5",
-      "description": "Anthropic's Claude Opus 5 scored 30.2 percent on ARC-AGI-3, nearly quadrupling GPT-5.6 Sol's previous record of 7.8 percent . The benchmark's developers say the model independently formulated reflection equations, a behavior they had never seen from another model, and attribute to stronger logical reasoning . Anthropic\u2019#039;s Opus . 5 blows past Fable 5 and GPT .6 Sol on the benchmark designed to measure .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/arc_agi_3_opus_5-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-26T13:48:00.094621Z"
     }
   ]
 }
