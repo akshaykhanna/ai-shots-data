@@ -1,6 +1,200 @@
 {
   "news": [
     {
+      "id": "1fb454b483616a75870a3d49a07bac0a",
+      "title": "Rapid LLM development is outrunning the research meant",
+      "description": "Stanford researchers tested 50 widely cited claims about LLMs against 20 current models . 44 percent of the findings are already \"expired,\" and another 34 percent have weakened significantly . The average lifespan is just 15.7 months . Claims about what models can't do expire fastest, Stanford researchers say . Rapid LLM development is outrunning the research meant to explain it, study finds . Read the full study by Stanford researchers .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/ai_goalpost_moving-1200x800.png",
+      "fullArticleLink": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-04T06:06:02.745158Z"
+    },
+    {
+      "id": "02d1fe47937dee299cef1ea7f5c3ab97",
+      "title": "OpenAI says GPT-6 Astra designed a hardware device",
+      "description": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week . Several revision rounds were needed before production because the model didn't always account for manufacturing tolerances . A newer internal model scores significantly higher on the engineering benchmark, though the company isn't sharing details of the new internal model, though it's not clear if it's higher than the previous model .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/openai_ai_hardware.png",
+      "fullArticleLink": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-04T06:05:52.149385Z"
+    },
+    {
+      "id": "406efe3bd5e71a0126b094b1d11d52b2",
+      "title": "ModelBlaster: Closing the Performance Gap through Learning-Augmented Agents",
+      "description": "ModelBlaster is a Memory-Augmented In-Context Reinforcement Learning (MAIC-RL) framework for optimizing data-parallel kernels and whole models across heterogeneous SIMD and SIMT accelerators . Its mutable policy is a persistent knowledge base updated at inference time by Actor-Critic Textual Gradient Descent (AC-TGD) The knowledge base maps performance states to actions, outcomes, and constraints, enabling experience reuse across kernels, models, and hardware targets .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.04104",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-04T06:05:36.078706Z"
+    },
+    {
+      "id": "13e65acf548eac28a35e88c02a8226de",
+      "title": "When Strong Reasoners Join the Pool: Small Union",
+      "description": "A companion study measured this premium at 3.5 percentage points (pp) for 11 small open models on MATH-500 . We measure it with a fixed-protocol, pre-committed generation on a single NVIDIA B300 . The two reasoning models both reach 96.1% accuracy against 76.2% for the 70B baseline . An oracle gap should be reported with the pool, the protocol, the samples per cell and the decoding budget that produced it .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.04098",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-04T06:05:23.014349Z"
+    },
+    {
+      "id": "5d3ae544d40d850950c9c462a5647f39",
+      "title": "Feature-Guided Data-Efficient Instruction-Tuning of Large Language Models",
+      "description": "Follow the Features (FtF) is a data-selection method that uses sparse autoencoder (SAE) features to characterize training data and guide subset construction . FtF ranks features using dataset-level activation statistics, scores samples by their expression of highly ranked features . The LLM-SAE pair used for selection is independent of the model being fine-tuned, enabling reuse across target models . This",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.04085",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-04T06:05:00.409027Z"
+    },
+    {
+      "id": "fa554f5e23fcc0199ca012a354726a50",
+      "title": "Decision Transformer with Task-Aware Representations for Offline Meta-Reinforcement",
+      "description": "Contrastive Task-Aware Decision Transformer (CoTA-DT) combines four components: contrastive learning from offline trajectories, alignment with natural-language task descriptions, one-step supervision via a task-conditioned world model, and long-term supervision . The learned task representations are used as conditioning signals for a DT-based policy, enabling task-aware meta-policy learning . The pretrained LLM serves as a shared backbone for language encoding, world modeling, Q-function estimation, and policy learning .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.04010",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-04T06:04:36.002118Z"
+    },
+    {
+      "id": "90cc9b44a6a875d9ce13b5355c298258",
+      "title": "One Mistake, Three Layers: Persistence Rules Under Depth",
+      "description": "Probing frozen representations layer by layer is now standard practice, but reporting when a signal first becomes decodable requires a rule for reading a depth curve . The failure follows from correlation between neighboring layers, a hazard known in neuroimaging but not, to our knowledge, checked for depth curves . We give an estimator whose error rate is calibrated rather than assumed. Null trajectories are built by permuting labels within each evaluation unit and holding each permutation fixed across depth .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.03968",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-04T06:04:10.134658Z"
+    },
+    {
+      "id": "822c955683e617790ad2ed4f5a632bfd",
+      "title": "DeepSeek indexer: Overlapping Selection and Attention in deepSeek",
+      "description": "In DeepSeek Sparse Attention, every layer is preceded by a lightning indexer that scores the whole cache and keeps the k=2048 highest-scoring tokens for the layer to attend . At long context this indexer scan, not the sparse attention it feeds, is where the decode time goes . The resulting Multi-layer Indexer (MLI) needs no retraining and no new weights . MLI decodes faster than IndexCache at 1/2 to 1/32 (the fraction of layers that keep an indexer) and contexts 10K to 195K .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.03768",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-04T06:02:51.217927Z"
+    },
+    {
+      "id": "692bd5e2012c028d16bda73aa75d7877",
+      "title": "Language Models Can Benefit from Domain-Specific Inductive Biases",
+      "description": "Language models are typically trained with a single choice of architecture on diverse domains and data sources . We find that the tuned transformer variants improve training efficiency or generalization on all seven of our tested datasets . For example, architectures tuned on a natural language dataset such as FineWeb perform well on TinyStories, whereas those tuned on mathematics perform poorly on natural language . We identify several mechanisms underlying these improvements, including wider loss basins and more abundant \"lottery tickets\"",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.03756",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-04T06:02:26.569868Z"
+    },
+    {
+      "id": "f1c00e698d6032d536efbee28cc0f94a",
+      "title": "RATSIFT: Resolution-Adaptive Transformer for Solar Irradiance Forecasting",
+      "description": "Traditional methods often struggle to capture rapid irradiance variability . Transformer-based architecture for simultaneous forecasting and temporal downscaling . Model takes input data at arbitrary resolutions and generates output at any resolutions represented within the training data . Genetic algorithm-based optimization framework is implemented to identify suitable model hyperparameters . The effectiveness of the proposed model is shown by analyzing real data in Dallas, Texas . Our approach provides a scalable and efficient framework for multi-resolution solar irradiance forecasting and . practical energy forecasting and grid management applications .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.03738",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-04T06:02:13.941343Z"
+    },
+    {
+      "id": "3e98f69e55b7f7102f0a1b09fe0a4dbc",
+      "title": "Hugging Benchmark: Data Quality, Training Budgets, and Side",
+      "description": "Hugging Benchmarks built from model hubs combine interaction data, knowledge graphs (KGs) and resource documentation . In three of its four external KGs, the files pass key and range checks but violate the item-entity identity constraint on which KG recommenders rely . Correcting this join improves every KG-based method in every seed, by up to 73% in mean Recall@10 . We release corrected files, mappings, validators and logs, and derive practices for preserving identity and provenance .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.03727",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-04T06:02:01.231192Z"
+    },
+    {
+      "id": "b0c96602861bfc20ffcbd28d6c386251",
+      "title": "Netflix\u2019s new AI Discover tab helps you find",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . Netflix's new Discover tab helps you find something to watch based on your mood . Netflix announced on Tuesday that it's out a new \"AI Discover\" tab users will be able to experiment with new ways to find ways to get their next way to find things to watch on their next watch .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2235383828.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-04T06:01:16.471176Z"
+    },
+    {
+      "id": "0018ea6e4618a3fe55b0e320d889c170",
+      "title": "AI inference startup Fal doubles its valuation",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters . Latest TechCrunch TechCrunch Podcasts, TechCrunch Mobile and TechCrunch Live Events are available on TechCrunch.com/TechCrunch Mobile.com and Techcrunch.com . This summary highlights key aspects of the latest developments. Industry analysts suggest that this trend could reshape current practices",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420",
+      "fullArticleLink": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-04T06:00:59.237698Z"
+    },
+    {
+      "id": "0835e4c1adb39f7fac54d5bdd1930d2a",
+      "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . Ballistic Ventures, co-founded by former Kleiner Perkins partner Ted Schlein, is seeking to raise $490 million across two new funds . LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters will be hosted by TechCrunch . This summary highlights key aspects of the latest developments. Industry analysts suggest",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801",
+      "fullArticleLink": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-04T06:00:41.661132Z"
+    },
+    {
+      "id": "bf81805a5ae860b994873a9158cd9f23",
+      "title": "Anthropic is working on a system to prove",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings savings &amp; deals before it starts . Anthropicic is working on a system to prove AI models' identity' Russell Brandom: The Anthropic model produced a given output from an open source system to which users received email they think they received really came from the model they think it came from . Similar to FlashProveable inference, the system is built to provide callable inference .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
+      "fullArticleLink": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-04T06:00:22.058303Z"
+    },
+    {
       "id": "a85d7cc96ec5db5aaf15ad27b5c80792",
       "title": "Anthropic cracks down on game cloning in Claude",
       "description": "Anthropic is blocking Claude Code from recreating existing video games . The change follows a flood of AI-powered cloning projects . Users have been tapping Opus 5.5 and GPT-6 Astra to crank out hundreds of unofficial browser ports of well-known titles like Halo and GTA Vice City . Anthropic employee: Using Claude to infringe on intellectual property violates the usage policy . The rule has been active for several days and kicks in when a clone gets renamed or passed off as an original work .",
@@ -15488,200 +15682,6 @@
         "General AI"
       ],
       "pubDate": "2026-07-28T03:28:55.055073Z"
-    },
-    {
-      "id": "25aef6260c8236c8f0715c5bfd3ca1f3",
-      "title": "Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills",
-      "description": "MetaEvolve is a framework designed to develop self-evolution skills via a data synthesis pipeline, evolution-aware reinforcement learning (RL) and inference-time evolutionary search . The framework outperforms the strongest baseline by 10.01% absolute on in-distribution tasks . On open-ended algorithm optimization problems entirely outside the training domain, it further achieves a 46.9% relative improvement . These results demonstrate that explicitly cultivating self evolution meta-skills offers a principled path toward more capable and autonomous autonomous AI .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21971",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics"
-      ],
-      "pubDate": "2026-07-28T03:28:41.244181Z"
-    },
-    {
-      "id": "a93ee4717969813690b781f7e15fc04e",
-      "title": "CARNet Cycle-Conditioned Core Aggregation and Redistribution for Multivariate",
-      "description": "CARNet is a Cycle-Conditioned Core Aggregation and Redistribution framework that integrates global recurrent cycle information into efficient core based interaction modeling . CARNet consistently outperforms strong transformer and non-attention baselines across diverse prediction horizons, while preserving linear-complexity modeling of cross-variate dependencies . The framework is based on CARNet, a cycle-conditioned core aggregation and redistribution model . This summary highlights key",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21681",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-28T03:28:29.452296Z"
-    },
-    {
-      "id": "c598ff3d1f14ac1c8e34f16577949bf9",
-      "title": "Encoding Invisible Causation for Bridge Diagnostic Agents: Triple-Guided",
-      "description": "A Damage Cause Encoder classifies 10-class damage causes from visible damage descriptions $S_i$ for use in autonomous bridge diagnostic agents . QLoRA achieves the optimal trade-off: identical test accuracy (87.07%) to full-precision LoRA, 11% faster inference, 72% lower GPU memory, and superior generalization across diverse unseen inputs . These findings enable memory-efficient, high-accuracy diagnostic agents on consumer-grade hardware for edge deployment .",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21680",
-      "type": "news",
-      "categories": [
-        "Robotics",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-28T03:28:16.381046Z"
-    },
-    {
-      "id": "ae81dfaed4cbcb605696c9e6af3a9740",
-      "title": "America\u2019s AI investment boom is Reshaping the economy",
-      "description": "America's AI Investment Boom Is Reshaping the Economy . Artificial intelligence has become one of the defining investment stories in the U.S. Microsoft, Meta, Amazon and Alphabet are collectively committing hundreds of billions of dollars to AI infrastructure . Demand for advanced chips has turned NVIDIA into one of NVIDIA's top chip makers . The numbers continue to grow. AI News is a weekly feature on AI News from iReport.com .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/ai-infrastrucure.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-27T15:02:21.652807Z"
-    },
-    {
-      "id": "7a04ab0d5258528a985e52d366c3b8c0",
-      "title": "How AI is shortening drug discovery timelines",
-      "description": "Insilico Medicine has reduced the time needed to produce some drug development candidates to about one year by combining artificial intelligence with laboratory research in China . The Hong Kong-listed company\u2019s fastest programme reached candidate nomination in nine months, while its typical timeline is about 13 months, CEO Alex Zhavoronkov said . He said the typical timeline for drug discovery in China is 13 months . The company's fastest programme reaches candidate nomination within nine months .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/How-AI-is-shortening-drug-discovery-timelines-in-China-scaled-e1785133067484.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-27T15:02:09.949480Z"
-    },
-    {
-      "id": "03046fc49fdcc3cc4edf7985e6912902",
-      "title": "Claude chats were reportedly showing up in search",
-      "description": "Search engines briefly indexed shared Claude conversations, making them visible to anyone . Anthropic appears to have responded quickly, and the Google results disappeared soon after . Users on Reddit found thousands of shared chats with Anthropic's AI chatbot through a simple Google search (site:claude.ai/share) The \"Share with link\" feature apparently lacked a noindex tag, which tells search engines not to include pages in their results .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo.png",
-      "fullArticleLink": "https://the-decoder.com/shared-claude-chats-were-reportedly-showing-up-in-search-engines/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-27T15:01:52.688310Z"
-    },
-    {
-      "id": "e1fe4e43ea5777611f7438644d9626d1",
-      "title": "METR introduces a new metric to calculate exactly",
-      "description": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans . METR's new metric, the \"expenditure horizon,\" puts a dollar figure on how cost-effective AI agents are at solving problems . Early results on the NanoGPT speedrun are underwhelming, the metric has blind spots, and the newest generation of models could change the picture . The metric is a new way to measure the cost-effectiveness of AI agents .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/METR-Expenditure-Horizon-1-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-27T15:01:39.807522Z"
-    },
-    {
-      "id": "d10dbf6ad8c7c176d839400a2877b766",
-      "title": "Building the enterprise environment for agentic AI",
-      "description": "Intel says promise of agentic AI is much more than just a better chatbot . It's software agents that execute business tasks end-to-end across people, business workflows, data, and systems . Platforms need to know how long tasks take, how many agents a fleet can support, what users experience at the end of the execution process, and how costs change as more agents work simultaneously . Agents are a goal-driven automated enterprise workflow process: It plans a multi-step task, calls tools, reads results, and retries when something fails .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Intel-contributed-iStock-1366067377.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-27T15:01:18.756161Z"
-    },
-    {
-      "id": "31a791e8e2a86ffc9d9cc037847e05df",
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "description": "Drug discovery is a high-cost, high-risk endeavor that is under pressure from a market defined by first-mover advantage . Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years . Today, bringing a new drug to market takes an average of 10-15 years and costs anywhere from $1 billion to $2.5 billion . Early use of AI in drug discovery shows potential, but also highlights the need for robust and authentic data .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2247435323.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Startup"
-      ],
-      "pubDate": "2026-07-27T15:01:02.208278Z"
-    },
-    {
-      "id": "25cc5f27cc6ab012d40dcf3422718918",
-      "title": "The path to artificial superintelligence is the path",
-      "description": "Next-generation multi-agent systems need a horizontal architecture that allows them to share intent, context, and reasoning to enable wide-scale problem solving no single agent is trained for . When used together, they enable \u201cthe next step on the road to distributed artificial superintelligence,\u201d says Vijoy Pandey, senior vice president and general manager of Outshift by Cisco . Pandey likens this progression to that of humans: \"For hundreds of thousands of years humans got individually smarter, and the gains died with each person who made them\"",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/CREA-1571-MIT-tech-review-Misc-1200x675-option-2.png?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-27T15:00:43.251095Z"
-    },
-    {
-      "id": "cde8d0be1b08fdfdc85b06468b7dae39",
-      "title": "SeePhys Pro: A 1st-Place Technical Report from ICML",
-      "description": "Visual physics problems become substantially harder for large language models when the decisive information resides in a figure rather than in the text . We address the task with a two-stage framework: a visual information extraction stage that re-expresses figure content as solver-readable text to close the modality gap . The resulting pipeline improves overall accuracy over a single-agent baseline from 0.643 to 0.802 on the public split .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21946",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-27T15:00:30.519221Z"
-    },
-    {
-      "id": "01a710776d0ed43d7f8bb24df2ba6f42",
-      "title": "LatentFlow: Visual Analytics for Latent Space Analysis",
-      "description": "Chemists and materials scientists increasingly use machine learning models, such as graph neural networks (GNNs) to predict properties of molecules and the outcomes of their reactions . LatentFlow groups embeddings into clusters and supports exploration of latent spaces by tracking how these clusters change across layers and model states using a modified Sankey diagram . The system links these clusters to representative molecules and their shared substructures, and it allows scientists to introduce their own domain knowledge and compare it with patterns found in the latent spaces .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21941",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-27T15:00:18.050781Z"
-    },
-    {
-      "id": "88d4d47e5e6fc99ed05535744320bac7",
-      "title": "RIS-Kernel: A Model-Agnostic Architecture for Long- Context LL",
-      "description": "Reduced Interaction Sampling (RIS) engine addresses this constraint as a model-agnostic architecture . RIS reduces self-attention complexity to O(N log N) using sparse stochastic geometry that fits within commodity memory limits . RIS-Stochastic at 1% density and 70 ensemble seeds achieves 75.00% accuracy, outperforming the native dense baseline (71.88%) RIS-Structural reaches 68.75% accuracy with just 10 seeds, recovering 75% of the contextual gap relative to the zero-context floor (59.38%)",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21927",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-27T15:00:03.330978Z"
-    },
-    {
-      "id": "88f800e43927b66a1219cc1443665c2a",
-      "title": "Remedying Coarsening-Based GNN Training under Heterophily via",
-      "description": "ACE learns a projector for re-constructing original node features and applies anisotropic structural regularization to embed local heterophily . ACE drives consistent gains on heterophilic benchmarks while preserving competitive results on homophilic graphs with minimal computational overhead . Code is available at the GitHub repository: https://github.com/vasile-paskardlgm/ACE.ACE. arXiv:2607.21885v1 . This summary highlights key aspects of the latest developments. Industry analysts suggest",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21885",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-27T14:59:51.591753Z"
-    },
-    {
-      "id": "6e9cf080d0c921352b9982e7a78c4a5f",
-      "title": "Scaling Laws for Classical Machine Learning on Tabular",
-      "description": "127 students each ran a fixed protocol on 3 assigned datasets, drawn from 18 tabular classification and regression datasets and 6 model families . We release aggregated curves, per-cell fits, and a practical data-requirement table for N* to reach target error 0.15 . We frame this as approximate predictive compressibility, not dataset-independent universality; Lasso fails outright, and Ridge is fragile under leave-one-dataset-out .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.21866",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-27T14:59:38.913739Z"
     }
   ]
 }
