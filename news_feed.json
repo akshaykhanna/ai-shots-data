@@ -1,6 +1,203 @@
 {
   "news": [
     {
+      "id": "71268a02cc75acae0280e126bb5a6be4",
+      "title": "Schools that turn off Google's AI will lose",
+      "description": "Starting in 2027, Google plans to turn off AI features in its school products by default, letting schools decide what to enable . Schools that block AI entirely on their devices will also lose access to Google Search . The two systems are now too deeply intertwined to separate . Given Google's grip on the US school market, that \"choice\" doesn't leave schools with much room to maneuver . Google will turn off Google's AI features by default in schools by default .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/google_ai_schools.png",
+      "fullArticleLink": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-04T19:49:32.802193Z"
+    },
+    {
+      "id": "61b3d58a3c149a16633d144607f26d5f",
+      "title": "Anthropic's new prototype proves which model wrote",
+      "description": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights . Anthropic: Anyone sending a query to an AI model today has no way to verify that the chosen model actually generated the response . The system still has significant limitations. It hides the model's weights but not its underlying architecture. It only works when the model picks the single most likely next token, not with the randomized outputs that chatbots typically produce in everyday use .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/Anthropic-FlashProve.webp",
+      "fullArticleLink": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-04T19:49:04.888049Z"
+    },
+    {
+      "id": "ad3774ef9ca96bea627fc50e31cc0a25",
+      "title": "GPT-6 Astra sees the matrix and reprograms other",
+      "description": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training . In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent by changing just 0.016 percent of its weights . The approach could fundamentally simplify AI optimization but still hits clear limits, MIT researchers say . In fact, the approach still hits a number of limitations .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/Weight-Space-Programming-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-04T19:48:53.307714Z"
+    },
+    {
+      "id": "35506bdddb96f43f2937367286f1e6eb",
+      "title": "New open-source benchmark reveals reasoning as the biggest",
+      "description": "CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud . Version 1.0 includes 45 tasks on AWS and was built by experienced DevOps engineers . Even the best models fail at many of the tasks, including Claude Fable 5.1 and GPT-6 Astra . The project on GitHub is licensed under Apache 2.0, and a detailed failure analysis is also available .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/02/Huginn-RM-title-1200x673.png",
+      "fullArticleLink": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-04T19:48:39.855146Z"
+    },
+    {
+      "id": "2b53e84a7486cf90c58021ba35746d43",
+      "title": "OpenAI acquires Pierre Computer Company to make Git",
+      "description": "OpenAI is buying Pierre Computer Company, the startup whose libraries already power the coding agent Codex . The deal shows the company is building out its infrastructure for developers and AI agents working side by side . Combined with OpenAI's recently launched Git backend Pando, the deal shows that the company's infrastructure is being built for both AI and developers working side-by-side . The company is also building its infrastructure to make Git keep up with AI coding agents .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/openai_logo_wall.png",
+      "fullArticleLink": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-11-04T19:48:28.783928Z"
+    },
+    {
+      "id": "fd5ea15c6e952eb1b70684f1892f0a0b",
+      "title": "Anthropic's text watermark is easy to bypass",
+      "description": "Anthropic's response to the loophole? A compliance warning . Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline . API users can disable the watermark by changing a single sampling parameter on older Claude models like Claude Opus 4.6 and Sonnet 4.4 . The watermark is easy to bypass on several older models by changing the sampling parameters .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-04T19:48:17.945550Z"
+    },
+    {
+      "id": "ab3081e2d0216fb473376b0c3b308f3f",
+      "title": "ChatGPT can now turn text prompts and photos",
+      "description": "OpenAI is adding a GIF feature to ChatGPT . Users can create animated GIFs from text prompts or photos and adjust speed and frames . The model's image consistency is strong enough to keep characters recognizable across frames . Users now generate more than four billion images per week, according to OpenAI . The feature is available now on the App Store's App Store for iOS and MacOSOSOS OS 7.1 .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/openai_gif_cat.png",
+      "fullArticleLink": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-04T19:48:07.096448Z"
+    },
+    {
+      "id": "5a5d2de4de04525c51528bf270029460",
+      "title": "Securing the agentic enterprise with data lineage",
+      "description": "AI security isn\u2019t a tool problem; it\u2019s a data visibility problem . Securing agentic AI at scale requires understanding how data moves . Teams must manage moving and fragmented data that is continuously ingested, copied, summarized, transformed, reused, and redistributed in new forms . Data lineage is the new security perimeter, providing the visibility needed for governance, accountability, and trust, without impeding AI adoption at scale .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR2026_CyberhavenV1COV1200SocialCards.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-04T19:47:50.198647Z"
+    },
+    {
+      "id": "f95b3a80fa8bdb807e972e79ab9f695b",
+      "title": "Texas was the new epicenter",
+      "description": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech's largest AI buildouts . But the blue wave that swept the Lone Star State may jeopardize that position . Gina Hinojosa and James Talarico won the US Senate seat against Ken Paxton . The potential for Democrats to order delays to these projects or moratoriums on new ones adds to growing anxiety that the AI buildout could stall . Banks and lenders are already getting pickier about the projects they back .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303431102.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-04T19:47:32.195367Z"
+    },
+    {
+      "id": "8d817fa034228b46d510782ed0c133a5",
+      "title": "Deep Learning Compilers: Architecture, Optimization, and Empirals Characterization",
+      "description": "Deep learning (DL) models become increasingly complex and hardware architectures grow more heterogeneous . DL compilers play a critical role in optimizing computational efficiency and enabling scalable deployment . We organize DL compiler architectures into frontend, middle-end, and backend stages . We conduct an empirical evaluation of compiler behaviors to investigate the effectiveness of graph optimization, compilation overhead, and dynamic-shape handling . Experiments using PyTorch/TorchInductor on an NVIDIA RTX A6000 demonstrate that compiler benefits depend strongly on workload characteristics .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.04273",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-04T19:46:28.138266Z"
+    },
+    {
+      "id": "33440c9f4820d6660e5b85967b406c1f",
+      "title": "Google faces backlash for plan that would turn",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts. Buy One Founder Summit ticket, Get a Second for Free. Register now. Get a second for free. Get more information about the Founder Summit. Get it ready for the event on November 4 at 9pm ET. Visit http://www.techcrunch.com/founder-summer-summit.com . This summary highlights key",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/03/students-typing-on-laptops-GettyImages_1513744777.jpeg?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-04T19:42:59.639839Z"
+    },
+    {
+      "id": "fcbae52d16c99dae57b4e9090ba78a61",
+      "title": "Apple\u2019s Siri Recaps are surprisingly useful \u2014",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Buy One Founder Summit ticket, Get a Second for Free . Get your pass savings &amp; deals before it starts . On Tuesday, Apple rolled out a controversial set of Audio Intelligence features into the first developer beta versions of iOS 273 and 273 . The betas bring four new AI features that allow Apple Watch Series 12 to detect important sounds, identify songs, catch up on conversations and take notes .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
+      "fullArticleLink": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-04T19:42:39.219216Z"
+    },
+    {
+      "id": "9ba460d217869131eb65ccb784fe3e98",
+      "title": "Hugging Face\u2019s policy chief on the costs, risks",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . Buy One Founder Summit Ticket, Get a Second for Free. Register now . Listen on Apple Podcast: LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters. Follow us on Twitter @dailymailonline.com/techcrunch . This summary highlights key aspects of the latest developments. Industry analysts suggest that this trend",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/55593309776_55e4a08b03_o.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-04T19:42:21.884573Z"
+    },
+    {
+      "id": "cbd69ab726f591caa91d3222dda0c4a0",
+      "title": "DuckDuckGo pitches itself to schools amid backlash",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . DuckDuckDuckGo pitches itself to schools amid backlash over Google's AI policy . DuckGo has created an opening for the alternative search engine Gemini . Google has historically dominated education figures in education where there are no longer Google has dominated . Google's Gemini Gemini could turn off its other AI features, but it said it would shut off its features as well .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+      "fullArticleLink": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-04T19:42:01.871493Z"
+    },
+    {
+      "id": "2685c0ac972344078eb4b9f36fcb641f",
+      "title": "Open source AI is booming. Hugging Face explains",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Buy One Founder Summit Ticket, Get a Second for Free. Get your pass savings &amp; deals before it starts. Register now. Get a second for free. Buy one Founder Summit ticket, Get your first for free . LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters . Open source source explains why AI is booming . This summary",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-04T19:41:43.079559Z"
+    },
+    {
       "id": "1fb454b483616a75870a3d49a07bac0a",
       "title": "Rapid LLM development is outrunning the research meant",
       "description": "Stanford researchers tested 50 widely cited claims about LLMs against 20 current models . 44 percent of the findings are already \"expired,\" and another 34 percent have weakened significantly . The average lifespan is just 15.7 months . Claims about what models can't do expire fastest, Stanford researchers say . Rapid LLM development is outrunning the research meant to explain it, study finds . Read the full study by Stanford researchers .",
@@ -15495,193 +15692,6 @@
         "Security"
       ],
       "pubDate": "2026-07-28T03:32:07.509773Z"
-    },
-    {
-      "id": "7e8218a4f00ce41d927aa1b20b196718",
-      "title": "OpenAI says more workers are using ChatGPT",
-      "description": "OpenAI analyzed over 800,000 work-related ChatGPT messages and found 43.5 percent of job-specific queries involve tasks from other professions . The trend is most pronounced at small businesses, where users increasingly handle specialized work without dedicated experts . The company calls this \"task crossover\" The trend most pronounced in small businesses where users are increasingly handling specialized work with no experts . It's called 'task crossover' by OpenAI .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-2.png",
-      "fullArticleLink": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-28T03:31:55.597227Z"
-    },
-    {
-      "id": "c14a0ca6d72c2157a5afbcb36fa899d3",
-      "title": "Moonshot AI releases Kimi K3 open weights",
-      "description": "Moonshot AI has released Kimi K3's model weights and made parts of its infrastructure open source . The Chinese model nearly matches Western frontier models such as Fable 5 and GPT-5.6 Sol on popular benchmarks . Independent tests found major gaps in cyber and math performance, possibly pointing to distillation . The model has been released to the public for the first time in the wild for a year, but it has not been distillated .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/moonshot_ai_logos.png",
-      "fullArticleLink": "https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-28T03:31:43.653258Z"
-    },
-    {
-      "id": "bd9265e44747f4526519aa4bfbcdc657",
-      "title": "OpenAI called the Hugging Face attack unprecedented",
-      "description": "OpenAI says some of its AI models hacked into the computer systems of Hugging Face, another AI company . This is a case of human hubris, not rogue AI, says John Defterios . OpenAI itself has studied this behavior in a decade-old experiment . It's a wake-up call that shows just how good the latest LLMs are at finding and exploiting vulnerabilities in real-world software with little or no human guidance .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/redteam-faceoff.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-28T03:31:24.456720Z"
-    },
-    {
-      "id": "a932f333d50c70f2b72b65dcb134ad45",
-      "title": "Transformers: contraction and propagation profiles in Transformers",
-      "description": "Attention rollout is used as a diagnostic of attention-mediated propagation, not as a causal explanation or faithful attribution of the complete Transformer . In Transformers trained for metabolomic age prediction, the measured rollout contraction strengthens with depth . Trained and randomly-started models exhibit different propagation profiles, although the present experiments do not establish the predictive relevance of individual rollout-ranked variables . ArXiv:2607.22367v1 .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22367",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-28T03:31:12.431557Z"
-    },
-    {
-      "id": "ebf55b3e87f6ac2955e339a02636a80d",
-      "title": "Indexing: the Beginning and the End . Indexing",
-      "description": "We study information bottlenecks in modern deep-learning architectures through the lens of the indexing primitive . In this primitive, the input consists of $n$ bits and one integer $i$ from $1$ to $n$. The index appears at the end of the input, and the output equals the value of the $i-th bit . We show that architectures with low causal complexity cannot solve this primitive in any constant number of layers . In contrast, small softmax transformers can solve it in one layer .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22361",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-28T03:30:59.245284Z"
-    },
-    {
-      "id": "d8485d075c9240f11c8b6d8611f8ec21",
-      "title": "IQ-JEPA: A Joint-Embedding Predictive Architecture with a Her",
-      "description": "IQ-JEPA pretrained without labels to predict the latent representation of masked in-phase and quadrature (IQ) regions from visible context . Sound speed appears in the IQ signal as a phase difference, invariant to the constant phase offset . On 79,293 Fullwave 2.5 simulations, pretraining on the 63,435 unlabeled acquisitions reaches 15.60 m/s at 10,000 labels . This is a roughly threefold gain in label efficiency over supervised training .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22351",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Startup"
-      ],
-      "pubDate": "2026-07-28T03:30:45.972715Z"
-    },
-    {
-      "id": "9de291079b06565f020d22478309f0a1",
-      "title": "Beyond Binary Rooftop Mapping: A Four-Class Deep Learning",
-      "description": "Study presents a modified deep convolutional neural network rooftop classification framework based on Roofpedia, developed by the Urban Analytics Lab at the National University of Singapore . The model labels rooftops into four categories: existing green roofs, . rooftops suitable for green roof installation, rooftops with solar panels, and flat rooftops unsuitable for greening . The framework identifies realistic opportunities for green roofs and supplies urban planners with evidence-based information for green infrastructure deployment in Bern .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22342",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-28T03:30:34.200761Z"
-    },
-    {
-      "id": "35860bf90c75a3ce3e3c41966ffd37e7",
-      "title": "Efficient Recommendations via Graph Coarsening and Label Propagation",
-      "description": "Graph-based recommendations are widely adopted in real-world industrial applications . However, graphs in these systems often reach a massive scale, posing notable scalability and efficiency challenges . This requires techniques that can effectively balance predictive quality with computational cost . One promising approach is graph coarsening, an adaptive graph reduction technique that offers a way to systematically construct smaller, yet structurally representative, versions of the original large-scale graphs .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22287",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-28T03:30:22.400228Z"
-    },
-    {
-      "id": "f9e984bbb98cfff55a197140c9f078bb",
-      "title": "Softmax: A Bayes Theory-Based Method for Long-Tailed Recognition",
-      "description": "Deep learning models using traditional softmax classifiers have achieved remarkable success in various classification tasks . However, their performance degrades significantly on imbalanced datasets . We propose the Class-Balanced Softmax (CBS) Rooted in a theoretical Bayesian framework and a heuristic power-law assumption, the CBS is a simple logit adjustment that is computationally inexpensive and easily integrated into existing pipelines . Extensive experiments on large-scale benchmarks show that CBS is highly scalable and outperforms existing methods .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22258",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-28T03:30:10.395662Z"
-    },
-    {
-      "id": "7d34449b635958318329b12785ef5d7b",
-      "title": "IFCLoRA: Topology-Aware Rank Allocation for Parameter",
-      "description": "Low-Rank Adaptation (LoRA) is a widely used parameter-efficient fine-tuning method for large language models . IFCLoRA builds a sparse task-conditioned interaction graph whose nodes represent LoRA-compatible modules . It combines a global information-flow topology prior with local gradient sensitivity to compute Information-Flow Centrality scores, which estimate each module's adaptation importance under multi-hop propagation . This summary highlights key aspects of",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22251",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-28T03:29:58.074700Z"
-    },
-    {
-      "id": "586a34a928b9fd7a9fdde5c959bf0604",
-      "title": "Optimization of time-consuming experimental conditions using pseudo-experimental data",
-      "description": "Bayesian optimization (BO) is an optimization method that sequentially proposes the next candidate explainable variables for optimizing target variables . When only a limited number of experimental data are available, the generated pseudo-experimental data may be of insufficient quality . PolyBO developed PolyBO to improve optimization time by generating high-quality pseudo-Experimental data even when the number of trials is limited . For a real-world material composition optimization problem, PolyBO reduced the optimization . time by a median of 96\\% .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22238",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-28T03:29:45.059473Z"
-    },
-    {
-      "id": "860853c8c7fc19e945241c90fb160f4f",
-      "title": "Latent PDE mapping for efficient physics-informed learning across",
-      "description": "Latent PDE mapping pulls back geometry-specific PDE residuals and boundary conditions to a predefined latent geometry via the deformation gradient . The Aliev-Panfilov PDE serves as a challenging exemplar: a nonlinear, time-dependent PDE benchmark with sharp gradients that are expensive to capture using traditional numerical solvers . The computational cost of applying latent PDE maps was modest during network training, and negligible at inference .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22215",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-28T03:29:33.125191Z"
-    },
-    {
-      "id": "3f50cb623835900149ee776267a1500f",
-      "title": "From Score Approximation to Distribution Approximate in Score-Based",
-      "description": "If a neural network approximates the true score function sufficiently accurately, then the probability distribution generated by the corresponding reverse diffusion model is close to the target data distribution in Kullback-Leibler (KL) divergence, up to an irreducible mismatch between the terminal distribution of the forward diffusion process and the prior used to initialize the reverse process . The resulting theorem provides a simple and explicit guarantee linking neural network approximation of score functions to approximation of the probability distributions generated by reverse diffusion models .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22199",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-28T03:29:20.488653Z"
-    },
-    {
-      "id": "119138ce1b82984952f6b9f4b36a23b7",
-      "title": "A Leakage-Free Stacked Ensemble Method for Multiclass Classification",
-      "description": "Multiclass classification is a fundamental problem across a wide range of domains . LFS-FRAME is a Leakage-Free Stacked ensemble framework that integrates functional learning using Kolmogorov-Arnold Networks and rule-based learning via XGBoost . The proposed framework constructs unbiased meta-features by employing a strict out-of-fold stacking strategy to ensure complete isolation between training and validation data hence preventing performance leakage .",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22081",
-      "type": "news",
-      "categories": [
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-07-28T03:29:08.475616Z"
-    },
-    {
-      "id": "6e957064517a2e1eb4e922338d03083d",
-      "title": "CEL: Comprehensive Counterfactual Explanation Explanation Library and Benchmark",
-      "description": "Counterfactual explanations are a prominent approach in explainable artificial intelligence (xAI) The proposed benchmark aims to improve reproducibility, enable fair comparison, and establish a workbench for the development of future counterfactual explanation methods . CEL (Counterfactual Explanations Library) includes 18 datasets of varying size and complexity and provides implementations or reimplementations of 14 widely used methods . The evaluation protocol incorporates multiple complementary metrics capturing validity, coverage, sparsity, proximity, and distributional plausibility .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22045",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-28T03:28:55.055073Z"
     }
   ]
 }
