@@ -1,6 +1,201 @@
 {
   "news": [
     {
+      "id": "97bb30de50f7bd0efb572533acac48e3",
+      "title": "Exit polls show AI ranked last among voter",
+      "description": "In the 2026 U.S. midterm elections, AI ranked last among campaign issues . Only 56 percent of respondents cited AI and data centers as an important factor . According to NBC exit polls, corruption (90 percent) and the cost of living (89 percent) dominated the issue . Corruption (90 per cent) dominated, despite growing public attention to the issue, according to the NBC exit poll . The Decoder.com: What do you think? Share your thoughts .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/04/usa_flag_data_stream.png",
+      "fullArticleLink": "https://the-decoder.com/exit-polls-show-ai-ranked-last-among-voter-priorities-in-the-2026-u-s-midterms/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-05T06:28:46.463727Z"
+    },
+    {
+      "id": "263554ca7578638c0c470b3f917c2a5c",
+      "title": "Near-Zero Token Embeddings Silently Stall Training in Gated",
+      "description": "52.6% of untied gated and hybrid checkpoints contain reachable input embeddings with norms below $10-6 . Near-zero rows can arise during pretraining when unseen rare or template tokens receive zero input gradients . In gated sequence models (Mamba, Gated DeltaNet, xLSTM), a near-zero token can amplify input-embedding gradients by more than 30 orders of magnitude (up to 35) This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.04449",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-05T06:28:29.268231Z"
+    },
+    {
+      "id": "85e1e3a59b85a2218221936205495d57",
+      "title": "Sketchpad: certified exact arithmetic with a small vision-language",
+      "description": "In Sketchpad, Qwen3.5-0.8B executes arithmetic procedures on a rendered sheet . Each forward pass reads a three-cell view and emits one step: a digit, a carry or borrow, and the next operation . A fixed runtime moves the view and writes no digit of a result . We prove that the model is then exact on all inputs of any length if and only if it is exact on the finite set of views the runtime presents .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.04434",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-05T06:28:16.604489Z"
+    },
+    {
+      "id": "c19b6cfeb0ff7044eb6f549e266fd8c7",
+      "title": "Aligning Training and Rollout Policies for End-to-End FP4",
+      "description": "In-depth study, we study end-to-end FP4 reinforcement learning (RL) post-training for Mixture-of-Experts (MoE) large language models . Our analysis identifies the root cause in the routing mechanism unique to MoE . We propose MoEResQ, a quantization-recovery recipe for MoE RL, that enforces symmetry between the training- and inference-side corrections . This summary highlights key aspects of the latest developments. Industry",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.04376",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-05T06:28:05.107662Z"
+    },
+    {
+      "id": "5f9e6ec4a013f04f3f01156d6e707212",
+      "title": "Coarse Semantic Blocks for Efficient Training-Free Sparse Attention",
+      "description": "A training-free sparse attention method builds a prompt-specific key index to accelerate both prefill and decoding . The method clusters the keys into large semantic blocks that group tokens from noncontiguous positions . Large blocks make centroid scoring and this grouped processing cheap, so each query can attend to more tokens in the same time . The 35B-A3B model stays close to dense attention on five RULER tasks through 1M, on LongBench-v2 overall and on MRCR through 256K .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.04313",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-05T06:27:38.938934Z"
+    },
+    {
+      "id": "f97a16789904ef435c0f4237ed456217",
+      "title": "LENS: Reliability-Aware Stock Prediction via LLM-Extracted Pri",
+      "description": "LENS (LLM-Extracted priors and News-driven Semantics) is a static--dynamic graph framework for stock return prediction and ranking that models relational reliability as a first-class signal across the pipeline . On S&P 500, LENS improves AR@5 by 16.4% and SR@5 . On NASDAQ 100 it achieves comparable improvements (15.5% and 20.9% respectively) This summary highlights key aspects of the latest developments.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.04217",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-05T06:27:26.782359Z"
+    },
+    {
+      "id": "6af1696501b4188bf5e444c9b5aac920",
+      "title": "What Does 4-Bit Microscaling Cost a Wearable Activity",
+      "description": "Lower-precision numbers reduce model storage and memory traffic . MXFP4 from the Open Compute Project and NVIDIA's NVFP4 are drawing interest . We train a 159,492-parameter CNN to recognize four basketball actions from wrist-accelerometer data in Hang-Time HAR and test it on players it has never seen . In full precision the model reaches 69.26\\% macro-F1 . This summary highlights",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.04185",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-05T06:27:13.922320Z"
+    },
+    {
+      "id": "63e1e923902c28a47b54f7da71c9dd74",
+      "title": "RGDM: Robust Graph Diffusion Model . RGDM",
+      "description": "Robust Graph Diffusion Model (RGDM) produces clean and high-quality synthetic graph structures, even when trained on graphs subject to adversarial attacks . Graph Neural Networks (GNNs) trained on the augmented graph, which is formed by merging the original attacked graph with the synthetic graph, exhibit significantly improved robustness . The code of the RGDM is available at https://github.com/Statistical-Deep-Learning/RGDM . This",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.04146",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-05T06:27:02.286744Z"
+    },
+    {
+      "id": "dca859fa54386e7304fcd07b32b1f376",
+      "title": "LoopKV: Loop-Aware KV Cache Compression for Serving Looped",
+      "description": "Looped transformers apply a shared block several times per token to improve accuracy without adding parameters . For models such as Ouro that keep a separate key-value (KV) cache per loop, cache memory limits the batch size that amortizes repeated weight reads . Skipping low-attention values to save reads produces errors that compound across loops . None of its averages on six public benchmarks falls significantly below BF16's .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.04137",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-05T06:26:49.790049Z"
+    },
+    {
+      "id": "421e2b40f3bf5ee4fd27dc7c2173e2c2",
+      "title": "Meta acquires AI coding startup Conductor from Meta",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts. Buy One Founder Summit ticket, Get a Second for Free. Register now . Conductor acquires AI coding startup Conductor, an AI startup that allows users to deploy multiple agents into parallel workspaces. Conductor's acquisition of Conductor was originally reported by Axios, and Conductor shared news of its acquisition on its blog .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653",
+      "fullArticleLink": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-05T06:24:06.240895Z"
+    },
+    {
+      "id": "423e16ab4854ec5c914472929a70005d",
+      "title": "OpenAI is already trying to shape the 2028",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts. Buy One Founder Summit Ticket, Get a Second for Free. Register now. Founder Summit will be held on Nov. 3, 2015, at 7pm ET . TechCrunch Mobile: OpenAI is trying to shape the 2028 presidential election to shape AI\u2019s potential to reshape the economy .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-05T06:23:47.256611Z"
+    },
+    {
+      "id": "d13217a5b4923233ed812aa05fc86f30",
+      "title": "Almost no one uses AI agents to book",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . Almost no one uses AI agents to book their Uber bookings . Uber's chief financial officer says only four AI rides were ordered through an AI agent during its busiest week in October: the busiest week of Halloween . Uber uses personal AI to order U.S. food through its food delivery service .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-05T06:23:27.818333Z"
+    },
+    {
+      "id": "3ba59fa6ce83686924c708896885ba34",
+      "title": "CEO says CEO says company\u2019s mysterious AI-first device",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts. Buy One Founder Summit Ticket, Get a Second for Free. Register now . Nothing Phone is working on an AI-first smartphone, but what it is unclear . On Wednesday, CEO Carl Pei posted on that the company's first \"AI-native product\" ships in December .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956",
+      "fullArticleLink": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-05T06:23:08.677421Z"
+    },
+    {
+      "id": "2a45f43e41ba72897b5e5c2d2705616b",
+      "title": "AI PACs spent millions trying to shape Congress",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters. Buy One Founder Summit ticket, Get a Second for Free. Register now. For more information, visit http://www.techcrunch.com/techCrunch/sport-tech-crunch-site-search . This summary highlights key aspects of the latest developments. Industry analysts suggest that this trend could reshape current practices and introduce",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-05T06:22:48.647398Z"
+    },
+    {
+      "id": "87cd57a95fdb9ce3504a5426e7ebe2f0",
+      "title": "Apple is reportedly cutting budgets for its internal",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . Apple is reportedly cutting daily amount its engineering teams can spend on AI . It reportedly weighs a daily limit as low as $25 a day as a big change for a company that has worked to integrate the technology into its engineering processes . Earlier this year, a tsunami of companies pushing companies to use token use of AI .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-05T06:22:28.062927Z"
+    },
+    {
       "id": "71268a02cc75acae0280e126bb5a6be4",
       "title": "Schools that turn off Google's AI will lose",
       "description": "Starting in 2027, Google plans to turn off AI features in its school products by default, letting schools decide what to enable . Schools that block AI entirely on their devices will also lose access to Google Search . The two systems are now too deeply intertwined to separate . Given Google's grip on the US school market, that \"choice\" doesn't leave schools with much room to maneuver . Google will turn off Google's AI features by default in schools by default .",
@@ -15506,192 +15701,6 @@
         "General AI"
       ],
       "pubDate": "2026-07-28T14:37:05.130080Z"
-    },
-    {
-      "id": "dc7c96c8b10d29b5c14af136fb86c18d",
-      "title": "LithoFormer: A Robust Framework for Stratigraphic Inference via",
-      "description": "LithoFormer is a robust framework for stratigraphic inference using a Seq2Seq transformer model that ingests entire multivariate well logs in a single pass . The framework uses a channel-independent PatchTST backbone enhanced with rotary positional embeddings (RoPE) to capture long-range geological dependencies across entire multivariable well logs . It also achieves a 80% reduction in manual expert labor . This",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22804",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-28T14:36:53.526383Z"
-    },
-    {
-      "id": "71ac4865abbc815e73807d3b41782f77",
-      "title": "Physically Verifiable Evidence and LLM-based Reporting for Bearing",
-      "description": "The proposed Diagnostic Evidence Network (DENet) is an encoder-agnostic multi-task framework extending the output to a structured evidence record . The evidence incurs no statistically significant accuracy cost, with a frequency error of about 6 Hz on 1,024-point segments where spectral estimation is structurally inapplicable . The deviation between predicted and theoretical frequency constitutes a label-free, inference-time validation signal . It detects misclassifications with AUROC values of 0.970 and 0.871 .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22797",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-07-28T14:36:40.061261Z"
-    },
-    {
-      "id": "fce1f4198f24d28f6aec2f9a569aeaa5",
-      "title": "Multimodal Domain Generalization for Depression Detection: An Attention-Based",
-      "description": "The proposed model integrates bidirectional Long Short-Term Memory (BiLSTM) with intra- and cross-modal attention mechanisms, accompanied by segment-level fusion for decision-making . Generalization is further enhanced by applying a gradient reversal layer inspired by Domain-Adversarial Training of Neural Networks (DANN) The addition of DG to this baseline yields a 2.5% increase in accuracy and 3.3% in F1-score . This summary",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22794",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-28T14:36:27.846694Z"
-    },
-    {
-      "id": "1ac615a6ac5d81816ae4552786d39560",
-      "title": "FMOPF: Latent Flow Matching with Constraint-Aware Inter",
-      "description": "AC optimal power flow determines minimum-cost generation dispatch under nonlinear power balance constraints . FMOPF provides the most effective Newton-Raphson warm starts, achieves the lowest tail risk among generative methods, and is the first such method to scale to systems with several hundred buses while preserving full feasibility . It's the first to decoupling compression from generation through latent flow matching and by explicitly modeling load-state coupling through a Constraint-Aware Interaction Prior Network .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22788",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-28T14:36:15.283480Z"
-    },
-    {
-      "id": "efb5fb1f8e785e96f251e9744e726da2",
-      "title": "Optimizing Transformer Neural Network for Real-Time Outlier Detection",
-      "description": "The financial time series are price series such as asset prices . Unfortunately, the data is often with errors or outliers that make downstream data processing tasks useless, unstable or even harmful . Increasingly powerful hardware, such as field-programmable gate arrays (FPGAs) have seen increasing usage in recent years due to their reconfigurability and high performance . We explore different Transformer architectures for time series modelling and how they can be efficiently implemented on an FPGA board (PYNQ-Z2)",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22786",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-28T14:36:02.396134Z"
-    },
-    {
-      "id": "d7d3de3af4da8a1638c56509ba324b60",
-      "title": "Multimodal Surface EMG Hand Gesture Recognition . Using",
-      "description": "EMG-CrossFormer combines representations from an arbitrary number of unimodal encoders through cascaded cross-attention fusion layers and decodes the fused representations using learnable gesture queries . EMG was evaluated on four NinaPro datasets (DB2, DB3, DB7, DB10) and benchmarked against six state-of-the-art models using an increasing number of modalities . Incorporating inertial signals improved performance to 90.66%, 80.40%, 92.79%, and 92.06% .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22779",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-28T14:35:48.043224Z"
-    },
-    {
-      "id": "141f8e95453a17432211d0090e885808",
-      "title": "Using EEG Signals and CNN.com to predict",
-      "description": "Repetitive transcranial magnetic stimulation (rTMS) is a non invasive therapy for Major Depressive Disorder (MDD) We propose an efficient deep learning classifier to predict the outcome of rTMS depression therapy . The proposed framework is interpretable, computationally efficient, and well-suited for deployment in real-world local psychiatric clinics . arXiv:2607.22776v1 . This summary highlights key aspects of the latest developments. Industry",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22776",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-28T14:35:35.840494Z"
-    },
-    {
-      "id": "20ffb4a6d90e5aaa3c7e2b3f16d20046",
-      "title": "Dementia Etiology Diagnosis via Collaborative Meta Knowledge Enhancement",
-      "description": "Dementia etiology diagnosis with AI remains challenging due to complex overlapping symptoms among diseases . We propose a Collaborative Meta Knowledge Enhancement (COME) framework to address this challenge . The method achieves state-of-the-art in-domain performance with a mean macro-averaged AUC of 85.62% and a 4.29-point gain over the strongest baseline . Extensive validation confirms the alignment between model predictions and established biomarkers (amyloid, tau) and clinical severity .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22770",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Startup"
-      ],
-      "pubDate": "2026-07-28T14:35:22.896973Z"
-    },
-    {
-      "id": "6b14c77cee065291e1f7b47e37618abe",
-      "title": "DomainPilot: Domain-Level Loss-Guided Two-Stage Data Mixture",
-      "description": "DomainPilot introduces token-level domain loss monitoring to capture per-domain learning dynamics during training without halting the data pipeline . The entire mechanism is realized via a patch-based architecture that injects domain-aware loss computation into existing training frameworks (e.g., MindSpeed/Megatron-LM) with only 30 lines of framework-specific adapter code . Compared to the original data mixture, our optimized mixture achieves improvements of +2% on MMLU-Redux, +1.8% on AIME24 .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22769",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-28T14:35:08.533852Z"
-    },
-    {
-      "id": "beeff87a5c43474c7bf3d7a798b49cd8",
-      "title": "Beyond Shapley: An Influence-Based Data Auditing Pipeline",
-      "description": "As datasets scale, massive preference and instruction-tuning corpora accumulate hidden structural contradictions, safety risks, and systemic human annotation errors . Standard dataset auditing methods struggle to capture the actual predictive impact of individual records . We introduce a scalable, inference-only data valuation pipeline that approximates the Shapley value without iterative model retraining . We demonstrate the pipeline's efficacy in sanitizing two heavily vetted alignment datasets .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22766",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-28T14:34:56.803799Z"
-    },
-    {
-      "id": "b2971cafc63fcb2e9b22c42c8302a22b",
-      "title": "An Integrated Deep Learning and Statistical Framework",
-      "description": "Leaf veins exhibit remarkable diversity in architecture and patterning, yet existing gene--environment association studies have primarily quantified leaf venation using a small collection of low-dimensional summary traits . We propose an integrated deep learning and statistical framework . The proposed framework achieves four methodological advances . Application to a real dataset identifies three significant gene--geography interactions associated with leaf vascular architecture, providing new biological insights and establishing a broadly applicable methodological framework .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22763",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-28T14:34:45.447337Z"
-    },
-    {
-      "id": "25058ff26cab0ef229f41a0585528209",
-      "title": "Hierarchical Grading in Large Language Models in large",
-      "description": "Graded Large Language Models (GLLMs) equips the representation space of a transformer with a grading and propagates the induced weighted scalar action through embeddings, self-attention, and the training objective . The construction extends the theory of graded neural networks and graded transformers to autoregressive language models while preserving expressive power, asymptotic computational complexity, and inference cost . Because the grading is absorbed into the learned parameters after training, every GLLM compiles to a standard transformer .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22757",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-28T14:34:32.177743Z"
-    },
-    {
-      "id": "e3200d6bb712bdb30232a2383e12e56c",
-      "title": "Learning to Access Computation: Accessibility Plasticity",
-      "description": "Modern neural networks primarily adapt through parameter modification within predefined computational structures . We formalize Accessibility Plasticity through a relationship-based operational realization . We establish a reuse-first hierarchy of adaptation, where accessibility modification precedes more costly capability and structural changes . These results suggest accessibility as a distinct adaptive dimension and provide a foundation for future dynamic neural systems whose computational relationships evolve with changing environments . arXiv:2607.22748v1",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.22748",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-28T14:34:21.604773Z"
-    },
-    {
-      "id": "c508e3cc59709be1bd6942cae135e291",
-      "title": "Delhi High Court hands OpenAI a win",
-      "description": "For the first time, a court has classified AI training as private use . ANI undermined its own case by citing articles published after the models were trained . The main trial is still pending with the main trial still to take place in Delhi High Court . An earlier version of this article incorrectly stated that OpenAI had received a copyright injunction against ANI. We are happy to clarify that this is not the same case.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
-      "fullArticleLink": "https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-28T03:32:19.686061Z"
-    },
-    {
-      "id": "d09382ab4dbebd864c09b1e2072c7b39",
-      "title": "Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash",
-      "description": "MAI-Cyber-1-Flash scores 96 percent on CyberGym benchmark when embedded in MDASH multi-agent system . Microsoft says costs should drop by 50 percent compared to pure frontier models . For complex reasoning, Microsoft still relies on OpenAI for the toughest tasks . Microsoft launches its own cybersecurity model but still depends on Open AI for the tough tasks . The model is a compact security model with a price tag of $1.5 million .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_logo_red_pink.png",
-      "fullArticleLink": "https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-28T03:32:07.509773Z"
     }
   ]
 }
