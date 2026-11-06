@@ -1,6 +1,208 @@
 {
   "news": [
     {
+      "id": "1049c4edfb741b7fc53790d40b761886",
+      "title": "Anthropic adds bank account access to Claude so",
+      "description": "Anthropic lets Claude users connect their bank accounts and ask questions about their money . The feature is launching as a beta in the US for Pro, Max, and Ultra subscribers . Anthropic says conversations in the Personal Finance section won't be used for model training . The company also says it won't show ads or sponsored recommendations . Long-term, Anthropic wants to connect Claude with licensed financial advisors and regulated firms .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/Claude-Finances-title-scaled.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-06T19:26:19.549853Z"
+    },
+    {
+      "id": "58050eb288daad657d9eae7317db5719",
+      "title": "Anthropic's $1.5 trillion IPO hits resistance as investors",
+      "description": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off . As recently as September, the company was eyeing a valuation of up to $2 trillion . Investors want a steeper discount because Anthropic is still losing money and burning through cash to scale its AI infrastructure . The midterm elections made things worse. Ballot initiatives targeting data center expansion passed in several states, triggering the sharpest tech selloff in a year .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/claude_hiking.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-11-06T19:26:05.208928Z"
+    },
+    {
+      "id": "9a97dcad395fca1d02e43dcf34120f25",
+      "title": "Thinking Machines' Inkling 2 Small claims top spot",
+      "description": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters . The company claims it's the strongest western open-weight model . Better agentic performance comes at a price, though, with token usage rising sharply . The startup is releasing a mixture of experts and token usage to improve agent performance .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/thinking_machines_inkling_logo.png",
+      "fullArticleLink": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-11-06T19:25:54.024546Z"
+    },
+    {
+      "id": "5c97845dd96a2a1b000b57ccad943ace",
+      "title": "Anthropic may have crossed its own AI acceleration",
+      "description": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled . Anthropic redacted the most informative evidence, though, which means the public has to rely on METR's judgment \"much more than would be ideal\" Anthropic may have crossed its own AI acceleration warning threshold back in July, according to METR . There are also skeptical voices inside the company .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/METR-Anthropic-Report.png",
+      "fullArticleLink": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-06T19:25:41.416640Z"
+    },
+    {
+      "id": "4ee880aad62cceb8e8b945b1ede70aa9",
+      "title": "Frontier Radar #5: If AGI is so close",
+      "description": "Co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs . They're betting that the current recipe alone won't be enough . We've sorted 45 neolabs by their research bets, mapped the limitations of the AI they're trying to overcome . We also explain why Nvidia always wins, and explain why they're raising billions with no product to show .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/Frontier-Radar-5-Neolabs-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-06T19:25:29.908085Z"
+    },
+    {
+      "id": "8ee4d0441092d77f5aa2c05411446335",
+      "title": "Perplexity now has its own always-on AI agent",
+      "description": "Perplexity now has its own AI agent that runs around the clock and handles work tasks on its own . Teammates require the Max plan at $200 per month, Dots, and Duet are available from $20 per month . Each agent runs on a virtual machine with a desktop and browser, and users track progress through dedicated threads in the app and Slack . SpaceX, Meta, OpenAI, and Anthropic already offer similar agents through Grok Bots, Muse and Muse .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/perplexity.png",
+      "fullArticleLink": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-11-06T19:25:15.726000Z"
+    },
+    {
+      "id": "9552db008db1e41513ea3f187dd0a821",
+      "title": "I watched a humanoid robot clean my apartment",
+      "description": "The startup Tau Robotics is sending humanoid robots to clean San Francisco homes . As the robots clean, they collect data that Tau will use to train up their more independent descendants . Tau\u2019s long-term goal is to make autonomous cleaning robots a reality . For now, the robots are piloted remotely by humans, who watch what's going on via cameras mounted in the robots\u2019 heads and wrists . The company charges less for cleaning than one might expect for such a cutting-edge product .",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-06T19:24:53.959968Z"
+    },
+    {
+      "id": "4fe27494514e3bb9acab82197e599878",
+      "title": "Two-stage residual learning for calibrated uncertainty in solar",
+      "description": "Machine learning models are increasingly used to predict solar output, but they typically report a single value and capture the associated uncertainty poorly . We develop an alternative two-stage method, motivated by synthetic solar signal generation, in which the forecast error is modeled separately from the expected irradiance . We show that explicitly modeling the error brings the predicted standard deviation markedly closer to the historical value, reducing the deviation between the two by 34.6 percent and by 56.5 percent when the LSTM is coupled to Gaussian process regression .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.07444",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-06T19:24:28.664893Z"
+    },
+    {
+      "id": "e6cfbefa2b1942b58e3b1344f27cedb8",
+      "title": "Spectral symmetry fingerprints in equivariant representations are fingerprints",
+      "description": "Symmetry governs organization of physical structures, while symmetry breaking reveals their transformations . In geometric deep learning, symmetry imposes rank constraints on equivariant representations, limiting the expressive capacity of graph neural networks . We introduce spectral symmetry fingerprints (SymFP), which enable discrete point-group identification through rank-template matching and continuous symmetry analysis . SymFP is orientation invariant and architecture agnostic, enabling a parameter-free GNN implementation . Its spectra can be reused across multiple target groups and the resulting leakage scores satisfy subgroup monotonicity .",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.07410",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-11-06T19:24:02.301708Z"
+    },
+    {
+      "id": "7dac5ce0cdad0d3f04879d75c6b21cea",
+      "title": "Axiom Math wants to keep AI slop out",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Buy One Founder Summit Ticket, Get a Second for Free. Get your pass savings &amp; deals before it starts . Axiom 8:16 AM: Axiom Math is betting that math is next to keep AI slop out of mathematics. Axiom wants to avoid slowing down by slowing down, but standing by standing by firmer standing by $1 billion .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-06T19:20:18.396177Z"
+    },
+    {
+      "id": "1eac0b195a3b12f801ac242ce28da39e",
+      "title": "Meta warns that election backlash against data centers",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . Meta warns that backlash against data centers could make AI expansion harder . Meta exec Dina Powell says the Democratic midterm elections are going to make it harder for companies to build data centers, adding \"not done as a good job as a job as we needed to explain the benefits\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/data-center-2.jpg?resize=1200,899",
+      "fullArticleLink": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-06T19:19:58.938336Z"
+    },
+    {
+      "id": "aa3547203e76d8ef896ab6eb8d8a996e",
+      "title": "Palo Alto Networks in talks to buy",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . Palo Alto Networks talks to buy AI security security startup Clutch Security . Silicon Valley startup is in talks to acquire AI agent security security company Clutch security . TechCrunch 2026 EventsPodcasts, TechCrunch Mobile and TechCrunch TechCrunch Podcasts newsletters are available now .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-06T19:19:20.911248Z"
+    },
+    {
+      "id": "7b5a2965d87a1f12515a052dcaed7672",
+      "title": "Ramp data shows AI spending stalling just",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Buy One Founder Summit ticket, Get a Second for Free . Get your pass savings &amp; deals before it starts . New report shows AI spending flatlined as Anthropic's IPO spending stalling just as its IPO nears . Companies using more AI than ever are using more than ever, they\u2019re not spending more on it .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779",
+      "fullArticleLink": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-06T19:18:41.831383Z"
+    },
+    {
+      "id": "dcfedcc7440be1b63e34f9fdd075f41e",
+      "title": "Meta introduces Spaces, a new way to collaborate",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts. Buy One Founder Summit Ticket, Get a Second for Free. Register now. Get a second for free. Get more information about the Founder Summit here. For more information, visit www.techcrunch.com/founder-summer-summit-prevention-measurement.com . This summary highlights key aspects of the latest developments. Industry analysts suggest",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-06T19:17:43.371380Z"
+    },
+    {
+      "id": "37d75a0fa3790bf4ac75d250aeccd452",
+      "title": "Hundreds of Artex AI hacking tools have",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters . Buy One Founder Summit Ticket, Get a Second for Free. Register now. Buy one Founder Summit ticket, get a second for free. The hacking software, Artex, is an open-source AI tool that's been linked to several cyberattacks since its release in July .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-06T19:17:22.708360Z"
+    },
+    {
       "id": "2c1b0dd09cde3ad69bac6139b03a8692",
       "title": "Apple slashes internal AI budgets, with deeper cuts",
       "description": "Apple slashed the daily token budget for some engineers last month from $300 to $200 . The cuts fit the direction set by Apple's new CEO John Ternus, who's been pushing to make the company leaner . Apple's R&amp;D spending jumped 32 percent in fiscal year 2026, driven by higher infrastructure and AI costs . Microsoft, Tesla, Uber, and Meta have all recently capped internal AI spending as well .",
@@ -15535,193 +15737,6 @@
         "Security"
       ],
       "pubDate": "2026-07-29T14:36:38.373834Z"
-    },
-    {
-      "id": "6932c445fc2690791cc787f0599ab092",
-      "title": "GPT Transcribe can't catch ElevenLabs, Google, or Mistral",
-      "description": "GPT Transcribe handles pre-recorded audio files, processing them about 34 times faster than real time . GPT Live Transcribes is built for real-time streaming with low latency . Both models accept text as transcription context, keywords, and multiple input languages . Pricing drops 25 percent at the same time, landing at $0.0045 per minute of audio . The new transcription models complement OpenAI's recently announced Realtime model generation .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/openai_audio-1.png",
-      "fullArticleLink": "https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security"
-      ],
-      "pubDate": "2026-07-29T14:36:23.971426Z"
-    },
-    {
-      "id": "51663b848e7570b356ed6911b3e9bd29",
-      "title": "Deepmind dismantles its AlphaFold team as key authors",
-      "description": "Google Deepmind has broken up the team behind AlphaFold, the Financial Times reports . The restructuring marks a sharp turn away from the strategy that put the lab on the map . The researchers are now working on projects built around Google's Gemini large language model, enzyme design, nuclear fusion, and genomics . Others transferred to Isomorphic Labs, the Alphabet subsidiary focused on drug discovery that was spun out of Deepmind in 2021 .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/AlphaFold-CASP-Title.jpg",
-      "fullArticleLink": "https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security"
-      ],
-      "pubDate": "2026-07-29T14:36:07.093236Z"
-    },
-    {
-      "id": "b4d3a90f6379146974f563f12efbace1",
-      "title": "The AI Hype Index: Unsexy AI",
-      "description": "1X showed off a pair of new, impressively dexterous (and, to some, oddly sexy?) robotic hands in a July demo . While the tech community was sharply divided over the appeal of those disembodied hands, almost everyone can agree that a few things are decidedly not sexy . While it\u2019s not always the most popular technology, at least AI is paying off for one group: single chip workers in Korea, newly inundated with dating opportunities .",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/JUL26-thumb.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Startup"
-      ],
-      "pubDate": "2026-07-29T14:35:52.377103Z"
-    },
-    {
-      "id": "6be57bc8a2d3ac946fbe422d87331cf7",
-      "title": "Raven: High-Recall Sequence Modeling with Sparse Memory Routing",
-      "description": "Long-context recall in linear-time sequence models highlights a tradeoff in how they write to memory . Sliding-window attention (SWA) exhibits the opposite behavior: it writes sparsely by storing explicit token representations, so recall drops once the relevant token is evicted . Raven is competitive with or outperforms prior models . It remains effective when extrapolating to context lengths as large as 16x its training length .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25357",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-29T14:35:40.352432Z"
-    },
-    {
-      "id": "1ce7ed7b017912832a4323ce11759e62",
-      "title": "Explainable AI for Chronic Kidney Disease Prediction Using",
-      "description": "Chronic Kidney Disease (CKD) is characterized by the gradual loss of kidney function . Early detection is crucial for preventing severe complications and enhancing patient outcomes . Federated Learning (FL) with a VotingClassifier was used to predict CKD using a clinical dataset . The global model's average accuracy was 99%, highlighting the potential of interpretable FL models in supporting early CKD diagnosis and advancing data-driven healthcare solutions .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25348",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-29T14:35:30.109236Z"
-    },
-    {
-      "id": "c3abcca721a863ffc97563cb55233d20",
-      "title": "Guiding Posterior Exploration with Optimizer-Derived Geometry",
-      "description": "Sampling-based methods offer a principled approach to uncertainty quantification in Bayesian neural networks . Their practical use is often challenged by the computational cost of exploring high-dimensional and multimodal posterior distributions . We demonstrate curvature estimates computed during the warmstart as a byproduct in adaptive optimizers such as AdamW can inform the sampling phase at negligible additional cost . We confirm the consistency of our findings across various datasets and network architectures .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25312",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-29T14:35:19.542797Z"
-    },
-    {
-      "id": "50cddced5752f7fac63466abf8837773",
-      "title": "Retraction-Free Optimization over the Stiefel Manifold",
-      "description": "Optimization over the Stiefel manifold plays a significant role in various machine learning tasks . Existing methods either use the retraction operators, requiring costly orthonormalization for large-scale matrices, or employ landing methods that rely on careful step size selection and penalty parameter tuning . To address these challenges, we propose a retraction-free and penalty-free algorithm that directly lands on the manifold . Numerical experiments on benchmark datasets demonstrate the efficiency and strong downstream performance of the proposed method .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25299",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-29T14:35:07.793764Z"
-    },
-    {
-      "id": "160eb9097349c323bbf1594c14e8bd6e",
-      "title": "When Does Deep Representation Learning Help Single-Cell Clustering?",
-      "description": "Single-cell ribonucleic acid sequencing (scRNA-seq) is a foundational technology for precision-medicine workflows that contribute to UN Sustainable Development Goal 3 on Good Health and Well-being . Practitioners face a recurring engineering decision: is an additional deep representation stage worth its compute and tuning cost, or do classical principal component analysis (PCA) pipelines already suffice? We address this question with a diagnostic benchmark of nine clustering pipelines on ten real datasets .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25288",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-29T14:34:54.784049Z"
-    },
-    {
-      "id": "1e112b49c3e834cb0f51ee54db69e1e5",
-      "title": "HeAD-CP: Heterophily-Aware Diffused Conformal",
-      "description": "HeAD-CP is a family of node-wise diffusion variants whose coefficients are determined by a label-free local-homophily estimate derived from the GNN softmax . The post-hoc oracle over the family improves over DAPS on 8/10 datasets at $p<0.01$ (paired Wilcoxon), with the largest gains on heterophilic graphs (10.3% on Texas) This summary highlights key aspects of the latest developments. Industry analysts",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25273",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-29T14:34:42.581437Z"
-    },
-    {
-      "id": "71e4af788344c1a68d2f9dafed43c3cb",
-      "title": "Neurai-VN Benchmark: Standardized Machine Learning Models for Multimod",
-      "description": "Digital phenotyping (DP) using smartphones and wearable devices has shown considerable potential for mental health monitoring . Progress remains difficult to evaluate due to heterogeneous datasets, inconsistent preprocessing pipelines . We present a reproducible benchmark built upon the Neurai-VN dataset, a high-resolution, multimodal dataset . The benchmark defines four clinically relevant binary classification tasks evaluated using standardized subject-wise cross-validation .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25232",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-29T14:34:32.181760Z"
-    },
-    {
-      "id": "1f212813a71430e4c075dc02071ca484",
-      "title": "Algorithmic Separation between Constant- Depth and Logarithmic-Depth Neural",
-      "description": "In this work, we prove the first algorithmic separation between constant-depth and logarithmic-depth networks . We identify a class of Boolean functions with hierarchically structured Fourier spectra . We also exhibit a subclass for which every constant depth, polynomial-width network with sufficiently regular activations and controlled spectral norms must incur constant $L^2$ approximation error under the uniform distribution over the hypercube .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25200",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-29T14:34:21.491539Z"
-    },
-    {
-      "id": "5a58cad8e65b87dbcedcdd15985cf200",
-      "title": "CondPSE: A Polynomial-Filtered Structural Encoder with Cond",
-      "description": "CondPSE is a learned PSE encoder that applies a learnable polynomial graph filter bank to standard Gaussian node probes and refines the resulting structural-response branches through FiLM-style modulation conditioned on cross-filter, local message-passing, and graph-level signals . It raises CSL accuracy from 42.9% to 97.3% and EXP accuracy from 68.3%. This summary highlights key aspects of the latest developments. Industry",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25169",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-29T14:34:09.578635Z"
-    },
-    {
-      "id": "0c5a260d327060d726b61128c425932f",
-      "title": "Accurate structural modeling of chemically diverse molecular interfaces",
-      "description": "Vilya-2 is state-of-the-art at small-molecule docking, and generalizes to novel protein-small molecule complexes unlike those seen in training . It recovers 59.1% of peptide interfaces to sub-2 {\\AA} backbone RMSD, far exceeding performance of a representative co-folding model even when that model is given the bound receptor as a template . It can be used as a foundation model and fine-tuned to enrich for active compounds in hit-to-lead campaigns .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25156",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-29T14:33:55.849494Z"
-    },
-    {
-      "id": "185fc847e7bd237525fc0251399a2015",
-      "title": "Physics-Informed CNN-LSTM for Street-Scale Urban Flood Prediction",
-      "description": "Deep learning surrogate models trained with mean-squared error loss produce statistically accurate but physically unconstrained flood predictions . Water may flow uphill, appear spontaneously, or smooth over street-level corridors . We develop a physics-informed training framework for CNN-LSTM models that predict urban flood depths at 15 min intervals over a 128x128 spatial grid . The physics-constrained model achieves near-zero gravity violations (order 1e-6) and the highest street-channel recall .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25148",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-29T14:33:42.461266Z"
-    },
-    {
-      "id": "4754715e19d1a48497fb85d2fc58ceba",
-      "title": "GOHR Agents via Sparse Autoencoders . Interpretable GOHR",
-      "description": "A central challenge in interpreting learned decision-making systems is to determine whether their internal representations contain concepts that help explain their behavior . We report interpretability experiments for a tokenized autoregressive Transformer agent in the Game of Hidden Rules . Sparse autoencoders (SAEs) trained on the agent's decision-token embeddings recover this structure . SAE dimensions that are highly selective for a concept cover most decisions where that concept is present .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25132",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-29T14:33:30.599630Z"
     }
   ]
 }
