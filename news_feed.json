@@ -1,6 +1,203 @@
 {
   "news": [
     {
+      "id": "2c1b0dd09cde3ad69bac6139b03a8692",
+      "title": "Apple slashes internal AI budgets, with deeper cuts",
+      "description": "Apple slashed the daily token budget for some engineers last month from $300 to $200 . The cuts fit the direction set by Apple's new CEO John Ternus, who's been pushing to make the company leaner . Apple's R&amp;D spending jumped 32 percent in fiscal year 2026, driven by higher infrastructure and AI costs . Microsoft, Tesla, Uber, and Meta have all recently capped internal AI spending as well .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
+      "fullArticleLink": "https://the-decoder.com/apple-slashes-internal-ai-budgets-with-deeper-cuts-still-planned/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-06T06:24:11.836046Z"
+    },
+    {
+      "id": "4289712739a1ed6d4b704d964be0bbc6",
+      "title": "Meta buys AI coding startup Conductor as big",
+      "description": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI coding agents at once . OpenAI announced plans to acquire Pierre Computer, and Anthropic already bought Stainless back in May . The deals follow a pattern: AI models are becoming interchangeable, and the value is shifting to the tools built around them, the companies say . Meta buys AI coding tool Conductor as big tech races to lock in developers .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/meta_conductor.png",
+      "fullArticleLink": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-11-06T06:24:01.704180Z"
+    },
+    {
+      "id": "65c72d93efbd0a23836412525967f550",
+      "title": "OpenAIs GPT-6 Cyber can both break into systems",
+      "description": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches . According to OpenAI, it has already found 81 previously unknown vulnerabilities in Firefox and developed 948 working exploits in the Linux kernel, significantly more than its predecessor . The AI model can both break into systems and propose how to fix them, according to OpenAIs GPT6 Cyber .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/openai_cybersecurity.png",
+      "fullArticleLink": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-06T06:23:50.769523Z"
+    },
+    {
+      "id": "a4a52881f80aec8ff18e612971f88756",
+      "title": "Using Transformers for Teaching and Learning via Symbolic",
+      "description": "Distilling neural networks into compact symbolic policies can help humans understand agent behavior in A-life . Such networks are generally opaque to a human observer . Distilling a neural policy into a symbolic policy is typically performed by searching the space of symbolic policies to find one that approximates the neural policy . The space of policies can be large, necessitating incomplete stochastic search such as genetic algorithms . We propose to instead use a transformer pre-trained on readily available random percept-action data .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.07254",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-06T06:22:50.348158Z"
+    },
+    {
+      "id": "863a6046836015c831ad726bb89d3962",
+      "title": "Compositional Unalignment: Auditing Safety in Large Vision-Language Models",
+      "description": "Large vision-language models (LVLMs) are vulnerable to compositional harm . Images and prompts that are benign in isolation become harmful through the model's cross-modal reasoning . We propose CMaG, a training-free un-alignment method for compositional safety . Warning: this paper contains unsafe model outputs, including references to self-harm . arXiv:2611.07216v1 . This summary highlights key aspects of the latest developments.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.07216",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-06T06:22:08.607280Z"
+    },
+    {
+      "id": "f8fd45c38393fcb194994e148f26d82c",
+      "title": "Scalable Bayesian Gaussian Process Classification for Cancer Histopathology",
+      "description": "We present a scalable Bayesian Gaussian Process Classification (GPC) framework that operates on frozen pathology foundation model embeddings (Phikon) We evaluate on two histopathology benchmarks for breast cancer metastasis detection: PCam and CAMELYON17-WILDS . Compared to stochastic variational GP and neural network baselines, our method improves calibration and predictive performance - reducing expected calibration error by up to 88% .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.07127",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-06T06:21:14.845187Z"
+    },
+    {
+      "id": "645ee9cfacfd8d3266579c2a7d84b4eb",
+      "title": "Machine Learning for Live-Birth Prediction After IVF/ICSI",
+      "description": "Machine-learning models predicting live birth after in vitro fertilisation (IVF) or intracytoplasmic sperm injection (ICSI) from routine clinical data report performance from near chance to near perfect . Of 48 studies, 47 were at high or unclear risk of bias, only four assessed the calibration slope, and no model has evidence of clinical impact . We provide a TRIPOD+AI-mapped checklist, a benchmark specification and a research agenda .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.07124",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-06T06:21:03.665616Z"
+    },
+    {
+      "id": "e34cc2d6d25ac5fb528d07d6be8ffd03",
+      "title": "A Night at the LLM Zoo: Data Conditioned",
+      "description": "A challenge to Weight Space Learning as it expands from task specific and vision models to Large Language Models is the absence of a well curated and analyzed LLM population . We show that the zoo contains diverse models whose variation is structured by training mixture composition . We embed the data mixture composition to condition a Flow Matching model of complete pretrained LLM weights in Gram-PCA compressed weight space . Finally, we produce all source code and artifacts to support the continued expansion of the LLM domain .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.07103",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-06T06:20:52.440385Z"
+    },
+    {
+      "id": "60a429dbb94d05235c02a0be6c9ce3d7",
+      "title": "Stochastic Dynamics of Generative AI: From Autoregressive Models",
+      "description": "This paper develops a stochastic dynamical-systems perspective on three classes of generative AI models . We formulate large language models (LLMs) as high-dimensional nonlinear autoregressive models with attention-based dependencies . We consider networks of interacting LLMs and characterize their collective behavior through mean-field ordinary differential equations . These dynamics provide a framework for understanding emergent preferential attachment and persistent structural biases, including type-dependent glass-ceiling effects .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.07065",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-06T06:20:30.168570Z"
+    },
+    {
+      "id": "159387fefb7c89d6303ae9ce13ad1f79",
+      "title": "Octopus: One Brain, Many Branches for Latent-KV Multi",
+      "description": "Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows . We introduce Octopus, a single-model multi-agent RL framework in which all threads share one backbone and coordinate over a GPU-resident directed acyclic graph (DAG) of KV states through five primitives (fork, read_thread, wait_threads, rewind, commit) Octopus reaches $49.6\\%$ accuracy on BrowseComp-Plus ($+17.5$ points over single-agent GRPO)",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.06956",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-06T06:20:16.424855Z"
+    },
+    {
+      "id": "98ca58be595c1ac533c429b9870163c1",
+      "title": "LLM-Orchestrated Steel Property Prediction with Audited Generalization",
+      "description": "SteelAgent couples metallurgical descriptors and machine-learning models with a language-model interface for property prediction, uncertainty reporting and inverse design . Empirical coverage of nominal 90% prediction intervals ranged from 91.0% under random splitting to 37.6% on held-out sources . The effect of physics-derived features depended on the evaluation. They increased gradient-boosting $R^2$ by 0.2534 in a 17-family holdout analysis .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.06953",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-06T06:20:05.622179Z"
+    },
+    {
+      "id": "ab92969d84578d5f22311f3b7dff9980",
+      "title": "Agility is the first pure humanoid robot company",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . Buy One Founder Summit ticket, Get a Second for Free. Register now . LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters . Agility is the first pure humanoid robot company on the market on the stock market. Are you you buying a robot company? Are you buying you?",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Agility_Digit5_01.png?resize=900,1200",
+      "fullArticleLink": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-06T06:19:45.545122Z"
+    },
+    {
+      "id": "ddef7f7b40b18c0e1a5bbd67df066659",
+      "title": "A YC startup is putting $1M behind 5",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . Buy One Founder Summit Ticket, Get a Second for Free. Register now . LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters . YCYC is putting $1M behind problems for AI science problems for the first time . This summary highlights key aspects of the latest developments.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-06T06:19:29.669323Z"
+    },
+    {
+      "id": "939524e97f242da62ef240465fa7a572",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure . Dropbox told TechCrunch that the transaction is expected to close in the fourth quarter of 2026 . TechCrunch 2026 EventsPodcasts and TechCrunch TechCrunch Podcasts Newsletters are now live .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-06T06:19:13.241388Z"
+    },
+    {
+      "id": "560f077b27e20f2902a11d7034060dae",
+      "title": "Airbnb says it\u2019s launching an AI travel agent",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . Airbnb says it's launching an AI travel agent in the first half of 2027:40 PM PST . Airbnb CEO Brian Chesky sketched out a plan to build its own AI travel travel agent prior interviews . Airbnb also provided more detail about how it will actually work and how it's different from a typical chat chatbot .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-06T06:18:08.191522Z"
+    },
+    {
       "id": "56825c3025e411b2a17ce0903cc909b1",
       "title": "Anthropic loses product lead behind Claude Code",
       "description": "Catherine Wu, the founding product lead for Claude Code, is leaving Anthropic for OpenAI . She'll head up product management for \"Core Products\" and work directly with Codex lead Thibault Sottiaux . Wu is the third person to leave Anthropic's Claude Code team in just two weeks . She's the first person to join the Anthropic team in less than two weeks, and she's the third in two months .",
@@ -15525,188 +15722,6 @@
         "LLM"
       ],
       "pubDate": "2026-07-29T14:33:30.599630Z"
-    },
-    {
-      "id": "fef467113ddd02bbf2687a134cb75925",
-      "title": "Semantic Space Search Trajectory Networks is a form",
-      "description": "Search Trajectory Networks (STNs) are a graph-based tool for visualizing and characterizing the behavior of optimization algorithms . We use semantic space STNs to study neural network generalization by contrasting standard training with the label randomization regime of Zhang et al. (2017) The resulting STNs exhibit consistent structural differences, training on real labels produces denser, more efficient and more centralized graphs than training on shuffled labels .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25122",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-29T14:33:18.852934Z"
-    },
-    {
-      "id": "345373e4ac95f499892aa0c9e8fc7f7a",
-      "title": "Conformal Cascade: Distribution-Free Accuracy Guarantees for Multi-Tier LLM",
-      "description": "Large language model (LLM) cascades reduce inference cost by routing easy queries to a small model . Conformal Cascade (CC) uses conformal prediction set size as the deferral rule: accept when the calibrated set collapses to a single answer, defer otherwise . The procedure delivers a distribution-free, finite-sample accuracy guarantee . Extension to open-ended generation requires an answer-clustering step that we leave for future work .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25018",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-29T14:33:06.758067Z"
-    },
-    {
-      "id": "effb59b88c68484685343c3cabd72c2f",
-      "title": "Calibrated Partial Resets: Preventing Policy Collapse in Continual",
-      "description": "Calibrated Partial Resets (CPR) is an optimizer that periodically pulls low-utility neurons toward their initialization . CPR avoids policy collapse over 400M training steps in SlipperyAnt . CPR outperforms prior decay and reset-based methods on Continual MetaWorld and Continual MinAtar benchmarks . Ablations reveal a tunable trade-off between plasticity and peak performance, highlighting utility-scaled reinitialization as a promising direction .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.24996",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-29T14:32:55.447696Z"
-    },
-    {
-      "id": "e79225fe49e2188b9cf0e983c6353c74",
-      "title": "Amazon reportedly scales back its Nova AI models",
-      "description": "Amazon is scaling back most of its in-house Nova AI models, including Nova Premier, Omni, Reel, and Canvas . The models stay online for existing customers in \"keep the lights on\" mode but are no longer actively developed . Instead, Amazon is betting on a new Frontier Model Research group and a new foundation model set to debut at re:Invent this fall . Amazon reportedly scales back its Nova models and bets on new Frontier research team .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/amazon_logo.png",
-      "fullArticleLink": "https://the-decoder.com/amazon-reportedly-scales-back-its-nova-ai-models-and-bets-on-a-new-frontier-research-team/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-29T03:34:10.333326Z"
-    },
-    {
-      "id": "abaa59d6c83460a26d357ef8cbed63e1",
-      "title": "Anthropic says its model found vulnerabilities in cryptographic",
-      "description": "Anthropic's Claude Mythos Preview found weaknesses in key cryptographic algorithms, including a better attack on HAWK, a post-quantum signature scheme that human experts had reviewed for more than two years . The model found it in just 60 hours at an API cost of about $100,000 . The findings don't affect systems in use today, but they show how AI could challenge core assumptions behind internet security, Anthropic says .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_cybersecurity.png",
-      "fullArticleLink": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-29T03:33:58.971031Z"
-    },
-    {
-      "id": "dd85926bdca156793bc9104b1a6ff420",
-      "title": "AlloBench: Measuring Online Tool Allocation Capability in LLM",
-      "description": "Every frontier model we test acts near-optimally in the abstract framing but fails to transfer this ability to script-writing . The first three models fail even when the scripts are not evaluated, while GPT-5.6 Sol stays selective under that weaker manipulation and collapses only at full construction . Together, these results establish online tool allocation as a significant capability boundary, even for modern frontier models . arXiv:2607.23332v1",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.23332",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-29T03:33:44.310059Z"
-    },
-    {
-      "id": "6b3d5663410769484214fb3e84e31bcb",
-      "title": "FILLER: Feature Imputation via Latent Location Exploration",
-      "description": "FILLER is a feature imputation method that deliberately searches the two-dimensional latent space produced by a generative model and fills the missing values with appropriate entries . It has been compared against existing state-of-the-art solutions in terms of RMSE, PSNR, and SSIM . This work also presents a mathematical proof on the convergence of the iterative search . It also presents the mathematical proof .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.23295",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-29T03:33:33.232307Z"
-    },
-    {
-      "id": "6f784760094a312433d86e5f1392e8d1",
-      "title": "StageGuard: Physically Constrained Sleep Staging . StageGuard",
-      "description": "Automated sleep staging is increasingly used in large-scale studies to derive sleep-architecture endpoints . We propose StageGuard, a plug-and-play, backbone-agnostic structured-inference framework that wraps any neural sleep-staging backbone with physiology-informed priors . StageGuard constrains staging outputs to satisfy known physiological priors rather than modeling sleep generatively . It admits rare transitions when emission evidence is overwhelming, leaving informative pathological events recoverable rather than blocked .",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.23284",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-29T03:33:20.596370Z"
-    },
-    {
-      "id": "02c7b5ee8d1be79427109ea092793ae1",
-      "title": "Context-Aware Concept Distillation for Trustworthy Flood Prediction",
-      "description": "Effective flood risk management relies on accurate forecasting, yet the \"black box\" nature of stateof-the-art Deep Learning models creates a barrier to trust and accountability in high-stakes public safety decisions . We introduce an unsupervised pipeline to discover a \"Hydrological Language\" and a Residual Hypernetwork that dynamically modulates these concepts based on static basin characteristics . Evaluated on 5,203 basins globally, our model achieves high fidelity (Median NSE 0.70)",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.23237",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-07-29T03:33:08.917143Z"
-    },
-    {
-      "id": "8cf46a6b9ad988cfb5437ac5a0701d59",
-      "title": "Domain-Prior-Regularized Graph Modeling for Anomaly Detection in Cyber-Physical",
-      "description": "Anomaly detection on multivariate sensor time series is critical for industrial monitoring of cyber-physical systems . DPR-GM leverages a large language model (LLM) to extract directed physical couplings between sensor pairs from system documentation . This gate is then modulated by Pearson correlations estimated from normal training data . The anomaly score is further weighted by sensor-level reliability derived from the coefficient of variation . On the SKAB benchmark, DPR-GP outperforms graph-based, statistical, and deep learning baselines across F1, AUROC, and AUPRC .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.23197",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-29T03:32:55.609824Z"
-    },
-    {
-      "id": "7e68d85a489875b0b5e010212b53ff0e",
-      "title": "Wrong Design Intent Is Worse Than None",
-      "description": "Study CADCON, a five-feature design-intent header prepended to CadQuery-style sketch-extrude programs during LoRA fine-tuning of Qwen2.5-Coder-1.5B . A semantically wrong header degrades adherence below the no-header baseline on design intents the model can render . The harm is regime-specific -- at 0% prefix the unconditioned baseline cannot generate valid CAD at all . This summary highlights key aspects of the",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.23191",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-29T03:32:42.836716Z"
-    },
-    {
-      "id": "d30a55ed76be862b1f22ddf585a15680",
-      "title": "In-Context Learning as Implicit Policy Gradient . In-context",
-      "description": "Score-conditioned In-Context Learning admits a structural correspondence to policy gradient optimization . The correspondence is directional in hidden-state space and holds exactly only under the stated simplifying conditions . We also derive an exact upper bound on the distribution shift induced by a bounded attention update, yielding a trust-region-like analogy to KL-constrained policy optimization . We validate our theory through extensive experiments across multiple LLMs .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.23153",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-29T03:32:32.326328Z"
-    },
-    {
-      "id": "b35c8d5ff3e7efa121fa6a169f3c2c8c",
-      "title": "Through the Bottleneck: How Multi-head Latent Attention Separates",
-      "description": "Multi-head Latent Attention (MLA) compresses key-value pairs through a shared low-rank bottleneck (cKV), achieving 81% KV-cache reduction during inference . No prior work has studied what information this bottleneck preserves or discards, nor how it reshapes internal transformer circuits . Findings suggest MLA does not merely compress attention passively, but reshapes how the model organizes content, position and circuit structure .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.23054",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-29T03:32:21.014735Z"
-    },
-    {
-      "id": "d6c1f9ada76badc19624bf1ea2086839",
-      "title": "The Entropic Bound for Transformers: Why Static Rank",
-      "description": "We study this through the Entropic Bound, a spectral notion of task-intrinsic capacity for Transformers . We first prove that, in a linear attention surrogate, the intrinsic rank $r^*$ of the token-mixing operator is a tight lower bound . We further show that gradient descent recovers this rank under standard low-rank implicit-bias assumptions . We then ask whether this transfers to real attention .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.23050",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-29T03:32:08.748489Z"
-    },
-    {
-      "id": "417e5c0435531d33d8e81113ffdbed40",
-      "title": "MixQuant: Adaptive Mixed-Precision Quantization for Large Language Models",
-      "description": "MixQuant is a technique-agnostic adaptive framework that wraps any base quantizer . A single greedy pass then serves any budget at deployment . MixQuant outperforms adaptive and mixed-precision baselines in every setting . It improves average accuracy by up to 8 points and reduces perplexity from 12.43 to 10.70 at the tightest budget, while matching an ILP solver at negligible deployment cost .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.23047",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-29T03:31:57.020658Z"
     }
   ]
 }
