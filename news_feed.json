@@ -1,6 +1,93 @@
 {
   "news": [
     {
+      "id": "759260a1403adea363dc1dbaf0f550e5",
+      "title": "Meta says US users can now video chat",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . Muse's voice chat feature is now available to everyone in the U.S. Users can now video chat with their Muse AI avatar . Muse chat features that help the user power the digital avatar that power the user's digital avatar, which is animated with the voice of an animated user .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-07T05:46:38.340551Z"
+    },
+    {
+      "id": "6d72973eed55f30e014a1d554dc13550",
+      "title": "Physicl raises $10M to make the digital world",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Buy One Founder Summit ticket, Get a Second for Free . Get your pass savings &amp; deals before it starts . TechCrunch Mobile: LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters and TechCrunch TechCrunch Desktop Logo . Get all the latest TechCrunch events and techCrunch exclusives on November 6 . This summary highlights key aspects of",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-07T05:46:22.150373Z"
+    },
+    {
+      "id": "8f51c7b390aa45bf24423206c62a9ec4",
+      "title": "After the midterms, is the AI industry",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Buy One Founder Summit Ticket, Get a Second for Free . Get your pass savings &amp; deals before it starts . LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters . The U.S. midterm elections could also transform the tech industry . TechCrunch is the AI industry in a rough two years? After the midterms? Theresa Theresa Anthony Haolo Anthony Anthony: \"The AI industry is the industry for a rough time\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2236543888.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-07T05:46:03.210835Z"
+    },
+    {
+      "id": "39eb6389cd506408a2347f3f4c8f49cf",
+      "title": "How a Blue Wave midterm might reshape",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET . Get your pass savings &amp; deals before it starts . Buy One Founder Summit Ticket, Get a Second for Free. Register now . Listen on Apple Podcast: LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters. Follow us on Twitter @dailymailonline.com/techcrunch . This summary highlights key aspects of the latest developments. Industry analysts suggest that this trend",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1368458052.jpg?resize=1200,750",
+      "fullArticleLink": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-07T05:45:47.566351Z"
+    },
+    {
+      "id": "41cd6da548e02af9f26497eba445b82c",
+      "title": "OpenAI reportedly raises an additional $11 billion",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . Bloomberg: OpenAI has reportedly raised $11 billion so far in a new AI funding round . Bloomberg reports that the AI lab at $1.25 trillion is looking to raise out $30 billion in the upcoming round . TechCrunch has reached the current target of TechCrunch figures .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-07T05:45:31.236895Z"
+    },
+    {
+      "id": "bfdaf195a235ade150c92aa42215e96b",
+      "title": "Crusoe sells troubled Wyoming data center project",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts. Buy One Founder Summit ticket, Get a Second for Free. Get a second for free. Founder Summit will be held on November 6, 26, in New York City. Visit www.techcrunch.com/founder-summit-2026 for the summit. Follow us on Twitter @cnnnnnn.com and Facebook . This summary",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-07T05:45:14.311872Z"
+    },
+    {
       "id": "1049c4edfb741b7fc53790d40b761886",
       "title": "Anthropic adds bank account access to Claude so",
       "description": "Anthropic lets Claude users connect their bank accounts and ask questions about their money . The feature is launching as a beta in the US for Pro, Max, and Ultra subscribers . Anthropic says conversations in the Personal Finance section won't be used for model training . The company also says it won't show ads or sponsored recommendations . Long-term, Anthropic wants to connect Claude with licensed financial advisors and regulated firms .",
@@ -15662,81 +15749,6 @@
         "Security"
       ],
       "pubDate": "2026-07-30T03:05:23.196223Z"
-    },
-    {
-      "id": "020b39956385340e78e881e6be542f82",
-      "title": "Separating Checkpoint Dependence from Task-Level Value in Sheaf",
-      "description": "Learned restriction maps in sheaf graph neural networks are often treated as proof that the model has discovered useful edge geometry . This conclusion does not follow from parameter movement or from a post-hoc ablation: both can show how one checkpoint is organized while leaving open whether learned transport still helps after the rest of the model adapts . A task-null theorem shows why the claims can diverge: labels identify only the transported classifier directions . After retraining, assignment-breaking or shared-map controls recover Full performance on four benchmarks .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25387",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-30T03:05:10.675503Z"
-    },
-    {
-      "id": "b8c90d870b503bff6d0409159ee6beb6",
-      "title": "Rethinking Likelihood distributions: Student's t Likelihood Boosts Bayesian",
-      "description": "In Bayesian neural networks, variational inference is a widely adopted framework for modeling uncertainty in a distributional way . We compare several likelihood distribution assumptions, such as skewed or heavy-tailed, across regression tasks on both artificial and real-world datasets using standard multilayer perceptrons (MLPs) Our findings demonstrate that Student's t yields better predictive performance than a Gaussian likelihood distribution, independent of the data distribution and MLP architecture .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25376",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-30T03:04:58.628891Z"
-    },
-    {
-      "id": "cf87d2e603dce798a39c2a605d89b2c7",
-      "title": "Stable FP4 Training via Transposition-Invariant Block Quantization",
-      "description": "Reducing training precision is a key lever for improving the e ciency of large language model (LLM) training, but pushing beyond FP8 to 4-bit oating point (FP4) remains challenging due to instability during optimization . We propose a low-precision training framework based on 2D block FP4 quantization . We further combine this with truncation-free scaling and stochastic rounding to control quantization error and maintain unbiased gradients .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.24953",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-30T03:04:47.520542Z"
-    },
-    {
-      "id": "5c1e54b064f2b6d203d697ca1a7d159d",
-      "title": "Inverse RL Helps Align AI by Imitating Humans",
-      "description": "Projected Alignment Reward Estimated from Demonstrations (PARED) recovers implicit reward underlying expert demonstrations as an explicit function over a small set of response-level features . Unlike a standard reward model, PARED requires no task-specific preference annotations . PARED can be used for contextual alignment, in which a single policy can be tailored to the preferences of different audiences . The recovered reward improves a base policy without a supervised loss and yields further gains when optimized after standard supervised fine-tuning .",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.24900",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-07-30T03:04:36.195946Z"
-    },
-    {
-      "id": "12ceb23ac35f79a6ca0ebfe866bb066c",
-      "title": "OpenAI open-sources Codex Security CLI to help developers",
-      "description": "OpenAI has released Codex Security CLI, an open-source tool that automatically detects and fixes vulnerabilities in code repositories . Previously known internally as \"Aardvark,\" the system has already helped fix more than 3,000 critical security flaws, according to OpenAI . It competes directly with Anthropic's Claude Security, as both AI companies race to match the growing automation of cyberattacks with AI-powered defense .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
-      "fullArticleLink": "https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-29T14:36:55.936941Z"
-    },
-    {
-      "id": "ee7c18d62cf39998d35b99e09baf5fbb",
-      "title": "Frontier AI developers urge international coordination to pace",
-      "description": "More than 1,200 employees from frontier AI companies have signed a statement urging the US government to back an international initiative . The goal is to develop the technical and governance tools needed to deliberately steer the pace at the frontier of automated AI development . Tools to coordinate across the frontier don't exist yet, the statement says . The list reaches deep into leadership ranks, including Google DeepMind's Chief Strategy Officer Jasjeet Sekhon .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Frontier-Pacing-title.png",
-      "fullArticleLink": "https://the-decoder.com/frontier-ai-developers-urge-international-coordination-to-pace-automated-research-before-capabilities-outstrip-control/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security"
-      ],
-      "pubDate": "2026-07-29T14:36:38.373834Z"
     }
   ]
 }
