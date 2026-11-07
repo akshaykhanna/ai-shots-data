@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "id": "c8a2e08bbe2038df7af2fa7d21e95dda",
+      "title": "OpenAI lands $11 billion funding round, but has",
+      "description": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion . The full round could swell to $20 billion . That OpenAI is already turning to wealthy private investors hints at a saturating AI capital market and growing investor caution . OpenAI will need to court dentists for more money to secure funding from wealthy investors in the AI market .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
+      "fullArticleLink": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-11-07T17:47:03.824613Z"
+    },
+    {
+      "id": "65dedb8d9974a4f78fa703f77ca9715a",
+      "title": "Google's AI detects high blood pressure",
+      "description": "Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed . In a 196-person study, its 65.8 percent detection rate beat the traditional in-office measurement . The method is already live in the Google Health app, though it doesn't replace a formal diagnosis . Google Research has already released a version of the method in its Health app .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/googel_hypertension.png",
+      "fullArticleLink": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-07T17:46:53.490131Z"
+    },
+    {
+      "id": "5d400ebd0a784093d4733f481c97c0ca",
+      "title": "Nine AI agents tried autonomous research on open",
+      "description": "\"Into the Unknown\" benchmark tasks nine AI agents with tackling open research questions from U.S. national labs . None of the 135 submissions meets all requirements . 114 papers fail the integrity check, with agents claiming to have conducted experiments that never took place . GPT-6 Astra performs best but still doesn't meet the experts' standards' bar, with GPT 6 Astra performing best but not the best .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/into-the-unknown-scientific-papers-benchmark-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-11-07T17:46:43.355066Z"
+    },
+    {
+      "id": "4eb59aead6c9b00797a80988de8b3e6f",
+      "title": "State propaganda in some Chinese AI models",
+      "description": "Nous Research retrained Alibaba's Qwen3.8-27B to strip out pro-Chinese bias . The propaganda rate dropped from 22 percent to less than one percent . The method relied on 53 million tokens of supervised fine-tuning . The political bias is \"applied late, it is applied thin,\" the team writes in a new study on state propaganda in some Chinese AI models is only a thin layer .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/arete-27b-01-hero.jpg",
+      "fullArticleLink": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-07T17:46:32.965732Z"
+    },
+    {
+      "id": "365ec29b1b76c520a718006c52a29e99",
+      "title": "The gap between open and closed AI models",
+      "description": "The gap between open and closed AI models in cyber capabilities keeps shrinking . OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks . The open-weight model DeepSeek V4.1 Flash reaches 72.8 per cent at a tenth of the cost . Because open models can no longer be restricted, analysts say the window for defenders is shrinking fast, they say .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/cyber_kraken-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-07T17:46:22.433456Z"
+    },
+    {
+      "id": "f15ce16e4457b42ab0cf8d687e602c66",
+      "title": "Thinking Machines' Inkling 2 Small drops 316 F-bombs",
+      "description": "Thinking Machines' AI model Inkling 2 Small swears during its internal reasoning, 316 times across 2,655 benchmark runs . The profanity typically shows up late in long runs that fail anyway, but it doesn't work as a warning signal . 96 percent of failed runs contained no cursing at all, according to an analysis by Vals AI . The analysis was carried out by Thinking Machines, which analyzed the model's internal reasoning .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/neural_network_black.png",
+      "fullArticleLink": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-07T17:46:12.030706Z"
+    },
+    {
+      "id": "015acf558c964b997420e667ae9c5607",
+      "title": "AI auditors catch most agent misbehavior but flood",
+      "description": "GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up . That's not yet enough for reliable safety checks, according to the study . The study by Anthropic researcher Andy Hall found that about 98 per cent of reward hacking cases are likely to be caught by AI agents in logs, but that's still not enough .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/ai_auditing_reliability.png",
+      "fullArticleLink": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-07T17:46:01.701097Z"
+    },
+    {
+      "id": "75c7aa6cda50c28adffcca6862e20426",
+      "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech",
+      "description": "Anthropic is pressing ahead with its IPO at a valuation of $1.25 trillion, well below the hoped-for $2 trillion . The Claude developer aims to raise $80 to $100 billion before Thanksgiving . Rival OpenAI has also recently had to cut its valuation . The tech selloff has also seen tech giants OpenAI have also had to lower their valuation . Anthropic hopes to raise more than $80 billion by the end of November .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_logoreihe.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-07T17:45:51.000385Z"
+    },
+    {
       "id": "759260a1403adea363dc1dbaf0f550e5",
       "title": "Meta says US users can now video chat",
       "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts . Muse's voice chat feature is now available to everyone in the U.S. Users can now video chat with their Muse AI avatar . Muse chat features that help the user power the digital avatar that power the user's digital avatar, which is animated with the voice of an animated user .",
@@ -15651,104 +15750,6 @@
         "Hardware"
       ],
       "pubDate": "2026-07-30T03:06:49.177319Z"
-    },
-    {
-      "id": "ae768e65bcf4310052478d3bd242c935",
-      "title": "Contrastive Representation Learning of Longitudinal Disease Trajectories",
-      "description": "Understanding disease trajectories from longitudinal clinical data remains challenging due to complex temporal dynamics and heterogeneous patient cohorts . Nodes represent patient observations over time, while edges capture temporal continuity and structural similarity between trajectories . Structure-aware random walks guide contrastive learning to generate embeddings that preserve temporal context and trajectory topology . The resulting representations enable robust clustering of patients with similar disease progression patterns and reveal latent structure in longitudinal data .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25609",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-30T03:06:38.931735Z"
-    },
-    {
-      "id": "c4be7e0f86847b66c7c19ea570717954",
-      "title": "Physics-Informed Broad Learning System: An Efficient Backpropagation-Free",
-      "description": "Physics-informed neural networks (PINNs) have emerged as a powerful paradigm for solving partial differential equations . The proposed formulation embeds the governing differential operator and the associated initial and boundary constraints directly into a linear output-layer optimization problem . It replaces nonlinear gradient-based training with a deterministic least-squares solution obtained via the pseudoinverse . The entire learning process is reduced to a single linear optimization stage while preserving the underlying physical constraints .",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25608",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-30T03:06:28.187002Z"
-    },
-    {
-      "id": "5649852ab2483c6fee90df6da7145ef3",
-      "title": "OrthKD: Extracting Generalized Clinical Knowledge from Heterogeneous Teachers",
-      "description": "Multi-teacher knowledge distillation (KD) is a natural compression strategy, but existing approaches largely assume that all teachers provide equally trustworthy supervision . OrthKD transfers full supervision from the strong CNN, uses feature-only distillation from the weak ViT, and enforces orthogonality between teacher-specific student projections to encourage complementary rather than redundant evidence . This design preserves local lesion precision, injects global structural context, and improves robustness to distribution shift .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25545",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-30T03:06:16.745172Z"
-    },
-    {
-      "id": "e24b04cbd994557efe58b209095c3cbd",
-      "title": "Mind the Missing Split: Resolving Feature Heterogeneity",
-      "description": "Swarm Learning is a decentralized collaborative learning mechanism that allows multiple organizations to train a shared model without central coordination or direct data sharing . In real-world applications, sites often have partially overlapping features because measurements, protocols, and available covariates differ across sites . This feature heterogeneity creates a practical issue for machine learning algorithms such as Random Forests . We propose several deterministic and probabilistic inference-time strategies that resolve such missing splits without restricting training to the intersection of features .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25538",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-30T03:06:06.134792Z"
-    },
-    {
-      "id": "d30cbed6cc71480a1be7d01f84828362",
-      "title": "Multi-Scale Structural Features for Continual, Comprehensible Visual Recognition",
-      "description": "A new visual feature representation encodes shape structure across multiple scales, capturing edge and contour features together with their spatial relations . We further improve the learning dynamics and the read-out used to predict from the learned model . The study targets two-dimensional shape, with class-incremental MNIST as a controlled, interpretable benchmark in which continual-learning behavior can be measured directly . The system integrates information one sample at a time while provably preserving its responses to...",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25531",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-30T03:05:54.761736Z"
-    },
-    {
-      "id": "37452b7d8b40b199e83fee39aef40b88",
-      "title": "AMPBench-MT: A Homology-Controlled Benchmark for Antim",
-      "description": "Computational AMP discovery is often evaluated through AMP recognition, yet follow-up decisions depend on assay-derived evidence such as target-species potency, hemolysis, toxicity, and selectivity . AMPBench-MT is a provenance-preserving benchmark that standardizes canonical peptide records and organizes them into binary recognition, species-conditioned pMIC regression, and endpoint-specific potency and safety-facing readouts . This summary highlights key aspects of the latest developments.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25518",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-07-30T03:05:44.032164Z"
-    },
-    {
-      "id": "f3379523779a4f5671aaaaa1973e0bee",
-      "title": "Latent-State Computation under Stochastic Volatility . Emergent Latent",
-      "description": "Mechanistic interpretability has largely focused on language models and deterministic toy tasks . Much less is known about how sequence models internally represent latent stochastic dynamics under noisy, partially observed observations . We study this question in a controlled multivariable volatility setting, where models observe only returns while the ground-truth latent volatility state is known to the researcher . This setting provides a useful benchmark for mechanistic interpretationability under noisy latent dynamics and partial observability .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25459",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-30T03:05:33.656612Z"
-    },
-    {
-      "id": "dcd92f726a66e2e6177d32fdd5ef5f07",
-      "title": "Bits and Memories: Measuring Verbatim Extraction Across LLM",
-      "description": "Language models are almost always quantized before they are deployed . Quantization is a selective forgetter: verbatim memorization falls off faster than capability at every precision and every model size we tried . At the largest model, four-bit quantization still reproduces most of the memorized sequences while giving up only a few percent of capability, and the fraction of memorized data that survives quantization grows with model size .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25451",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-30T03:05:23.196223Z"
     }
   ]
 }
