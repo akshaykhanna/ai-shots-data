@@ -1,6 +1,21 @@
 {
   "news": [
     {
+      "id": "f4f061dd3e2b5811d70ee91e0123e6d3",
+      "title": "Megaspeed exec recruited to spy on Nvidia CEO",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts. Register now. Buy One Founder Summit ticket, Get a Second for Free. Get a second for free. Get our pass savings before the summit starts. REGISTER HERE . LatestStartupsVentureAppleSecurityAIAppsDisrupt 2026 EventsPodcastsNewsletters . This summary highlights key aspects of the latest developments. Industry analysts",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-08T05:47:04.588740Z"
+    },
+    {
       "id": "c8a2e08bbe2038df7af2fa7d21e95dda",
       "title": "OpenAI lands $11 billion funding round, but has",
       "description": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion . The full round could swell to $20 billion . That OpenAI is already turning to wealthy private investors hints at a saturating AI capital market and growing investor caution . OpenAI will need to court dentists for more money to secure funding from wealthy investors in the AI market .",
@@ -15737,19 +15752,6 @@
         "General AI"
       ],
       "pubDate": "2026-07-30T03:07:00.815345Z"
-    },
-    {
-      "id": "de7d2f974c76fe77c905e3ff3b0b2d29",
-      "title": "MemSFT: Mitigating Alignment Tax with an External Parametric",
-      "description": "Adapting Large Language Models to specialized domains often incurs an alignment tax . Fine-tuning on domain-specific tasks can cause catastrophic forgetting and degrade performance on general tasks . MemSFT mitigates the alignment tax by decoupling domain specialization from backbone parameter updates through a plug-and-play parametric memory . The memory is trained to imitate the behavior of a non-parametric retriever operating over domain data .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.25614",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-30T03:06:49.177319Z"
     }
   ]
 }
