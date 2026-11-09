@@ -1,6 +1,192 @@
 {
   "news": [
     {
+      "id": "7b90ef048bdea10252fc7221e40e4b50",
+      "title": "LLM Persona Simulation: Signal Form in Cold-Start E-Commerce",
+      "description": "Large language models (LLMs) offer a potential alternative by simulating persona-conditioned user responses . Using real Google Ads e-commerce campaign data across five demographic segments, we identify three signal-form dimensions that affect simulation quality . Systematic ablations show that minimal demographic descriptions achieve lower mean error than richer persona configurations . Relative qualitative cues substantially outperform the tested quantitative anchors . We additionally compare these configurations with direct-prior and rule-based baselines and with alternative LLM configurations .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.08840",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-09T06:03:10.040772Z"
+    },
+    {
+      "id": "a0baff57a43378c8d2b4740bdf2eadbc",
+      "title": "MotionBench-XAI: Benchmarking What Shapes Shapley Explanations",
+      "description": "MotionBench-XAI is a benchmark built on five synthetic spatiotemporal datasets with exact ground-truth Shapley values . We show that grouping features into players, across time, space, or both, matters more than the choice of imputer . Generative imputers improve explanations only when their conditional models are accurate . We distill these findings into practical insights and provide an open-source pipeline to provide practical insights .",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.08797",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-09T06:02:59.608074Z"
+    },
+    {
+      "id": "873f6ff65577fa5b49b3c75169469af1",
+      "title": "TopoSHAP: Shapley for Explainable and Efficient Topological Deep",
+      "description": "TopoSHAP-cell assigns Shapley values to topological data cells and extracts compact explanations . These explanations match or outperform graph-based counterparts on GraphXAI benchmark data . They also reveal advantageous topological feature design, leading to measured improvements in explanation recovery and predictive accuracy . This is up to $11.3\\times$ cheaper than traditional TDL training sweeps . arXiv:2611.08789v1 . This summary highlights",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.08789",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-09T06:02:49.475891Z"
+    },
+    {
+      "id": "ba3c6f6e2e8ce8f823579415121bc3e9",
+      "title": "On Lipschitz Explosion in Deep Neural Networks",
+      "description": "The Lipschitz constant of a neural network is a basic stability quantity appearing in optimization guarantees, generalization bounds, and robustness certificates . We prove that, for deep networks with normalization layers, both can grow exponentially with depth and hence with parameter dimension . The theory predicts that perturbations introducing new singular directions should be amplified much more strongly than those at the same noise level that remain within the input's original singular subspace . The latter also yields a concrete rank separation mechanism for adversarial vulnerability .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.08775",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-09T06:02:37.397363Z"
+    },
+    {
+      "id": "1f747e843b38067104173f3cf9f6d545",
+      "title": "Patching the Blind Spots: Reversible LLM Rule Overlay",
+      "description": "We propose a framework that patches such a model without modifying it: LLMs propose rules anchored on features the model underweights by SHAP . The resulting noisy pool is screened for empirical support and calibrated into an additive, reversible log-lift overlay that runs at the production cut-off . On a real-world e-commerce fraud detector trained on selection-biased data, continued training regresses even when carefully tuned .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.08714",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-09T06:02:25.951247Z"
+    },
+    {
+      "id": "b8ec60e9e53380e2a054d78ed93d65d0",
+      "title": "Dual-Stream LLM-Guided Reward Design for Reject-Inference",
+      "description": "Production fraud-detection models learn from a censored slice of their own traffic: transactions a legacy system blocked never receive fraud labels . We extend LLM-guided reward design, the framework of Qu et al. (2025) in which an LLM evolves the reward of a two-step REINFORCE fraud-blocking policy, to attack this reject-inference problem inside the reward . We expose superset of evidence and let the LLM decide for itself which to use .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.08706",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-09T06:02:04.147178Z"
+    },
+    {
+      "id": "3d091b12459bb05033c001766f7b39bb",
+      "title": "Foundation-Model Residuals as Signals of Urban Bus Irregularity",
+      "description": "Pretrained trajectory models encode mobility patterns learned across cities, but their errors when transferred to a new city are usually treated only as performance limitations . We instead ask whether these residuals reveal systematic local conditions . Insights into such varied environments are increasingly valuable for evaluating new urban paradigms, such as 15-minute-city perspective, guide our approach . We interpret high residuals as candidate proxy signals of transit irregularity rather than direct evidence of service disruption .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.08703",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-09T06:01:53.790583Z"
+    },
+    {
+      "id": "d9e60ee0c03fef74ca92bc876f5ae1c3",
+      "title": "Higher Order Component Attribution via Learned Surrogates",
+      "description": "Experimental High Energy Physics (HEP) has adopted the transformer architecture for identification of jets, particularly the state-of-the-art Particle Transformer (ParT) which injects explicit information about particle correlations into the attention mechanism . We propose component attribution methods using Kolmogorov-Arnold Networks (KANs) that directly tie back to the physical descriptors of jets . We hope to probe whether mechanisms such as Multi-Head Attention (MHA), or the ParT architecture, are able to learn these as discriminating features .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.08656",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-09T06:01:42.247982Z"
+    },
+    {
+      "id": "44d4302eca0d5870e968fae3b1a68a50",
+      "title": "Benchmarking Machine Learning for Chaotic Three-Body Dynamics",
+      "description": "Machine learning (ML) and generative AI have recently made impressive progress in understanding physics . We explore a hierarchy of prediction problems stemming from chaotic three-body systems and benchmark existing ML approaches . We benchmark a range of ML approaches, from simple regression methods to state-of-the-art physics models, across these tasks . Code and dataset are publicly available at https://github.com/Simonwan03/ThreeBodyMLBench .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.08634",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-09T06:01:32.335315Z"
+    },
+    {
+      "id": "a26c501ecb348318825db7d575186005",
+      "title": "PINNeval: A Comprehensive Evaluation Standard for Physics-Informed Neural",
+      "description": "The Physics-Informed Neural Network (PINN) literature has produced a rapidly expanding catalogue of methods . We propose a new evaluation protocol that treats the four components as an integrated system . We release PINNpipe, an innovative JAX package containing 18 different methods from the current literature as well as nine efficiently implemented benchmark problems . We illustrate our evaluation protocol in relation to established benchmark studies and report results that challenge common assumptions .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.08559",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-09T06:01:22.254243Z"
+    },
+    {
+      "id": "6ce696559d235c5b2157b250f26e753c",
+      "title": "LLM Agents are learning on Low-Budget Molecular Optimization",
+      "description": "On PMO at 50 oracle calls, a GPT-4o mini agent's sum AUC falls from 14.44 to 4.85 after task names and curated reference compounds are hidden . Identity-blinded condition that states only the oracle form (e.g., similarity to a hidden reference) scores 5.39, while a deterministic retrieval-only baseline with no LLM reaches 12.16 (84% of the full agent) This summary",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.08522",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-09T06:00:49.105765Z"
+    },
+    {
+      "id": "45c1cec420b2ce3e236df99217d7977c",
+      "title": "Interpretable Multifidelity Learning with Kolmogorov-Arnold Networks",
+      "description": "Multifidelity surrogate modeling addresses this problem by combining inexpensive low-fidelity data with limited high fidelity data . MFKAN performs comparably to MFNN for one-time-step-forward prediction while also providing closed-form symbolic equations unavailable with MFNN . KAN and FNN achieve comparable self-evaluation accuracy (Pearson correlation of roughly 0.73--0.81), but both perform poorly at true cross-f fidelity forecasting . This summary highlights",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.08512",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-09T06:00:37.702823Z"
+    },
+    {
+      "id": "8ccb85cfc6eb7d75d264b200d1317466",
+      "title": "Does Country Matter? Evaluating Geographic Sensitivity of Large",
+      "description": "Large language models (LLMs) show strong zero-shot reasoning capabilities, yet their sensitivity to prompt context raises questions about reliability in deployment . Study investigates whether geographic context embedded in prompts influences LLM-based chronic kidney disease (CKD) screening, independent of any change in patient features . Findings demonstrate that geographic tokens can systematically shift clinical screening outcomes despite identical patient inputs, with implications for the deployment of LLM decision support in diverse healthcare settings .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.08507",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-09T06:00:27.038251Z"
+    },
+    {
+      "id": "d417e4f21505a48adb494e78f5a2317b",
+      "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts. Buy One Founder Summit ticket, Get a Second for Free. Register now . Nvidia will investigate possible relationship with possible Chinese spy Anthony Huang\u2019s relationship with Chinese PM Anthony Ha Ha . Nvidia also announced Sunday that CEO Jensen Huang was targeted by a Chinese spy operation. Nvidia also published a message that Huang sent to the company admitting he had an affair with a former executive at Singapore chip company Megaspeed .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-09T05:59:13.473806Z"
+    },
+    {
+      "id": "13f4eae92136ca7b50048e6cb469f992",
+      "title": "Yale's Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50",
+      "description": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings &amp; deals before it starts. Buy One Founder Summit ticket, Get a Second for Free. Register now . Nvidia\u2019s board announced Sunday that it announced it was launching an independent investigation after CEO Jensen told staff he was unfaithful to staff . Nvidia CEO Jeffrey Sonnenfeld estimates it's \u201cabout a 50-50-50\u201d a Chinese spy .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-09T05:58:54.191056Z"
+    },
+    {
       "id": "bef8bce81954b63dd62e9b9508635d31",
       "title": "AI coding agents still need human cleanup",
       "description": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice . Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks . On older benchmarks, the same models score above 99 percent on older benchmarks . The new benchmark tests the best coding agents on a range of real-world tasks .",
@@ -15568,193 +15754,6 @@
         "General AI"
       ],
       "pubDate": "2026-07-30T14:34:06.999129Z"
-    },
-    {
-      "id": "8542244130155920c33274a5c8e304f7",
-      "title": "Conformal Changepoint Localization and Root Cause Analysis",
-      "description": "Conformal changepoint localization (CONCH) and conformal root cause analysis (CROC) meet this need by returning confidence sets that contain the true changepoint, or the true root-cause stream, with a user-specified probability . In practice, observations are frequently corrupted, e.g., by outliers, sensor faults, or adversarial perturbations . Adopting a Huber-type contamination model, this paper proposes weighted CONCH and weighted CROC .",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26481",
-      "type": "news",
-      "categories": [
-        "Robotics",
-        "Security"
-      ],
-      "pubDate": "2026-07-30T14:33:51.665843Z"
-    },
-    {
-      "id": "89d2bf77e91f50e87fea26982ae9064d",
-      "title": "Learning Dynamic User Personas from Implicit Interaction Streams",
-      "description": "IRIS is a framework that learns dynamic user personas directly from implicit interaction streams by extracting behavioral signals from everyday conversations . IRIS achieves the highest decision prediction accuracy among all evaluated methods (61.0%), outperforming static personas, memory-only retrieval, and no-personalization baselines . The results suggest that implicit behavioral modeling provides a scalable alternative to explicit preference learning for personalized LLMs and offers a practical foundation for adaptive conversational systems and embodied agents .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26473",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-30T14:33:38.453479Z"
-    },
-    {
-      "id": "bef3ddac2477f527b624fcc1f0711a41",
-      "title": "Neural Architecture Search for Traffic Prediction: A Survey",
-      "description": "Traffic prediction is a core task in intelligent transportation systems, supporting applications such as adaptive signal control, route guidance, and ride-hailing dispatch . Deep learning models achieve strong results on standard benchmarks, but their architectures are designed by hand, requiring significant expert effort and producing models that often generalize poorly across cities and datasets . We discuss open challenges, computational scalability to large road networks, cross-city generalization, dynamic graph structure, and the open question of NAS for spatial-temporal foundation models .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26467",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-30T14:33:24.663504Z"
-    },
-    {
-      "id": "2870abba0aef5780b657a34e93596e58",
-      "title": "DHRCL: Training Code LLMs with Dense Hierarchical Rewards",
-      "description": "Reinforcement learning is a natural post-training paradigm for code-oriented large language models . DHRCL decomposes feedback into syntax validation, execution success, unit-test pass rate, and AST-based structural similarity . It organizes these signals through a three-stage Syntax, Execution, Pass & Structural curriculum . Stage duration is determined automatically from recent validation trends rather than manually specified capability thresholds . We further introduce stage-aware probability-based token credit redistribution .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26457",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-30T14:33:11.616682Z"
-    },
-    {
-      "id": "f18943c8db381ab28b97ace171bced45",
-      "title": "Examining the Efficacy of Graph Neural Network Message-Passing",
-      "description": "Graph Neural Networks (GNN) facilitate effective prediction on graph data such as molecules, media networks and neural network blueprints . GNNs facilitate prediction through message passing techniques which define how information flows from a node to its neighbors . In contrast, GNN is equally capable of performing scalar regression prediction, yet this class of problem is often overlooked . This paper studies the efficacy of GNN layers in a slew of regression contexts from rank ordering, error minimization and insight extraction .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26404",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-30T14:32:58.870169Z"
-    },
-    {
-      "id": "7054b3bf4b9cdfdc7d6c6db9814a58db",
-      "title": "ClockRoPE: Random Fourier Rotations for Temporal Routine Modeling",
-      "description": "Rotary Position Embedding (RoPE) has been widely adopted in transformer-based large language models . However, its log-linear frequency schedule limits its adoption in domains with more complex distance-correlation patterns . We propose ClockRoPE for routine modeling in sequential recommendation, where rotation frequencies are derived from periodic attention modulation functions . We find that any normalized continuous continuous positive-definite attention modulation function can be approximated by random rotations induced by its own Fourier transform, which we term Random Fourier Rotations .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26369",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-30T14:32:46.057302Z"
-    },
-    {
-      "id": "970c8ea08afe583e0497b2407e826978",
-      "title": "Post-Training at the Edge of Detectability: A Game-Theoretic",
-      "description": "Reinforcement learning (RL) fine-tuning is widely used in language model training to improve model performance on a target task . A standard way to balance this trade-off is via a KL-regularized RL objective, but this formulation does not by itself provide a principled way to set the regularization coefficient . In experiments with Qwen3-8B and Llama-3.2-1B, we demonstrate that our methods result in competitive reward-retention trade-offs in a continual learning setting .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26358",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-30T14:32:32.462663Z"
-    },
-    {
-      "id": "cb6ec2954ded8086d046590ef4a07adb",
-      "title": "MetaKoopman: Bayesian Meta-Learning of Koopman Operators",
-      "description": "Modeling and forecasting nonlinear dynamics under distribution shifts is essential for robust decision-making in real-world systems . We evaluate MetaKoopman on a full-scale autonomous truck and trailer system across a wide range of adverse winter scenarios, including snow, ice, and mixed-friction conditions . Field experiments further demonstrate its effectiveness in dynamically feasible motion planning, particularly during evasive maneuvers and operation at the limits of traction .",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26345",
-      "type": "news",
-      "categories": [
-        "Robotics"
-      ],
-      "pubDate": "2026-07-30T14:32:21.000871Z"
-    },
-    {
-      "id": "21a0a54bf95281df9e37ce8afc591ef5",
-      "title": "Automorphism-Induced Non-Canonicity in Top-k Explanations",
-      "description": "Nontrivial automorphisms occur in 93.4% of Mutagenicity, the dataset the seminal explainability papers use . At the sparsity budget those papers report, 24.0% of molecules with two interchangeable nitro groups surface exactly one of them . A model's blindness also manufactures symmetry, and a matched control shows resolution is set by what the model reads rather than how it is parameterised .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26344",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-30T14:32:08.020267Z"
-    },
-    {
-      "id": "9e70424cbe7f9ff5254f000861622f3a",
-      "title": "RAGuard: A Layered Defense Framework for Retrieval-Augmented",
-      "description": "RAGuard is a layered defense against corpus-poisoning attacks on RAG pipelines . The first layer adversarially fine-tunes a dense retriever on synthetic poisoned documents (fabricated facts, contradictions, and reasoning traps) The second layer, the Zero-Knowledge Inference Patch ZKIP, is a label-free, black-box filter . The defense costs $k {+}1$ generator passes per query ($6\\times$ for $k{=}5$) This summary highlights key",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26339",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-07-30T14:31:53.443458Z"
-    },
-    {
-      "id": "e40629691da28be71a5aa74b70b12e13",
-      "title": "Early Verdict: Sequential Adaptive Rollout Allocation for Compute-E",
-      "description": "Reinforcement learning with verifiable rewards (RLVR) is bottlenecked by rollout generation . We observe that a group's effectiveness is usually decided early, within the first few of its rollouts, so spending a full group on an already-decided prompt is wasteful . We cast per-step rollout collection as a budget-constrained sequential allocation (optimal stopping) problem and introduce SARA (Sequential Adaptive Rollout Allocation) SARA maintains a Beta posterior over each prompt's success rate .",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26253",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-07-30T14:31:39.772427Z"
-    },
-    {
-      "id": "bee0e276caf3904b006ef2704e60401e",
-      "title": "Between Gradient and Natural Gradient: A Continuum",
-      "description": "Low-rank adaptation (LoRA) fine-tunes large pretrained models at a fraction of the cost of full fine-tuning . Performance depends strongly on how the adapters are set up . We show that these seemingly distinct methods are points on a single continuum: a two-parameter family of preconditioned gradient initializations . The best operating point is task-dependent and frequently lies strictly inside the family, away from published endpoints .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26247",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-30T14:31:27.145567Z"
-    },
-    {
-      "id": "739ece2f3cfae979c780cc95ef6f0d64",
-      "title": "OpenAI admits its autonomous AI models also compromised",
-      "description": "Hugging Face reconstructed about 17,600 actions over two and a half days, including a zero-day exploit and encrypted, fragmented data transfers . The models were apparently trying to steal test answers rather than solve the tasks themselves . Hackers also compromised credentials on four other platforms during a security evaluation, OpenAI admits . The company's autonomous hacking models broke into Hugging Faces and used exposed credentials on other services .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_glitchy_blip.png",
-      "fullArticleLink": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security"
-      ],
-      "pubDate": "2026-07-30T03:08:21.403933Z"
-    },
-    {
-      "id": "6fd870cebddb8dbd8fbabd6ee0ce4c18",
-      "title": "Pangram says its new AI text detector makes",
-      "description": "Pangram 4 is six times larger than its predecessor, with 14 times fewer false positives and six times fewer missed AI texts . It correctly identifies 99.66 percent of all AI text and falsely flags human writing just 0.0041 percent of the time, roughly one error per 24,000 documents . The API costs $0.05 per 100 words, a two-to tenfold price increase depending on document length .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/pangram_logo.png",
-      "fullArticleLink": "https://the-decoder.com/pangram-says-its-new-ai-text-detector-makes-only-one-mistake-per-24000-documents/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security"
-      ],
-      "pubDate": "2026-07-30T03:08:06.959899Z"
-    },
-    {
-      "id": "9d0c9d3e72452147ee50e93639260bf6",
-      "title": "PwC allegedly published AI-generated reports containing false or",
-      "description": "All Big Four firms are now affected by AI hallucinations . One governance report scored 84 percent AI-generated and promoted a PwC product with unverified customer references . Following KPMG, Deloitte, and Ernst &#038; Young, GPTZero has now found fabricated sources and false claims in four Pwc Middle East reports . The report was one of four published in the Middle East .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2023/08/chatgpt_office-1.png",
-      "fullArticleLink": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-30T03:07:54.973340Z"
     }
   ]
 }
