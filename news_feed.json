@@ -1,6 +1,215 @@
 {
   "news": [
     {
+      "id": "0ec255b70d0851ab31b5de410b54b556",
+      "title": "Anthropic kicks off IPO roadshow, offering shares",
+      "description": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion . The company is securing $26 billion through a private placement with Google, Nvidia, Microsoft, and other major tech firms as anchor investors . The IPO comes at a time when investors are growing increasingly skeptical of AI investments . It is expected to fetch $64.4 billion in the public offering of shares at $70 to $78 .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-10T19:48:27.310798Z"
+    },
+    {
+      "id": "d05c106f4d7b0f79c4cc8af00d07bdb3",
+      "title": "Eight countries and top AI labs agree",
+      "description": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel Macron's initiative . The companies commit to shutdown mechanisms, independent audits, and disclosing known risks, but the agreement lacks binding sanctions or deadlines . The agreement does not have binding deadlines or binding sanctions, but it does not include a deadline or a binding deadline .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg",
+      "fullArticleLink": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-10T19:48:17.640152Z"
+    },
+    {
+      "id": "2c24f62bd19ba18621ff238c0fbbc285",
+      "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent",
+      "description": "Google Deepmind introduces Gemini Robotics 2.5, a new control model for robots . Apollo 2 sorted metal parts on active Mercedes-Benz production lines in Hungary and Germany . The robot Apollo 2 had a reported success rate of 96 percent sorting metal parts in the pilot pilot . The humanoid robot was tested with Apptronik and Google DeepMind's Apollo 2 robot with a reported 96 percent success rate in sorting parts .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/Google-Deepmind-Gemini-Robotics-2-5.webp",
+      "fullArticleLink": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-11-10T19:47:57.052153Z"
+    },
+    {
+      "id": "6661a4ef58c575f684cfbd11a1fa95e4",
+      "title": "Gemini 4 Carbon arrives just in time",
+      "description": "Google is making Gemini 4 Carbon generally available after a two-week testing phase . The model ranks first in several benchmarks, in some cases ahead of Anthropic's new Fable 5.2, at less than half the per-task cost . Google is also previewing coordinated agent teams through the \"/swarm\" feature, which split up complex tasks in real time . The new model arrives just in time to feel like yesterday&#039;s news in the fastest model cycle yet .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4_carbon_logo.png",
+      "fullArticleLink": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-10T19:47:45.777113Z"
+    },
+    {
+      "id": "294e40d48c108c9e67d0efd2bf24d432",
+      "title": "Nvidia's model GR00T 2 watches humans on video",
+      "description": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation . Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task . System transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage . Success rate varies widely, but it's up to 80 per cent depending on what task needs to be done .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/GR00T-2-Nvidia-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-10T19:47:35.654111Z"
+    },
+    {
+      "id": "fc66a21ca327a046de776124a4eba7f3",
+      "title": "Otter AI can now follow conversations across 30+",
+      "description": "Otter AI can now follow conversations across 30+ languages . The company is also adding support for 27 languages, its largest language expansion to date . Once the rollout is complete, Otter will support 31 languages, making the platform more accessible to international teams . The announcement comes as Otter continues to expand beyond transcription and into other workplace AI tools, following its $320 million funding from General Catalyst . It recently introduced Work Mode, which uses meeting history and connected apps to help users prepare for upcoming calls .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-521333620.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-10T19:43:09.597022Z"
+    },
+    {
+      "id": "dfc52740f1c685c92d1b914a91fafde8",
+      "title": "Cyberattacks threaten to make open source",
+      "description": "Hugging Face CEO Irene Solaiman says open AI platforms are vulnerable to cyberattacks . She says open doors and rich data make them vulnerable to attacks . The October attack on OpenCode, which targeted users\u2019 third-party API keys, is the latest example . The risks aren\u2019t limited to platforms that invite open community contributions . Solaiman: There\u2019s a \u201cdanger of open source really closing down at a time when we\u2019ve gotten so much public support\u201d",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/55593309591_7cc2d3aba6_k.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-10T19:42:53.279271Z"
+    },
+    {
+      "id": "9430d602e3040966bea42968a02eeef7",
+      "title": "Cyanogen's co-founder takes aim at Windows",
+      "description": "After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era . Kora Systems is developing a Linux-based desktop operating system that integrates AI models and agents directly into the computing experience . The software is expected to launch in 2027 as a free-to-use desktop system . Microsoft has long dominated the PC operating-system market, making it hard for newer players to establish a foothold .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/kora-os.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-10T19:42:08.552159Z"
+    },
+    {
+      "id": "1a6a4c972e5ba44338cbd9229134d036",
+      "title": "Anthropic sets IPO price range of $70",
+      "description": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion . The company could end up being worth a hefty $1 trillion if its shares list at the top of the price range, on a fully diluted basis . Anthropic intends to start trading on the Nasdaq close to November 19, per reporting from CNBC, under the ticker symbol \"ANT\" The company said its run-rate revenue reached $81 billion by the end of October .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "fullArticleLink": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-10T19:41:52.629147Z"
+    },
+    {
+      "id": "2691bfd505194ce6febf2aaf1bf86f21",
+      "title": "Adobe brings AI agents and new creative tools",
+      "description": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly . The company is also releasing a Model Context Protocol (MCP) that lets other chatbots use Adobe features . Adobe's Firefly app is moving into Figma's territory with a new prototyping tool in private beta called Builder . Adobe is also making it easier for people to take quick action, like removing the background or generating a thumbnail for a video .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/FF-AIA-PlanMode-No-Logo-4.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-10T19:41:37.344080Z"
+    },
+    {
+      "id": "5ab46a1f966a1dd15ff1a6827baa8a4d",
+      "title": "Meta\u2019s AI agent Muse lands on Apple Watch",
+      "description": "Meta's AI agent Muse lands on Apple Watch and Android Wear OS . Users can now interact with the AI assistant through voice calls, text messages, or dictation directly on their smartwatch . The smartwatch launch comes just a month after Meta introduced a dedicated iPad app for Muse . Last week, Meta rolled out the ability for users in the U.S. to video chat with their Muse AI avatar . The AI agent doesn't actually see users, but can hear them and respond in real time .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-10T19:41:21.492060Z"
+    },
+    {
+      "id": "af325a13228f8f12e162a0fd29438606",
+      "title": "Google broadens its AI hardware portfolio with two",
+      "description": "Google broadens its AI hardware portfolio with two new specialized chips . The new units are part of the company's eighth generation of chips introduced in April this year . The launch comes as hyperscalers like Microsoft, Amazon, and even AI labs like OpenAI and Anthropic are working on their own lines of AI-specific semiconductors and accompanying software . The news comes at a particularly vulnerable moment for Nvidia, whose CEO admitted to having an affair with a Chinese spy .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-10T19:41:07.167424Z"
+    },
+    {
+      "id": "994129552b18505b4e6a06cee8220fef",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions",
+      "description": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks . Anthropic also unveils Claude Whiteboards and Claude Sheets . The company also announced Claude Data, formerly known as Claude Dashboards, is now generally available . The launch of Anthropic's new productivity-focused features comes just a few weeks after OpenAI unveiled a series of workplace tools that allow users to collaborate with ChatGPT to visualize company information and create presentations .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Meetings.png?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-10T19:40:39.380348Z"
+    },
+    {
+      "id": "4b68cc7db805bd1974dd868f48f47e8a",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT",
+      "description": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google . Eligible companies will also be able to create and launch a specialized business agent, which gives users the ability to ask questions about the business and its products . The Business Hub will also give users access to limited business insights, including profile views, business mentions, website clicks, and other metrics . The feature is currently in beta .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-8.46.19-AM.png?resize=1200,677",
+      "fullArticleLink": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-10T19:40:25.221183Z"
+    },
+    {
+      "id": "a032a0b0222a87eb27ab5b5289ff2371",
+      "title": "PSI is trying to make a business out",
+      "description": "Physical Superintelligence (PSI) is trying to make a business out of AI-driven scientific discovery . The startup is focused on understanding how to take computational results and validate them with experiments . The long play is converting theoretical physics breakthroughs into actual technologies . PSI CEO Matt Pines: \"At the end of the day, physics is different than math because it's the real world because nature gets a vote in your models of reality\"",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-10.00.33-AM.png?w=683",
+      "fullArticleLink": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-10T19:40:10.800029Z"
+    },
+    {
       "id": "7dbcaade3f832958f140d90211d5cec6",
       "title": "These Robotic Arms are Powered by Algae",
       "description": "Soft, flexible robots could be useful for a wide variety of applications, including artificial muscles and wearable devices . Researchers at Delft University of Technology in the Netherlands have developed a soft robotic arm colonized by algae on its surface . The key to the movement of these flexible robots is the algae\u2019s photosynthetic capabilities . The tiny robot arms are constructed of two layers of hydrogel that the algae cells live on .",
@@ -15592,188 +15801,6 @@
         "General AI"
       ],
       "pubDate": "2026-07-31T14:35:43.316289Z"
-    },
-    {
-      "id": "6272a8b0709192f2838551531e322a44",
-      "title": "Compression-Based Behavioral Similarity for Open-World Sybil Discovery",
-      "description": "Current methods of Sybil actor detection include constructing graphs, which requires token transfers between examined wallets . Machine learning algorithms have been employed as well, but they treat the task as a closed-set classification problem . Our approach synthesizes a symbolic Transaction Grammar from EVM (Ethereum Virtual Machine) traces . The high-signal contracts are filtered with our own protocol, called the Blind-Spot Protocol . Gzip-based NCD is used to construct a behavioral graph for Sybil discovery .",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27370",
-      "type": "news",
-      "categories": [
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-07-31T14:35:30.076791Z"
-    },
-    {
-      "id": "9cd1aea99306c3993f4586b04e243da6",
-      "title": "Modeling Decisions in Blockchain Analytics: A Leakage-Aware Evaluation",
-      "description": "Recent Sybil detection methods increasingly use deep learning and treat blockchain activity as a quasi-linguistic sequence . Complex sequence models are computationally expensive for real-time monitoring, and their reported performance may be inflated by label leakage from high-signal smart contracts . We evaluate this approach on Ethereum actor classification by comparing Transformer and BiLSTM sequence models against XGBoost and SVM baselines . We contribute a framework for leakage-aware actor classification and a Transaction Grammar representation of wallet behavior .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27350",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-07-31T14:35:16.525943Z"
-    },
-    {
-      "id": "87da80a8e514fae773e8f96c3b62d757",
-      "title": "THGFM: Dual-Branch Temporal Heterogeneous Graph Fusion Model",
-      "description": "THGFM is a web-scale temporal heterogeneous graph fusion model that addresses both limitations within a unified dual-path architecture . The model consistently outperforms baseline graph transformer models on academic graphs benchmarks . It delivers a $+3.25\\%$ six-task mean gain, with peak relative gains of $+12.37\\% $ on OAG-CS PV, $+4.87\\% on PF-$L_2$, and $+1.18\\% . This summary highlights key aspects",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27303",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-31T14:35:02.266483Z"
-    },
-    {
-      "id": "c34b700aaa4c3e02e6ee2db5ecb99c3a",
-      "title": "EvoCause: LLM-Guided Evolution of Causal Graphs for Root",
-      "description": "Modern telecommunication, cloud, and microservice systems emit correlated alarm cascades when components fail . Root cause analysis (RCA) aims to identify the small set of alarms that initiate each cascade . We also release TeleRCA, an expert-annotated benchmark from a production telecommunication network containing $485{,}681$ alarm events spanning $194$ alarm types over $5{, }621$ resources . This summary highlights key",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27290",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-31T14:34:50.136820Z"
-    },
-    {
-      "id": "3c2e823ae393280f8d45bb47e83b9c99",
-      "title": "The Kinetics of Training: A Driven-Nucleation Rate Law",
-      "description": "A capability appears in a language model when the last parts of its circuit align in one stochastic attempt, and getting all but one right is worth nothing . We show this no-partial-credit joint alignment is the rate-limiting step of capability formation . In Pythia across seven capabilities and three scales, ablating one part leaves a median 17% of the capability in 32 of 32 discriminating cells, where partial credit predicts 50-83% .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27281",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-31T14:34:36.270439Z"
-    },
-    {
-      "id": "a2941476f699e2e75bd75575e24dffe6",
-      "title": "Quantized LLM agents are being tested for accuracy",
-      "description": "Post-training quantization to 4-bit weights is widely reported to be nearly lossless . We test this claim for multi-turn, tool-calling agents, where it now matters most . Quantization amplifies the failure the model already exhibits at full precision (tool-name hallucination in telecom, with the same directional trend in retail entity errors) by up to 2.5$\\times$ in volume (+17.6 points per task)",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27275",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-31T14:34:23.351032Z"
-    },
-    {
-      "id": "0122077ce39a76718fb2afb9c49f0a20",
-      "title": "SDO: Structure-Aware Data Organization for Efficient LLM Post-Training",
-      "description": "Post-training of large language models is expensive, and existing efficiency improvements mainly focus on selecting informative samples or designing training schedules . We propose SDO (Structure-Aware Data Organization), a plug-and-play data organization framework with an exposure-driven feedback mechanism that organizes mini-batch composition and sample exposure according to representation-space structure . SDO operates epoch by epoch on frozen external embeddings, avoiding model warm-up training overhead .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27273",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-31T14:34:11.248510Z"
-    },
-    {
-      "id": "6b8a55852aa9a46a6b0d970ac6c9368f",
-      "title": "Google AI Overviews become more common in search",
-      "description": "Google\u2019s AI-generated summaries appeared in 43% of US searches measured by Similarweb, up from 15% a year earlier . AI Overviews display generated summaries within Google results, while AI Mode provides a conversational interface for longer questions and follow-up prompts . Users can move from [#8230;] to [AI Mode], where users can move to . AI Mode, which allows users to move from .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/Google-AI-Overviews-become-more-common-in-search-scaled-e1785304615119.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-31T03:51:43.929519Z"
-    },
-    {
-      "id": "a16ac88ada6807449747621b216a2032",
-      "title": "OpenAI report links coding agents to faster science",
-      "description": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes . The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic's Claude Code in three others . Worth flagging upfront: this is a vendor publishing a survey of its own . The post OpenAI report links coding agents to faster science software builds appeared on AI News.com .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/openai-report-coding-agents-codex-ai-artificial-intelligence-programming-developers-open-source-claude-code-science-software-engineering.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-31T03:51:33.445101Z"
-    },
-    {
-      "id": "768d31009db03243bb057238c4cccd2c",
-      "title": "How AI is Changing Linux VPS Security",
-      "description": "Cybersecurity wasn't really something small and mid-sized businesses worried about too much a few years ago . Once your customer data, your apps, your internal tools all end up online, protecting the server behind them stops being optional . And attacks aren't getting any simpler either, which is part of the problem with sticking with Linux VPS security for businesses . How AI is Changing Linux Vps Security for Businesses?",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/gabriel-heinzer-4Mw7nkQDByk-unsplash-scaled.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-07-31T03:51:23.255099Z"
-    },
-    {
-      "id": "0ebae200f3121a0bbfae07ba28f014cd",
-      "title": "Zuckerberg details Meta\u2019s personal AI superintelligence strategy",
-      "description": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions . The Meta chief published the piece as a statement of company philosophy rather than a product announcement . It contains no release dates, no benchmark figures, no named models . What it does contain is an argument that superintelligence needs to reach individuals not just institutions, rather than institutions, to reach them .",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/meta-personal-ai-superintelligence-strategy-mark-zuckerberg-open-source-models-safety-security-governance-artificial-intelligence-law.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-31T03:51:12.202794Z"
-    },
-    {
-      "id": "63a0556be76681db5660e2de45bc0b2c",
-      "title": "Ex-OpenAI researcher bets $100 billion will flow into",
-      "description": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models . Ho is leaving OpenAI to start a company focused on specialized training data . Ho predicts that AI labs will need to spend more than $100 billion on targeted data collection . He says the models are becoming more specialized, excelling at coding and math while stagnating or even regressing in other areas . Ho: \"Scaleable\" AI labs must spend $100B on training data because scaling alone won't cut it .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/08/synthetic_data_illustration-2.png",
-      "fullArticleLink": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-31T03:50:56.985166Z"
-    },
-    {
-      "id": "182abdd62e1e9dada8a2a0309d21ceef",
-      "title": "OpenAI goes full China pricing mode with 80",
-      "description": "Starting July 30, OpenAI is cutting GPT-5.6 Luna prices by 80 percent and Terra by 20 percent . OpenAI says its top-tier Sol model helped make the company's own infrastructure more efficient . Price pressure from cheap Chinese providers and Microsoft's own MAI models likely played a role too, according to OpenAI . The company says the cuts are due to price pressure from the Chinese market .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
-      "fullArticleLink": "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-31T03:50:45.821803Z"
-    },
-    {
-      "id": "2309586bf89afbfb967fb354029df3ac",
-      "title": "Surrogate assisted diversity estimation in neural ensemble search",
-      "description": "Ensembles are a standard way to improve the performance and robustness of deep neural networks . But their effectiveness crucially depends on the quality and diversity of individual models . We introduce a dual-objective surrogate-guided ensemble search . Candidate architectures are represented as directed acyclic graphs, and two surrogate models are trained independently to estimate predictive accuracy and diversity potential . Their combined estimates guide an NES framework that efficiently identifies architectures that are both individually strong and collectively diverse .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26940",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-31T03:50:30.325487Z"
-    },
-    {
-      "id": "4bfe9a0dabb3fec7d50bbb8b6876a95c",
-      "title": "Two Calls Beat Five Agents: Evaluating Multi-Agent Pipelines",
-      "description": "Multi-agent LLM pipeline systems break down the task among multiple roles for better reasoning, but are benchmarked mainly with large-scale commercial models . Parishad, a structured multi-agent system involving five roles, was compared with prompting directly and two-call self-refinement . With plaintext format, the accuracy is restored to 82.0\\% on GSM8K, with 7.4$\\times$ lower token usage . Our results demonstrate that communication format and implementation details determine outcomes more than architectural complexity .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26922",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-31T03:50:17.391687Z"
     }
   ]
 }
