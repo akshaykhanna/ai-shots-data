@@ -1,6 +1,80 @@
 {
   "news": [
     {
+      "id": "7dbcaade3f832958f140d90211d5cec6",
+      "title": "These Robotic Arms are Powered by Algae",
+      "description": "Soft, flexible robots could be useful for a wide variety of applications, including artificial muscles and wearable devices . Researchers at Delft University of Technology in the Netherlands have developed a soft robotic arm colonized by algae on its surface . The key to the movement of these flexible robots is the algae\u2019s photosynthetic capabilities . The tiny robot arms are constructed of two layers of hydrogel that the algae cells live on .",
+      "imageUrl": "https://media.wired.com/photos/6aeb82bb5d3f8b6dd9946810/191:100/w_1280,c_limit/Soft-robot-arm_3.jpeg",
+      "fullArticleLink": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-10T07:03:31.573700Z"
+    },
+    {
+      "id": "c81f482fdf110b88cc3533ceaca2672b",
+      "title": "Nvidia CEO Jensen Huang's affair with alleged Chinese",
+      "description": "Nvidia CEO Jensen Huang's affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny . U.S. intelligence officials believe Alice Huang was recruited by Chinese intelligence to gather information about the CEO and influence the company's efforts to loosen chip export restrictions . The controversy comes at a sensitive moment for Nvidia, which has been a big market for the company in China . Even if Nvidia's investigation finds that Huang didn\u2019t share secrets with his paramour, the question is whether he\u2019ll be able to convince Washington that Nvidia can still do business with China .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
+      "fullArticleLink": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-10T07:03:17.966501Z"
+    },
+    {
+      "id": "e7ff3531a33d6a4dbbf1643650125a23",
+      "title": "The race is on to sue Nvidia",
+      "description": "Law professor: \"I would definitely wager that there\u2019ll be a filing\" A new lawsuit accuses Nvidia of misleading investors about its CEO's ties to a data center executive . Law expert: Nvidia's CEO's knowledge gets imputed to the company . Lawyer: Nvidia misled investors because CEO Jensen Huang was having an affair with a top exec . Nvidia's stock slid more than 4% on Monday, the first trading day after board said it would investigate CEO .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-10T07:03:06.681614Z"
+    },
+    {
+      "id": "67a80703c5c37cb3ebe63d6b7a45827c",
+      "title": "A short seller flagged Nvidia CEO\u2019s ties",
+      "description": "A short seller flagged Nvidia CEO's ties to a suspected Chinese spy six months before the scandal . U.S. intelligence officials believe she was recruited by the Chinese government to collect intelligence on Jensen Huang and influence his position on advanced AI chips . The Nvidia CEO admitted to an extramarital affair over the weekend and the company has now opened a formal investigation into his relationship with Alice Huang . The short seller firm Culper Research had already raised questions about Nvidia CEO Jensen Huang's unusually close relationship with Megaspeed, a Singapore-based company that buys Nvidia chips .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-10T07:02:54.647341Z"
+    },
+    {
+      "id": "55ff5cbc62ee713f9a18f34f09be14e3",
+      "title": "Anthropic reportedly plans to move forward with IPO",
+      "description": "Anthropic plans to set a valuation range this week and begin trading on Thursday or Friday of next week . Investors will look to Anthropic\u2019s valuation to gauge the strength of the AI boom . Some institutional investors are now pushing for a valuation below the $1.5 trillion target discussed as recently as last week . OpenAI's main rival, ChatGPT, was reportedly valued at $1 billion last week after raising $11 billion in fresh capital .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Dario-Amodei.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-10T07:02:45.637642Z"
+    },
+    {
       "id": "92e3b40d651ff5d85f9404302f0cdce5",
       "title": "Nvidia espionage scandal weakens Huang's lobby against tighter",
       "description": "Nvidia CEO Jensen Huang has admitted to an extramarital affair with a woman US intelligence agencies classify as a suspected Chinese informant . The affair weakens Huang's lobbying efforts against stricter AI chip export controls . Newly elected Democratic Congress is poised to ramp up scrutiny of AI chip smuggling to China and push for tighter restrictions . The board has launched an independent investigation into the affair and the affair has been described as 'an affair'",
@@ -15700,68 +15774,6 @@
         "LLM"
       ],
       "pubDate": "2026-07-31T03:50:17.391687Z"
-    },
-    {
-      "id": "b053c59c3abcbd7491475abfa2c41a60",
-      "title": "ReCo: Reweighting GRPO Against Distributional Concentration",
-      "description": "Group Relative Policy Optimization (GRPO) has become a standard reinforcement learning method for post-training language models . Recent work shows that GRPO can reduce the base model's reasoning capacity and underperform it in Pass@k when k is large . We propose ReCo, a reweighting method that addresses both effects . ReCo improves Pass@K for large values of k and is comparable to GRPO for small values .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26862",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-31T03:50:06.293205Z"
-    },
-    {
-      "id": "3fa01f569f736465b0e8ce17576a0b1f",
-      "title": "Amortized Moment Matching for Visual Generation",
-      "description": "Amortized Fr\\'{e}chet Distance (AMFD) loss is able to dynamically learn conditional moments via an alternating, matrix-free optimization pipeline that effortlessly scales to high-dimensional data . AMFD serves as a powerful post-training objective when operating on global representation features . Code and checkpoints are available at https://github.com/poppuppy/amfd. arXiv:2607.26860v1 . This summary highlights key aspects of the latest developments. Industry analysts suggest",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26860",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-31T03:49:54.568502Z"
-    },
-    {
-      "id": "612d8bb2833c7d5af9de784ec77b9842",
-      "title": "Kairos: Numerically Robust News Recommendation under Item Cold-Start",
-      "description": "Modern deep learning models require massive interaction data while real-world news has a short Time-to-Live (TTL < 48 h) and shallow article pools . Project Kairos replaces error-prone Sherman-Morrison inversions with direct rank-1 updates of Cholesky factors . Simultaneously, Matryoshka Representation Learning (MRL) integration addresses inference latency . Empirical evaluations based on the Tagesschau API demonstrate that exploiting semantic redundancy in the feature space achieves a 4.85-fold efficiency gain without significantly compromising ranking precision .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26832",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-07-31T03:49:41.023346Z"
-    },
-    {
-      "id": "0934a8d756fcbc087fc1800049ae7a1f",
-      "title": "LLM Discovery via Cost-Calibrated Frontier Frontier Utility",
-      "description": "Large language models increasingly support scientific and algorithmic discovery through inference-time search over evaluated candidates . Existing adaptive discovery controllers assign credit based only on score progress . We prove that cost-blind credit can forfeit all but a vanishing fraction of attainable quality as frontiers multiply and costs diverge . We introduce CostAda, a cost-calibrated adaptive controller built around frontier utility values frontier progress relative to realized action cost and conditions that credit on the remaining budget .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26828",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-07-31T03:49:29.233457Z"
-    },
-    {
-      "id": "464356bc1451e90b90fc50297da61366",
-      "title": "Forecasts Trajectory-Level Safety Risks in Black-Box Multi-Turn",
-      "description": "In multi-turn interactions, malicious intent can be decomposed across seemingly harmless turns and gradually reconstructed through interaction trajectories . Existing safeguards remain largely reactive, detecting manifested violations while lacking the ability to predict latent risk evolution . We propose Recast, a safety risk forecasting framework that advances LLM safeguarding beyond turn-level violation detection to trajectory-level risk prediction . Extensive experiments across 7 risk categories show that Recast predicts 88.3% of future safety failures with an average lead time of 2.41 turns .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.26820",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security"
-      ],
-      "pubDate": "2026-07-31T03:49:16.478046Z"
     }
   ]
 }
