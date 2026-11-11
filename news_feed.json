@@ -1,6 +1,202 @@
 {
   "news": [
     {
+      "id": "456af176a3cc1ab71e6f270de0108f48",
+      "title": "OpenAI turns ChatGPT into a business directory",
+      "description": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions . \"Business Agents\" let eligible US e-commerce providers talk to customers directly inside ChatGpt . Companies can claim their profile, add product data, and track how users interact with them . The \"Business Agent\" will handle questions from US retailers directly in chatGPT's new Business Hub, which is open to US customers .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/openai_cart_logo.png",
+      "fullArticleLink": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-11T19:40:11.973245Z"
+    },
+    {
+      "id": "748c9ccecbe99267532690d2692cc2e6",
+      "title": "UK regulator threatens universities with sanctions unless they",
+      "description": "England's higher education regulator says AI has made it \"nearly impossible\" to fairly assess student coursework . Investigation found that students are having ChatGPT write entire papers undetected, without being able to recall basic content afterward . To save the credibility of degrees, universities now have to return to traditional exams or face sanctions . UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats or adopt traditional exam formats .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/ai-generated-homework-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-11T19:40:00.052580Z"
+    },
+    {
+      "id": "38f50344beac75f0f56da84012b4e71f",
+      "title": "Enterprise sales push OpenAI's quarterly revenue to $10",
+      "description": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in . Rival Anthropic operates far more efficiently on $17 billion in revenue . To close the gap, OpenAI is now fueling a price war for enterprise customers . OpenAI still trails Anthropic, which operates on more than $17 million in revenue, by $10.9 billion in 2013 . The company's quarterly revenue grew 50 percent but still burned more cash .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+      "fullArticleLink": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-11T19:39:46.760610Z"
+    },
+    {
+      "id": "4be86e32e380b581f68e59c411cb104b",
+      "title": "US data brokers are selling half a billion",
+      "description": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs . That includes the same RL environments previously built for OpenAI or Anthropic . At least nine firms are involved, and export controls barely apply, according to a ChinaTalk investigation . The report says that at least nine companies are involved in selling the data to the labs .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/china_vs_usa_ai_race.png",
+      "fullArticleLink": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-11T19:39:34.442631Z"
+    },
+    {
+      "id": "2f0f1e5ed44515674044424715eb3d49",
+      "title": "Anthropic says AI is eroding Nvidia's CUDA lead",
+      "description": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat . Anthropic's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days . Animations now run Claude on four chip families and aims to cut costs and reduce vendor dependencies . Anthropics now runs Claude on a range of chip families, with almost no human intervention . Company hopes to reduce vendor dependency and cut costs by cutting costs .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_moat-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-11T19:39:22.384045Z"
+    },
+    {
+      "id": "9f8335df57418b22ad4ee9eb7a9d7b48",
+      "title": "Helsing built an AI system that prepares targets",
+      "description": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems . All under human oversight and European control . But experience from the Iran war, Gaza, and near-miss involving China shows that the speed of automation and data fusion create risks that are hard to contain . Helsing says every decision will carry a human name and the AI platform will be under European oversight .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/Helsing-Clarity.webp",
+      "fullArticleLink": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-11T19:39:10.292203Z"
+    },
+    {
+      "id": "eb8ebb1c8ea15ca271f9bcfa1b2b4770",
+      "title": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core",
+      "description": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks instead of years . AI agents powered by Gemini Carbon wrote more than six million lines of proof code and flagged only about one percent for human review . Deepmind plans to extend the method to critical infrastructure like power grids and medical devices like medical devices . The algorithm was developed by Google's Deepmind and Gemini Carbon, the company behind Gemini Carbon .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/deepmind_alphaproof.png",
+      "fullArticleLink": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-11T19:38:57.901735Z"
+    },
+    {
+      "id": "746a854205c5e12ee4087b6c3416d4df",
+      "title": "US corporate AI spending hits a new high",
+      "description": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October 2026 . One percent of companies still drive 80 percent of revenue for OpenAI and Anthropic . Customer support is emerging as a new growth driver, but it may bring lower margins than the coding business that has fueled spending so far . US spending hits a new high in October, but growth slows to 1.66 percent .",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/02/openai_anthropic_logos-1.jpeg",
+      "fullArticleLink": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-11T19:38:45.427944Z"
+    },
+    {
+      "id": "d81ac1c753213dc768f27eb3c8f0d18b",
+      "title": "Tabular Foundation Models in Financial Predictions are based",
+      "description": "TabFM is more accurate than all comparison models . It is faster and less computationally intensive than the large language model . Several tree-based specifications produce predictions more quickly than TabFM, so choosing between them involves a trade-off between accuracy and speed . We conclude that TFMs have promise as a new tool for forecasting in accounting and finance. However, our evaluation is based on a single benchmark task, and no class of models will dominate in all settings .",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.13550",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-11T19:38:02.043821Z"
+    },
+    {
+      "id": "3228fe7c6f87bdf9467f3b69e3991126",
+      "title": "Deep Personalization: Continuous Context Observation for Local Proactive",
+      "description": "Proactive agents hold the promise to close this gap, but effective proactivity requires understanding users' real-time activities and personalizing intervention timing . We introduce deep personalization in Coco, a proactive desktop agent, by having a separate Observer Agent that monitors desktop activity, maintains compact long-term user modeling context, and learns when assistance is desirable from implicit signals such as engagement, dismissal, explicit requests, and repeated work patterns . Coco improves its macro-averaged F1 score from 0.199 to 0.515, a 2.4-3.0x relative gain .",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.13457",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-11T19:37:00.855738Z"
+    },
+    {
+      "id": "c96bf79b7eb0ccb71bd08783d1d3edad",
+      "title": "A Startup Wants to Fight AI Bioweapons",
+      "description": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection . Many scientists say AI-made bioweapons are a low-likelihood threat . The company hopes its technology will help researchers and public health officials identify emerging biological threats . In one experiment, the company removed Bundibugyo virus\u2014which is currently driving an Ebola outbreak in East Africa\u2014from the training data .",
+      "imageUrl": "https://media.wired.com/photos/6af2619c5a9cd51895c4c0be/191:100/w_1280,c_limit/science_ai_fight_bioweapon.jpg",
+      "fullArticleLink": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "type": "news",
+      "categories": [
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-11T19:33:33.501776Z"
+    },
+    {
+      "id": "844ff10dd21c63a217651485a2206854",
+      "title": "Nvidia's crisis has corporate governance experts reaching",
+      "description": "Nvidia\u2019s stock sank 5.47% on Tuesday, following a 4% drop on Monday, a loss of about 9.5% in two days . Nvidia CEO Jensen Huang has admitted to an extramarital affair with Alice Huang, whom U.S. intelligence agencies believe was spying for China . Two corporate governance professors say there is no real precedent for a CEO caught up in a suspected honeypot .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-503116193.jpeg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-11T19:33:13.926568Z"
+    },
+    {
+      "id": "c469d7bbc40ab1420a7e0e14f657ad6a",
+      "title": "Plurai wants to help AI agents work better",
+      "description": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads . Co-founders Ilan Kadar and Elad Levi previously worked for Nexar, which develops autonomous driving technology . On Wednesday, the startup said it had raised $13 million in seed funding to make that happen . The platform works alongside existing agentic tools like Claude Code, Codex, Copilot and Cursor .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Plurai-team-photo.-Credit-Guy-Hamoy.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-11T19:32:56.778471Z"
+    },
+    {
+      "id": "b577d6b06f32358e6bb6761c381bd6c5",
+      "title": "OpenAI\u2019s quarterly revenue reportedly crosses $10B",
+      "description": "OpenAI's quarterly revenue reportedly crosses $10B for the first time . That would mark a sizable increase in its revenue growth rate, which was previously said to be about 18% between the first and second quarters of the year . The company's profitability picture also appears to have improved, with its adjusted operating margin narrowing from -150% in the second quarter to -109% . OpenAI has now reached an annual revenue run rate of $50B, according to Bloomberg .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-11T19:32:20.767526Z"
+    },
+    {
+      "id": "d9ab5c088fc68f533ee13ab708d17a5c",
+      "title": "Congress to call Jensen Huang in to answer",
+      "description": "Nvidia CEO Jensen Huang has until the end of the day to respond to a congressional request to answer questions about his affair with an alleged Chinese spy . House Republicans have asked Huang to appear before their committees for a joint, closed-door briefing in regards to his relations with Alice Huang, the Megaspeed executive and suspected Chinese spy Alice Huang . House China committee Chairman John Moolenaar said Wednesday that if Huang doesn\u2019t agree to the briefing, he\u2019ll likely be subpoenaed .",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-11T19:32:05.011553Z"
+    },
+    {
       "id": "e83f36b33b5c5f2195a387e4b27a80bb",
       "title": "You Don't Need Feature Learning to Do",
       "description": "We study how rotation-invariant kernel machines learn the ICL linear regression task proposed by Raventos et al. (2023) The generalizing solution is approximately a low-degree truncation of the memorizing solution, and so the model first generalizes, then degrades into memorization as training proceeds . The fact that kernel machines can generalize on this task means that feature learning is inessential to ICL .",
@@ -15635,192 +15831,6 @@
         "LLM"
       ],
       "pubDate": "2026-08-01T03:50:26.730635Z"
-    },
-    {
-      "id": "ccd87b2655889a3cfde625bf6c4f4f11",
-      "title": "Thinking Machines bets on efficiency over size",
-      "description": "Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small . The open-weights reasoning model scores 40 on the Intelligence Index, one point below Inkling (41), with less than a third of the parameters (276 billion total, 12 billion active) The model handles text, image, and speech inputs, has a 256K-token context window, and ships under Apache 2.0 .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/thinking_machines_inkling_logo.png",
-      "fullArticleLink": "https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-08-01T03:50:12.803329Z"
-    },
-    {
-      "id": "818c90633d44f40e2099d9baa3bdb682",
-      "title": "Google Deepmind unveils Gemini Robotics 2 to power",
-      "description": "Gemini Robotics 2 is Google's most advanced vision-language-action (VLA) model yet . It combines image recognition, language processing, and action control to help robots operate in physical environments . Deepmind also introduced Gemini Robotics ER 2, a model designed for \"embodied reasoning\" ER 2 acts as a higher-level control system for robots . The new model is available in Google AI Studio. Developers can apply for early access through the waitlist .",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/Gemini-Robotics-2-brings-whole-body-intelligence-to-robots-0-3-screenshot.png",
-      "fullArticleLink": "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security"
-      ],
-      "pubDate": "2026-08-01T03:49:59.374180Z"
-    },
-    {
-      "id": "1c093586a22e38771fdc6a2edea07bf8",
-      "title": "Bayesian Domain Reweighting is a way to optimize",
-      "description": "The performance of Large Language Models is fundamentally influenced by the distributional composition of multi-domain pre-training data . A promising approach is to directly optimize the weighting scheme from data . However, it suffers from unstable optimization trajectory and prohibitive computational overhead . This paper presents a Bayesian domain weighting method to infer the weights from a Dirichlet distribution via introducing Gamma prior information learned from observations . The proposed method could achieve stable and efficient domain weights learning, and identifies optimal mixtures while consuming substantially less data .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27928",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-01T03:49:43.898247Z"
-    },
-    {
-      "id": "e5bc12b19566b6e217a31d9dda0358dd",
-      "title": "ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow",
-      "description": "Physical-Time Flow (\\textbf{PT-Flow), a novel approach that learns a continuous latent velocity field operating in physical time . ODEWorld is a continuous-time latent world model that is both efficient and versatile . Its continuous nature allows for arbitrary temporal resolution and even backward prediction, which is impossible for most discrete-time models . It also enables high-quality image reconstruction even after long-horizon prediction .",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27924",
-      "type": "news",
-      "categories": [
-        "Robotics"
-      ],
-      "pubDate": "2026-08-01T03:49:32.733138Z"
-    },
-    {
-      "id": "ab5ac8d345da43da2de7963e02ecf482",
-      "title": "Exact Action Values Are Not Enough: Rollout-Verified Reinforcement",
-      "description": "Multi-zone variable-air-volume control must balance thermal comfort, indoor air quality, and electricity use across several continuous actuators . Deployment typically requires building-specific modeling or training, limiting scalability . We test whether TD3-guided reinforcement fine-tuning (RFT) can transfer control knowledge into a locally deployable open-weight model . GPT-5 achieved the largest reduction (6.2%) but reduced ventilation margin . This summary highlights",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27914",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-01T03:49:20.453335Z"
-    },
-    {
-      "id": "a32f47993020d40bf6520b2bdff5cb7a",
-      "title": "S-CEReBrO: Breaking the Memory Barrier in Continuous EEG",
-      "description": "Transformer-based architectures face a critical bottleneck: global attention mechanisms couple the attention memory state to the signal duration, causing memory overflow during continuous monitoring . Windowed alternating attention can process signals 100X longer than full self-attention . S-CEReBrO achieves state-of-the-art performance on 7 of 11 downstream tasks, with up to 60% fewer parameters . This work represents a significant step toward the realization of efficient, generalizable, and continuous EEG monitoring .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27913",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-01T03:49:08.275285Z"
-    },
-    {
-      "id": "df5b962ad767d2a9cbf6a6bd011e00bf",
-      "title": "Revisiting Predictive Process Monitoring in the Age",
-      "description": "Predictive process monitoring (PPM) leverages event logs to forecast the future of running process instances . Sequence models consistently perform best for next activity prediction . Tabular foundation models with in-context learning capabilities offer a promising alternative but have not yet been systematically benchmarked for PPM . PPM research in recent years has been dominated by deep sequence models trained from scratch, such as Long Short-Term Memory (LSTM) models .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27797",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-01T03:48:57.526584Z"
-    },
-    {
-      "id": "521c426a9d0c875a5e128cd7f0946aa4",
-      "title": "Train Small, Deploy Large: Zero-Shot GNN Transfer Through",
-      "description": "Graph neural networks (GNNs) can operate on large graphs but become infrastructure-sensitive at the scale of millions of nodes . We introduce a zero-shot transfer protocol in which a GNN is trained on a graph coarse-grained by geometric renormalization (GR) and the resulting weights are transferred directly to the original network . We further find that learned representations and predictive trajectories remain aligned across scales . These findings suggest that structural similarity may be more important than network size in determining GNN transferability .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27767",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-01T03:48:45.656672Z"
-    },
-    {
-      "id": "8df3388d5841472b531b5060cc0f71e5",
-      "title": "ROCS: Request-Oriented Compute Sharing for Efficient Large",
-      "description": "Request-Oriented Compute Sharing (ROCS) exploits a unique property of recommendation inference . Each user request is evaluated against many candidates, while request-side features are shared across candidates . ROCS defers request-candidate interactions as late as possible, isolates candidate-dependent representations, and evaluates substantial portions of the model once per request rather than once per candidate . It has been deployed across large-scale recommendation systems spanning ads and organic surfaces, retrieval and ranking stages .",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27744",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-01T03:48:33.159493Z"
-    },
-    {
-      "id": "be0c977252ad72ef29a456e6fae9c599",
-      "title": "Improving the Robustness/Accuracy Tradeoff Against Adversarial Attacks Using",
-      "description": "Deep neural networks (DNNs) have achieved remarkable success in classical machine learning problems . However, they are known to be vulnerable to adversarial attacks . Countermeasures proposed in the literature degrade the classification accuracy on clean inputs . We extend the IBD framework by introducing an extra teacher model (clean teacher) trained with only clean inputs, into the distillation process . The features of both clean and robust teachers are transferred to the student through a cross-layer attention matrix .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27737",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-01T03:48:21.650430Z"
-    },
-    {
-      "id": "9190d6becce94297b30d2f987193b5b7",
-      "title": "Towards joint scaling laws with optimal batch size",
-      "description": "Modern deep learning typically keeps the batch size static throughout training, thus overlooking the joint effect of learning rate and batch size on the training dynamics . In this paper, we study the deep learning dynamics through the lens of convex optimization and derive a joint characterization of loss in terms of both schedules . This characterization yields a closed-form optimal batch size schedule for any prescribed learning rate schedule, and further leads to joint scaling laws that consistently outperform static batch size baselines .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27731",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-01T03:48:11.127989Z"
-    },
-    {
-      "id": "43a283b6719034da77e88d4cc1d502d8",
-      "title": "VESTIGE: A Knowledge-Guided Masking Strategy for Corruption-A",
-      "description": "VESTIGE is a drop-in replacement for the standard MLM collator that aligns the masking distribution with an empirically measured per-position corruption profile . The principle is domain-agnostic: any measurable position- or context-specific corruption profile - FFPE, bisulfite, metagenomic, nanopore - substitutes directly for the PMD array . VESTigE leads MLM at every width (Delta = +4.18 to +10.35 pp) even under damage amplified 10-30x beyond authentic PMD rates .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27712",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-08-01T03:47:56.489441Z"
-    },
-    {
-      "id": "2e8027065a54ea842e0d203e42f4dd1f",
-      "title": "NMINE: Normalized Mutual Information Neural Estimation . NMINE",
-      "description": "Normalized mutual information addresses this limitation by converting mutual information into a normalized dependency score . The proposed approach combines a MINE-based neural mutual information estimator with MI-NEE-inspired neural marginal entropy estimators . The resulting estimator provides a neural alternative to k-nearest-neighbor-based normalized mutual information estimation {arXiv:2405.04980}. Experiments on Gaussian data from one to eight dimensions show the proposed estimator improves accuracy .",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27710",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-01T03:47:44.050686Z"
-    },
-    {
-      "id": "9c14c21e2a20f9ade9f69fb87c681570",
-      "title": "Event-Structured Physics-Informed Neural Networks for Differentiable Critical Clearing",
-      "description": "Transient-stability assessment determines whether a power system can recover after a disturbance . A key metric is the critical clearing time (CCT) which specifies the maximum time available to clear a fault before synchronism is lost . We propose an event-structured physics-informed neural network (ES-PINN) that aligns its representation with the pre-fault, fault-on, and post-clearing swing dynamics . This summary",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27681",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-01T03:47:32.117006Z"
-    },
-    {
-      "id": "e6556d763aae2b843530de80860712af",
-      "title": "Looped Transformers with Source-Centered State Evolution Evolution",
-      "description": "Looped Transformers create useful train- and test-time compute axis by reusing the same Transformer block over recurrent depth . Source-Centered State Evolution (SCSE) is designed to reconcile input conditioning with reference-preserving shared recurrence . SCSE retains input dependence through its learned anchor and initial deviation, allows nonzero deviations to drive recurrent computation while mapping zero deviation to zero, and guarantees exact anchor invariance through its zero-deviation mask .",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.27656",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-01T03:47:19.924046Z"
     }
   ]
 }
