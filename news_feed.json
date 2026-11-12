@@ -1,6 +1,222 @@
 {
   "news": [
     {
+      "id": "54079c05aed27a6631a13796cdc16fbc",
+      "title": "Australia's proposed AI safety bill would force frontier",
+      "description": "Australia's government wants to enshrine mandatory safety rules for frontier AI companies in law. A new regulator would enforce independent model audits and impose steep penalties for violations. Canberra is deliberately prioritizing domestic regulation before entering international talks.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/australia_ai_safety.png",
+      "fullArticleLink": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-11-12T19:54:01.681649Z"
+    },
+    {
+      "id": "439c0710e1ff1cebd85ffa8b2f84f9ff",
+      "title": "Google Deepmind shifts genomics AI from bulk tissue",
+      "description": "AlphaGenome 2 identifies nearly twice as many disease-relevant gene changes as its predecessor. The model is available for noncommercial research through an API and is set to be integrated into Google's agentic platform Antigravity.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/deepmind_alphagenome2.png",
+      "fullArticleLink": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-12T19:53:55.934126Z"
+    },
+    {
+      "id": "a57b5afb08d7da6823585ce4132126e4",
+      "title": "ElevenLabs Scribe v3 Live uses conversational context",
+      "description": "Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. Rivals like Microsoft and xAI run many times faster and charge roughly half the price. ElevenLabs has released two new speech recognition models.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/elevenlabs.png",
+      "fullArticleLink": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-12T19:53:50.063130Z"
+    },
+    {
+      "id": "b2f72d13aa103dc3b8003b7dcc40eadb",
+      "title": "Jensen Huang resigns as Nvidia CEO after espionage",
+      "description": "Jensen Huang resigned as CEO, president, and board member of Nvidia effective immediately. CFO Colette Kress is taking over on an interim basis while the board searches for a permanent successor. The move came after the Wall Street Journal reported that the board was planning to fire Huang following revelations about two extramarital affairs. Since a New York Times report on October 29 about possible ties to Chinese intelligence, Nvidia has shed roughly $1.4 trillion in market value.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/huang_sccp_ai_screenshot-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-12T19:53:40.207846Z"
+    },
+    {
+      "id": "8a7d9d40c41c69b26edecbc2531d273f",
+      "title": "Frontier models are hiding their thoughts because developers",
+      "description": "OpenAI's safety team systematically investigated why chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training steps drive the erosion, including architecture choices and reinforcement learning. Loss of transparency is not law of nature but reflects tradeoffs around capability and cost.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/CoT-Controllability.png",
+      "fullArticleLink": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-12T19:53:34.125018Z"
+    },
+    {
+      "id": "31f20ed94fca0fb3318ea7791556eb26",
+      "title": "Nine Korean startups vie for a spot",
+      "description": "Nine early-stage South Korean startups pitch for a spot in next year's Startup Battlefield 200. Voinosis, which develops AI to detect changes in brain health through voice analysis, won the competition. The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine startups are looking to enter the U.S. market as part of the broader international expansion plans.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-613254398.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-12T19:53:15.842419Z"
+    },
+    {
+      "id": "2843d5b0f258e5995a65cc3a3eb2c43e",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access",
+      "description": "Cyberattack at Fireworks AI has exposed some of its customers\u2019 data, the company has confirmed. Hackers gained access to a Fireworks development system, which allowed access to some of the company's customers' data. At least one confirmed affected customer is online document editor and notetaker Notion, which said the breach affected around 1% of its own customers. This is the second breach affecting Fireworks in as many months, following a security incident in October.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/02/notion-glitch-hero.jpg?resize=1200,827",
+      "fullArticleLink": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-12T19:52:53.006481Z"
+    },
+    {
+      "id": "a8b4ef01f1e068ca1f152333aa08d9de",
+      "title": "Norwest pushes deeper into AI with new $4B",
+      "description": "Norwest, backed solely by Wells Fargo, has raised a $4 billion fund as it sets out to invest more in AI. This is the eighteenth fund for the 65-year-old multi-stage investment firm, and its largest to date. The fund will be invested across various sectors and multiple countries, notably the United States, India, and Israel. Norwest said Thursday it aims to capitalize on AI startups developing products and services across core industries.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/norwest_team-partner-offsite-2026-1-copy.jpg?resize=1200,805",
+      "fullArticleLink": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-12T19:52:43.070146Z"
+    },
+    {
+      "id": "5ffe73d3f248ede7e34fd107fc477fd6",
+      "title": "Trump floats Apple chairman Tim Cook as Jensen",
+      "description": "President Donald Trump says former Apple CEO Tim Cook should take over as Nvidia CEO Jensen Huang resigned on Thursday. In a post on Truth Social, Trump wrote that \u201conly one man\u201d could take Huang\u2019s place. Trump is not the only one to suggest Cook as a replacement for Huang. Cook stepped down as Apple CEO on September 1, 2026, after 15 years running the company.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-12T19:52:23.677423Z"
+    },
+    {
+      "id": "4eeb3832c09fe26bd5de51d1251c513c",
+      "title": "Jensen Huang\u2019s ouster from Nvidia could damage",
+      "description": "Nvidia CEO Jensen Huang\u2019s confession that he had an affair with an alleged Chinese spy is bad enough. He chose one in a tinderbox of a geopolitical situation. Huang has been the biggest, loudest advocate for open-weight AI models in the tech industry and among government policymakers. Huang's influence has been lost right when he was using it to push tech industry in a number of directions.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
+      "fullArticleLink": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-12T19:52:12.683064Z"
+    },
+    {
+      "id": "0deb78fa341dbcc1a72944673b575370",
+      "title": "United Airlines blocks AI agents from booking flights",
+      "description": "United Airlines said it will restrict access to AI agents seeking to book flights and manage reservations on their users\u2019 behalf. The airline is the latest American corporate giant to prevent customers from using AI agents and autonomous assistants to access their systems. The move comes as airlines and banks are struggling to differentiate between real customers and AI systems operating on their behalf, such as when users share their logins with their AI assistants.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1200,801",
+      "fullArticleLink": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-12T19:51:42.157208Z"
+    },
+    {
+      "id": "cf0abceb6aec93b3a78bfa339430f867",
+      "title": "Hugging Face CEO vows to keep fighting",
+      "description": "Hugging Face CEO Cl\u00e9ment Delangue briefly commented on Nvidia CEO Jensen Huang\u2019s departure on Thursday, calling it a \u201creally sad day\u201d Nvidia had announced its plan to acquire the platform for open-source AI models in September for $12.9 billion. The U.S. Department of Justice began making inquiries about how the deal would impact competition in the AI market.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-12T19:51:30.666526Z"
+    },
+    {
+      "id": "d56c2fc89bca0f7d966897ccd2513cbf",
+      "title": "Jensen Huang\u2019s exit puts Nvidia's support for open",
+      "description": "Nvidia CEO Jensen Huang resigned Thursday after he admitted to an affair with an alleged Chinese spy. Huang has been a staunch supporter of open source AI, framing the ecosystem as good for safety, innovation, diffusion, and sovereignty. Huang\u2019s exit raises questions about whether Nvidia will carry on his legacy by continuing to support the open model community. Huang pushed for the development of the Nemotron family of open-weight AI models built for long-running AI systems.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-12T19:51:19.293081Z"
+    },
+    {
+      "id": "0a010acdd07c2ba4f10b908f74ad95e0",
+      "title": "Nectar launches an AI agent to automate creator",
+      "description": "Nectar is an AI-powered operating system for marketing. Its new \u201cCreator Agent\u201d can search for creators, check their content and brand partnerships, send personalized messages, coordinate collaborations, and monitor how campaigns perform. Nectar says its Creator Agent searches more than 300 million creator profiles to find potential partners, including smaller creators who may not yet have a large following but are gaining traction.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676",
+      "fullArticleLink": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-12T19:51:08.537242Z"
+    },
+    {
+      "id": "ff1cec4cf32fe39d9957836056285922",
+      "title": "Google\u2019s latest Search upgrade promises better answers",
+      "description": "Google Search is getting better at understanding complicated questions, including those with multiple parts, highly specific requests, or confusing typos. The Gemini 4 Hydrogen model is designed for fast execution across agentic workflows, or tasks in which an AI carries out multiple steps on its own. Google says Hydrogen completes tasks 2.5 times faster than its previous fast model, Gemini 3.8 Flash.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/hydrogen-at-2.01.42-PM.jpg?resize=1200,589",
+      "fullArticleLink": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-12T19:50:57.238268Z"
+    },
+    {
       "id": "176fa564bcef20116d4b06b44bd6761c",
       "title": "Google joins decision-model wave with Gemini Decision 1",
       "description": "Google Deepmind's Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 milliseconds at roughly five times lower cost than Gemini 3.5 Flash-Lite.",
@@ -15635,211 +15851,6 @@
         "Startup"
       ],
       "pubDate": "2026-08-02T03:41:41.720825Z"
-    },
-    {
-      "id": "46b49e93011a861784d62407208d3f94",
-      "title": "Sam Altman is still making the case",
-      "description": "Sam Altman is still making the case for parenting via ChatGPT. The CEO of AI chatbot OpenAI recently posted a job listing for a product manager with experience building trust-sensitive consumer experiences for parents and families. Altman\u2019s comment has been reposted around 300 times and liked around 9,600 times (as of Saturday morning) Alex Hirsch, creator of the animated series \u201cGravity Falls\u201d asked: \u201cWhat if you just talked to your children\u201d.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-02T03:41:21.929681Z"
-    },
-    {
-      "id": "c3a681b5291466f92e6016c38ff1716b",
-      "title": "YouTuber Hank Green says his AI usage",
-      "description": "YouTuber Hank Green says his AI usage is \u2018not healthy\u201d and that he plans to reduce his video production as a result. Green says he\u2019s \u201cnot a pure AI-hater,\u201d while also listing a number of concerns about the technology. \u201cI've been moving so fast that my own process isn't actually clear to me and I want to have it be a guarantee moving forward.\u201d.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1040458588.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-02T03:41:03.689376Z"
-    },
-    {
-      "id": "305e2aafa7fdf1785d181cbe0fa80d86",
-      "title": "OpenAI announces its \"next major model\" Astra",
-      "description": "OpenAI is building a new model family called \"Astra\" that would let multiple agents tackle complex problems together for hours or even days. CEO Sam Altman has already demoed Astra to policymakers in Washington. OpenAI hasn't decided whether to release Astra as GPT-6 or a new variant of the current model family. The company hasn't yet decided whether Astra will be released in the wild.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_sol.png",
-      "fullArticleLink": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-01T13:52:43.456714Z"
-    },
-    {
-      "id": "3bf36463a3009f9e288348333fc85cdf",
-      "title": "German court rules AI music generator Suno violated",
-      "description": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected both Germany's text-and-data-mining exception and the US fair use defense. The ruling isn't final, and several key questions remain open, and the ruling is not final. Ruling isn't yet final, but several key issues remain open.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/ai_music_generator_law.png",
-      "fullArticleLink": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-01T13:52:32.293827Z"
-    },
-    {
-      "id": "86eb23f0e4f628184fe783a44f9f8d4e",
-      "title": "ByteDance's Seedance 2.5 generates 30-second video clips",
-      "description": "ByteDance just shipped Seedance 2.5, an AI video model that produces video and audio together in one go. Each clip runs up to 30 seconds, three times what Google's Gemini Omni Flash puts out. Users can feed in dozens of images, videos, and audio files as reference. For ad teams, this could kill the process of cutting together one short clip at a time.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/bytedance_seedance.png",
-      "fullArticleLink": "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-01T13:52:20.470035Z"
-    },
-    {
-      "id": "6cefd1940b5db3830f138d40f93b5db8",
-      "title": "A security researcher built a self-spreading worm that",
-      "description": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot for Word. Invisible prompt injections hidden in documents spread automatically into new files every time they're reused. Microsoft confirmed the issue but failed to fix it after 144 days and two attempts. The worm-like attack was demonstrated by a security researcher who demonstrated a worm-style attack on Microsoft Cop Pilot for Word documents.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/microsoft_copilot_logo-2.png",
-      "fullArticleLink": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-08-01T13:52:09.421488Z"
-    },
-    {
-      "id": "f98297874b887d466f324205e59f16c4",
-      "title": "Nscale buys Anyscale as it seeks to own",
-      "description": "Nscale buys Anyscale as it seeks to own more of the AI compute stack. Nscale this March raised $2 billion in a Series C round that saw it valued at $14.6 billion. The neocloud has set up business lines across energy, data centers, orchestration software, and now will also offer workload management and scaling. The company's revenue increased by 70% in its most recent quarter, compared to previous sequential quarter.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-01T13:51:47.596519Z"
-    },
-    {
-      "id": "30e234bd3fe1655843ecf0955ac25a70",
-      "title": "Meta Meta says AI is making it easier",
-      "description": "Meta says AI is making it easier to build new apps \u2014 and more are coming. CEO Mark Zuckerberg said the social giant has new apps in the works. Meta has spent years trying and failing to produce new, stand-alone social apps to complement its core platforms. \"I'm \u2026 excited about how AI is helping our teams speed up product development,\" Zuckerberg told investors on Wednesday's call. The social giant says it sees \"significant gains\" from its AI-powered content recommendations.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
-      "fullArticleLink": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-01T13:51:32.277508Z"
-    },
-    {
-      "id": "9327b8297589ff6a44643603225b52ed",
-      "title": "Okta buys AI security startup Permiso",
-      "description": "Okta buys AI security startup Permiso \u2014 source says for about $200M. Okta's move comes as identity management companies seek to expand beyond verifying users at login to continuously monitoring what users, applications, and AI agents do once gaining authorized access to a network environment. The deal is expected to close in the third quarter of its fiscal 2027, subject to customary closing conditions. In April, startup also introduced SandyClaw, a platform designed to analyze AI agent skills in a sandboxed environment to identify malicious behavior before they are deployed.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/10/Okta-lobby.jpg?resize=1200,816",
-      "fullArticleLink": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-01T13:51:15.531150Z"
-    },
-    {
-      "id": "dc18fde4e6bc6553da96d68aa927b7c2",
-      "title": "LinkedIn adds a button to report AI-generated \u2018slop\u2019",
-      "description": "LinkedIn adds a button to report AI-generated \u2018slop' The move reflects a broader shift across online publishing platforms to cut back on AI content. LinkedIn will begin privately flagging in users' dashboards when people believe their content is coming off as inauthentic due to heavy use of AI. The Microsoft-owned social network is also investing in automation defenses, where it now blocks \"hundreds of thousands\" of automated comment attempts daily.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434-e1669291782949.jpg?resize=1200,676",
-      "fullArticleLink": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-01T13:51:00.377999Z"
-    },
-    {
-      "id": "f41c7307b77762a60bcbe4833fe121fc",
-      "title": "Google says it fixed more bugs in June",
-      "description": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI. The tech giant says it has fixed 1,072 security bugs in the last two versions of Chrome, both released in June. Microsoft, meanwhile, has patched 570 security flaws in its products. Apple has patched 482 bugs in 2026, which is roughly on pace to equal or surpass the number of fixed bugs from last year.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/google-chrome-logo-hand.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-01T13:50:45.613662Z"
-    },
-    {
-      "id": "b02910e8741963d2c58e6fac790c2b51",
-      "title": "Friend, the lonely AI wearable, returns",
-      "description": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag. Friend now comes with a built-in speaker that can project a unique and consistent personality to its user. The new retail price for this enhanced version of Friend is $249, which is substantially higher than the $99 price tag it had when it initially launched two years ago. Most AI wearables have failed to catch on with the mainstream \u2014 at least so far.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/07/Friend.jpg?w=523",
-      "fullArticleLink": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-01T13:50:30.942302Z"
-    },
-    {
-      "id": "358552aaff9aa3c45e18f8fcc8605740",
-      "title": "Judge says Trump admin still lacks evidence",
-      "description": "The dispute stems from stalled contract negotiations between Anthropic and the Department of Defense. Anthropic said it didn't want its AI used for mass surveillance of Americans or for targeting or firing decisions involving lethal weapons, arguing the technology wasn't ready. The Pentagon countered that a private company shouldn't dictate how the military uses technologies. The government has also argued that Anthropic\u2019s public criticism of the DOD justifies the ban. Judge Rita Lin said she saw no proof Anthropic could alter a delivered model or \"flip some kind of kill switch\".",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
-      "fullArticleLink": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-01T13:50:15.999323Z"
-    },
-    {
-      "id": "01023a47e3394a269b6247b623860667",
-      "title": "Investors love AI, as long as you\u2019re",
-      "description": "Investors love AI, as long as you\u2019re a cloud host. Amazon raised its 2026 capex forecast from $200 billion to $220 billion. Amazon ended the quarter with $7.6 billion less cash than it had 12 months ago, marking its first period of negative free cash flow this year. Amazon's cloud revenue rose 37% year over year, clocking $42 billion for the quarter. If demand for AI doesn't hold up, it\u2019s going to be a bad time for everyone.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1445867611.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-01T13:49:59.131590Z"
-    },
-    {
-      "id": "93cb0df58a6ec7c80d16ed160cb1da3d",
-      "title": "Reddit reports a solid quarter but shows signs",
-      "description": "Reddit reports a solid quarter but shows signs of AI's impact. CEO Steve Huffman said in an investor letter that traffic from search engines had grown \"choppy\" Reddit's global users are up, but the platform saw U.S. users endure a slight decline in daily active uniques. In 2024, Reddit signed a contract to provide its content to Google for the purposes of AI training. But Google's deployment of AI summaries appears to be peeling away audience share from Reddit.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?resize=1200,674",
-      "fullArticleLink": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-01T13:49:43.133691Z"
     }
   ]
 }
