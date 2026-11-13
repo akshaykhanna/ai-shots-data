@@ -1,6 +1,201 @@
 {
   "news": [
     {
+      "id": "ada308dd492a0b1fa43d0774deb2f107",
+      "title": "OpenAI enters the cybersecurity market with two Daybreak",
+      "description": "Daybreak Red Team uses AI agents to automatically probe web applications for vulnerabilities. The tool also verifies reported security flaws from bug bounty programs and tests patches. The second product, Daybreak Defense Factory, automates the defensive side. Both products run on OpenAI's latest cyber model, GPT-6 Cyber, which runs on the GPT Cyber.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
+      "fullArticleLink": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-13T19:40:43.627350Z"
+    },
+    {
+      "id": "6a1fb0a5d798af76c37d8e5cd166c9de",
+      "title": "Anthropic's IPO is six times oversubscribed",
+      "description": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The developer and its co-founders aim to raise $64.4 billion through the public offering and $26 billion via a private placement. The target valuation sits at roughly $1.4 trillion, with existing investors getting priority in share allocation. The company's annualized revenue climbed to $81 billion by late October, up from $71 billion in September.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/Claude-Duet.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-13T19:40:23.379029Z"
+    },
+    {
+      "id": "d13ace1a4a8dcf3ce4dc6bb180d5e088",
+      "title": "Former OpenAI researcher says he found Nvidia Blackwell",
+      "description": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method reads characteristic chip signatures directly from published model weights. He estimates the hardware behind the five training runs.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/china_vs_usa_ai_race.png",
+      "fullArticleLink": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-13T19:40:14.886294Z"
+    },
+    {
+      "id": "5973b9ad18ef4ba8d1f29ac6b3832396",
+      "title": "Anthropic's Claude for Manufacturing plugs AI directly into",
+      "description": "Anthropic's Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed. The plugin doesn't control physical machines yet, but Anthropic is separately developing the.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-13T19:39:58.694644Z"
+    },
+    {
+      "id": "63be82bc9356c855a7b82f7de0b1ddc7",
+      "title": "Banks bar Chinese and Hong Kong investors",
+      "description": "Banks reject buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restrictions applied during SpaceX's IPO, and Anthropic's products aren't available in either region anyway.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "fullArticleLink": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-13T19:39:51.756989Z"
+    },
+    {
+      "id": "b7054dfb0f850c5876345f7e1dd6ea3c",
+      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT",
+      "description": "Users register a card once and confirm each purchase through Face ID or fingerprint. Actual card details stay hidden behind payment tokens. Rivals Anthropic, Meta, and xAI already have their agents making purchases.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/ChatGPT-Wallet-title-scaled.png",
+      "fullArticleLink": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-13T19:39:45.256287Z"
+    },
+    {
+      "id": "d8274a0eb37643cc26eb7574c23d66ee",
+      "title": "Knowledge Transfer for Conditional Flow Matching: Frozen Estimation",
+      "description": "Conditional generative modeling with limited target data can benefit from representations learned in a related source population. We develop a transfer learning framework for conditional flow matching that accommodates distinct source and target response distributions and dimensions. We establish bounds on conditional squared Wasserstein risk that account for source estimation, target fitting, representation mismatch, and numerical integration. We also develop independent validation procedure for selecting among fitted conditional generators.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.15150",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-13T19:39:31.452218Z"
+    },
+    {
+      "id": "967d1413e4d19cb659483c7fea916530",
+      "title": "SkinAdvisor: An AI-Driven Decision Framework for Skin Production",
+      "description": "SkinAdvisor, an AI-driven decision framework for skin production planning, powered by SkinCast, a deployed multi-modal Transformer forecasting 180-day per-day sales trajectories for unreleased skins. SkinCast couples four encoders: a pretrained Informer for player-preference time series, a. pretrained Player-Hero-Skin graph embedder for relational priors, and two lightweight Transformers for skin attributes and release context, fused through a shared backbone with a local-plus-global day-x positional encoding.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.15023",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-13T19:38:32.826012Z"
+    },
+    {
+      "id": "0aecb3fa67c0289573c72e2864f41b53",
+      "title": "EASTAR: Event-Anchored Semantic Semantic and Task-Adapt",
+      "description": "Urban region representation learning supports a wide range of urban analytics tasks by encoding regional functions and interactions. EASTAR treats offline activity events as sparse semantic anchors and uses them to factorize aggregated mobility representations into multiple purpose-related semantic channels. It also introduces free channels to capture latent mobility patterns not covered by event data and a global channel to preserve overall spatial structure.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.14990",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-13T19:38:19.288610Z"
+    },
+    {
+      "id": "a51a404313ca84cd4eb32e992332093d",
+      "title": "Poison-then-Hide: Finetuning-Activated Backdoor Attack on Pret",
+      "description": "Backdoor attacks threaten integrity of machine learning models by allowing attackers to control model behavior through triggers. We propose Poison-then-Hide, a novel attack that remains effective when the entire model is finetuned in a domain transfer. We evaluate our method on six datasets and three model architectures, and achieve state-of-the-art (up to 97%) attack success rates.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.14970",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-13T19:38:09.490912Z"
+    },
+    {
+      "id": "b4c86c5c3838b160e77f9122e2a01ac7",
+      "title": "Rethinking \"RL Generalizes, SFT Memorizes\": The Role",
+      "description": "Large language models trained with Reinforcement Learning (RL) with verifiable rewards exhibit strong reasoning ability and broad generalization. Supervised Fine-Tuning (SFT) models are often viewed as more prone to memorization and limited transfer. This paper rethinks this distinction through the lens of SFT training data on widely used Qwen2.5 and Qwen3 series models.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.14912",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-13T19:37:59.574739Z"
+    },
+    {
+      "id": "378b1381d0c13b82f3d5eb655688752a",
+      "title": "KernelMosaic: An Open Dataset and Agentic Framework",
+      "description": "KernelMosaic pairs diverse CUDA tasks with verified solutions and trajectories. Human-guided review and diversity-aware selection curate tasks expressed as natural-language descriptions, reference programs, mathematical specifications, and their intersections. Supervised fine-tuning of a small open-source model raises correctness from 4%, 0%, and 0% to 88%, 82%, and 16% on KernelBench L1, L2, and L3.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.14604",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-13T19:36:32.688915Z"
+    },
+    {
+      "id": "eac079c142ed1396f3f2b848cb31aa2d",
+      "title": "Nvidia has been in the midst of turmoil",
+      "description": "Former Nvidia CEO Jensen Huang\u2019s resignation has been received with worry in Israel. Many in the country are wondering how much of a reshuffle will result from the company's leadership crisis. Huang drove the company to acquire Israeli chipmaker Mellanox for $6.9 billion in 2019. Nvidia has been responsible for a vast share of the spending in the global AI industry.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303769281.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-13T19:35:44.498308Z"
+    },
+    {
+      "id": "a89e405114485a54eebb7af48bbc58a9",
+      "title": "ChatGPT\u2019s new Wallet lets AI agents shop",
+      "description": "OpenAI launched a new wallet feature that lets its agents, called dots, help you decide what to buy and then complete the purchase on your behalf. The feature will initially be available to a limited number of U.S. ChatGPT Pro subscribers, ages 18 and up, with a Visa, Mastercard, or American Express. OpenAI says users are fully in control of the purchases, as they're able to review the items, the total, and the payment card that will be used to complete the transaction before checkout occurs.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729",
+      "fullArticleLink": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-13T19:35:13.477327Z"
+    },
+    {
+      "id": "3bcb8ca81cbad6cd6d0d656f7520970c",
+      "title": "Export-banned Nvidia chips are behind China\u2019s most powerful",
+      "description": "Nvidia CEO Jensen Huang left the company this week after admitting to his affair with Alice Huang. Megaspeed, the company led by Alice Huang, has been at the center of that trade for several years through its subsidiary Speedmatrix, and has been the subject of investigations by both the U.S. and S. government. Epoch AI estimates that about two million advanced chips entered China in 2024 and 2025 through schemes to hide their final destination.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
+      "fullArticleLink": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-13T19:34:58.033113Z"
+    },
+    {
       "id": "a4e4d88cfcd46fb02346356a4e40cd5b",
       "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon",
       "description": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than GPT-6.",
@@ -15679,199 +15874,6 @@
         "Hardware"
       ],
       "pubDate": "2026-08-03T15:05:23.963625Z"
-    },
-    {
-      "id": "c8c39aa1bc1995fc18ba1082414ce9c9",
-      "title": "Two teams solved the same quantum crypto problem",
-      "description": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. The case raises a question: what does \"independent discovery\" mean when everyone uses the same models? \"Independent discovery\" means when everyone used the same model, says one of the researchers. \"If someone mentions an open problem, the first thing is to see if GPT solves it,\" says a researcher.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/11/emerging_math_neural_network.jpeg",
-      "fullArticleLink": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-03T15:05:12.063790Z"
-    },
-    {
-      "id": "451a7e1b72459ad90461e1dc0c51ce28",
-      "title": "OpenAI co-founder Karpathy is looking for the next",
-      "description": "Andrej Karpathy had Claude Opus 5 turn Tolkien's opening into a 3D browser scene. The model worked for about two hours, had a budget of one million tokens (roughly $10) The model rendered everything in Three.js, a graphics library for 3D in the browser. The source code is available online so others can play back and modify the scene. Other users are having Opus5 write entire browser games, from first-person shooters to Minecraft clones.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Karpathy-LOTR-Opus-5-title.png",
-      "fullArticleLink": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Startup"
-      ],
-      "pubDate": "2026-08-03T15:04:56.174289Z"
-    },
-    {
-      "id": "b32529f050eb65ed66c99ef0dcb64ff7",
-      "title": "China's MiniMax H3 is the first open model",
-      "description": "MiniMax releases H3 video model weights, putting an open model at the top of a video ranking for the first time. The 33-billion-parameter model processes text, images, video, and audio together, generating four- to 15-second clips with stereo sound. Commercial use is only permitted for companies making under $20 million in revenue. Two pieces remain closed, but H3-Context-IR, which translates prompts and reference material into a structured intermediate format, aren't included.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/MiniMax-H3-title.jpg",
-      "fullArticleLink": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-03T15:04:41.208333Z"
-    },
-    {
-      "id": "608d4f8fbc45ee67f2e67e980265fa51",
-      "title": "Interpol says AI has become the \"core operational",
-      "description": "AI is involved in 55 percent of reported cybercrimes in Africa, Interpol report says. Criminals now use AI at every stage of a cyberattack. Financial losses more than doubled since 2024, jumping from $192 million to $484 million. Four Interpol-coordinated operations in 2025 and 2026 led to more than 1,500 arrests and the seizure of over $100 million. About 600,000 cases of digital extortion involving deepfakes were recorded.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/cybersecurity_illu-1.png",
-      "fullArticleLink": "https://the-decoder.com/interpol-says-ai-has-become-the-core-operational-driver-of-cybercrime-across-africa/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-03T15:04:27.179906Z"
-    },
-    {
-      "id": "e4b3c3d5632c24276147252c68e95729",
-      "title": "AI agents lie and cheat to reach their",
-      "description": "Researchers have known for a while that AIs tend to take creative approaches to achieving the goals that have been set for them. With today\u2019s sophisticated LLM-based agents, determining when and when not to give a reward can be much trickier. The Hugging Face incident is an example of how and why AI systems lie and cheat to reach their goals, the authors say. MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology.",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-03T15:04:08.397736Z"
-    },
-    {
-      "id": "fe166f1ca8865ed5ffbef325498ec19f",
-      "title": "LLM Adversarial Training via Low-Rank Defense and Circuit-Guided",
-      "description": "Adversarial training is one of the most effective defenses against adversarial attacks, yet the computational cost remains prohibitive at modern scales, especially for large language models. The method on average reduces per-step adversarial-training FLOPs by 48.1% while requiring only 0.0118% trainable parameters. Compared to standard LAT with full fine-tuning, our method reduces per step adversarial training FLOP\u2019s by .1%.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.28959",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-03T15:03:55.699355Z"
-    },
-    {
-      "id": "a93638c684e7c86ee75a5946fdff9cd8",
-      "title": "Overcoming the Weakest-Link Effect in LLM-Driven Program Optimization",
-      "description": "Large language models (LLMs) are increasingly used to solve complex problems by searching over program space. We argue that explicit gradients are not essential for effective program optimization. HERO is a program optimizer that prompts an LLM to generate diverse, non-overlapping atomic edits and then systematically selects and composes them into coherent program improvements. HERO consistently discovers higher-scoring programs and converges substantially faster than prior LLM-based optimizers.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.28947",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics"
-      ],
-      "pubDate": "2026-08-03T15:03:32.293009Z"
-    },
-    {
-      "id": "a5928e438924a8c91dbd52bbadaeb8d5",
-      "title": "LLM Revision Fails Where Human Revision Succeeds",
-      "description": "Large language models (LLMs) are increasingly prompted to \"reflect\" yet whether this resembles human revision remains unclear. The Human-LLM Reflection Framework (HRF) is a controlled two-pass protocol comparing human and LLM revision under identical conditions across self-, peer-, and cross-agent settings. On objective tasks, reflection yields near-zero information gain (Delta I approx 0), behaving as neutral re-generation indistinguishable from re-sampling. On subjective tasks, it yields significant negative gain, moving predictions away from the target.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.28908",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-03T15:02:43.066031Z"
-    },
-    {
-      "id": "924364399fe7e8c1a5921399773de2ef",
-      "title": "An analysis of machine learning approaches for enhancing",
-      "description": "Machine learning can push the boundaries of discrete choice modeling for policy-based preference elicitation by adopting a data-driven approach or learning individual preferences. The study evaluates four machine learning models (multinomial logistic regression, generalized additive model, twinned neural network, and Gaussian process) with respect to their capacity to learn and predict five choice rules that are important in the behavioral and social sciences. Monte Carlo experiments were performed to assess model performance when increasing the number of attributes in the choice alternatives and the choice rule's determinism.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.28854",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-03T15:02:28.677434Z"
-    },
-    {
-      "id": "a1c836e28fc2ae6c72b34b23829e826e",
-      "title": "Distilling Knowledge from Large Language Models into Lightweight",
-      "description": "Autonomous Cyber Operations (ACO) are increasingly important for defending enterprise networks as cyber threats continue to evolve in sophistication. We propose an online policy distillation framework that transfers the LLM's defensive policy into a lightweight RL agent containing only 64,910 parameters. This provides a pathway toward operationalizing frontier cybersecurity models within lightweight, deployable agents. We also evaluate teacher-guided RL stabilization strategies and observe that none consistently surpass the optimized teacher policy, suggesting policy-alignment limitations.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.28826",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security"
-      ],
-      "pubDate": "2026-08-03T15:02:16.386230Z"
-    },
-    {
-      "id": "45391edf079f3dc5163dcfcd6b2b4f0d",
-      "title": "TAGTorch: A PyTorch Library for Geometry, Topology",
-      "description": "Topology, Algebra, and Geometry Torch (TAGTorch) is an open-source, PyTorch-based library that unifies tools inspired by topology, algebra, and geometry. We describe the design philosophy of TAGTorch and then discuss its current architecture and capabilities. We conclude with a discussion of our future development priorities for the library. arXiv:2607.28755v1.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.28755",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-03T15:01:43.858386Z"
-    },
-    {
-      "id": "70cccaed8a43114b81e68cf01d471034",
-      "title": "LLM Guarantees on Dynamical System Distinguishability for LLM",
-      "description": "Recent work has shown that classifying large language models' responses can be distinguished by modeling token embeddings as trajectories of a black-box dynamical system. We show that the total variation distance between the stationary marginal distributions of the two DSs can be arbitrarily small even when the dynamics differ substantially. We also characterize cross-embedding generalization by introducing an approximate intertwining condition between embedding models and establishing a lower bound on the transferable discriminability in terms of the intertwining map's smallest singular value.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.28667",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-03T15:00:30.569414Z"
-    },
-    {
-      "id": "a7754f051081bacfd5e1b5a8a14a24ca",
-      "title": "A Marc Benioff-backed startup thinks AI can solve",
-      "description": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem. June's platform scans a company's existing systems to understand its processes, find bottlenecks and then build more optimized, agent-powered processes to replace them. The company raised $20 million in pre-seed funding led by Time Ventures, with additional backing from tech luminaries like Michael Dell, Aaron Levie and George Kurtz.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/June-Headshots-7740.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-03T14:59:46.520163Z"
-    },
-    {
-      "id": "80e7e83282c871df9ff0bf6f6e715a88",
-      "title": "Sam Altman and AI\u2019s decels debate over AI's",
-      "description": "Sam Altman recently said that it may be time to \u201cpace the rate of AI development\u201d on TechCrunch\u2019s Equity podcast. Kirsten Korosec, Sean O\u2019Kane, and Anthony Ha discussed Altman's comments on the latest episode of TechCrunch's Equity podcast, which focuses on AI development. The interview was edited for length and clarity by Ha and O'Kane. We asked the question: Is acceleration vs. deceleration the right framework to be thinking about this?",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "fullArticleLink": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-03T03:43:21.981616Z"
-    },
-    {
-      "id": "862dc914e18f65e2005318247d398bd4",
-      "title": "Snap and LinkedIn are fighting back against",
-      "description": "Snap is pulling AI-generated videos from its Spotlight recommendations. Snap wants to keep Spotlight focused on \"authentic creativity from real people,\" it says. Snap isn't alone: LinkedIn has a dedicated \"AI slop\" reporting button. A Kapwing study found that 21 percent of YouTube Shorts are already artificial-generated. LinkedIn has rolled out a dedicated AI slop reporting button for users to spot AI junk.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/snap_logo.png",
-      "fullArticleLink": "https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-02T13:49:26.291834Z"
     }
   ]
 }
