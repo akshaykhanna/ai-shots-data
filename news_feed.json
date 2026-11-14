@@ -1,6 +1,86 @@
 {
   "news": [
     {
+      "id": "8542bc4637938483c1cc319eeeeb308f",
+      "title": "Meta's Muse now calls businesses for you",
+      "description": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers. The agent already has over 10 million users. Google Gemini, Instinct, and xAI's Grok Bot offer the same feature. Many businesses hang up as soon as they detect an AI on the line.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/met_muse_gadget_logo.jpg",
+      "fullArticleLink": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-14T06:04:18.444815Z"
+    },
+    {
+      "id": "051b8de37109fd1da6b7dac3f2ccfab4",
+      "title": "Nearly 70 percent of US agencies use generative",
+      "description": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto power over autonomous vehicles. California banned so-called bossware.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/workers_fighting_ai.png",
+      "fullArticleLink": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-11-14T06:04:12.829769Z"
+    },
+    {
+      "id": "31cde7c255ef81e126730f2b104b2492",
+      "title": "Jensen Huang's ouster likely traces back to Nvidia's",
+      "description": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. The company offered cloud providers billions in financial guarantees for chip purchases. Interim CEO and then-CFO Colette Kress tried to contain the risk, and Huang reportedly didn't like that.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
+      "fullArticleLink": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-14T06:04:06.420417Z"
+    },
+    {
+      "id": "9c558a7ae32683ab3cf9a7817f60729c",
+      "title": "The unfolding Jensen Huang scandal: The unfolding Huang",
+      "description": "Nvidia co-founder Jensen Huang has resigned as CEO of the company he co-founded 33 years ago. The 63-year-old admitted that he cheated on his wife of 40 years in affairs that could have ramifications beyond his personal life. U.S. officials believe one of Huang\u2019s likely romantic interests, Megaspeed executive Alice Huang, is a Chinese spy who has been feeding information to Beijing.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-14T06:03:48.843742Z"
+    },
+    {
+      "id": "26d265ce671c85ecacf438c524bb2969",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "description": "LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG. That's more than double its $1.25 billion valuation when it raised $125 million about a year ago. LangChain began in 2022 as a popular open source project that handled tasks that early-stage LLMs found difficult, like searching the web, calling APIs, and interacting with databases.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
+      "fullArticleLink": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-14T06:03:40.458496Z"
+    },
+    {
+      "id": "8d23e88a0f9bcd333c45ee5c9d8e313b",
+      "title": "Jensen Huang\u2019s departure blasts big hole",
+      "description": "Nvidia co-founder Jensen Huang steps down as CEO. Huang's departure leaves the startup ecosystem without one of its biggest champions. Nvidia has been a prolific investor in startups and participated in 105 rounds this year alone. Huang\u2019s departure could have a massive impact on dealmaking, valuations, funding, and even competition. Some investors hope that large cloud companies and other chipmakers will step in to fill some of the void.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-14T06:03:29.127535Z"
+    },
+    {
       "id": "ada308dd492a0b1fa43d0774deb2f107",
       "title": "OpenAI enters the cybersecurity market with two Daybreak",
       "description": "Daybreak Red Team uses AI agents to automatically probe web applications for vulnerabilities. The tool also verifies reported security flaws from bug bounty programs and tests patches. The second product, Daybreak Defense Factory, automates the defensive side. Both products run on OpenAI's latest cyber model, GPT-6 Cyber, which runs on the GPT Cyber.",
@@ -15791,89 +15871,6 @@
         "Startup"
       ],
       "pubDate": "2026-08-04T03:29:38.120389Z"
-    },
-    {
-      "id": "bead3af33d16a52098aa0995d1a976fd",
-      "title": "Apple finally fixed Siri, but why does it",
-      "description": "Apple finally has a functional Siri AI assistant, but it's arrived past the time where such a launch feels novel and exciting. Siri understands your personal context, taps into broad world knowledge to answer your questions, and surfaces relevant information stored on your iPhone. Siri now consistently and accurately plays the song, podcast, or audiobook you request on your preferred app. Siri can brainstorm with you, help you refine ideas, learn about a new topic, or explore a recipe \u2014 like suggesting something you can make with random ingredients in your fridge.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=808",
-      "fullArticleLink": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-04T03:29:23.729104Z"
-    },
-    {
-      "id": "29dbca12f879ba885b455ad69df303f3",
-      "title": "Influencers draw backlash for attending OpenAI\u2019s first luxury",
-      "description": "Influencers draw backlash for attending OpenAI's first luxury trip. OpenAI took influencers to a luxury retreat in upstate New York for what was called \u201cSummer Club\u201d There, the creators were treated to farm-to-table dinners, wellness activities like beekeeping, and classes on how to better use OpenAI products. A spokesperson for OpenAI said the event was education-led and sought to give creators hands-on experience with the AI tools.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1502799666.jpg?resize=1200,633",
-      "fullArticleLink": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-04T03:29:09.921752Z"
-    },
-    {
-      "id": "5c210e03771f39bbc885100257e1d238",
-      "title": "Design Arena creators raise $7.9 million to bring",
-      "description": "Design Arena creators raise $7.9 million to bring taste to AI models. The AI tool is now used by 5.3 million people around the world. The real value of the platform comes from the enterprise side, where participating models treat it as a source of instant feedback for their media-generating models. Users tend to be indifferent to which models they're ranking, so their rankings can give critical input to what users really want.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.31.35-PM.jpg?resize=1200,739",
-      "fullArticleLink": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-04T03:28:57.102691Z"
-    },
-    {
-      "id": "8e6013752b7746eea82fb44ad0b76cc8",
-      "title": "Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
-      "description": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist' 'There are Marxist overtones and undertones to our business,' he wrote. PalantIR CEO: AI labs \"want to capture the means of production of their purported partners\" The skyrocketing use of AI helped the company achieve record-breaking results for its second quarter, up 93% over the year-ago quarter and $1.1 billion in profit.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Palantir-Alex-Karp.png?resize=1200,762",
-      "fullArticleLink": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-04T03:28:43.180400Z"
-    },
-    {
-      "id": "ef2a15177280378c04bfcc52fb764dbb",
-      "title": "Why biological data matters more in AI drug",
-      "description": "GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million. Under the agreement, Relation will generate large-scale datasets measuring how human cells respond to genetic changes and drug interventions. The data will be used to train AI models using AI-assisted drug discovery. The collaboration will expand the companies\u2019 existing work in AI drug discovery work in the UK.",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Why-biological-data-matters-more-in-AI-drug-discovery-scaled-e1785728258130.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-03T15:05:43.994089Z"
-    },
-    {
-      "id": "a22ff454c2a530dcd7b99f8499d8337f",
-      "title": "Alibaba\u2019s open-weight Qwen3.8-Max takes on long",
-      "description": "Alibaba's Qwen team has unveiled Qwen3.8-Max, its most capable language model to date. The model scales to 2.4 trillion total parameters, with 95 billion active per query. The focus is on completing complex tasks independently over extended periods rather than just answering one-off prompts. Alibaba first announced the model in mid-July as a preview version available through Alibaba's Token Plan, Qoder, and QoderWork.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
-      "fullArticleLink": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-03T15:05:23.963625Z"
     }
   ]
 }
