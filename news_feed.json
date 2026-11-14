@@ -1,6 +1,98 @@
 {
   "news": [
     {
+      "id": "d21dcfa65528678ff579576a1eed7a6d",
+      "title": "Runway's open-source Praxis-1 turns video AI into",
+      "description": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/Runway-Praxis-1.jpg",
+      "fullArticleLink": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-14T17:57:34.672320Z"
+    },
+    {
+      "id": "d21fee09ae84c9df7246dc9d01b98585",
+      "title": "Anthropic can already retrain Mythos with \"a fraction",
+      "description": "Former researcher Jacob Coxon says Anthropic's algorithms are improving at an accelerating rate. Coxon continues to call for a pause on frontier model development so competitors can catch up and human-level AI can become a commodity.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/09/claude_laser.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-14T17:57:27.441687Z"
+    },
+    {
+      "id": "a8c9e2f57499dc13fce305d31a69509d",
+      "title": "OpenAI reassigns robotics researchers to other teams",
+      "description": "General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in what the company frames as a way to accelerate its robotics efforts.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/09/openai_robot_arms.png",
+      "fullArticleLink": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-11-14T17:57:20.209689Z"
+    },
+    {
+      "id": "c02be07849cb768b1e23d71423ffc24b",
+      "title": "Anthropic says outdated prompting habits are slowing down",
+      "description": "Anthropic says Claude Opus 5.5 works differently from its predecessors and that many users hold it back with outdated instructions. Anthropic advises users to cut phrases like \"think hard\" or \"think carefully\" from prompts. The company argues that a more capable model can finish a task in fewer steps, which can partly offset its higher per-token price. The model can increasingly take over the back-and-forth users used to handle in the chat.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-14T17:57:04.190316Z"
+    },
+    {
+      "id": "dbcf31264988be42f1d63f3e7edafe24",
+      "title": "Gemini 4 Carbon takes the MathArena crown",
+      "description": "Google's Gemini 4 Carbon and Anthropic's Fable 5.2 knocked GPT-6.1 Sol from the top. Gemini ignored the time limit in testing and almost never gave up on a task.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4_carbon_logo.png",
+      "fullArticleLink": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-14T17:56:56.994826Z"
+    },
+    {
+      "id": "4392222fa3b074034e9ed7af3a872589",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s",
+      "description": "Jensen Huang\u2019s departure from Nvidia has drawn a range of responses across Asia. The chip giant has built close ties with companies worldwide, particularly in Asia, where many of its key partners play important roles in the global AI industry. Some governments are moving to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations. Singapore seized the passport of Alice Huang, former CEO of Singapore-based cloud computing company Megaspeed, in June 2025.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-14T17:56:33.390285Z"
+    },
+    {
+      "id": "17dd6d164624ae18cd2f30bad64f1813",
+      "title": "The AI graveyard: a running list of projects",
+      "description": "Last month, chatbot platform Character.ai filed for bankruptcy. Privacy-focused AI assistant Ollie announced its shutdown a few weeks ago. According to S&P Global Market Intelligence, about 42% of AI initiatives are ultimately abandoned by their corporate parents. The result is a growing AI graveyard, with some of the most notable products, startups, launches, and bets that have shut down, pivoted, or significantly missed expectations.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "fullArticleLink": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-14T17:56:18.068340Z"
+    },
+    {
       "id": "8542bc4637938483c1cc319eeeeb308f",
       "title": "Meta's Muse now calls businesses for you",
       "description": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers. The agent already has over 10 million users. Google Gemini, Instinct, and xAI's Grok Bot offer the same feature. Many businesses hang up as soon as they detect an AI on the line.",
@@ -15783,94 +15875,6 @@
         "General AI"
       ],
       "pubDate": "2026-08-04T03:33:16.747089Z"
-    },
-    {
-      "id": "693b39eb2c44bb31b458432627566512",
-      "title": "Surgical Risk Stratification and Outcome Prediction: A Scoping",
-      "description": "Machine learning (ML) provides a data-driven approach to model complex clinical patterns. Conventional ML models and simple neural networks predominated, whereas deep learning and multimodal approaches remained uncommon. Benchmark datasets and standardized evaluation protocols were largely absent, hindering cross-study comparisons. This review identifies methodological gaps limiting clinically robust postoperative ML tools and provides a structured reference to support more rigorous, reproducible, and clinically meaningful ML development.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.29090",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-04T03:33:06.588365Z"
-    },
-    {
-      "id": "0c48ee7b9835bca8e20103395f20b6c0",
-      "title": "Federated Foundation Models Fine-Tuning with Heterogeneous Compressed Clients",
-      "description": "FedSLM uses SVD-based decomposition to produce self-contained client models. It then applies a two-stage protocol that synchronizes lightweight adapters within compression groups and fuses full-rank reconstructions across groups via structural alignment. A weak-to-strong elicitation step with auxiliary confidence loss transfers the aggregated knowledge to the full-scale server, while an explicit bias--variance trade-off mitigates compression artifacts. This summary.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.29071",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-04T03:32:54.157921Z"
-    },
-    {
-      "id": "bd02c76328cccc4229be788238ec0866",
-      "title": "Benchmarking Frontier Large Language Models against Official Crash",
-      "description": "Police crash narratives contain information that may supplement structured crash databases, but manual review is labor-intensive. Study benchmarked six frontier LLMs by comparing narrative-derived crash attribute codes with corresponding fields in the Arkansas fatal-crash database. Agreement was highest for non-motorist relation and crash manner and lowest for light condition, roadway surface condition, and work-zone relation. GPT-5.5 High achieved the highest agreement among the evaluated LLMs.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.29064",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-04T03:32:43.016364Z"
-    },
-    {
-      "id": "d1044eed15cf334fc1af387891398f0f",
-      "title": "Autonomous Repair for Multi-Agent Systems via Monte-Carlo Tree",
-      "description": "MARS formulates MAS repair as a Monte Carlo Tree Search (MCTS) process and navigates the vast space of potential repairs via diagnosis-guided expansion with taxonomy-augmented evaluation. MARS consistently outperforms state-of-the-art methods, achieving an absolute improvement from 3.0\\% to 12.1\\% across all settings, while maintaining a comparable token consumption cost.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.29055",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-04T03:32:31.651308Z"
-    },
-    {
-      "id": "35f49cd153cf8ed04882ba75e04a8c28",
-      "title": "Learning Optimal Dynamic Matching via Graph Neural Networks",
-      "description": "We develop a value-based reinforcement-learning framework for this problem on finite, evolving weighted graphs. We study an infinite-horizon continuous-time model with stochastic arrivals, node-type transitions, edge realizations, and exogenous exits. We prove an event-time reduction: without loss of optimality, the planner acts immediately after each exogenous event and then waits for the next one. We further show that the optimal edge-wise $Q$-function is characterized by a single continuation-value function on post-decision residual graphs.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.28925",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-04T03:31:27.692935Z"
-    },
-    {
-      "id": "50ac9df72f64d77ad880fdf2d982e212",
-      "title": "Representations from Pretrained Machine-Learning Interatomic Potentials as Coarse",
-      "description": "Generative machine learning is increasingly used for inorganic crystal structure generation. We showcase the power of atom-averaged features from pretrained Machine-Learning Interatomic Potentials (MLIPs), such as MACE, for such tasks. We further show that coarse MACE features can be used as guidance for a material generative model. We showcase CFTD's versatility in capturing crystal-structure quality while also detecting memorization.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.28776",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-04T03:31:18.554404Z"
-    },
-    {
-      "id": "d0bd8659148e449b8d0c29bba55aefac",
-      "title": "Congress\u2019s favorite AI tool? ChatGPT",
-      "description": "OpenAI's ChatGPT received roughly 90% of all spending on AI tools by House offices, committees, and institutional accounts during the year ending in March 31. Congress spent around $100,580 across 798 transactions on chatGPT, out of at least $113,740 in total AI spending. Anthropic's Claude trailed in second place at $13,160 across 37 transactions. Democratic offices accounted for $54,165 in AI purchases, three times the $15,782 spent by Republican offices.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-04T03:29:38.120389Z"
     }
   ]
 }
