@@ -1,6 +1,46 @@
 {
   "news": [
     {
+      "id": "0bd3a4134090c240b68f486160ed1de5",
+      "title": "Anthropic CEO: \"There's a huge uncertainty in what's",
+      "description": "Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned IPO is largely meant to serve as a financial buffer against that uncertainty.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_logos-5.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-15T06:06:37.913292Z"
+    },
+    {
+      "id": "7502b262d99d4b3c1b2447af54965c47",
+      "title": "Nvidia CEO Jensen Huang has been suspended",
+      "description": "A petition calling on Nvidia to reinstate its ousted CEO Jensen Huang has more than 115,000 signatures. Signers include 5,965 current Nvidia employees, 1,108 former employees, and 63,063 shareholders. Huang resigned on Thursday after confessing to having an affair with a U.S. intelligence spy. The former CEO has agreed to testify before Congress, while news reports have also suggested he engaged in multiple extramarital affairs.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-15T06:06:20.988449Z"
+    },
+    {
+      "id": "0cbac1debe315f54963baeba52c7c878",
+      "title": "Where was Nvidia\u2019s security team? Nvidia's security team",
+      "description": "Nvidia CEO Jensen Huang left the company over growing questions about his extramarital relationships. Nvidia's longtime chief security officer and head of product security stepped down in August. David Reber, who spent four years as CSO and seven at Nvidia overall, said he was leaving for health reasons. Reber\u2019s replacement, Sa\u0161a Zdjelar, previously spent 17 years at ExxonMobil in Houston.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-15T06:06:08.067862Z"
+    },
+    {
       "id": "d21dcfa65528678ff579576a1eed7a6d",
       "title": "Runway's open-source Praxis-1 turns video AI into",
       "description": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark.",
@@ -15836,45 +15876,6 @@
         "Security"
       ],
       "pubDate": "2026-08-04T03:33:53.841607Z"
-    },
-    {
-      "id": "52d111cc848e95430d8b4d0bba68c279",
-      "title": "Alibaba's new Qwen model is also taking your",
-      "description": "Alibaba is marketing its new AI model Qwen 3.8 with a video that shows the AI working while a person enjoys their hobbies. The video is a deliberate contrast to the job loss warnings from OpenAI and Anthropic. Of course, it's still just marketing. Alibaba's new Qwen model is also taking your job, but this time it&##39;\"s great.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/qwenlogo.png",
-      "fullArticleLink": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-04T03:33:43.706154Z"
-    },
-    {
-      "id": "dc0d90ec364e575f07e2cebb0069df8f",
-      "title": "Trump\u2019s AI protectionism has come for robotics",
-      "description": "The FTC has banned foreign-made humanoids, quadrupeds, and wheeled robots. The move is part of a strategy to align political and industry interests that is much older than the Trump administration. Some US robotics companies are hugely reliant on cheap robots from China to do research. The new ruling \u201ccreates a challenge for US humanoid researchers,\u201d says Aaron Prather, director of market intelligence.",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-04T03:33:27.681947Z"
-    },
-    {
-      "id": "22c9047aa589eb8344e2b9876f553cf1",
-      "title": "PiDDM: Physics-Informed Differentiable Degradation Modeling for Lithium",
-      "description": "Accurate prediction of lithium-ion battery state of health (SOH) is essential for reliable energy storage operation. But purely data-driven models may generalize poorly across cycling protocols and produce physically implausible behavior during long-term extrapolation. PiDDM incorporates empirical Arrhenius degradation kinetics associated with solid electrolyte interphase growth and loss of lithium inventory into the training objective, encouraging physically consistent capacity fade under diverse operating conditions.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2607.29095",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-04T03:33:16.747089Z"
     }
   ]
 }
