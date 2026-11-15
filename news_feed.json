@@ -1,6 +1,55 @@
 {
   "news": [
     {
+      "id": "5f1fd1ef9f0fc2ec641260d1663384df",
+      "title": "Meituan releases a 1.6-trillion-parameter agent model",
+      "description": "LongCat-2.5 is a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/meituan-logo-wall-chatgpt-5.6.jpg",
+      "fullArticleLink": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-15T18:47:06.381391Z"
+    },
+    {
+      "id": "dbcf3663ec02a63112abaca23a17e836",
+      "title": "Australia's central bank finds AI hitting young workers",
+      "description": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply than among older workers. Author Mike Major cautions against jumping to conclusions, however, noting that business cycle shifts and remote work trends.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/ai_impact_australian_jobs.png",
+      "fullArticleLink": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-15T18:46:56.862868Z"
+    },
+    {
+      "id": "c34529261e2425058fa388dae6450871",
+      "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered",
+      "description": "Megaspeed, owned by ousted Nvidia CEO Jensen Huang's ex-lover, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025. Short seller Culper Research estimates Nvidia's actual China revenue share exceeds 20 percent.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
+      "fullArticleLink": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-15T18:46:49.494623Z"
+    },
+    {
+      "id": "7f6e12ee511ed0a5770d6dda209dfc6f",
+      "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it",
+      "description": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas. A single photorealistic parking garage scene took roughly 700,000 strokes.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-15T18:46:41.100305Z"
+    },
+    {
       "id": "0bd3a4134090c240b68f486160ed1de5",
       "title": "Anthropic CEO: \"There's a huge uncertainty in what's",
       "description": "Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned IPO is largely meant to serve as a financial buffer against that uncertainty.",
@@ -15821,61 +15870,6 @@
         "LLM"
       ],
       "pubDate": "2026-08-04T14:37:08.995207Z"
-    },
-    {
-      "id": "f0c814a03a3b2e107a4c4e0cdf281c6d",
-      "title": "Uncertainty-Aware Simulation-Based Inference for Operations Research with Large",
-      "description": "Deploying large language models for operations research (OR) tasks remains challenging because correctness depends on a coherent modeling process. Standard autoregressive generation operates on a myopic policy, which sometimes fails to anticipate whether a partial formulation can be validly extended into a globally consistent optimization model. Empirical evaluations across multiple OR benchmarks (including NL4OPT, MAMO, and IndustryOR) demonstrate that our framework consistently outperforms both standard and low-temperature baselines.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.00019",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-04T14:36:59.525179Z"
-    },
-    {
-      "id": "b79c480364b48edd25efd2672059994c",
-      "title": "Is the future of data centers portable? Runware",
-      "description": "AI infrastructure company Runware launches its own modular data center called Sonic Inference Pod. Designed as a single transportable unit, the Pod represents a more flexible kind of compute that can sit alongside hyperscalers' massive data center projects. The modular design means it's easy add capacity quickly by creating new pods rather than having to expand a fixed data center. Runware currently has 10 pods in deployment across the U.S., Europe, and Asia-Pacific.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Data-center.png?resize=1196,1200",
-      "fullArticleLink": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-04T14:36:42.561648Z"
-    },
-    {
-      "id": "54ed8f1ef07ccd3efdfc9d9a38f13887",
-      "title": "Apple says more ex-employees may have taken confidential",
-      "description": "Apple says more ex-employees may have taken confidential data to OpenAI. Apple is now seeking a preliminary injunction in its trade secrets case against OpenAI, which aims to stop the AI model maker from moving forward with developing an AI device or other products based on Apple's technology. Apple also notes that its continued investigation has so far revealed 11 other former Apple employees beyond Liu and Tan may have been witnesses or otherwise involved in the case.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-04T14:36:28.473937Z"
-    },
-    {
-      "id": "fb58e7d40d64499cf0e782e0aeae01a3",
-      "title": "IBM finds 92% of companies hit",
-      "description": "IBM's Cost of a Data Breach Report 2026 was based on research by the Ponemon Institute across 602 companies. Among firms that experienced an AI-related incident, 92 percent had inadequate access controls in place. Incidents involving AI cost an average of $5.33 million, compared to $4.70 million for those without an AI component. When attackers themselves used AI, costs jumped to $6.04 million.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/10/ibm_logl_neural_network.png",
-      "fullArticleLink": "https://the-decoder.com/ibm-finds-92-of-companies-hit-by-ai-security-breaches-lacked-basic-access-controls/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-08-04T03:33:53.841607Z"
     }
   ]
 }
