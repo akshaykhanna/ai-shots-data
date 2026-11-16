@@ -1,6 +1,199 @@
 {
   "news": [
     {
+      "id": "fddee0269418ac6e8c9db037ea2a475f",
+      "title": "Protection-Oriented Assessment of Machine Learning-Based Fault Detection",
+      "description": "Machine-based fault detectors are increasingly proposed for power system protection. But aggregate metrics can obscure the consequences of false and missed trips. We present a protection-oriented assessment of three ML detectors and a sequence-current reference on PROTECT-90. Gradient-boosted trees, a convolutional neural network, and logistic regression achieve AUC-ROC values above 0.999, yet at a security budget of $10-3$ their developed-fault missed-trip rates range from 0.007% to 1.99%.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.17872",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-11-16T06:09:21.750586Z"
+    },
+    {
+      "id": "568f50afd2438d229e1de4d1fa36bbb0",
+      "title": "Disentangling Forgetting from Utility: Lightweight LLM Unlearning via",
+      "description": "Large Language Models (LLMs) pose significant security risks by retaining private or hazardous information. We propose UUE, a theoretically grounded framework that reformulates unlearning as controllable model editing. UUE projects parameter updates into the orthogonal left null space of retained knowledge representations. We introduce a convex untargeted objective that derives a closed-form analytical solution to effectively disrupt undesired knowledge.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.17864",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-16T06:09:10.998402Z"
+    },
+    {
+      "id": "db0b71104f3154434998ed32a9f25dca",
+      "title": "Fuse-All MoE Inference Kernel with Load Balancing",
+      "description": "Mixture-of-Experts (MoE) architectures activate only a subset of experts for each token. The kernel fuses token collection, expert projections, gated activation, and output writes. Fixed token-slot destinations allow scheduling and expert placement to change while preserving routing semantics. The integrated system improves serving throughput by up to 34.5% over the Megablox EP16 baseline.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.17857",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-16T06:08:59.841729Z"
+    },
+    {
+      "id": "ae3c883810cb4ee2765097fd03ac299b",
+      "title": "Antidistillation is Cheap: Lightweight Distillation-Resistance via Styl",
+      "description": "Knowledge distillation (KD) is a highly effective paradigm for transferring capabilities from large language models to smaller, more specialized student models. In commercial deployment where frontier models are restricted behind black-box APIs, sequence-level distillation remains a potent vector for competitors to clone proprietary capabilities at a fraction of the development cost. We propose a lightweight defense that dynamically injects style-steering vectors into the teacher model's activations upon malicious queries.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.17772",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-16T06:08:48.229509Z"
+    },
+    {
+      "id": "7dfc0cd69f94e99ff216a88040c85180",
+      "title": "Logically Consistent Accurate Forecasts . Logically . Consistent",
+      "description": "Forecasts for related events often fail to satisfy the axioms of probability, which in turn implies that related forecasts cannot simultaneously be correct and undermine their utility for decision makers. We argue that the key to overcoming the apparent tradeoff between consistency and accuracy lies in the reasoning which supports each forecast. We finetune a supervisory language model that leverages this reasoning to jointly reconcile inconsistencies while improving the accuracy of related forecasts.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.17735",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-16T06:08:37.168621Z"
+    },
+    {
+      "id": "fb6d1099f1f991ce9bd902117c764731",
+      "title": "Pattern-Based Matrix Analysis Under Permutations",
+      "description": "A matrix is simple if it is well described by a low-dimensional linear model. We consider matrices that become structurally simple only after permuting rows and columns. We introduce a pattern distance that measures how close a matrix is to a given pattern after optimal reordering. The problem is NP-hard in general; we derive an alternating algorithm based on Linear Assignment subproblems. We evaluate the framework on synthetic recovery tasks, real correlation and graph adjacency matrices.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.17674",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-16T06:08:14.219647Z"
+    },
+    {
+      "id": "882b04f2190a257f0b782cbbbeb4ab6a",
+      "title": "Classifier-Guided Latent Diffusion for Small-Molecule Generation",
+      "description": "Diffusion models have emerged as a promising class of generative models for molecular design because of their ability to learn complex chemical distributions and support conditional or guided generation. We study guidance toward two drug-relevant binary endpoints: blood--brain barrier permeability and inhibition of human $beta$-secretase 1. The results suggest that latent diffusion over pretrained molecular embeddings can generate chemically valid and novel molecules.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.17650",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-16T06:08:03.516745Z"
+    },
+    {
+      "id": "e2252d5355e7be6b343595a3aae166ef",
+      "title": "Neural Simulation-Based Inference for Computational Cognitive Models",
+      "description": "Computational cognitive modeling is an increasingly essential methodology to elucidate the mechanisms underlying human and animal cognition. For many reasonable cognitive models, computing the likelihood is computationally intractable. Simulation-based inference with neural networks (neural SBI) has emerged as a powerful toolkit to overcome this hurdle. This tutorial addresses this gap by providing a clear workflow for applying neural SBI to cognitive models.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.17608",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-16T06:07:52.124896Z"
+    },
+    {
+      "id": "d9cee7a92f1772f7324aa4507186a9ad",
+      "title": "Design with Real-time Physics Explainability: Towards Product Definition",
+      "description": "Invertible neural networks have been recently proposed for the solution of inverse design problems. On the other hand, generative AI models have shown that they can act as surrogates for physics based simulations. We propose uncertainty quantification to fend off physically infeasible requests. We develop two interactive environments, one for airfoil design based on simulator data and one for the combustor design space exploration based on measured data.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.17560",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-16T06:07:02.147269Z"
+    },
+    {
+      "id": "b1e46780eae129620430b86b09f27e26",
+      "title": "Diffusion Tree Sampling for Inference Time Adaptation",
+      "description": "Diffusion-based generative models have become strong priors over plausible crystal structures. Turning that prior into promising candidates requires steering toward conflicting properties at once. Fine-tuning is expensive and produces a new model for every new objective, while differentiable guidance is not applicable to many real-world tasks. We show how to use existing property-conditional generative. models as guided proposals inside DTS without distorting the target distribution.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.17462",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-16T06:06:16.320933Z"
+    },
+    {
+      "id": "0ae9dd1ddc77ef39357223841226ed11",
+      "title": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents",
+      "description": "AI agents are increasingly equipped with persistence toward task completion to run delegated work autonomously for long periods. We find that persistence raised violations of a rule in an internal document from 32.2% to 43.6%, five times the 8.5% for the same rule stated by the user. Violations of rules placed in the environment without user oversight can lead to serious incidents, so persistence-driven risks need to be evaluated.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.17460",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Startup"
+      ],
+      "pubDate": "2026-11-16T06:06:05.010725Z"
+    },
+    {
+      "id": "38a69ddf0604cea06236c7c934f3b640",
+      "title": "Alignment with Reflect-Reasoning: Learning How to Follow Principles",
+      "description": "Reflect-Reasoning is a training method that teaches models how to reason about alignment to principles, rather than simply which principles to follow. It outperforms system prompting and explicit prompting strategies for in-context reflective reasoning. The method is robust against jailbreaking attempts using adversarial constitutions. It is a scalable method for training constitutional alignment as a generalizable reasoning capability.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.17398",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-16T06:05:41.417996Z"
+    },
+    {
+      "id": "b95b24505d9f9fa9c0d989f70263a48a",
+      "title": "Jensen Huang is the CEO of Jensen Huang's",
+      "description": "Rebecca Bellan, Tim De Chant, Anthony Ha, and Anthony O'Hann: We didn't see this coming. Nvidia CFO Collette Kress is stepping in as the interim CEO. Huang resigned on Thursday after it came out he was having an affair with a former executive at an Nvidia customer called Megaspeed, who\u2019s alleged to have ties to Chinese intelligence.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-16T06:05:22.310217Z"
+    },
+    {
+      "id": "22756b5773130bd071ae30f2a8a7c1eb",
+      "title": "Indian chip startup Bharat Semi lands $24M seed",
+      "description": "Bharat Semi is developing programmable image sensors that combine image capture, processing, and AI capabilities on a single chip. The startup plans to get those newer sensors into customers\u2019 hands by the end of 2027. The all-equity seed round was led by Info Edge Group, South Park Commons, and Indus Bridge Ventures, with participation from Valour Capital, Micromax, Gaingels, and individual investors.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-16T06:05:05.932714Z"
+    },
+    {
+      "id": "74c2539a197400ce2810876123a432b8",
+      "title": "Apple launches new app to study how people",
+      "description": "Apple is partnering with healthcare-focused AI company OpenEvidence to launch a new study app. The app will allow users to ask health-related questions, as they do with ChatGPT or Claude, with answers grounded in clinical data. Apple is inviting users in the U.S. over 21, using iPhone 15 or later, and running iOS 26 with Apple Intelligence enabled. The company is aiming to run this study with up to 200,000 participants for more than 12 months.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-16T06:04:49.150171Z"
+    },
+    {
       "id": "5f1fd1ef9f0fc2ec641260d1663384df",
       "title": "Meituan releases a 1.6-trillion-parameter agent model",
       "description": "LongCat-2.5 is a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips.",
@@ -15681,195 +15874,6 @@
         "Startup"
       ],
       "pubDate": "2026-08-05T03:23:43.349277Z"
-    },
-    {
-      "id": "8cd05edd7a37d5b154da56828af1064c",
-      "title": "Wrinkles is an app that uncovers the hidden",
-      "description": "Meet Wrinkles app is an AI-powered audio tour that reveals hidden history and local stories behind the idea behind the app. Meet the 12-month-old app is available on iOS and Android and is available now on both iOS and iOS. Get the latest TechCrunch Flash Sale code for the very first time at 4:34 PM ET today.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Great-British-Image.png?resize=1200,675",
-      "fullArticleLink": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-05T03:23:25.340490Z"
-    },
-    {
-      "id": "af3fbfe150b00022cd319aa3b04b9280",
-      "title": "Anthropic signs $10B deal with AI cloud startup",
-      "description": "TechCrunch has been on a $10 billion deal with AI cloud startup Volta. Volta, founded earlier this year, will reportedly provide AI cloud compute to cloud maker Volta. Bitdeer, a crypto-mining company that will help develop the data center that will be located in Norway and will deliver the data.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-05T03:23:07.187792Z"
-    },
-    {
-      "id": "c30ea359fc494916ec0e12a201a83241",
-      "title": "Open-weight AI models are catching up",
-      "description": "As policymakers debate how to govern increasingly powerful AI systems like OpenAI\u2019s GPT-5.6 Sol and Anthropic\u2019s Mythos, a Chinese open-weight model has narrowed the gap with the industry\u2019s leaders. GLM-5.2, the open-weight AI model from China\u2019s Z.ai, is only a few months behind OpenAI\u2019s GPT-5.5 and Anthropic\u2019s Claude Opus 4.7 on cyber and bio capabilities, according to a new report from AI safety nonprofit SaferAI. But the divide between frontier capabilities and safety practices is growing. According to SaferAI\u2019s evaluation, which the nonprofit ran via.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Z.ai-GLM-5.2-chat.png?resize=1200,576",
-      "fullArticleLink": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-05T03:22:49.134060Z"
-    },
-    {
-      "id": "68ff5f4fb839767f46337a7b2ec4f8c1",
-      "title": "OpenAI fires back at Apple's trade secret lawsuit",
-      "description": "OpenAI is pushing back against Apple's trade secret lawsuit and has released iMessage threads from former Apple engineer Chang Liu. The messages appear to show Apple employees reaching out to their former colleague for technical help and internal files after he left the company. OpenAI fires back at Apple's trade secret suit with chat logs showing Apple employees kept texting their former colleagues after they left. The logs show that Apple employees reached out to Liu for help and files.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
-      "fullArticleLink": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-04T14:40:34.642602Z"
-    },
-    {
-      "id": "aecafa15cd45df108ea630b20b524d32",
-      "title": "Silicon Valley\u2019s rift over open source pushes back",
-      "description": "The Trump administration discussed sanctions and cloud bans targeting Chinese open-source AI models. OpenAI and Anthropic pushed for restrictions, while Nvidia, Google, and Meta fought back. After pushback from Silicon Valley, Washington backed off for now, but a decision is expected before Xi Jinping's visit in September. Decision is expected to be made before the visit of Xi Jinping in September, according to the New York Times.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/china_vs_usa_ai_arms_race.png",
-      "fullArticleLink": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-04T14:40:25.230352Z"
-    },
-    {
-      "id": "e74e16120b0d6a6164d647367c317128",
-      "title": "Deep Learning CNN and Recurrence Analysis for Alpha",
-      "description": "Fragile X Syndrome (FXS) is a neurodevelopmental disorder caused by reduced expression of fragile X mental retardation protein. Electroencephalography (EEG) consistently reveals abnormalities in alpha (8 to 12 Hz) and gamma (30 to 100 Hz) oscillations that relate to inhibitory control, sensory processing, and cognition. This paper proposes a multi representation deep learning framework for automated characterization of FXS EEG phenotypes by integrating convolutional neural networks.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.00835",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-04T14:39:51.044580Z"
-    },
-    {
-      "id": "03421c55d82ac5bae1ff8136cacdd4c9",
-      "title": "AdvPlan-Bench: Adversarial Evaluation of Structured Plan-Generation Agents",
-      "description": "AdvPlan-Bench represents plans as typed action chains with optional branches. It assigns synthetic quality scores, compares opposing plans with BLUE-vs-RED advantage and Nash-gap diagnostics. In 150 synthetic scenarios spanning five planning templates, a sampled best-response policy that draws eight response candidates reduces BLUE advantage from .518 to .486 and BLUE win rate from .900 to .820 relative to a single-sample response.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.00832",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-04T14:39:41.141819Z"
-    },
-    {
-      "id": "7091e8be10c05184bc75e3a97b4873e5",
-      "title": "Generic Vision and Cross-Attention for Reaction Yield Prediction",
-      "description": "Traditional reaction yield prediction is constrained by 1D quantum descriptors that lack explicit spatial information. To address this gap, a dual-modal Vision Cross-Attention architecture is proposed, fusing tabular physical-organic data with 2D molecular topologies. By synergizing both modalities, superior predictive accuracy compared to traditional methodologies is achieved by the optimal cross-attention framework (Test RMSE = 5.27%) This summary.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.00776",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-04T14:39:21.771363Z"
-    },
-    {
-      "id": "2101367aefd72224ccca2b94cc0176b9",
-      "title": "Mitigating Backdoors via Decoy Shortcuts and Knowledge Decoupling",
-      "description": "Backdoor attacks pose a serious threat to deep neural networks, especially when training relies on third-party data. Trapping and Removing (TR) introduces a lightweight shortcut branch as a \"honeypot\" to trap backdoor knowledge. After training, backdoors can be removed by discarding the shortcut, without requiring any additional data. To further enhance backdoor isolation while maintaining benign performance, we design a knowledge decoupling strategy with entropy-based weight assignment.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.00732",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-04T14:39:12.308803Z"
-    },
-    {
-      "id": "22c9fa49f8acfe8f1900c795eac4ca33",
-      "title": "Learning the Pareto Frontier of Predictive Models",
-      "description": "Frontier Learning treats a library of candidate models spanning different training histories and access regimes as complementary sources of information. Frontier Learning constructs a unified target-domain feature by concatenating internal representations from. white-box candidates as well as prediction outputs from black-box. The resulting hypothesis class contains predictors obtained by. zero-shot reuse, fine-tuning, and direct training as special cases. The largest gains arise when no single baseline is reliable across the range of shift considered.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.00632",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-04T14:39:01.720523Z"
-    },
-    {
-      "id": "397f788049d649c0ca0df6b999bf74c0",
-      "title": "From field-scale to large-scale spectral libraries: Tabular foundation",
-      "description": "Visible and near-infrared (vis-NIR) spectroscopy enables rapid, cost-effective prediction of soil properties. Yet translating high-dimensional, highly collinear spectra into accurate soil property predictions remains challenging, particularly when employing machine learning. TabPFN consistently delivered the best overall performance across scales, including large spectral library tasks with tens of thousands of soil samples. Further improvements were achieved through PLS, which proved to be an effective dimensionality reduction strategy for all models.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.00608",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-04T14:38:41.634245Z"
-    },
-    {
-      "id": "007b6b60842b0142cc799c1d9279a665",
-      "title": "CoSynFlow: Conformal Symplectic Neural Flows for Cross-System",
-      "description": "Many neural operator methods optimize prediction accuracy without explicitly enforcing the geometric structure of the dynamics. We propose CoSynFlow, a conformal symplectic neural flow for learning continuous-time solution maps of dissipative Hamiltonian dynamics. It keeps the structure error at machine precision, attains the lowest long-horizon error, and admits physics-informed training. It is the first time a single trained model predicts solution maps for unseen systems without retraining.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.00571",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-04T14:38:32.601653Z"
-    },
-    {
-      "id": "14ed6fed0a893be5b51eed1b36700ab8",
-      "title": "A Dual-Penalty Evasion Framework for Fooling White-Box Explainable",
-      "description": "Post-hoc model explainers such as LIME, SHAP, and Integrated Gradients are widely deployed to audit models in high-stakes sensitive domains. Adversaries can attempt to conceal algorithmic biases or backdoors using adversarial explanation attacks. These attacks have relied on scaffolding out-of-distribution (OOD) detectors that toggle predictions when queried by an explainer. In this paper, we demonstrate a critical vulnerability by introducing a more potent white-box, gradient-regularized evasion attack framework.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.00566",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-04T14:38:10.922364Z"
-    },
-    {
-      "id": "95f87aee8b92a2a4fa49f2dbe9ef84ff",
-      "title": "Agentic Graph Token Reasoning is an attempt",
-      "description": "Graphs model relational data throughout science and industry, from citation networks to product co-purchase graphs. The most graph-native of these methods use graph tokens: a graph encoder compresses a graph view, such as a node, its k-hop neighbourhood, or a cluster, into a block of continuous tokens that jointly encodes node attributes and topology and is read directly by the model. The model thus reasons step by step in the graph token space, and the tokens it reads are trajectory-dependent.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.00542",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-04T14:37:59.666492Z"
-    },
-    {
-      "id": "04b5c925243d8878377aba387beafd88",
-      "title": "Learning Compositional Meta-Routing for Agentic Workflows: An Executable",
-      "description": "A controller may answer directly, decompose a request, retrieve evidence, execute code, delegate to a specialist, or verify an intermediate result. We introduce an executable benchmark and a budget-aware meta-router that composes heterogeneous operations from raw task text. The benchmark contains 216 training, 72 development, 108 held-out test, and 108 locked lexical-shift challenge tasks across data analysis, frozen-corpus research, and document processing.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.00106",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-04T14:37:08.995207Z"
     }
   ]
 }
