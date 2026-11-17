@@ -1,6 +1,104 @@
 {
   "news": [
     {
+      "id": "9d3992aad0c43aa770307204a7d417f6",
+      "title": "Google warns that fully automated cyberattacks have arrived",
+      "description": "An AI framework called \"exploit_agent,\" found on an exposed server, automatically compared code before and after patches, built exploits, and ran them on its own. Google warns that fully automated cyberattacks have arrived and will get worse fast.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-17T07:45:08.332800Z"
+    },
+    {
+      "id": "67c0dbdc21f25ebca8fe8cd5ccbc027c",
+      "title": "Freshworks alums raise $53M to take on Salesforce",
+      "description": "Dreamteam has raised $53 million for its AI-native CRM, betting that AI can finally shake up a market where established players have so far proved difficult to dislodge. Traditional CRMs depend on salespeople to manually record customer interactions and keep deal information up to date. Dreamteam aims to eliminate that work by capturing context from sources including emails and customer conversations. It also uses AI agents to handle tasks such as follow-ups, meeting preparation, and pipeline monitoring.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/dreamteam-co-founders.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-17T07:44:46.021805Z"
+    },
+    {
+      "id": "6df19e2f316f6dcac4586a379adee050",
+      "title": "Audible turns to AI to help users discover",
+      "description": "Audible is turning to AI to help listeners find their next book. The company launched a new \u201caudio discovery\u201d feature that provides a brief overview of a book\u2019s themes and a summary of what readers liked about it. The overview audio itself is generated using AI, and the commentary is pulled from past Audible interviews. The idea is that this type of expanded introduction to a story could help users decide what to listen to next.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Audible_Audio_Discovery_Still.jpeg?resize=1200,824",
+      "fullArticleLink": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-17T07:44:31.413067Z"
+    },
+    {
+      "id": "80d1539b39125845fb487afee1580c34",
+      "title": "Jordan Belfort\u2019s new AI voice startup, Tone, wants",
+      "description": "Jordan Belfort is moving into the intersection of what he knows best \u2014 sales \u2014 and the hottest trend on the planet, AI. Belfort says the platform, called Tone, is already being used by companies that have more sales leads than their human teams can handle. Tone is launching a self-service platform for content creators and authors who want to turn their books into \u201cexpressive AI-generated narration\u201d.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-17T07:44:17.616650Z"
+    },
+    {
+      "id": "761b56f193e164f094a2178d70b0a3ec",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang\u2019s affair",
+      "description": "U.S. President Donald Trump says he does not believe national security was put at risk by former Nvidia CEO Jensen Huang\u2019s affair with an alleged Chinese spy. \u201cHe probably shouldn\u2019t have been doing on a personal basis what he did \u2026 That's a different story,\u201d Trump said in light of his friendship with Huang. Huang has since stepped down from the role he has had for 33 years at Nvidia after more reporting revealed he also had affairs with two Nvidia employees.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-17T07:44:02.336008Z"
+    },
+    {
+      "id": "6164faa6556061194b0f667c69e650db",
+      "title": "Nvidia will reveal its latest product on Tuesday",
+      "description": "Nvidia CFO Colette Kress will be running through the numbers and sharing guidance without Nvidia's disgraced founder Jensen Huang. Huang was forced to resign last week after he admitted to having an affair with an exec of a customer, Alice Huang, a woman alleged to be a Chinese spy. Now, the company is facing questions about its restricted chips allegedly being smuggled into China, especially by Huang's mistress' company.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1147839035.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-17T07:43:48.774462Z"
+    },
+    {
+      "id": "7517b8cd010a2f700e1da12d91801312",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation",
+      "description": "AI cybersecurity startup Corma has raised a $125 million Series A round at a $1 billion valuation. Corma offers AI models and agents trained for cybersecurity defense. It has now raised a total of $185 million from backers, including Sequoia Capital, Khosla Ventures, and Coatue. Interest in its product skyrocketed after a series of security incidents sent chief information security officers scrambling.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+      "fullArticleLink": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-17T07:43:38.772684Z"
+    },
+    {
       "id": "361be0a55b49710fd2562f4676ffd252",
       "title": "Anthropic says the key to agent memory",
       "description": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin in Pok\u00e9mon Red test. Claude Fable 5 got four times as far as Sonnet 3.7 by keeping just a handful of strategy files.",
@@ -15799,90 +15897,6 @@
         "LLM"
       ],
       "pubDate": "2026-08-05T14:33:52.623375Z"
-    },
-    {
-      "id": "706de3bcd7e6ac43a0a8c5baf4d4c225",
-      "title": "Maglev: Sliding Recurrent Memory is a form",
-      "description": "We introduce a recurrent Transformer architecture with fixed-size memory that generalizes sliding-window attention while remaining parallelizable during training. We train with a memory consistency loss that aligns $m_t$ with $m'_t$, allowing inference to use $P$ alone. Empirically, \\ours{} improves validation loss and downstream pretraining benchmarks over sliding window and latent recurrent transformer baselines.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.02870",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-05T14:33:39.524196Z"
-    },
-    {
-      "id": "06b1b5eeccc9951b8a0eee1ac5ab682c",
-      "title": "NOMADD: Numerical Optimization of Models Adapting to Data",
-      "description": "Tabular model performance degrades when feature distributions change over time or the relationship between features and outcome variables change. These issues are challenging to mitigate in real time because labeled data may not be immediately available, or re-training a model could be impractical. The algorithm fits the base model separately on each labeled training period, measures how its parameters evolve against a single anchor model pooled over all of those periods, compresses those changes with a low-rank factorization.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.02845",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-05T14:33:15.459012Z"
-    },
-    {
-      "id": "84574097603a1014cd60d1cc9e29dd72",
-      "title": "Wiring Beats Blending: What Transfers Between Transformer Sizes",
-      "description": "Can a pretrained large model be converted into a smaller sibling? We characterize the 1.4B->410M conversion in the Pythia family end-to-end. In matched-budget continued pre-training we decompose conversion into two independent levers -- least-squares compensation and rescale. Compensation is a token-efficient, low-budget win rather than universal one. At 30M tokens it beats the strongest subcloning variant on both a width-reduced pair (84.0 +/- 1.8 vs. 89.7 +/- 3.7, 3/3 seeds) and a held-out depth reduced pair (109.3 vs.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.02829",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-05T14:32:57.663048Z"
-    },
-    {
-      "id": "5f476cb890e5a59d65c7385c7f58131d",
-      "title": "PatTree: A novel approach for automated creation",
-      "description": "Access to holistic, multimodal data improves the performance of Artificial Intelligence in medical classification tasks compared to utilizing single modalities or data sources. PatTree is a graph-based, holistic representation of patients that can be derived from real-world clinical data through the automated structuring of multi-modal clinical data. In the three-class classification task distinguishing Alzheimer's disease, mild cognitive impairment, and cognitively normal individuals, we achieve a balanced accuracy of 98.5% and an F$_1$ score of 0.987 on the held-out test set.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.02692",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-05T14:31:52.487189Z"
-    },
-    {
-      "id": "5135aebbdc8d4eb6f4ecbf96f06e7939",
-      "title": "LLMs Can Annotate Attribution Graphs . LLMs can",
-      "description": "Circuit tracing is an exciting technique for revealing the internal computation of language models. We present a simple pipeline for automating this step. Using automated interpretability metrics, we confirm that supernodes generated by our pipeline are as interpretable as those generated by human annotators. On a two-hop Capitals task, our pipeline recovers a supernode corresponding to the intermediate hop in 97 of 100 prompts. We hope this work demonstrates that even simple automation can produce meaningful attribution graph annotations.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.02632",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-05T14:30:32.366664Z"
-    },
-    {
-      "id": "a44f0d8e2c3efd5c2b70b24376571ccf",
-      "title": "Multimodal Auto-regressive Transformer Surrogate for Modeling Variable",
-      "description": "The use of variable well perforation and injection strategies can improve the efficiency of geological carbon storage operations. We develop a new multimodal auto-regressive transformer surrogate to model these operations under geological uncertainty. The surrogate model processes three input modalities - the 3D geomodel, scalar parameters characterizing relative permeability functions, and control variables - through separate encoders. It is trained to predict saturation and pressure at monitoring locations, total injected and mobile CO2 mass, and saturation footprints.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.02629",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-05T14:30:18.617347Z"
-    },
-    {
-      "id": "c28d20444652ad4bd4291b2644be29f6",
-      "title": "Deep Divide-and-Reduce in Symbolic Regression",
-      "description": "Symbolic regression (SR) is the task of discovering underlying patterns from data and representing them using mathematical expressions. Current machine learning approaches to SR often lack a profound understanding of the intrinsic mathematical and physical principles governing these expressions. We propose our method, Deep Divide and Reduce in Symbolic Regression (DDRSR). DDRSR fundamentally broadens the applicability of expression decomposition and reduction, circumvents the need for brute-force sub-structure searches, and ensures both wider versatility and strict theoretical correctness.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.02628",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-05T14:30:05.739652Z"
     }
   ]
 }
