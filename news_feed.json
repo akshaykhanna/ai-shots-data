@@ -1,6 +1,208 @@
 {
   "news": [
     {
+      "id": "21f9a58b5e9779cb5f00e9fea9e95577",
+      "title": "Isomorphic Labs raises $5 billion in its second",
+      "description": "Alphabet's AI drug discovery company, led by Demis Hassabis, plans to use the funding to push its drug pipeline toward clinical trials. The company has no approved drugs yet.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/Isomorphic-Labs-Funding.jpg",
+      "fullArticleLink": "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-11-18T07:11:13.129493Z"
+    },
+    {
+      "id": "f142988250d612f216e6fb9913069a96",
+      "title": "Communicate the Change: Efficient Expert Parallelism via Activation",
+      "description": "EchoMoE reduces inter-node communication volume by 58% and improves throughput by 22.6%, while preserving average performance within 3.8 percentage points across 18 benchmarks. The lightweight architecture modification that retrofits existing MoE models requires approximately 8,500x fewer training tokens than full pretraining. EchoMoeE further improves inference throughput by up to 2.38x over bandwidth-constrained Ethernet.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.22215",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-18T07:10:45.313256Z"
+    },
+    {
+      "id": "98c5e8cdbf9a8cccd428420e11387c90",
+      "title": "RL on Expert-Built Tasks Teaches Nemotron 3.5 Super",
+      "description": "We post-train NVIDIA's Nemotron 3.5 Super (120B total, 12B active parameters) with reinforcement learning (RL) on five expert-built task datasets. On twelve headline benchmarks, eight built by other groups and four by Surge AI, the gains range from +4.5 points on IFBench to +13.8 on GDP_pdf, which rises from 10.4% to 24.2%.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.22161",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-18T07:10:24.904585Z"
+    },
+    {
+      "id": "63898665e55bbbd3d60d4b0ff14d173d",
+      "title": "Weight-Space Programming Doesn't Need Transformers . \"Weight-Space programming\"",
+      "description": "In weight-space programming, a large language model (LLM) writes target weights by hand without gradient-based training. An LLM-designed model achieves higher test accuracy than the most accurate released Transformer that the same LLM wrote while using about 1,800x fewer parameters. Pretrained LLMs remain more accurate; the claim concerns which structure to build when writing weights.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.22055",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-18T07:09:45.078603Z"
+    },
+    {
+      "id": "297279ebeadf3bb80f36c9aa921d0372",
+      "title": "LLM Solver to System: LLM Reasoning Across Representations",
+      "description": "Simulators based on partial differential equations (PDEs) are widely used to model physical systems. Solver2System is a dataset of PDE solvers with multiple representations, controlled corruptions, and lexical perturbations. We evaluate whether LLMs can recover the underlying physical system through (1) cross-representation consistency and (2) static and agentic detection of physical invalidity.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.21964",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-18T07:09:03.724484Z"
+    },
+    {
+      "id": "739d3290f784722cd08fca7d827e6f0f",
+      "title": "Large language models natively write neural network weights",
+      "description": "GPT-6 Astra and Claude Fable 5.1 (also 5.2) edited the network for our research tractor using a small budget of simulated evaluations to repair a network trained for another tractor and write a controller into a network with zero weights. Gradient descent reached higher accuracy with far more simulation, and all language model controllers steered the real tractor without intervention.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.21958",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-18T07:08:54.204594Z"
+    },
+    {
+      "id": "eb214a8577117e8ba9b99c8d01128a2c",
+      "title": "KVUse: Reusable-KV User Memory for Efficient LLM Recomm",
+      "description": "Memory-augmented recommenders built on large language models maintain a natural-language profile of each user. These profiles are updated by a user profile update path that revises the profile as new interactions arrive and are consumed by downstream task paths like ranking. KVUse stores the user profiles as reusable key-value (KV) caches instead of text. On four InstructRec datasets with Llama-3.1-8B-Instruct, KV use shows no statistically significant difference in ranking quality from full prefill.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.21920",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-18T07:08:22.846386Z"
+    },
+    {
+      "id": "cb376b92586c68a31d1eb937714d908f",
+      "title": "Google joins the tech outage trend by announcing",
+      "description": "Google took to X on Tuesday to announce that its Gmail service is actually running just fine. The company said it was not currently seeing evidence of a Gmail service disruption. Downdetector is not an official source for verifying or understanding the true scope of internet outages. Over the past week, Apple and Microsoft experienced outages, an FAA network failure led to a nationwide ground stop and some banks and airlines also reported disruptions.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-18T07:07:17.784482Z"
+    },
+    {
+      "id": "50f33a0b80680afa2bf474d8ffb4043c",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit amid",
+      "description": "The Securities and Exchange Commission is opening a civil probe into Nvidia. The investigation adds to Nvidia\u2019s stack of drama after CEO Jensen Huang resigned after news of his extramarital affairs. The Commerce Department has been investigating Megaspeed since late 2024 under suspicion that the company diverted some of its chips to China. Congress has also demanded that Huang answer questions about his affair and how it might have affected his stance that export restrictions should be loosened.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-18T07:07:07.682243Z"
+    },
+    {
+      "id": "fc1294d53116d3569f1ba57b85707dbf",
+      "title": "Amazon and Google will together own nearly 30%",
+      "description": "Anthropic on Tuesday disclosed more details about the biggest investment agreements with major cloud providers Amazon and Google. Amazon's total stake will come in at just shy of 15% (14.7% to be exact) Google, meanwhile, will own just under 14% (13.7%), also in non-voting shares. A group of major tech companies (AMD, Broadcom, Google, Micron, Microsoft, Nvidia, and TSMC Partners) have agreed to buy $26 billion worth of stock. Amazon has opted to hold on to billions of dollars\u2019 worth of the notes that could convert into equity.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
+      "fullArticleLink": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-18T07:06:52.212164Z"
+    },
+    {
+      "id": "fcd1652eaf88974a4bcc775aa456cc7e",
+      "title": "Nvidia says it doesn\u2019t plan to reappoint Jensen",
+      "description": "Nvidia founder Jensen Huang has offered to return to the chip company he helped build from the ground up. Huang resigned last week after revelations of a number of extramarital affairs. He has been replaced by interim CEO Colette Kress, who is also the chipmaker\u2019s chief financial officer and executive vice president, while the board searches for a permanent replacement. The future of the AI business, in which Nvidia plays a pivotal role, hangs in the balance.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-18T07:06:39.257306Z"
+    },
+    {
+      "id": "74fa1f5e6e2f7677cffaf75aa820312a",
+      "title": "Nvidia says its open source AI strategy remains",
+      "description": "Nvidia CEO Colette Kress reaffirmed the company\u2019s commitment to open source AI during an earnings call with analysts. Kress also spoke about the company's plans for Hugging Face, a platform for open-source AI models that the company agreed to acquire for $12.9 billion in September. Last week, Nvidia founder Jensen Huang resigned from his position as CEO following news about his extramarital affairs.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-18T07:06:26.247662Z"
+    },
+    {
+      "id": "a91e4c81d566a6ac8c8657326997f051",
+      "title": "Nvidia is abandoning China after Jensen Huang\u2019s ouster",
+      "description": "Nvidia will no longer sell its H200 chips in China, ending the company\u2019s participation in a controversial loophole in the U.S. ban on the sale of advanced chips to the country. China's access to leading AI accelerators was an important topic during the company's first earnings call since CEO and co-founder Jensen Huang stepped down last week. The disclosure comes the same day Nvidia announced it was creating a board-level committee to oversee national security policies.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
+      "fullArticleLink": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-18T07:06:12.294884Z"
+    },
+    {
+      "id": "1bbe22dae05f83edba956fbad804b534",
+      "title": "Nvidia promises that revenue will keep soaring \u2014",
+      "description": "Nvidia reported revenue of $115.8 billion, up 103% from the year-ago quarter. CFO-turned-interim CEO Colette Kress stressed that the company was in good shape now and for the foreseeable future. Nvidia could benefit from the plunge in its share price following Huang\u2019s resignation last week, should shares remain depressed over the longer term. The stock is down about 10% since his departure.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776",
+      "fullArticleLink": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-18T07:05:59.826049Z"
+    },
+    {
+      "id": "0b08a5d2f5b9330b42a56e2a858d409d",
+      "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019",
+      "description": "Nvidia\u2019s equity in private companies continues to grow: it revealed its stakes are now worth $65.5 billion on Tuesday. The increase includes both new investments and significant markups of existing portfolio companies. Nvidia stated in late 2023 that the goal of its corporate investing is to expand the AI ecosystem by backing startups it considers to be \u201cgame changers and market makers\u201d.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771",
+      "fullArticleLink": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-18T07:05:46.010056Z"
+    },
+    {
       "id": "c22b0131818e52b24c6134dbd2b4b5e1",
       "title": "California's attorney general sues OpenAI over rogue",
       "description": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack against its AI platform Hugging Face in July. The lawsuit alleges OpenAI tested advanced models without proper safety measures and misled the public about how safe its experiments were. Around 700 AI agents broke loose during internal testing, according to an external investigation. Two more lawsuits against OpenAI are already pending.",
@@ -15718,198 +15920,6 @@
         "General AI"
       ],
       "pubDate": "2026-08-06T14:36:33.542216Z"
-    },
-    {
-      "id": "e403b38b387bfa48465aaa4e43830ad5",
-      "title": "Cost-Aware Multi-Objective Bandits: Theory and Application to Budgeted",
-      "description": "Large language model (LLM) configuration evaluation is challenging due to limited evaluation budgets, varying costs, and multiple competing objectives. We formulate LLM configuration evaluation as a cost-aware multi-objective bandit problem. For online configuration selection and Pareto configuration identification, we propose a hypervolume-based UCB algorithm.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.04333",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-06T14:36:22.355857Z"
-    },
-    {
-      "id": "a92d743b692d3081498abf7a0a470fb7",
-      "title": "Real-time probabilistic tsunami forecasting via generative AI",
-      "description": "Explicit onshore tsunami inundation forecasting can improve public risk awareness. However, current warnings primarily target coastal tsunami height, not onshore inundation. We develop a probabilistic ensemble model based on a conditional diffusion model. Validated with the 2011 Tohoku-oki earthquake data, our model faithfully tracks the postearthquake uncertainty decreasing over time while accurately predicting inundation depth and extent. Our framework shows that generative AI can shift tsunami forecasting from determinism to probabilism.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.04327",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-08-06T14:36:12.656604Z"
-    },
-    {
-      "id": "aba176f0eb5a95bc113ab77b6d2968a3",
-      "title": "Transferable Dual-Stream Representations for Mesoscale-Preserving Sea Surface Temperature",
-      "description": "Deep learning models for scientific spatio-temporal downscaling often minimize reconstruction error while failing to preserve physically meaningful multi-scale structure. For sea surface temperature prediction, this can yield outputs that are numerically plausible yet overly smooth, missing mesoscale variability critical to regional ocean dynamics. EddyFlow is trained on the Gulf of St.~Lawrence and evaluated in zero-shot and few-shot settings on the Bay of Fundy and Gulf of Mexico.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.04230",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-06T14:35:52.237899Z"
-    },
-    {
-      "id": "53313a154d44c678d6cf8511a53ad7a6",
-      "title": "Attention-Only White-Box Transformer via LeJEPA-based Self-Super",
-      "description": "The LeJEPA-based self-supervised framework assumes an isotropic Gaussian distribution as the optimal embedding distribution for downstream tasks. The original white-box Transformer CRATE achieves classification accuracies of $89.18\\%$ on CIFAR-10. The model achieves competitive performance while reducing the parameter count by roughly $31\\%$. We further investigate standard ViTs and find that replacing all MLP blocks with ReLU activations removes approximately 66\\% of the parameters while preserving competitive accuracy.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.04213",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-06T14:35:40.772218Z"
-    },
-    {
-      "id": "f6854880e446115d11849b8fcc0aa91a",
-      "title": "TS2TabPFN: Time Series Classification and Extrinsic Regression through",
-      "description": "Time series data are ubiquitous in practical applications, where classification (TSC) and extrinsic regression (TSER) have emerged as essential tasks for obtaining value from temporal sequences. This paper proposes TS2TabPFN, a framework that bridges this gap by integrating explicit feature extraction with TabPFN 2.5, a cutting-edge foundation model for tabular data. The results suggest that combining foundation models with structured features overcomes single-paradigm limitations, establishing a new time series state-of-the-art.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.04174",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-06T14:34:58.605301Z"
-    },
-    {
-      "id": "235565c9f64610aa3f41874129bc5c4d",
-      "title": "An Explainable LLM Agent Layer for Open-World Anomaly",
-      "description": "Open-World Learning (OWL) pipelines for oil well anomaly detection have recently been shown to combine autoencoder-based detection, multiclass classification, and Mahalanobis-based novelty detection on the public 3W dataset. The goal is to close the explainability gap that currently blocks deployment of OWL pipelines in operational settings. The paper evaluates a Large Language Model (LLM) agent layer placed downstream of the OWL pipeline.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.04041",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-06T14:33:33.021865Z"
-    },
-    {
-      "id": "61e0286acd0abef3074e322ad67e9aa7",
-      "title": "Two Fossil Fuel companies are betting big",
-      "description": "Two American oil and gas companies, Williams and Chevron, are presenting that demand to investors as a huge win. Data centers are becoming \u201ca big driver for both power and gas demand in the US,\u201d says Ashish Sethia, head of commodities and energy at BloombergNEF. Increased demand for natural gas by the mid-2030s means that the US would need to increase production by 36 percent.",
-      "imageUrl": "https://media.wired.com/photos/6a71ded1b7a42409dc941701/191:100/w_1280,c_limit/DataGasPipe.jpg",
-      "fullArticleLink": "https://www.wired.com/story/chevron-williams-driving-data-center-boom/",
-      "type": "news",
-      "categories": [
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-06T14:33:07.683797Z"
-    },
-    {
-      "id": "03225603b6ebcb46ece5d493ddb4f6ce",
-      "title": "Google Maps adds agentic features, including food ordering",
-      "description": "Google Maps adds agentic ordering, bookings, hotel bookings and food ordering features. Ask Maps is gaining a slew of new agentic capabilities, including the ability to order food, book hotels, find event tickets and ask for information from a user's Gmail and Google Calendar. The new Ask Maps feature is gaining the ability of helping users complete real-world tasks.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-06T14:32:50.876919Z"
-    },
-    {
-      "id": "574a05ceaccbf2e2cb0956c9578a66d0",
-      "title": "Mirendil inks $100M+ Google Cloud deal to scale",
-      "description": "TechCrunch has signed a partnership with Google Cloud+ Google Cloud-improving AI lab Rebecca Bellan. Bellan: Mirendilks $100MM deal to scale self-improveving AI research with Google. The deal mirrors two trends shaping the AI industry: cloud giants are snatching up commitments with huge infrastructure with huge. infrastructure. Get a $100 ticket to Disrupt Disrupt: August 6:00 AM.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-06T14:32:35.588838Z"
-    },
-    {
-      "id": "b98407de0bcef8e8fa633f1f98d9abe0",
-      "title": "Ex-Spotify employees raise $10M to bring AI behind",
-      "description": "Spotify employees spent years building the behavioral intelligence infrastructure behind its recommendation engine. Maltey, Ian Motwani, Ian Anderson and Shivadha Sinal raised $10M for their new startup, called Vector AI, which is designed to predict a person's intent and next actions instead of relying on their past behavior.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Malachyte.jpg?w=1200",
-      "fullArticleLink": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-06T14:32:21.147341Z"
-    },
-    {
-      "id": "60727746ab758571fa0e2722d79260bf",
-      "title": "UK's job market is splitting in two",
-      "description": "Overall hiring is falling in knowledge work fields such as marketing and management, but AI-related listings are rising fast. AI now appears in 9.4 percent of British job postings, up from about 2 percent in 2023, Indeed says. Indeed calls it a \"two-speed labor market\" UK's job market is splitting in two as AI demand surges while knowledge work postings crater, says Indeed.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/ai_worker-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/uks-job-market-is-splitting-in-two-as-ai-demand-surges-while-knowledge-work-postings-crater/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-06T03:32:15.628382Z"
-    },
-    {
-      "id": "38a7ae7f1221832e04fcc4fbaced3424",
-      "title": "Mistral's open model Shieldstral matches much larger safety",
-      "description": "Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It matches models seven times its size in some benchmarks. Operators can set their own criteria at runtime rather than rely on a third party's category system. The model can run locally and can be run at a fraction of the size of other AI models.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_ai-3.png",
-      "fullArticleLink": "https://the-decoder.com/mistrals-open-model-shieldstral-matches-much-larger-safety-models/",
-      "type": "news",
-      "categories": [
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-08-06T03:32:05.553020Z"
-    },
-    {
-      "id": "e95593973f3bd03235726c6fc7684792",
-      "title": "Google will shut down Google Assistant starting September",
-      "description": "Google is killing Google Assistant on Android and Wear OS starting September 4, 2026. Gemini takes over as the AI-powered successor on smartphones, tablets, watches, and in cars with Android Auto. Whether a probability-based LLM can match the reliability of its deterministic predecessor for simple everyday commands will be a real test for Google's AI strategy. Google will shut down Google Assistant starting September 2026 as Gemini will take over.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
-      "fullArticleLink": "https://the-decoder.com/google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-06T03:31:55.544406Z"
-    },
-    {
-      "id": "ca0aef978ae3de129ff81b461da9d35f",
-      "title": "Demis Hassabis and Jeff Dean step down simultaneously",
-      "description": "Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist. Jeff Dean leaves Google after 27 years to launch AI startup Discovery Loop. Former Deepmind CTO Koray Kavukcuoglu will take over as Google races to close the gap with its top AI rivals. Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
-      "fullArticleLink": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Startup"
-      ],
-      "pubDate": "2026-08-06T03:31:45.634108Z"
-    },
-    {
-      "id": "6758da0f34bbbe35e9fb6b3d1a02fbde",
-      "title": "AcceptMoE: Commitment-Weighted Self-Sizing Verifier Expert Sets",
-      "description": "Speculative decoding verifies a tree of draft tokens in one target-model forward pass. For a mixture-of-experts (MoE) target, parallel verification can activate the union of the experts selected by all tree nodes. We introduce AcceptMoE, a verifier-side expert selector that combines target-router scores with offline-estimated commitment probabilities and automatically adjusts the number of eligible experts for each verification block.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.02989",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-06T03:31:32.116664Z"
     }
   ]
 }
