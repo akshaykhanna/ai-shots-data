@@ -1,6 +1,209 @@
 {
   "news": [
     {
+      "id": "70c325a7c6272ac86db5c2f5b8d3f5c4",
+      "title": "OCR models now digitize a million pages",
+      "description": "The cost of scanning 1,000 pages has dropped from 51 cents to just under 10 cents for the newest model. A million pages now runs between $65 and $130 in GPU rental, depending on the source material. The newest model read pages at least as accurately as the oldest one. Some models hallucinated text on blank pages or repeated the same content over and over.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/baidu-ocr-machine-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-19T20:33:59.863350Z"
+    },
+    {
+      "id": "7d08c2f7d564ad8dcc1556502a35483f",
+      "title": "Google's latest AI model is faster, cheaper",
+      "description": "Google DeepMind has released Gemini 4 Neon, its fourth AI model in seven weeks. Neon is nearly twice as fast as Carbon, beats it on most benchmarks and costs significantly less. Per-task costs for Neon at xhigh come in at $6.44, roughly 17 percent below Carbon's undiscounted figure of $7.76. Neon offers a one-million-token context window for text, images, audio and video.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp",
+      "fullArticleLink": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-19T20:33:43.930007Z"
+    },
+    {
+      "id": "7ee0b27e6945f91f693a76fa7e1bf16c",
+      "title": "OpenAI's own researchers now say they value",
+      "description": "OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries. Even though teams are reluctant to work without these tools, models still produce a lot of \"AI slop\" beyond routine tasks.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo_numbers-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-19T20:33:36.876812Z"
+    },
+    {
+      "id": "6836e138ab805b622daa58e8d24797e9",
+      "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record",
+      "description": "Anthropic priced its IPO at $83 per share, beating the original target range of $70 to $78. Anthropic's fully diluted market cap stands at about $1.5 trillion, while its market value excluding stock options sits closer to $1 trillion. The IPO amounts to a stress test for the AI industry, which has been rattled by rising interest rates and political headwinds.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-19T20:33:21.062687Z"
+    },
+    {
+      "id": "9449e0229f73eac5f6b7e7a5524832ec",
+      "title": "Chinese tech firms face a double hit",
+      "description": "China's Moonshot AI walked away from a $150 million deal in Indonesia. TSMC and Samsung stopped shipping to Chinese customers. A New York Times investigation found that Alibaba had routed Nvidia chips to Chinese military researchers.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/us_vs_china_open_models-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-19T20:33:14.104744Z"
+    },
+    {
+      "id": "8c2946cda809ac6a599b2e94741184db",
+      "title": "AI industry growth remains strong, but the pace",
+      "description": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high. Anthropic dominates with nearly 59 percent of token spending. Data from Ramp, Stripe and OpenRouter independently show the same pattern.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/02/Throwing-money-at-AI.jpg",
+      "fullArticleLink": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-19T20:33:07.169715Z"
+    },
+    {
+      "id": "88d8f41bff2da328f34378819718a987",
+      "title": "JEPA as a Transferable Optimizer: Learning and Understanding",
+      "description": "Black-box optimization evaluates candidates through simulations, rollouts, or experiments, often without gradients. We introduce JEPA-PS (JEPA Policy Search) based on a Joint-Embedding Predictive Architecture. Its latent-prediction objective predicts the next point in an optimization trajectory rather than its reward or gradient. On smooth landscapes it uses the full trajectory, whereas on rugged landscapes the best-seen point carries nearly all the signal.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.23608",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-19T20:32:05.966445Z"
+    },
+    {
+      "id": "cec886767a51b3cd36d978b8602945e4",
+      "title": "Response-Relevant Information Is Not Sufficient for Neural Training-State",
+      "description": "We define training-state equivalence operationally: two checkpoints are equivalent, relative to an intervention family and horizon, if they respond alike when training is perturbed and continues. Fifteen descriptors of weight spectra, representation geometry and optimiser geometry carry within-run response-relevant information beyond weight norm and loss on a development dataset, predicting held-out response deviation across seed blocks. But their apparent 16.1% advantage at matching checkpoints by future response does not separate from a conditional placebo preserving each descriptor's fitted dependence on the conventional observables.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.23245",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-19T20:29:33.737554Z"
+    },
+    {
+      "id": "6dbad1140452d6c75064b058b62821bc",
+      "title": "Anthropic's IPO puts AI\u2019s circular financing boom",
+      "description": "Anthropic's IPO is poised to raise billions for the company and its investors. Amazon and Google are two of Anthropic\u2019s largest infrastructure partners. Nvidia, AMD, Microsoft, Broadcom, Micron, and TSMC have joined Google in committing $26 billion to Anthropic at its IPO price in a private placement. Anthropic is still operating at a net loss of tens of billions of dollars each quarter \u2014 but it will no longer be suppliers and private investors footing the bill.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304538389.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-19T20:28:33.705419Z"
+    },
+    {
+      "id": "3beff62fefd827a294c5d91bcac8f3fb",
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits",
+      "description": "Anthropic CEO Dario Amodei made his Wall Street debut on Thursday in the largest IPO in history. In a speech ahead of the Nasdaq opening bell, he reaffirmed the company\u2019s commitment to developing AI responsibly. He said the company would not bend to either business or political pressure and would \u201cremain under human control\u201d Anthropic believes these risks are avoidable, he noted.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+      "fullArticleLink": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-19T20:28:18.026134Z"
+    },
+    {
+      "id": "e73ee03b16d6d0e284fa4ab009db8481",
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above",
+      "description": "Shares of Anthropic are now trading on the Nasdaq exchange. In the early minutes of availability, shares were trading at $111.50, a 33% premium over the $83 IPO price. The IPO price was already higher than the projected range set by the company, which anticipated a price between $70 and $78 per share. Anthropic CEO Dario Amodei emphasized the company's commitment to safety.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/anthropic-opening-Getty.jpg?resize=1200,801",
+      "fullArticleLink": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-19T20:28:05.960600Z"
+    },
+    {
+      "id": "4e6c3fbd0dea1b2bd91eaaee9d184bc4",
+      "title": "Meta\u2019s AI agent Muse is mixing up conversations",
+      "description": "Meta employees have raised concerns that the company\u2019s AI agent Muse has been mixing up conversations across different accounts and exposing private user data. In some instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn\u2019t belong to them. \u201cEmployee testing is core to the product development process and the entire point is to get feedback,\u201d a Meta spokesperson said.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "type": "news",
+      "categories": [
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-19T20:27:52.637626Z"
+    },
+    {
+      "id": "ffcfd7e32e09e749ee5eb8918018aee2",
+      "title": "Google gives Gemini the ability to use your",
+      "description": "Google announced Thursday that it is bringing computer use to its Gemini desktop application on Mac. Gemini allows its AI to complete tasks on users\u2019 behalf, navigating native Mac apps, and browsing websites in the background. The feature is initially available in English in the U.S. and requires the Gemini app for Mac and a Google AI Plus, Pro, or Ultra subscription. Google suggests the feature could be useful for tedious tasks and other workflows.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-19T20:27:38.419362Z"
+    },
+    {
+      "id": "38cbde179199e5d614e6f2b5abfb0911",
+      "title": "Anthropic\u2019s IPO could deliver $156 billion to charity",
+      "description": "Anthropic's IPO will be an enormous windfall for the causes backed by the company and its employees. Anthropic has multiple different avenues for cash raised in its market debut to be directed to philanthropy. The company's Public Benefit Fund, or PBF, was allotted 5% of the company\u2019s shares, almost 850 million. At the current trading price of about $95, that will leave it with an endowment of $80 billion.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-19T20:27:21.987002Z"
+    },
+    {
+      "id": "1761ecaf8c5d36a8aeee0f66ca1ca05c",
+      "title": "The unfolding Jensen Huang scandal: The unfolding Huang",
+      "description": "Nvidia co-founder Jensen Huang is no longer the CEO of the company he co-founded 33 years ago. He admitted to having an extramarital affair with an unnamed female employee last week. U.S. officials believe one of Huang\u2019s likely romantic interests, Megaspeed executive Alice Huang, is a Chinese spy who has been feeding information back to Beijing.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-19T20:27:07.465304Z"
+    },
+    {
       "id": "1e90a44eb332dbf6b9899441a5ca4fb1",
       "title": "Microsoft is replacing outside AI models",
       "description": "MAI Code 2 reaches 98 percent of GPT-6.1 Sol's performance at 40 percent of the cost, according to Microsoft. The models are built for running AI agents around the clock in enterprises.",
@@ -15752,203 +15955,6 @@
         "Security"
       ],
       "pubDate": "2026-08-08T02:15:42.179844Z"
-    },
-    {
-      "id": "5df1fbb6f29629b1619b4f1c60a27bb3",
-      "title": "LLM Inference Under Bursty Workload Distribution: Modifying",
-      "description": "Large Language Models (LLMs) such as ChatGPT and Claude are widely used for information retrieval and problem-solving. We propose a lightweight extension to the state-of-the-art WAIT algorithm [1], which adapts to time-varying arrival rates without prior traffic knowledge. The proposed algorithm performs online estimation of request intensity based on observed interarrival times. We conduct a simulation-based evaluation demonstrating that the proposed method achieves higher throughput than Sarathi-Serve [2] in the evaluated low arrival-rate shift scenarios while maintaining comparable latency.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.06135",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-08T02:14:37.337511Z"
-    },
-    {
-      "id": "76fc7e1801f4d2e3777d33bacdde55c0",
-      "title": "Is Self-Pretraining really useful to improve diagnosis",
-      "description": "Self-PreTraining (SPT) improves classification accuracy by 0-6 percentage points depending on masking strategy, dataset and architecture. SPT is a simple and general strategy that enhances transformer performance on medical time-series tasks without requiring task-specific architectural changes. The improvements increase for deeper models that can better exploit the enriched temporal representations learned during pre-training. These findings support its potential to improve robustness and accuracy in data-limited clinical settings.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.06122",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics"
-      ],
-      "pubDate": "2026-08-08T02:14:26.027635Z"
-    },
-    {
-      "id": "fa35e2da6b7deecb30140f071341eeb0",
-      "title": "ProDVI: Programmatic Dynamics Priors for Value Network Initialization",
-      "description": "Programmatic Dynamics Priors for Value Network Initialization (ProDVI) leverages commonsense and domain knowledge encoded in large language models. ProDVI prompts a code-generating language model to produce executable Python functions that encode coarse hypotheses about environment dynamics. The generated programs are used only for representation pretraining and are not required to faithfully simulate the target environment. While the generated programs may be inaccurate, their induced initializations can be corrected through online learning from real transitions and rewards.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.06015",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-08T02:13:49.931602Z"
-    },
-    {
-      "id": "b1d72a038b54283d049ce11947341f6f",
-      "title": "Observation-Grounded Self-Predictive Reinforcement Learning for Visual Continuous Control",
-      "description": "Observation-Grounded Self-Predictive Representations (OG-SPR) improves aggregate performance over state-of-the-art self-predictive methods. OG-SPr introduces two lightweight adapters for latent self-prediction, allowing the shared representation to benefit from temporally predictive signals without being forced to directly satisfy the self-Prediction objective. The algorithm is a model-free visual algorithm for continuous control that learns representations that are both temporal and grounded in observation-level dynamics.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.05989",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-08T02:13:26.233534Z"
-    },
-    {
-      "id": "eddedb5009d82c322262d33866a8b730",
-      "title": "Scientists used AI to create 16 new Viruses",
-      "description": "Scientists at Stanford University and the Arc Institute created a series of previously unknown viruses capable of infecting and eliminating certain types of bacteria. The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the potential misuse of this technology to design biological weapons. The creation of these entirely new viruses was based on the Evo 1 and Evo 2, foundational AI models developed for computational biology applications.",
-      "imageUrl": "https://media.wired.com/photos/6a75dcaa629c4defb09289b6/191:100/w_1280,c_limit/virusIA.jpg",
-      "fullArticleLink": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-08T02:11:20.464036Z"
-    },
-    {
-      "id": "681d3ebb6321805cc384a6f47b953f1b",
-      "title": "Jill Lepore on the \u2018Artificial State\u2019 and why",
-      "description": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products \u2014 almost as if they\u2019re forming a new government. And whether you\u2019re thinking of Twitter\u2019s old \u201ctown hall in your pocket\u201d or Anthropic\u2019s Claude constitution , it\u2019s a theory that doesn\u2019t paint Silicon Valley in a very flattering light. In Lepore\u2019s upcoming book, The Rise and Fall of the Artificial State , the Pulitzer Prize-winning Harvard historian and New Yorker writer argues that tech companies are gradually.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2181827335.jpg?resize=1200,703",
-      "fullArticleLink": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-08T02:11:02.633787Z"
-    },
-    {
-      "id": "5f5222e53a442deff81672161cf9729f",
-      "title": "Airbnb says AI is helping it ship features",
-      "description": "Airbnb CEO Brian Chesky said AI is helping Airbnb create features at a rapid rate. Airbnb might be taking slow steps to roll out AI features, but the company is writing 60% of its code. Get a free TechCrunch Flash Sale! Get the latest TechCrunch TechCrunch techCrunch cover story here!",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/brian-chesky-GettyImages-2217178973.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-08T02:10:46.000045Z"
-    },
-    {
-      "id": "62678037a7feb1b265e4beccfd294771",
-      "title": "Cloudflare launches Kitesurf, a browser built",
-      "description": "Latest startups have launched Kurfites, a browser built for AI agents built for humans. Cloudflare is the latest company to join the race to build a new web browser. Unlike traditional web browser extensions, extensions for humans don't care about visual elements like visual tabs, tabs or tabs, like tabs, or tabs.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/kitesurf.webp?resize=1200,640",
-      "fullArticleLink": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-08T02:10:29.046133Z"
-    },
-    {
-      "id": "c534158d528e5b564584f82e104d8cd4",
-      "title": "Rippling blew millions on AI in months, it",
-      "description": "HR software provider Rippling this week unveiled AI Spend Console , an anti-tokenmaxxing product that helps a company track and contain its AI spending. One of the most interesting features is that it maps how much individual employees, teams, and roles are spending and if they are genuinely more productive, or generally producing more AI slop. The company promises the tool will show \u201cwhich engineers have high AI spend whose peers frequently ask them to redo work in code reviews,\u201d the company says in its.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Rippling-AI-Spend-Console.png?resize=1200,717",
-      "fullArticleLink": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-08T02:10:11.594271Z"
-    },
-    {
-      "id": "59163ffd3cbeaf46750466943a78e19a",
-      "title": "OpenAI says it slowed Astra model development",
-      "description": "OpenAI says it has suspended work on some aspects of its upcoming OpenAI model after an internal review. Astra has found significant advancements in its coding and cybersecurity agent. The company's \"Pre-Protection Framework Framework\" was created in 2023, which it created in real world. Under this framework, the company\u2019s \u201cPre-Deferred Framework Framework\u201d could identify and carry out cyberattacks against traditionally \u201cover-protected\u201d systems.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-08T02:09:53.781485Z"
-    },
-    {
-      "id": "913ea00d8139cfdad269da2248863590",
-      "title": "Amazon, Cursor, Microsoft, OpenAI, and Vercel unite",
-      "description": "Amazon, Cursor, Microsoft, OpenAI, and Vercel have jointly created Agent Plugins, an open standard that defines a single package format for AI agent extensions. Version 1.0.0 uses a plugin.json manifest file and supports both agent skills and MCP servers. The Decoder.com is the latest in a long-running series of articles on AI agent plugins and AI agent software.com.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/agent_standard.png",
-      "fullArticleLink": "https://the-decoder.com/amazon-cursor-microsoft-openai-and-vercel-unite-on-a-shared-standard-for-ai-agent-plugins/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-07T13:27:38.255522Z"
-    },
-    {
-      "id": "e1832d608c6b7999c2383edf7bfaec46",
-      "title": "OpenAI's hockey-puck-sized smart speaker with moving parts",
-      "description": "The company's first hardware device will be donut-shaped, roughly the size of a hockey puck. The screenless speaker has parts that move on their own to signal when the device is responding or engaging with the user. The speaker, co-designed by Jony Ive's studio LoveFrom, is expected to ship in 2027. Separately, Apple is suing OpenAI over allegedly stolen trade secrets related to metalworking.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
-      "fullArticleLink": "https://the-decoder.com/openais-hockey-puck-sized-smart-speaker-with-moving-parts-is-set-to-ship-in-2027/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-07T13:27:26.442306Z"
-    },
-    {
-      "id": "11850b1f2cdfe4320cc3a4e22934af17",
-      "title": "Stanford and Arc Institute scientists used",
-      "description": "Stanford and Arc Institute scientists used artificial intelligence to design new viruses that killed bacteria in the lab. The project marks an early step toward AI-designed life forms, MIT Technology Review reports. The team describe it as the \"first generative design of complete genomes\" in what they describe as what they call the first \"generative design\" of a complete genomes. The researchers say they hope to use AI to create new life-like viruses that kill bacteria.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/09/dangerous_virus_computer_chatbot.png",
-      "fullArticleLink": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-07T13:27:16.402107Z"
-    },
-    {
-      "id": "2c7b793bb15a408ee1c0785fc0bc1d0e",
-      "title": "China's Largest AI Model is being developed",
-      "description": "Bytedance is training an AI model with up to ten trillion parameters, according to the Financial Times. That's three times the size of Moonshot's Kimi K3, currently the largest Chinese model. It would put the TikTok parent company in the same ballpark as Anthropic's top system Mythos 5, which industry estimates place at around eight trillion parameters. The model is in pretraining, a phase that typically takes three to six months.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2024/02/bytedance_logo_in_ai_data_Stream.png",
-      "fullArticleLink": "https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-07T13:27:04.201305Z"
-    },
-    {
-      "id": "3f20d7a171650c4a5ebbb2c2190f5559",
-      "title": "How Far Do Simple Transformations Translate Translate across",
-      "description": "Understanding how independently trained models organize semantic information is an enabler for AI-to-AI latent communication without decoding into human-readable text. Simple translators recover meaningful shared structure and support transfer for some compatible pairs, but fail sharply for others. Overall, the results show that heterogeneous embedding spaces are not universally related by simple mappings as often suggested in some literature, according to the authors of this article.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.05980",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-07T13:26:52.141229Z"
     }
   ]
 }
