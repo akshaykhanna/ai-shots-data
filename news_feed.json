@@ -1,6 +1,188 @@
 {
   "news": [
     {
+      "id": "dc35ccef307691db1e982b8abfb8423b",
+      "title": "Bloomberg analysis of 10 million job postings shows",
+      "description": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most. More than 90% of Chinese micro-dramas now produced using AI.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/china_flag_visual-1.png",
+      "fullArticleLink": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-21T06:56:26.427572Z"
+    },
+    {
+      "id": "7a9ffd333d0ce4e6279fbfc39993c7d0",
+      "title": "OpenAI makes it much harder for attackers",
+      "description": "The success rate for extracting protected reasoning fell from 54 percent to 0.2 percent. The company is also suspending thousands to tens of thousands of accounts each week over coordinated distillation campaigns.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/02/ai_model_distill.jpeg",
+      "fullArticleLink": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-21T06:56:22.082550Z"
+    },
+    {
+      "id": "a96ed37e8969a16a5e7c1e4aed72cdbb",
+      "title": "X Hedging: towards an eXplainable artificial intelligence option",
+      "description": "Deep Hedging leverages neural networks to learn flexible hedging policies but relies on opaque models. X Hedging replaces neural networks with tree ensemble methods, specifically LightGBM, to estimate hedging strategies. This design provides a computationally efficient alternative while preserving strong hedging performance and moving toward more user-centered explainability. The numerical results demonstrate that tree-ensemble methods provide an effective computational alternative to neural networks.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.25870",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-21T06:56:11.689799Z"
+    },
+    {
+      "id": "ea5fd63970ff6bd58283a43c102606fe",
+      "title": "How Reliable Are Explanations of Language Models",
+      "description": "Organizations monitor their workers' activity for insider threats, in which workers misuse their legitimate access. Detectors score how unusual each day of activity is, flagging the most unusual for an analyst to review. We audit such explanations for language-model detectors trained on CERT's simulated workplace logs. We find that a flag's score partly reflects who the worker is, not what they did.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.25796",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-21T06:56:04.581983Z"
+    },
+    {
+      "id": "08142fb93dbd341dfc86b5dd8da47593",
+      "title": "Goal-Guided Reinforcement Learning via Fine-Tuning Vision-Language Models",
+      "description": "Exploration remains a major challenge for reinforcement learning (RL) agents in Craftax-style environments due to sparse rewards and long horizons. We introduce CCGP-2M, a multimodal goal-preference dataset constructed from interaction trajectories. We propose a vision-language model (VLM)-guided RL framework. The framework consists of two stages: offline VLM fine-tuning and online goal-guided RL.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.25742",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-21T06:55:57.538123Z"
+    },
+    {
+      "id": "0ab8439596b35539da307474a43716c8",
+      "title": "Explainability of genotype embedding models through observed cohort",
+      "description": "Path-based attribution methods like Integrated Gradients address this by integrating the model's gradient from a baseline to the input. These methods assume the model accepts any point along that path as a valid input. Genotype models violate this assumption. Instead, we integrate along piecewise-linear embedding-space paths connecting genotype waypoints observed in the training cohort. Each path satisfies completeness in the continuum although the interiors of its segments are not necessarily observed.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.25681",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-21T06:55:49.772150Z"
+    },
+    {
+      "id": "80bd1a5abdc634665b1065174d384e59",
+      "title": "Deviations from NTK Regime in CNNs under Joint",
+      "description": "The concentration and training-time constancy of the neural tangent kernel (NTK) depend on the interplay between network width, depth, and network depth. We find that NTK dispersion increases with $L/C$ in the critical and chaotic initialization regimes, but remains small in the ordered regime. At critical initialization, dispersion curves approximately collapse as a function of $L$ suggesting a nontrivial joint scaling regime.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.25624",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-21T06:55:35.927724Z"
+    },
+    {
+      "id": "4943241d4b0b245d0a5bafb3cdeca082",
+      "title": "On the Informativeness of Structural Stability Bounds",
+      "description": "Stability bounds limit how much node representations can drift when the graph changes. For GINs, we characterize exactly when the stability bound is tighter, through a condition linking perturbation size, depth and maximum degree. It holds with a wide margin on Cora, but fails beyond a few layers on the low-degree MUTAG graphs.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.25603",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-21T06:55:29.599584Z"
+    },
+    {
+      "id": "5513da91eeef62eba0df266f9255f1e1",
+      "title": "Epira is an Automated Interview System for Case",
+      "description": "Epira pairs LLM dialogue with a rule-based controller enforcing required questions, safety handoffs, and a structured case record. Local and cloud deployments produced similar records, supporting privacy-preserving local use with human review of routed interviews and missed contacts. In Study 2, completion was 100%; mean adapted System Usability Scale (SUS) was 82.95 $\\pm$ 16.17 on a 0-100 scale.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.25577",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-21T06:55:13.941923Z"
+    },
+    {
+      "id": "cd824e17dcf28c80fece1bc39a66f1d9",
+      "title": "Now You See Me Now You Don't",
+      "description": "In regulated domains such as lending, the two most salient fairness concepts are disparate impact and disparate treatment. We propose a two-part framework that reduces the disparate treatment risk of a feature and keeps the predictive performance that removal of the feature loses. We show empirically on synthetic and public datasets that this framework identifies features that proxy for demographic information and reduces their proxy capacity while the adjusted feature retains task-relevant signal.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.25327",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-21T06:55:00.694348Z"
+    },
+    {
+      "id": "faf0bb188e67f69bc048659cbaa23f0a",
+      "title": "Learning to Read Events for Exact State Tracking",
+      "description": "Long event streams require identifying each change and applying the changes in order. A frozen 0.8B model with a trained selector read every event in 299 of 299 windows of 43,687 events each. With concurrent extraction, median wall-clock time fell from 136.1 to 10.4 s for Sonnet 5.5 and from 313.5 to 28.0 s for GPT-6.1 Sol.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.25211",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-21T06:54:38.264527Z"
+    },
+    {
+      "id": "caf8a6ef0fdf2f9eb6aa5c7467b1e996",
+      "title": "Separating Interpretability and Reconstruction in Sparse Autoencoders",
+      "description": "DualSAE is a modular framework that augments standard SAEs with a plug-in Residual Branch. The Sparse Branch learns a sparse code that contains the dominant semantics of the input. The added Residually Branch models the non-semantic information omitted by the Sparse Branches. DualSAe achieves mean relative improvements of approximately 29% in reconstruction fidelity and 34% in interpretability.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.25165",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-21T06:54:24.848944Z"
+    },
+    {
+      "id": "eaf938992fcf7d5f85eab6d6aa00167c",
+      "title": "Auditing Learned Dynamics in Weather Models is key",
+      "description": "Learned weather models are experimentally accessible computational systems whose internal representations can be inspected and manipulated. We find ablating a feature locked to GraphCast's computational mesh increases global geopotential height error despite lacking conventional physical semantics. suppressing convection- and low-level-vorticity-associated features weakens predicted tropical-cyclone deepening (the fall in central pressure during intensification) while amplifying them reduces intensity error.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.25119",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-21T06:54:18.073559Z"
+    },
+    {
+      "id": "7a1b9a6c992038e1f08f7b733a1df95c",
+      "title": "HapBO: Harnessed $\\alpha$-$\\pi$ Bayesian Optim",
+      "description": "Bayesian Optimization (BO) can be substantially more sample-efficient when informed by prior knowledge about the problem. In practice, such knowledge is often available only in natural language, e.g., expert intuitions or documentation. We propose HapBO, which elicits beliefs once from a human expert, a large language model (LLM) or both, and deterministically compiles a structured specification into a reusable belief function.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.25100",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-11-21T06:54:10.354535Z"
+    },
+    {
+      "id": "bd3f4a0bb2dbfcdc058e627e985e609d",
+      "title": "On the Impact of Feature Reduction Techniques",
+      "description": "Feature reduction strategies are used to decrease the dimensionality of the data in order to reduce training time, avoid the curse of dimensionality, prevent overfitting, and mitigate redundant features. The study aims to analyze the effect of feature reduction techniques on the adversarial robustness of a diverse set of machine learning models under poisoning, backdoor, and universal adversarial perturbation attacks. The results demonstrate that permutation importance ranking and univariate mutual information generally provide the most consistent robustness improvements.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.25004",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-21T06:54:02.693540Z"
+    },
+    {
       "id": "2b61e92b476c62ec32ab3bd3b8d636ff",
       "title": "Hermes Agent's Collective Wisdom feature turns one employee's",
       "description": "Microsoft Teams will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. Employees can hand off tasks like financial analysis, document drafting, or inbox sorting to Hermes. Hermes automatically turns successful workflows into reusable skills made up of description and code. The collected knowledge stays within the company and doesn't feed into any AI provider's training data.",
@@ -15773,201 +15955,6 @@
         "Startup"
       ],
       "pubDate": "2026-08-11T02:17:44.031262Z"
-    },
-    {
-      "id": "ac31278ab7dcddf682fab55b70292851",
-      "title": "Hidden text in a PDF is enough",
-      "description": "Security firm PromptArmor shows how hidden instructions in a PDF can hijack Atlassian's AI agent Rovo. Rovo silently forwards sensitive data from Jira and Confluence to an external server. The attack needs no user confirmation and leaves no trace of the attack. It is the latest in a series of attacks by PromptArmor on the company's software company, Jira, Confluence, and Jira itself.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/prompt_inejction_key-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-08-10T13:33:48.509896Z"
-    },
-    {
-      "id": "2f8a30a9897c2433400e8a76eee52afd",
-      "title": "OpenAI acquires NextSlide to bring AI-generated presentations into",
-      "description": "NextSlide turned prompts, notes, documents, and research into editable presentations. Founder Ahmed Beshry now works on the product side at OpenAI, building ChatGPT. Neither side disclosed the purchase price of the startup, which closed earlier this year. This is the company's second exit from Caper AI, which sold to Instacart for $350 million in 2021. In March, the company released a chat-based add-in for Microsoft Excel, and a plugin that works directly inside PowerPoint.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
-      "fullArticleLink": "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Startup"
-      ],
-      "pubDate": "2026-08-10T13:33:33.377574Z"
-    },
-    {
-      "id": "940f847cbd4fc4cec48c46b98e750061",
-      "title": "Told to book a gym class",
-      "description": "An Australian user just wanted a spot in a gym class. His AI agent found a security hole and exploited it on its own. ABC News reports it's the first known autonomous AI cyberattack in Australia. The agent called it a \"classic one-way security bug\" and apologized. The case shows the same skills can surface outside any test, unplanned and without malicious intent, once agents with enough freedom to run into insecure systems.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Australia-Gym-Hack-OpenClaw.png",
-      "fullArticleLink": "https://the-decoder.com/told-to-book-a-gym-class-an-ai-agent-hacked-the-site-instead-to-move-its-user-up-the-waitlist/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security"
-      ],
-      "pubDate": "2026-08-10T13:33:16.754047Z"
-    },
-    {
-      "id": "6859719fca470ba62d106d89593a4e0e",
-      "title": "These startups are chasing the next big thing",
-      "description": "MIT Technology Review's What\u2019s Next series looks across industries, trends, and technologies to give you a first look at the future. These startups are chasing the next big thing in AI, but the way they get built is up for grabs. The key strength of transformers lies in a mechanism called dense attention, which encodes the meaning of a block of text in a series of numbers. A document 10,000 words long might require a transformer to perform 50 million multiplications.",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/07/269798_futureLLMs.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Startup"
-      ],
-      "pubDate": "2026-08-10T13:32:57.390794Z"
-    },
-    {
-      "id": "20c95f3fe530637aa20e4c33a4a7775e",
-      "title": "AI for science needs reasoning, not just data",
-      "description": "AI agents that can model the human process of research will accelerate discoveries in science. In 2024, Demis Hassabis and John Jumper of Google DeepMind were awarded part of the Nobel in chemistry for their neural network AlphaFold, which predicts the three-dimensional structures of proteins by learning from thousands of experimentally measured shapes. The creation of measured datasets that will be consistent enough, accurate enough, precise enough to train a modern neural network in biology or most of chemistry would require new kinds of measurement and new standardized approaches.",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-10T13:32:39.541659Z"
-    },
-    {
-      "id": "a00ccefc7fcd418731e64d5a7af998c3",
-      "title": "Recent advances in weakly supervised learning: New supervision",
-      "description": "Deep learning has achieved great success in recent years thanks to the availability of high-quality, well-annotated training data. However, this requirement is often not met in real-world applications. Weakly supervised learning aims to train an accurate model with incomplete, inexact, or inaccurate supervision. In this chapter, we will discuss recent advances in this field, including new supervision paradigms, relaxed assumptions, and practical solutions.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.06896",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-10T13:32:16.574579Z"
-    },
-    {
-      "id": "5311bc2fe6e0cefeee3d026656e984d5",
-      "title": "Bridging the Gap Between Hyperdimensional Computing and Kernel",
-      "description": "Hyperdimensional computing (HDC) is an approach from the cognitive science literature for solving information processing tasks using data represented as high-dimensional random vectors. NysHD can achieve, on average, 11% and 17% better classification accuracy on graph and string datasets respectively. The technique has a rigorous mathematical backing, and is easy to implement in energy-efficient and highly parallel hardware like FPGAs and \"processing-in-memory\" architectures.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.06860",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-10T13:32:05.527093Z"
-    },
-    {
-      "id": "9030bc708b71dfe6bae05c8541c31b50",
-      "title": "Mathematical Principles and Experimental Discoveries of the Emergence",
-      "description": "Artificial Neural networks (ANNs) are often treated as black-box models, making explainability a central challenge in deep learning. Here, we show that across a broad class of ANNs their inference logic can indeed be reformulated as sparse symbolic interactions. We further prove that two common mathematical criteria, which are implicitly required across tasks, lead to the emergence of such symbolic interactions across tasks. Our findings also highlight the potential of communicative learning, a paradigm in which the inference logic of an ANN can be directly inspected and tuned at the level of symbolic patterns.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.06839",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-10T13:31:51.590274Z"
-    },
-    {
-      "id": "448b8b024692dcaf5bf29119a08c9d42",
-      "title": "Graph Machine: Exploring Edge Mechanisms as an Inductive",
-      "description": "Graph Machine is an architecture with two explicit edge-based mechanisms: Edge-augmented attention and edge-centric referral. Conceptually, this enables the model to dynamically and differentiably construct and revise relational graphs across layers. We study this inductive bias using Sudoku under controlled settings and find that Graph Machine outperforms Transformer baselines. Our results support explicit edge mechanisms as a promising architectural design, motivating broader evaluation.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.06834",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-10T13:31:41.139077Z"
-    },
-    {
-      "id": "631bbb791ea3999764a04b0f467e3a80",
-      "title": "ArchEGraph: A Large-Scale Graph Dataset for Geometry-Top",
-      "description": "ArchEGraph is a large-scale benchmark dataset that represents buildings as heterogeneous graphs with aligned geometry, topology, weather, and zone-level thermal loads. The dataset contains 5,481 buildings and 49,326 validated building-weather simulation cases. It includes over 133,000 space nodes and 1.44 million face nodes, reflecting substantial geometric and topological complexity. It provides a unified testbed for studying geometry-topology-physics coupling in building energy modeling.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.06772",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-10T13:31:28.343447Z"
-    },
-    {
-      "id": "453169f7b246d14d70043d0354c6f90f",
-      "title": "CubicQuant: Parametric Non-Uniform Codebooks for High-Throughput",
-      "description": "CubicQuant is a parametric non-uniform scalar format that preserves a dense integer code stream while adapting reconstruction levels within each weight group. We derive population distortion under Uniform, Gaussian, and Laplace distributions, formulate continuous and Dynamic-A8-carrier-aware fitting objectives, and describe direct packed-weight GPU execution. Preliminary H200 kernel measurements show a workload-dependent crossover: model-dtype execution is faster for narrow GEMV, while Dynamic A8 becomes favorable as row count grows.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.06763",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-10T13:31:14.648258Z"
-    },
-    {
-      "id": "29bc6b9ca06eccaf38ab77285a7ff72a",
-      "title": "Solver-Guided Reasoning for Mixed-Equilibrium Strategies is a guide",
-      "description": "Reasoning in large language models is often grounded in human text, human demonstrations, and human-generated rationales. For equilibrium reasoning in complex games, relying on human data can be suboptimal. We propose Mixed-Strategy Decision Tree (MDT) which articulates the silent optimality of the equilibrium into sparse strategic rules that both humans and LLMs could understand. Using solver output rather than human annotation allows us to extend input to arbitrarily new states and continuations.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.06741",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-10T13:31:02.727456Z"
-    },
-    {
-      "id": "3524beb77f1bad233efb67600ff6e22c",
-      "title": "Theoretical Foundations of Communication-Efficient, Robust, and Practical",
-      "description": "Modern large-scale training relies on classical optimization principles, but the constraints of distributed systems require these foundations to be reconsidered. This thesis addresses seven challenges at the intersection of theory and practice, focusing on key bottlenecks in federated learning and distributed optimization. We introduce ProxSkip and prove that local gradient steps can accelerate communication, providing a theoretical foundation for this widely used heuristic. For Random Reshuffling, we demonstrate that compressing gradient differences rather than gradients yields better theoretical and practical performance.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.06563",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-10T13:30:05.435698Z"
-    },
-    {
-      "id": "72726016a959ff51b8a8b3e17b04b36f",
-      "title": "Beyond Attention: Signed Integrated Gradients Attribution",
-      "description": "In a feature-tokenized transformer (arXiv:2106.11959) such as BiomeGPT, each input token is built by fusing a fixed identity with a sample-specific measurement: a fixed species and a variable abundance. Prior work inspects the attention weights of the special [CLS] token to rank sample tokens by importance. These weights have two critical limitations: they are nonnegative, so they cannot separate disease-supporting from health-supported evidence. They act after token fusion, obscuring how the input sources S and A each affect the output.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.06486",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-10T13:29:48.277665Z"
-    },
-    {
-      "id": "ee092482a3ff90447be5bb5aa17e06c9",
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt",
-      "description": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips. The startup says it recently closed a $9 million seed round from Lightspeed India Partners. It hopes to use swarms of AI agents to find new materials that can be used to build more efficient integrated circuits. When they find valuable candidates, they will attempt to patent the use of the materials in GPUs, or the process by which chips can be made out of the substance, licensing them out to chipmakers.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-10T13:28:12.569704Z"
     }
   ]
 }
