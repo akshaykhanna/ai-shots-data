@@ -1,6 +1,66 @@
 {
   "news": [
     {
+      "id": "6ec6e37a9f0be91f0cca1925f8bc3acc",
+      "title": "GPT-6.2 Astra and Sol get to the point",
+      "description": "OpenAI's GPT-6.2 Astra and Sol give much shorter answers, get to the point faster, and impose less structure on their responses than their predecessors. The biggest change shows up in the Admits Uncertainty trait, Astra's score fell from 96 to 24, and Sol's from 98 to 51. Anthropic's Claude Fable 5.2 and Opus 5.5 also lead on Organization.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/OpenAI-Logo-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-22T19:29:42.256237Z"
+    },
+    {
+      "id": "53be26b502b2bd54a199d12f8698da2b",
+      "title": "Lean and Mathlib community officially confirms Levent Alp\u00f6ge's",
+      "description": "The Lean and Mathlib community has officially confirmed Levent Alp\u00f6ge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/ai_and_math.png",
+      "fullArticleLink": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-22T19:29:36.728337Z"
+    },
+    {
+      "id": "95f39de51bcabaefc5517ef2480c325f",
+      "title": "Security researchers show how cheap AI inference providers",
+      "description": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain. Found at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who were simply reading customer requests. OpenRouter responded by removing three providers and 125 endpoints.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/cybersecurity_data_leak-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-11-22T19:29:29.875459Z"
+    },
+    {
+      "id": "b3be30d51f4684c8262edc465fbdfd7f",
+      "title": "METR: AI is getting better faster than experts",
+      "description": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warns.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/metr_logo.png",
+      "fullArticleLink": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-22T19:29:22.872333Z"
+    },
+    {
+      "id": "7b00cb497c405b42c29702fce793a28f",
+      "title": "AI coding agents ace isolated tests but complete",
+      "description": "New real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs. Opus 5.5 and Astra fall far short, solving fewer than one in ten tasks completely. The models finish clear, standalone assignments quickly, but lose track as autonomous developers.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/cowork-benchmark-chatgpt-5-6.jpg",
+      "fullArticleLink": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-11-22T19:29:15.867003Z"
+    },
+    {
       "id": "6572e082b9017ee1ce9ee231ef6cb633",
       "title": "A tale of two Nvidias is a tale",
       "description": "AI chipmaker Nvidia reported soaring revenue and insisted that it has no plans for Jensen Huang to return. Kirsten Korosec, Tim De Chant, and Anthony Ha discuss the latest news from the company. Nvidia will no longer sell its H200 chips in China, and that could be a significant blow to the company's bottom line. TechCrunch's Equity podcast features the latest episode of TechCrunch\u2019s Equity podcast.",
@@ -15876,70 +15936,6 @@
         "General AI"
       ],
       "pubDate": "2026-08-11T13:30:02.610659Z"
-    },
-    {
-      "id": "749c5ffe39be50ad255b81408b541ba0",
-      "title": "LLM-Generated Explanations for Credit Risk: Multi-Scale Stacking",
-      "description": "Credit scoring increasingly relies on models whose decision logic cannot be read off their parameters. A common proposal would compute feature attributions, hand them to an LLM and let it write the rationale. We build such a system end to end and test whether the second half of the promise holds. The ranking gain is real but operationally small: at the F1-optimal threshold the ensemble avoids only six additional missed defaults out of 1,422 against a tuned random forest, cutting cost-weighted loss by under 2%.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.08126",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-11T13:29:35.051606Z"
-    },
-    {
-      "id": "3fe646d0e4c5efe8e545668976391de6",
-      "title": "Do All LLMs Know When They're Being Harmful?",
-      "description": "Khatri et al. show that lightweight MLP probes on final-layer activations of a single 8B model (LLaMA-3.1-8B) detect harmful prompts at F1 competitive with guard models 1000x larger, using one probe per benchmark. We reproduce this pipeline end-to-end and extend it along two axes the original study leaves open. We test whether the result generalizes across other model architecture and scale.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.08029",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-08-11T13:29:15.015034Z"
-    },
-    {
-      "id": "4c72eb6912834ade4db535ae15b69f14",
-      "title": "Persistent Semantic Entities in Tool-Augmented LLM Systems",
-      "description": "Tool-augmented LLM agents can harbor implicit state that persists across sessions, activates through events, and propagates across agent boundaries. We formalize this as Persistent Semantic Entities (PSEs) constructs defined by name binding, event triggering, and cross-boundary propagation. We evaluate them across 24 models from 11 families (1.5B--1T parameters) First, every tested model is susceptible (20--100% on the 20-model susceptibility panel) with name binding as the necessary and dominant mechanism.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.07952",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-11T13:28:31.808634Z"
-    },
-    {
-      "id": "ee202b568f8d618d3d9947e55f8ac941",
-      "title": "SPECTRA: Pushing the KV Cache Beyond the 2-Bit",
-      "description": "Large language models (LLMs) increasingly read long inputs in agentic era, from whole documents and codebases to conversations across many turns. Their inference memory is dominated by the key-value (KV) cache, the stored attention keys and values of every token the model has read and generated. Because the cache grows with context length and is re-read in full at every generated token, a longer context means more GPU memory.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.07915",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-11T13:28:10.707399Z"
-    },
-    {
-      "id": "85fce6978119bfcd85be26626f45956e",
-      "title": "SkillConsist: Detecting Inconsistencies in Agent Skills via Bidirectional",
-      "description": "SkillConsist achieves 86.85% precision, 89.03% recall, 87.93% F1 for package-level detection, improving F1 over the best baseline by 20.43 percentage points. The benchmark is based on ClawHub's 500 most-downloaded public Skills and 133 Skill-Inject packages. It uses an LLM-based model to learn consistency across metadata, instructions, and resources.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.07639",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-08-11T13:26:59.184590Z"
     }
   ]
 }
