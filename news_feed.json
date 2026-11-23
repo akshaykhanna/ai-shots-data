@@ -1,6 +1,194 @@
 {
   "news": [
     {
+      "id": "1d2e9fff9243ba87d1f641bcb431d29c",
+      "title": "Hierarchical Hybrid-Coordinate Flow Matching for Accurate and Physically",
+      "description": "Most apo-to-holo models operate in Cartesian space and achieve strong global accuracy. However, high global accuracy does not ensure physically valid local backbone geometry. Internal-coordinate models offer local control and validity, but regressive generation can amplify angular errors. CrypticFlow is a hierarchical flow-matching model that combines these two complementary representations. The model achieves 99.58.02% adjacent-distance fidelity and 95.87% pseudo-angle fidelity.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.27162",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-23T07:19:48.439709Z"
+    },
+    {
+      "id": "aa5c173e500d1cc022421666287781d5",
+      "title": "The Vulnerability Window: Decision Instability in Quantized Reward",
+      "description": "Reward models and LLM judges are routinely quantized to 4 bits so scoring many candidates stays affordable. But the usual check is that benchmark accuracy barely moves. The churn stays within noise under benign best-of-16 and becomes clear under adversarial pressure for some quantizers. Downstream it changes what ships: across six (model, quantizer) pairs from two families, 14.6-65.7% of problems get a different best of 64 selection.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.27155",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-23T07:19:39.740155Z"
+    },
+    {
+      "id": "92164c6f9eb843b78801eff21bf4e071",
+      "title": "GaLF-ST: Gaussian Latent Fields for Spatial Transcriptomics Reconstruction",
+      "description": "Spatial transcriptomics measures gene expression at known tissue locations to reveal tissue organization and cellular function. Existing methods typically model expression using coordinate networks without explicit spatial parameterization. GaLF-ST is a Gaussian latent field method in which learnable Gaussian centers and anisotropic covariances determine the weights of latent vectors at each location. A shared nonlinear decoder maps their weighted average to multigene expression.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.27143",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-23T07:19:32.235185Z"
+    },
+    {
+      "id": "f93a64e32c0af8077e1f2f80fc4d6507",
+      "title": "Reliable Behavior Discovery via False Discovery Rate Control",
+      "description": "DISCO (Discovery through Iterative Search with COarsened $e$-processes) is a method which provably controls FDR in behavior discovery under mild conditions. DISCO improves power over previous related eBH-based approaches by allowing for adaptivity to a data-dependent number of hypotheses to be tested. Code is available at https://www.com/google-deepmind/disco.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.27104",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-23T07:19:25.464014Z"
+    },
+    {
+      "id": "1c86ccdf824d6fba914f6a70fb191f26",
+      "title": "PLoQ: A Prompt-Specific Low-Rank Basis for 4-bit",
+      "description": "PLoQ is a prompt-adaptive low-rank decomposition that extracts the dominant activation components before quantization, quantizes them separately, and restores them within the layer's GEMM, without modifying the weights. PLoq outperforms it on all six Llama and Qwen models from 1B to 70B parameters, at up to 8k tokens (16k on two of them).",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.27092",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-23T07:19:18.085725Z"
+    },
+    {
+      "id": "fe87f257c2554aadfd02c0fbe05eb266",
+      "title": "Mind World Models: Joint Learning of Motor EEG",
+      "description": "Motor decoding from electroencephalography supports non-invasive brain-computer interfaces. MWM pretraining produces two models: a mind model for downstream motor decoding and a world model that can be adapted to prediction conditioned on real actions. The mind model improves task-averaged balanced accuracy by 5.9% and Pearson correlation by 16.2% relative to the strongest baseline in each task family.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.27029",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-23T07:18:49.722981Z"
+    },
+    {
+      "id": "94694faa0994a95d9d5df0b5b669e5db",
+      "title": "Toward a digital twin of the ICU patient",
+      "description": "TWICE, a 79M-parameter decoder-only transformer, was trained on ICU records of one academic health system. We evaluated it on clinical prediction tasks, generation fidelity, individual trajectories and counterfactual validation. Its generated records matched real ones closely and were as specific to each patient as its own variability allowed. Pre-specified controls showed that it reproduced the side effects of drugs.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.27028",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-23T07:18:42.302413Z"
+    },
+    {
+      "id": "933d30892d6ffa1bd2d9a13422d62c8f",
+      "title": "CENTRY: A Probabilistic Latent-State Model for Continual",
+      "description": "CENTRY is a probabilistic framework that enables continual risk estimation, monitoring, and regulation of a deployed AI system from its interactions with its environment. The framework models AI risk as arising from three intrinsic sources: datasets, hardware resources, and models/algorithms. Rather than requiring a ground-truth risk label at every time step, the component-risk states are treated as latent variables.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.26940",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-23T07:18:26.752067Z"
+    },
+    {
+      "id": "4dff978a7e7d430b73a19de0ab5673e8",
+      "title": "Improving the Optimisation Landscape for Particle Mixtures",
+      "description": "We prove that the mixture predictive likelihood is poorly suited to gradient-based optimisation. We study a convex combination between the individual risk, i.e. the average log loss of the individual particles, and the mixture risk. This regularised risk imposes a reverse-KL barrier on the responsibilities of the particles, so that no particle can be starved of training signal.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.26931",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-23T07:18:19.652581Z"
+    },
+    {
+      "id": "9b9321a24bc8855660e1a2a2fa21d407",
+      "title": "Multi-Tier Edge Triage: Optimizing Latency for Safe Clinical",
+      "description": "Multi-Tier Edge Triage is a safety screening architecture that co-locates a compact Tier-1 sequence classifier on the clinical agent's host server. It resolves clear queries in-process without a network round-trip and escalating only ambiguous queries to a Tier-2 cloud LLM judge. Per-policy error analysis reveals ceiling local recall on PHI (100.0%) and clinical scope violations, isolating residual errors to reading-level checks.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.26914",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-23T07:18:11.630677Z"
+    },
+    {
+      "id": "af223b3e75859fc4dae9b6566454cd57",
+      "title": "A Sparsity Analysis of Traffic Forecasting Architectures: How",
+      "description": "Traffic forecasting models are typically evaluated under ideal conditions with complete data. This evaluation does not reflect the frequent sensor failures and communication outages common in real-world deployments. We benchmark several architectural paradigms, including graph neural networks, attention-based Transformers, and selective state-space models, across sparsity levels ranging from zero to complete sensor loss. Our results show a clear trade-off between baseline accuracy and robustness.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.26847",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-23T07:18:04.315604Z"
+    },
+    {
+      "id": "bc374460dddbf4f6e4cd362f80f6c639",
+      "title": "Realistic Robustness Evaluation of Tabular Data Driven Models",
+      "description": "AURORA is a modular, open-source tool for evaluating the robustness of ML models on tabular data classification. It integrates multiple adversarial perturbation methods and evaluation metrics within a unified framework to systematically assess model behavior under adversarial conditions. The report is complemented by visual artifacts that facilitate the interpretability of robustness patterns, such as visual artifacts.",
+      "imageUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.26818",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-11-23T07:17:57.336921Z"
+    },
+    {
+      "id": "d948849f9ae47273bbae92b94ee148e8",
+      "title": "Parasite Features: Causal Abstraction Through Spurious Pathways",
+      "description": "Causal Abstraction defines a notion of equivalence between a neural network and an algorithm, thus serving as a powerful framework for mechanistic interpretability. In this paper, we show the existence of a class of \\emph{spurious features} which straightforwardly pass such equivalence tests. In such cases, we say the method discovered a \\defn{parasite feature.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.26711",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-23T07:17:33.123817Z"
+    },
+    {
+      "id": "772a602107cad2ee0d2e7ec2299ca0b5",
+      "title": "OpenAI\u2019s chief scientist has thoughts on how",
+      "description": "A new blog post from OpenAI\u2019s chief scientist Jakub Pachocki discusses potential limits on AI development. Slowing AI development became a particularly hot topic after a former OpenAI and Anthropic researcher said the companies were \u201cgambling with our lives\u201d Anthropic CEO Dario Amodei called for companies to agree to \u201ccommon safety standards as well as limits on the rate of unchecked AI progress\u201d.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "fullArticleLink": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-23T07:17:12.253625Z"
+    },
+    {
+      "id": "ca5d392ce76c8966b263d58c05e81b1b",
+      "title": "Notable Capital, GIC, Baillie Gifford bet big",
+      "description": "Anthropic raised $81.3 billion in the largest IPO in history, reaching a fully diluted valuation of about $1.5 trillion before its shares began trading the next day. Singaporean sovereign wealth fund GIC invested more than $4.5 billion in Anthropic, amassing a stake equal to about 1% of the company after its IPO, a source says.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
+      "fullArticleLink": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-23T07:17:01.517101Z"
+    },
+    {
       "id": "6ec6e37a9f0be91f0cca1925f8bc3acc",
       "title": "GPT-6.2 Astra and Sol get to the point",
       "description": "OpenAI's GPT-6.2 Astra and Sol give much shorter answers, get to the point faster, and impose less structure on their responses than their predecessors. The biggest change shows up in the Admits Uncertainty trait, Astra's score fell from 96 to 24, and Sol's from 98 to 51. Anthropic's Claude Fable 5.2 and Opus 5.5 also lead on Organization.",
@@ -15736,206 +15924,6 @@
         "Startup"
       ],
       "pubDate": "2026-08-12T02:36:10.226659Z"
-    },
-    {
-      "id": "ed34919f1d84f52009e28249659c2ae3",
-      "title": "AI could help Fossil Fuel companies create more",
-      "description": "New research from former Microsoft sustainability workers cautions that the way artificial intelligence enhances productivity in the oil and gas industry could be much more damaging to the planet. By making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent. That increase in emissions outweighs the benefits AI provides to developing solar, wind, and other clean technologies. The relationship between technology companies and fossil fuels is \u201ca self-reinforcing effect between supply and demand\u201d.",
-      "imageUrl": "https://media.wired.com/photos/6a7a2036c58ed7121c9fbad3/191:100/w_1280,c_limit/AIEmission.jpg",
-      "fullArticleLink": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-12T02:35:54.002902Z"
-    },
-    {
-      "id": "636a0618aace15d2ae3e463030889451",
-      "title": "Spotify will label \u2018AI Persona\u2019 profiles and exclude",
-      "description": "Spotify will label AI-generated artists with \"AI Persona\" profiles and exclude their music from recommendations. Artists will be able to identify themselves as AI Personas starting on August 11, 2026, through Spotify for Artists. The move is the latest expansion of Spotify's AI policies, first announced in September 2025, and bans unauthorized AI voice clones and deepfakes from its platform. Spotify is attempting to balance innovations driven by AI, like its own Prompted Playlists, AI DJ, and chat, and forthcoming AI remixes.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/AI-Personas-Header.jpg?resize=1200,683",
-      "fullArticleLink": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-08-12T02:35:36.619524Z"
-    },
-    {
-      "id": "a3990db1706fbc22447a7992be4f6b5a",
-      "title": "Anthropic model made progress on one of math\u2019s",
-      "description": "An unreleased Anthropic model made progress on one of math's biggest unsolved problems. The Riemann hypothesis has stood as one of the major unsolved problems in math for more than 150 years. Anthropic announced that an as-yet-unreleased model had made significant progress on the hypothesis. The finding is the latest in a string of mathematical breakthroughs led by large language models, or LLMs. A number of Erdos problems have been solved by AI models this year.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-12T02:35:21.267868Z"
-    },
-    {
-      "id": "3571ff97a4b1f223f5c01fb95a2362eb",
-      "title": "General Catalyst leads $1.1B round into 2-month-old River",
-      "description": "General Catalyst leads $1.1B round into 2-month-old River AI. Founder Igor Babuschkin wants to reinvent AI from scratch. He wants to turn agents into personally trainable assistants, rather than human worker replacements. \"Capable agents will be a normal part of everyday life,\" he said in his launch blog. River already offers an API, billed per 1 million tokens, with rates dependent on the model used.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/River-AI-Igor-Babuschkin.jpeg?resize=1197,1200",
-      "fullArticleLink": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-12T02:35:06.370177Z"
-    },
-    {
-      "id": "b8d07c245c74a0b30a4e47a0fcfa3086",
-      "title": "Brad Lightcap, OpenAI\u2019s longtime COO, is leaving",
-      "description": "Brad Lightcap, OpenAI's longtime COO, is leaving to \u2018start something new' Lightcap joined the company in 2018 and served as COO from 2022 until earlier this year. Lightcap also hinted at a future venture while giving scant details as to what it might be. As OpenAI prepares for an IPO of industrywide significance, the company has been undergoing a shakeup of top-level executives.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-12T02:34:52.142200Z"
-    },
-    {
-      "id": "61f03f2379bc9dfa6cd3858879b03c3e",
-      "title": "Google\u2019s Gemini app surges to 1 billion users",
-      "description": "Google\u2019s Gemini app surges to 1 billion users. CEO Sundar Pichai announced it was the 14th Google product to hit the 1 billion mark. With this rapid growth, Gemini is keeping pace with OpenAI's ChatGPT, which hit 1 billion monthly active users back in June. Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-08-12T02:34:37.741659Z"
-    },
-    {
-      "id": "c836abb2e39288469fe6dcdaef605b3d",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "description": "OpenAI has launched a dedicated ChatGPT app for Linux. The company says Linux has been one of the most-requested platforms for the chatbot app. The release is worldwide, as of Tuesday. The app will be available for desktop variants of Ubuntu 24.04 and 26.04 LTS, Debian 13, and Fedora 43 and 44. The new app is being released in preview, and will give Linux users the ability to use it on a number of different distributions.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-12T02:34:24.593007Z"
-    },
-    {
-      "id": "89df26b4bad87257ec9e04eb57804753",
-      "title": "Meta Muse Glimmer brings local AI agents",
-      "description": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. Superintelligence Labs has released the 30-billion-parameter model\u2019s weights on Hugging Face. Developers can use it for local coding, function calling, local agents, and LLM-as-a-judge evaluation. The release targets an operational use of an operational [operational] model.",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/meta-glimmer-local-ai-model-consumer-gpu-agent-artificial-intelligence.jpeg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-11T13:31:18.048784Z"
-    },
-    {
-      "id": "8e4ff1ddcf0a8e4e593fd1db588ab926",
-      "title": "How AI is changing the vulnerability response timeline",
-      "description": "Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. Minimus analysis considers how container composition, dependency records and rebuild speed affect the response after an unknown flaw is exposed. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus study considers how containers composition and dependency records are affected by how AI is changing the response response timeline. Faster analysis helps only, but faster analysis can only help only, says Minimus.",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/7e7614a5-5227-447d-b562-7b9c5263f036-scaled.jpeg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-08-11T13:31:07.766970Z"
-    },
-    {
-      "id": "485d42d301c2d7a2d93c0432488cc414",
-      "title": "Novo Nordisk and AWS bring agentic AI into",
-      "description": "AWS will become Novo Nordisk\u2019s preferred cloud provider and strategic AI partner. The companies have also created a co-innovation hub at the company's existing London HQ. The agreement was announced in a joint statement on Monday. Novo will use AI agents for target identification, therapy design, and research workflows, the companies said in a statement. The two companies also announced they will co-developer a hub at their existing London hub.",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Novo-Nordisk-and-AWS-bring-agentic-AI-into-drug-discovery-scaled-e1786419398359.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-11T13:30:57.776628Z"
-    },
-    {
-      "id": "96785fb1514c1ae081e3e2fba9272a2c",
-      "title": "Anthropic watermarks all Claude outputs globally with marks",
-      "description": "Anthropic will embed invisible watermarks in all Claude-generated text and sign files using the C2PA standard. New models shipping from August 2026 onward will have labeling built in from day one. The policy applies worldwide, and Anthropic plans to provide detection tools for third-party verification. The marks that may persist through some editing will persist through editing, Anthropic says. The company plans to use detection tools to verify the marks.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_logo_wall-1.png",
-      "fullArticleLink": "https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-11T13:30:45.136278Z"
-    },
-    {
-      "id": "b1225e4eea7108a27b9510bf309f3969",
-      "title": "Nvidia guarantees its own chips' value to unlock",
-      "description": "Nvidia is teaming up with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to mobilize over $500 billion for AI infrastructure. To win over investors, chipmaker is guaranteeing up to 25 percent of the residual value of its own hardware. Bank of England is already warning of systemic risks if the AI sector takes a hit. Nvidia guarantees its own chips' value to unlock $500billion in AI infrastructure financing.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Nvidia-Wall-Street-Money.png",
-      "fullArticleLink": "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-11T13:30:34.058742Z"
-    },
-    {
-      "id": "63a08c85af1d3db0b8beb7c1e3f7d8b6",
-      "title": "Anthropic signs $9.1 billion data center deal",
-      "description": "Anthropic is leasing $9.1 billion worth of data center capacity from Bitcoin miner Riot Platforms in Texas. The deal covers 191 megawatts at Riot's Rockdale site, with extension options that could push the total value to $16.1billion. It's the latest in an aggressive infrastructure push that spans partners from Amazon to SpaceX to Google. The agreement is part of Anthropic's push to build infrastructure around the world.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
-      "fullArticleLink": "https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-11T13:30:23.714514Z"
-    },
-    {
-      "id": "5506ffb00e1cf40a8fc6681e3a5dd7dd",
-      "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business",
-      "description": "OpenAI is rolling out \"Premium Seats\" for ChatGPT Business customers at $125 per user per month, five times the price of the existing Standard Seats. In return, users get significantly more capacity and no five-hour usage limit. The move signals that flat-rate pricing AI providers have offered so far was never going to last, says OpenAI. Move signals that the flat rate pricing AI provider has offered is never likely to last.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_chatgpt_pattern_logo.png",
-      "fullArticleLink": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-11T13:30:13.032572Z"
-    },
-    {
-      "id": "4c2afe5b1aa18b6e08d726cc22dcdf87",
-      "title": "Anthropic's planned mega-IPO faces investor skepticism over Chinese",
-      "description": "Anthropic is preparing an IPO for September or October, according to the Wall Street Journal. The company, valued at $965 billion, is fielding tough questions about Chinese competition, tensions with the Trump administration, and protests against data center construction. Anthropic's IPO valuation will likely set the benchmark for how the entire AI industry gets valued, the WSJ says. It is expected to be the largest ever IPO for the company.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/anthropic_rocket-1.png",
-      "fullArticleLink": "https://the-decoder.com/anthropics-planned-mega-ipo-faces-investor-skepticism-over-chinese-rivals-and-political-headwinds/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-11T13:30:02.610659Z"
     }
   ]
 }
