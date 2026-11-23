@@ -1,6 +1,209 @@
 {
   "news": [
     {
+      "id": "3b427d23adffaad0f51d874b6aed4d2e",
+      "title": "US spies tracked Nvidia scandal figure's ties",
+      "description": "US spies tracked contacts between Alice Huang and China's Ministry of State Security for over a year. The surveillance ran parallel to her secret affair with then-Nvidia CEO Jensen Huang. Federal investigators are now looking into whether a network of companies in Southeast Asia was used to smuggle AI chips into China in violation of US export controls. Jensen Huang is scheduled to testify before the US House of Representatives on December 1.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
+      "fullArticleLink": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-23T23:53:55.155710Z"
+    },
+    {
+      "id": "1d1e4778672a6f3a35c1a8b02ba86282",
+      "title": "Nvidia tried life without Jensen Huang and it",
+      "description": "Nvidia reinstates Jensen Huang as president, CEO, and board member effective immediately. CFO Colette Kress had been running the company on an interim basis. President Donald J. Trump praised the decision on Truth Social, saying the US Attorney General found no evidence of wrongdoing by Huang. The move comes after reports that Huang had been targeted by foreign intelligence operations. Nvidia's stock jumped more than 30 percent on the news.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/huang_sccp_ai_screenshot-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-23T23:53:38.551735Z"
+    },
+    {
+      "id": "d61a651e8b31b27efae1bbe9435b0a90",
+      "title": "Z.ai follows OpenAI into loop transformer territory",
+      "description": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice. The 750-billion-parameter model matches models with 2 to 3 trillion parameters. Benchmark scores are only available for a smaller 30B test model so far.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/zhipu-ai-logo-wall-nano-banana-pro.jpg",
+      "fullArticleLink": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-23T23:53:24.513615Z"
+    },
+    {
+      "id": "5439f2cf295d261b553d1dcdfe2ea577",
+      "title": "OpenAI updates ChatGPT to handle complex everyday questions",
+      "description": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctly 78.1 percent of the time. It also sticks to safety policies more consistently. The article OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably appeared first on The Decoder.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/openai_chatgpt_pattern-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-23T23:53:07.747380Z"
+    },
+    {
+      "id": "e3357160a21f62e3680c15f4aaf8b48d",
+      "title": "Anthropic\u2019s consciousness argument isn\u2019t buying Anthropic, Anthropic",
+      "description": "Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing in AI. Anthropic counts a number of respected philosophers in its camp, and the company's rationale goes something like this: Today\u2019s AI might not be conscious, though we can\u2019t know for sure; the chances of sentience go up as AI gets more capable. In a 2020 survey of 1,092 philosophers, 39% said some future AI systems will be conscious. In an interview with Wired last week, Thomas Nagel was bluntly critical of the idea.",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-23T23:52:52.684056Z"
+    },
+    {
+      "id": "c71777ee3f27e1445bf7485573a9211b",
+      "title": "In LLM Arithmetic Reasoning Using Executable Symbolic Representations",
+      "description": "High accuracy on mathematical benchmarks does not establish whether reasoning remains reliable as problem complexity increases. We find that executable representations can improve accuracy and slow its decline as complexity increases. Lean reduces average sensitivity to operand digit length at every tested model size. By contrast, slower degradation with increasing operation count emerges at the larger model sizes. These findings show that reasoning representation shapes arithmetic accuracy scaling and support executable symbolic representations for more reliable reasoning on complex arithmetic tasks.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.27203",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-23T23:51:14.673483Z"
+    },
+    {
+      "id": "1e07f0f791011d212566c77d6f1ecae6",
+      "title": "Nvidia is Powering Brain-Computer Interfaces now . Nvidia",
+      "description": "A Michigan woman has a chip in her brain roughly the size of a dime. The implant allows her to express her thoughts through a synthesized voice on a computer. Eventually, those electronics will be so small they\u2019ll fit in a phone, says Paradromics CEO and founder Matt Angle. The company announced a partnership with Nvidia to use its hardware and software to process its brain data.",
+      "imageUrl": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/191:100/w_1280,c_limit/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
+      "fullArticleLink": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-23T23:50:02.777667Z"
+    },
+    {
+      "id": "00a5cf6a18e46515ffd16ff8ab5bb426",
+      "title": "Nvidia reverses course and brings Jensen Huang back",
+      "description": "Nvidia's board reinstates Jensen Huang as the company's CEO and president less than two weeks after he resigned. Huang resigned after admitting to at least two extramarital affairs with a woman the U.S. government suspects to be a Chinese spy. The decision marks an extraordinary comeback for one of the tech industry's most influential executives, whose abrupt departure raised questions about national security and the future of the company.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-23T23:49:51.048893Z"
+    },
+    {
+      "id": "910818793cbec448fe05314c5be0a431",
+      "title": "Trump endorses Jensen Huang\u2019s return to Nvidia, says",
+      "description": "President Trump praised Nvidia\u2019s decision to reinstate founder Jensen Huang as CEO and president on Monday. He said the U.S. Government has no reason to believe that Huang's return to NVIDIA poses any risk to National Security. Huang was accused of having multiple extramarital relationships, including one with a direct report at Nvidia and another unnamed employee. The affair of most concern was the one with the alleged Chinese spy, Alice Huang (no relation).",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-23T23:49:29.770979Z"
+    },
+    {
+      "id": "a3bc43bbd8d570f9177d279300a0c2a6",
+      "title": "Trump reportedly called into Nvidia board meeting",
+      "description": "President Donald Trump reportedly dialed into an Nvidia board meeting to push for the ousted CEO\u2019s reinstatement. \u201cI spoke to them, let me put it that way \u2026 And I convinced them,\u201d the president told CNBC. Huang was forced to step down from his role as CEO after news broke that he had affairs with an alleged Chinese spy and two Nvidia employees.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-23T23:49:19.697083Z"
+    },
+    {
+      "id": "e483a880095260a7c8c2321a148bf505",
+      "title": "Amazon snaps up Decart\u2019s AI optimization tech",
+      "description": "Amazon is reportedly buying Israeli AI startup Decart for $7.5 billion. Decart is known for its software that helps AI models run efficiently on Nvidia, Amazon, and Google\u2019s hardware. Amazon is preparing to start selling its Trainium chips to customers as a competitor to Nvidia's. The deal could make it easier for customers to run their workloads on Amazon chips, which has been the gold standard so far.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/12/Decart-Founders-Dean-Leitersdorf-CEO-and-Moshe-Shalev-CPO.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-23T23:49:11.907034Z"
+    },
+    {
+      "id": "4eec8977b6a96a50e0b875b574f57529",
+      "title": "Jensen Huang scheduled to testify next week",
+      "description": "Jensen Huang is set to testify before the Senate Banking Committee on December 3. The hearing follows bipartisan calls for Huang to testify about his alleged involvement in chip-smuggling operations. Huang was reinstated as Nvidia CEO less than two weeks ago after resigning from the company. He resigned after it was revealed he engaged in at least two extramarital affairs with a woman suspected of working as a Chinese spy.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-23T23:49:04.688386Z"
+    },
+    {
+      "id": "389c89635cfdfbd73445a3e8c9649940",
+      "title": "Google Search\u2019s AI Mode can now tap into",
+      "description": "Personal Intelligence is designed to offer users more personalized, context-aware answers by connecting to their Google apps and drawing on information from their digital lives. The feature can already connect to apps like Gmail, Google Calendar, and Google Photos. By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that\u2019s already within its ecosystem.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-23T23:48:54.613508Z"
+    },
+    {
+      "id": "a42ef673b6ac8123df0240630ab9dd7f",
+      "title": "Supertake raises $20M to let AI agents turn",
+      "description": "AI investing startup Supertake has raised $20 million in seed funding to grow its business. The service lets people turn their ideas into real investment portfolios using frontier AI models and trading agents. Users\u2019 ideas are tracked on a leaderboard on the site, so others who agree can invest alongside them. For now, these portfolios consist of stock picks, but the team wants to expand the service over time to handle other types of transactions.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-23T23:48:23.084868Z"
+    },
+    {
+      "id": "fc410e023e94d19d9ba85adb313c29f3",
+      "title": "Anthropic launches Claude Ship, letting AI agents review",
+      "description": "Anthropic launches Claude Ship, a suite of AI agents for automating code reviews, fixes, and approvals of routine code changes. Anthropic is moving from having Claude write code to helping developers decide when that code is ready to ship. The new offering consists of Code Review, which is already generally available, and two new agents now in beta: PR Steward and Claude Approvals.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-23T23:48:12.057793Z"
+    },
+    {
       "id": "1d2e9fff9243ba87d1f641bcb431d29c",
       "title": "Hierarchical Hybrid-Coordinate Flow Matching for Accurate and Physically",
       "description": "Most apo-to-holo models operate in Cartesian space and achieve strong global accuracy. However, high global accuracy does not ensure physically valid local backbone geometry. Internal-coordinate models offer local control and validity, but regressive generation can amplify angular errors. CrypticFlow is a hierarchical flow-matching model that combines these two complementary representations. The model achieves 99.58.02% adjacent-distance fidelity and 95.87% pseudo-angle fidelity.",
@@ -15736,194 +15939,6 @@
         "LLM"
       ],
       "pubDate": "2026-08-12T13:31:30.395521Z"
-    },
-    {
-      "id": "1b7ecffa7129e9260dfad06f923be41b",
-      "title": "LLM Reasoning-based Ensemble Learning for Adaptive Time Series",
-      "description": "REATS leverages LLM reasoning capabilities as an intelligent ensemble router that jointly processes textual temporal pattern descriptions and numerical features to produce interpretable, sample-adaptive ensemble weights. REATS outperforms competitive ensemble baselines while providing natural language explanations and demonstrating strong transfer learning and out-of-domain generalization to unseen candidate models. We propose a structured input pipeline that transforms raw time series into hybrid textual--numerical representations with fixed token cost.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.10149",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-12T13:31:18.410767Z"
-    },
-    {
-      "id": "be44a375e24bc524fc766847ae52d944",
-      "title": "ChronoSSM: Training for Temporally Aware Representations in Autoregressive",
-      "description": "ChronoSSM is an autoregressive State Space Model that jointly models events and timestamps with a shared backbone trained using combined token and temporal generation objectives. The joint training consistently makes inter-arrival information more recoverable from frozen representations without any systematic degradation in content-generation quality overall. In data-mining settings where events are associated with explicit timing information, this separation can limit temporal reasoning, anomaly detection, and faithful reconstruction of event chronology.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.10120",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-12T13:30:54.401754Z"
-    },
-    {
-      "id": "05db1d5df0485c8f8743f1d278ebb208",
-      "title": "Physics-Informed Machine Learning in Prognostics and Health Management",
-      "description": "Physics-Informed Machine Learning (PIML) helps mitigate limitations by incorporating prior physical knowledge directly into the ML pipeline. The literature is heavily skewed toward lithium-ion batteries and bearings, and dominated by problem-specific solutions. Future research should prioritize transferable design patterns, benchmarks comparing integration strategies, and uncertainty-aware models that are lightweight and robust enough for online deployment in real-world settings, authors say.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.10047",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-12T13:30:29.825391Z"
-    },
-    {
-      "id": "7d24283cfcdad0f864cab7945595c679",
-      "title": "Finding the Signal in the Spam: Jointly Learning",
-      "description": "The problem of learning from pairwise comparisons has been widely studied across many domains such as recommendation systems, social choice, and fine-tuning large language models. In many scenarios, these comparisons are elicited from crowdworkers using platforms such as Amazon Mechanical Turk, Scale AI, etc. However, crowdworkers are often unreliable due to limited domain knowledge or revenue-maximizing (spamming) behavior. In this work, our goal is to understand whether worker reliability (competency) can be learned jointly with item rewards.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.10045",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-12T13:30:02.496737Z"
-    },
-    {
-      "id": "b03df7cbd369fb00161f0a906cb5399f",
-      "title": "UserToolBench: A User-Profile-Hidden Benchmark for Personalized Decision Making",
-      "description": "UserToolBench is a benchmark for personalized decision making in tool-use LLMs. It tests whether a model can infer latent user preferences from interaction history. The benchmark is built from privacy-sanitized real interaction traces and combines structured persona profiles, public API-style tool ecosystems, and long-horizon multi-turn trajectories. Multi-tool coordination, missing-constraint inference, and behavioral consistency remain major bottlenecks.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.10042",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-08-12T13:29:50.207464Z"
-    },
-    {
-      "id": "e017a5b071a606e809e40aedf3c7c612",
-      "title": "DOCSCHISEL: Adaptive Tool Documentation Optimization Framework for LLM",
-      "description": "Large language models increasingly rely on external tools to accomplish complex real-world tasks. Little is known about how tool documentation affects agent performance across different settings. DocsChisel analyzes failed execution traces of a target LLM agent to identify documentation-related issues. It improves the task success rate of LLM agents by 95.89% over the original tool documentation and by 75.15% over existing baselines.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.10037",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-12T13:29:26.118251Z"
-    },
-    {
-      "id": "39b82df6ad6a792cb2b189b6e4eb5e98",
-      "title": "Uncertainty-Aware Ensemble Deep Randomized Neural Networks for Classification",
-      "description": "The current state-of-the-art (SOTA) deep randomized neural networks treat all training samples uniformly, which limits their robustness and effectiveness when applied to real-world datasets containing noise and outliers. The proposed models unify intuitionistic fuzzy theory to exploit sample neighborhood information in the kernel space by jointly considering membership and non-membership degrees for each sample. These measures are employed to assign adaptive weights to training samples, enabling effective discrimination among clean, noisy, and outlier data points. Extensive experiments conducted on UCI and KEEL benchmark datasets, with and without the presence of Gaussian noise, demonstrate the superiority of the.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.10007",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-12T13:29:10.261767Z"
-    },
-    {
-      "id": "fa238496478de96d367742178eab1028",
-      "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed",
-      "description": "Nvidia's Nemotron 3.5 Lightning is an open-weights model with just 3.6 billion active parameters that matches OpenAI's gpt-oss-120b on the Intelligence Index. At nearly 670 tokens per second, it's also the fastest model in the comparison, showing Nvidia is betting on efficiency over raw size. The model is four times smaller than the OpenAI model that matches its Intelligence Index despite being smaller.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
-      "fullArticleLink": "https://the-decoder.com/nvidias-open-weight-nemotron-3-5-lightning-prioritizes-speed-over-maximum-intelligence/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-12T02:40:46.949148Z"
-    },
-    {
-      "id": "a5aa414cacc851fcb6bf4ef6cc08c65f",
-      "title": "ChatGPT's hidden reasoning is based on leaked passwords",
-      "description": "Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between models. A scan of public sessions turned up dozens of passwords and API keys. The traces also show that the reasoning summaries users see often hide what the models are actually doing. The vulnerability was discovered by security researchers in ChatGPT and Anthropic and OpenAI's chatGPT.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/marinade.png",
-      "fullArticleLink": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-08-12T02:40:36.167863Z"
-    },
-    {
-      "id": "63063b95202cdefbc7a7a218a7e88fd9",
-      "title": "OpenAI lets employees cash out another $7 billion",
-      "description": "OpenAI ran a similar $6.6 billion stock buyback in October 2025. The move is meant to ease pressure on employees waiting for liquidity ahead of a potential IPO. Current and former employees let employees sell shares at the company's $852 billion valuation. The company is set to launch an IPO in 2018, which could be worth $1.2 billion. It is the first time OpenAI has allowed employees to cash out another $7 billion in stock.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
-      "fullArticleLink": "https://the-decoder.com/openai-lets-employees-cash-out-another-7-billion-in-stock/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-12T02:40:24.632178Z"
-    },
-    {
-      "id": "ecaa654cda4b44a8d56c4df0e256bc36",
-      "title": "Spectral Outliers Reveal Dominant Learned Structure in Transformer",
-      "description": "We apply Marchenko-Pastur (MP) random matrix theory to pre-trained attention weights in order to separate each projection matrix into a random-like bulk and a set of spectral outliers. Zeroing the MP-identified outliers (signal) in Mistral-7B drives HellaSwag, MMLU, and PIQA close to random-chance performance. We close by outlining how these observations could inform parameter-efficient fine-tuning and structured pruning.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.07921",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-12T02:38:10.708806Z"
-    },
-    {
-      "id": "6ba0b9f3b7b91915759b8405ef78ebb7",
-      "title": "V-Simba: Unleashing the Architectural Potential of RL",
-      "description": "V-Simba is a simple yet effective visual RL architecture inspired by the Simba architecture from state-based RL. It modifies the architecture by adding normalization layers to stabilize training and using pointwise convolutions to reduce computation. It matches or outperforms the state-of-the-art methods across the DMC, Adroit, and Meta-World benchmarks, while being more computationally efficient than DrQ-v2.",
-      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.07870",
-      "type": "news",
-      "categories": [
-        "Robotics"
-      ],
-      "pubDate": "2026-08-12T02:37:48.625727Z"
-    },
-    {
-      "id": "5ef297f933a6928062c5867b3a9dea31",
-      "title": "TEMPER: Tensorized Efficient Manifold-constrained Param",
-      "description": "Residual connections rely on a static residual pathway and are essential for training deep neural networks. TEMPER matches or outperforms existing methods across language modeling and commonsense reasoning tasks, while requiring substantially fewer additional parameters. It also promotes interpretability and intuition, as: i) tensor ranks control the dimensionality of the learned routing subspace, with full ranks recovering dense routing; ii) the generator approximation errors bound differences in routing logits and in the routed-block outputs.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.07851",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-12T02:37:35.878945Z"
-    },
-    {
-      "id": "cc090382a2791f31c340babddf21fe25",
-      "title": "From Benchmark Performance to Tool Deployment: Human-in-the-Loop",
-      "description": "Automated anomaly detection methods often report strong performance on academic benchmarks, but their behavior under real-world industrial conditions is less clear. In contrast to benchmark results, we observe that model performance is less stable than typically reported on standard benchmarks such as MVTec AD. We developed and initially deployed a unified human-in-the-loop framework for manufactured-part inspection that combines image annotation, AI-assisted defect detection, and an integrated validation engine.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.07770",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-12T02:37:13.503853Z"
-    },
-    {
-      "id": "a70ad4832fced0c16542e9a940057d0f",
-      "title": "AI is Dead. AI is dead. Organoids",
-      "description": "Every cell in your body has the potential to get smarter. Mini human brains are being grown in labs all over the world. At the University of San Diego, organoids are guiding spidery robots through mazes and taking hero doses of psychedelics. At Johns Hopkins, they\u2019re forming the basis of novel biocomputing systems. In the future, artificial intelligence won\u2019t be artificial at all. It\u2019ll be built from the stuff of life itself.",
-      "imageUrl": "https://media.wired.com/photos/6a7a2641ddfb8a809864e7f8/191:100/w_1280,c_limit/IN-LINE_LILAC.png",
-      "fullArticleLink": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-12T02:36:10.226659Z"
     }
   ]
 }
