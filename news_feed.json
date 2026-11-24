@@ -1,6 +1,210 @@
 {
   "news": [
     {
+      "id": "3294379edc6161e9ed69944010d5622a",
+      "title": "Anthropic's Claude Ship lets AI agents review, fix",
+      "description": "Anthropic launches Claude Ship in beta, a tool that automatically reviews proposed code changes. The tool pairs the existing Code Review feature with two new AI agents called PR Steward and Claude Approvals. With the right policy in place, new code can be merged entirely without human involvement. It's available on the Team and Enterprise plans but billed separately based on token usage.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/Claude-Ship.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-24T22:27:07.353173Z"
+    },
+    {
+      "id": "4f83c65353d9ae216b1e8ff7f858325c",
+      "title": "German researchers call for computer science to reinvent",
+      "description": "40 researchers at the Technical University of Darmstadt want computer science to evolve into \"Computer and AI Science\" They say AI is becoming a core technology for building and using tomorrow's computer systems. They identify three major shifts: lower barriers to building software, a dramatic acceleration in research, and a new computing paradigm. The paper argues that the sheer effort of manual programming has long held computer science back.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/darmstadt_ai_computer_science.png",
+      "fullArticleLink": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-24T22:26:53.406918Z"
+    },
+    {
+      "id": "7ada8683cf42b530c872af94634ca6a5",
+      "title": "Dozens of insiders say OpenAI and Anthropic's unreleased",
+      "description": "Many employees at OpenAI and Anthropic believe their unreleased frontier models can no longer be safely controlled. Both companies are internally debating whether to halt releases or even stop training altogether. Employees say trust in leadership is eroding.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/openai_anthropic.png",
+      "fullArticleLink": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-24T22:26:46.141363Z"
+    },
+    {
+      "id": "3b04c106819e2fe0c49257e8da90f9aa",
+      "title": "Anthropic researcher stands by his AI-assisted Riemann proof",
+      "description": "Anthropic researcher Levent Alp\u00f6ge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ran to more than 250,000 pages was a joke, he says, and the published Lean code is \"full of garbage.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/alpoege_riemann-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-24T22:26:37.301803Z"
+    },
+    {
+      "id": "789ca89c22a7b31898791f3e6d5b658b",
+      "title": "OpenAI o1 co-creator Noam Brown urges promising students",
+      "description": "The o1 co-creator says AI is still in a \"centaur period\" and struggles with planning and self-correction. He expects a \"very steep rate of progress\" soon. According to Brown, language models are already being used to build the next generation of models.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/openai_driscoll.png",
+      "fullArticleLink": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-24T22:26:28.892305Z"
+    },
+    {
+      "id": "98cef08e88853e8dd31554123d3bef1d",
+      "title": "Anthropic tops 700 million monthly MCP SDK downloads",
+      "description": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for users, and file uploads are meant to let Claude work more independently. The article Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents appeared first on The Decoder.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics"
+      ],
+      "pubDate": "2026-11-24T22:26:14.568551Z"
+    },
+    {
+      "id": "ba625c17c59cc4b2f254e665579859df",
+      "title": "Raising the stakes for enterprise networks",
+      "description": "Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. Inference typically requires real-time processing and is sensitive to latency, making hosting such capabilities on distant hyperscale clouds neither economical nor practical. AI may force companies to shift from a cloud-first approach to routing workloads. Network modernization is an ongoing project that requires a holistic approach, allowing companies to adapt with ease.",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TataSocialCard-1200v3.png?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-24T22:25:51.238424Z"
+    },
+    {
+      "id": "8d2fedfb5ff513e1e442c5394e7e1084",
+      "title": "AI Solved Math\u2019s Most Famous Problem. Now Humans",
+      "description": "Levent Alp\u00f6ge released a proof in the programming language Lean of the 167-year-old Riemann hypothesis. The conjecture describes how prime numbers are distributed, is widely assumed to be true. Since the proof was published, more than 200 people have been collaborating to verify it. The nonprofit the Lean Focused Research Organization and volunteer-led organization Mathlib said on Saturday they have \u201cfull confidence\u201d that the proof is sound.",
+      "imageUrl": "https://media.wired.com/photos/6b04a99395eb5d98cc1eb23a/191:100/w_1280,c_limit/112326-Riemann-hypothesis-ai.jpg",
+      "fullArticleLink": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-24T22:21:38.695754Z"
+    },
+    {
+      "id": "de3bc194ca87cfd26233513efd80f43a",
+      "title": "Amazon\u2019s Decart acquisition is a bet on using",
+      "description": "Decart's tech for optimizing AI models to run on non-Nvidia chips is worth several billion dollars. Amazon is now hoping to extract more performance out of its Trainium chips. The deal could help the e-commerce giant speed up its efforts to turn AWS into a $1 trillion revenue business. Amazon has already been working to make Trainium-based data centers easier to switch to.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/07/AP22104515656433.jpg?resize=1200,754",
+      "fullArticleLink": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-24T22:21:23.096397Z"
+    },
+    {
+      "id": "6e7150d9caf7ae53e9958f7109dc6eec",
+      "title": "Meta brings its Muse AI assistant directly into",
+      "description": "Instagram users can now chat with Meta\u2019s AI agent Muse in a DM thread, the company announced on Tuesday. The social media network says users can chat with Muse to get more context about a post, place, or product they come across, or catch up on conversations they may have missed in their other DMs. Users can share Instagram posts with Muse and ask it to take action, such as adding a coffee shop to their Mexico City itinerary or finding a Black Friday deal on a pair of shoes. The feature is launching in the U.S., Canada, Mexico, Japan,.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-24T22:20:20.880167Z"
+    },
+    {
+      "id": "d52b76df83c94b72f5fb01dbb4f44c41",
+      "title": "Anthropic shares fall below IPO price, a worrying",
+      "description": "Anthropic\u2019s stock fell below its IPO price of $83, trading as low as $76 a share by midday Tuesday. The dramatic slump comes less than a week after Anthropic debuted on Nasdaq at $111.50 a share. The slide could put pressure on private startup valuations and weaken IPO prospects for other AI companies. Nvidia fell more than 7% by midday, giving back some of its more than 30-plus gain Monday.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+      "fullArticleLink": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-24T22:19:55.116277Z"
+    },
+    {
+      "id": "f2826368332a3f31345a2bca8ffe9a04",
+      "title": "Maple raises $5.3M to build AI products",
+      "description": "Maple AI is a privacy-preserving AI app where users\u2019 data remains private. The company recently closed a $5.3 million round and plans to raise a Series A in the first half of 2027. Founder Mark Suman previously worked on AI and machine learning with a particular focus on computer vision at Apple. The app offers a familiar interface for those used to AI chatbots, but under the hood it runs a variety of open models.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-24T22:19:39.266937Z"
+    },
+    {
+      "id": "bc914d95aadba40f40c2c322a3361908",
+      "title": "Walmart teams up with Meta to bring Black",
+      "description": "Walmart is teaming up with Meta's Muse, an AI agent, to let customers shop its Black Friday deals through Muse. Users can ask Muse to find specific products, compare prices, or track down deals. The experience is powered by Walmart\u2019s Agent Gateway, a new system that allows outside AI assistants to connect directly with the store. Amazon has taken steps to stop third-party AI agents from making purchases for customers.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-24T22:19:24.567113Z"
+    },
+    {
+      "id": "84cfd1b9e3c30cf62e780a6d520ecbee",
+      "title": "Even the best AI agents struggle with everyday",
+      "description": "New research suggests that even the most advanced AI models struggle to reliably and safely navigate the messy details of people\u2019s lives. ShellBench is a new benchmark for everyday agent work, drawing on more than 10 million anonymized, real-world AI agent interactions. The research comes as personal AI assistants are finding new popularity among developers, with Meta, OpenAI, and Anthropic all fighting for a piece of the market.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296543552.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-24T22:19:09.765226Z"
+    },
+    {
+      "id": "dcfea5a712b9dda222a348a2d5084310",
+      "title": "Jensen Huang thanks White House and says he\u2019s",
+      "description": "Jensen Huang held Nvidia\u2019s first all-hands meeting on Tuesday since his reinstatement on Monday. Huang told staff that he's in therapy and that he was grateful for a second chance at the company. The CEO is now walking a difficult tight rope between reasserting his authority and conceding that he may have made some mistakes. President Trump reportedly called Nvidia's board directly to lobby for Huang's return, but in his talk, Huang downplayed the President's role.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-24T22:18:53.745081Z"
+    },
+    {
       "id": "02469844976f33ae36d50704e95742bb",
       "title": "GPT-6.2 Astra solved a math theorem no other",
       "description": "GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem. The model chose its own approach because key foundations were missing from Mathlib. Astra now leads the leaderboard with 49 of 56 tasks solved.",
@@ -15730,205 +15934,6 @@
         "General AI"
       ],
       "pubDate": "2026-08-13T13:41:49.968498Z"
-    },
-    {
-      "id": "3836fb887aaaa20decbefbef58794f84",
-      "title": "FLARE++: Low-rank attention with dynamic attention routing",
-      "description": "Full self-attention is a strong token mixer for PDE surrogates on irregular domains, but its quadratic cost limits its use on high-resolution problems. We remove that restriction with FLARE++, a low-rank attention architecture with dynamic token routing. FLARE+ is competitive across a set of standard PDE benchmarks, improving on fixed-query FLARE by 24% on average, and it gains 2.3 points of average accuracy on Long Range Arena.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.11519",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-13T13:41:13.659408Z"
-    },
-    {
-      "id": "2ce6c79ca4f1b8c60e9a191db8b24d3b",
-      "title": "Dual Primal Graph VAEs for Noisy Label Aggregation",
-      "description": "Inferring the ground-truth from noisy crowdsourced labels is an important theoretical and practical problem. We propose a graph VAE architecture in which the decoder and encoder use GAT-based message passing on the adjacency graph of a crowdsourced dataset and its dual. We show our model achieves state of the art performance on crowdsourcing benchmarks. We then demonstrate the generality of our approach by showing how the original crowdsourcing graph can be augmented to incorporate side information such as representations from neural network classifiers trained on noisy labels to substantially boost their classification performance at test time.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.11473",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-13T13:40:22.012673Z"
-    },
-    {
-      "id": "a66bc38ab24d169a243386f35dc21d24",
-      "title": "Federated Learning for Distributed CNC Tool Wear Prediction",
-      "description": "Machine learning methods have shown potential for this task, but their use in industrial environments is limited by the distributed nature of machining data. Federated learning offers a suitable framework for this setting by enabling collaborative model training without transferring raw operational data. Results show that federated learning achieves performance close to centralized learning and improves significantly over local client models. These findings indicate that Federated Learning can support collaborative tool wear prediction in distributed CNC manufacturing environments.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.11281",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-13T13:38:54.178037Z"
-    },
-    {
-      "id": "d9dba6737bd8cf1d4fc2c368620c4807",
-      "title": "There\u2019s a Fatty Liver Epidemic. AI could help",
-      "description": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition and help stop it early enough to save lives. If fatty liver disease can be identified early, much of the damage is highly reversible, says Jeffrey Lazarus, a professor at the CUNY Graduate School of Public Health and Health Policy. The condition typically develops without noticeable symptoms so it is rarely detected at an early and treatable stage.",
-      "imageUrl": "https://media.wired.com/photos/6a7a380554cb34d4d120f360/191:100/w_1280,c_limit/Theres-a-Fatty-Liver-Epidemic-Science.jpg",
-      "fullArticleLink": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-13T13:37:58.848921Z"
-    },
-    {
-      "id": "d1915a50c5cc392a49e4d2bd88130c9c",
-      "title": "Sandbar thinks it\u2019s voice-enabled ring can avoid",
-      "description": "TechCrunch's Equity podcast talks with Sandbar, the startup behind the private voice ring Stream. Sandbar co-founder and CEO Mina Fahmi talks about why he thinks so many voice hardware devices before Stream struggled to break through, and why he's betting that keeping the human firmly in control is what it'll take to get wearable tech right. Subscribe to Equity on YouTube, Apple Podcasts, Overcast, Spotify and all the casts.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/11/Sandbar_stream_ring-feat.jpg?resize=1200,675",
-      "fullArticleLink": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-13T13:37:40.279861Z"
-    },
-    {
-      "id": "d4e662e0ffa5f326b2b1a3705ed78cf3",
-      "title": "Streamring-ring-maker Sandbar says the future of AI wearables",
-      "description": "Why Stream ring-maker Sandbar says the future of AI wearables is voice. Sandbar is the startup behind the private voice ring Stream, which has raised $36 million to date. On this episode of TechCrunch's Equity podcast, Rebecca Bellan talks with Sandbar co-founder and CEO Mina Fahmi about why he thinks so many voice hardware devices before Stream struggled to break through, and why he's betting that keeping the human firmly in control is what it'll take to get wearable tech right.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0402.CR3_.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-13T13:37:22.547525Z"
-    },
-    {
-      "id": "667e84b17d073839a17b76fc1a655b83",
-      "title": "Mesh, Automattic\u2019s CRM for everyone, comes to Android",
-      "description": "Mesh, Automattic's CRM for everyone, comes to Android. The relationship manager and personal CRM was acquired by WordPress.com's parent company last year. On Android, the company customized Mesh's app to work with key platform features, like split-screen and pop-up views. It also supports keyboard shortcuts for foldables and tablets, in-app search, home screen widgets and real-time sync across devices.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/android_header.webp?resize=1200,854",
-      "fullArticleLink": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-08-13T13:37:07.166336Z"
-    },
-    {
-      "id": "bb6d6bfcce4d4a6e0c77eba527236723",
-      "title": "Google tests AMIE for clinical video consultations",
-      "description": "Google\u2019s research medical AI system, AMIE (Video) conducted synchronous video consultations with professional patient actors. Fifteen trained actors portrayed conditions across cardiopulmonary, abdominal, HEENT, neurological or psychiatric, and musculoskeletal presentations. Google says studies involving real patients and their own health involve real patients. Google's AMIE received clinical evaluator ratings on par with primary care physicians.",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/google-amie-clinical-video-consultation-healthcare-medical-telehealth-artificial-intelligence-primary-care-ai.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-13T02:43:47.166328Z"
-    },
-    {
-      "id": "ff1c927176b5e880afa5c4a8abfec87c",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "description": "The preview version of OpenAI's ChatGPT desktop app is available on Linux. Native computer use is missing, but voice commands for desktop apps won't be available at launch. It runs on Ubuntu 24.04 and 26.04 LTS, Debian 13, and Fedora 43 and 44, with .deb and .rpm packages for both x64 and ARM64. The Mac and Windows versions shipped in July.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/linux.png",
-      "fullArticleLink": "https://the-decoder.com/openai-launches-chatgpt-desktop-app-for-linux/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-13T02:43:31.961762Z"
-    },
-    {
-      "id": "90ca4dd1704352bf626903b8db385334",
-      "title": "Anthropic founder Robert Mahari joins Anthropic to lead",
-      "description": "Anthropic has unveiled twelve legal plugins for Claude and announced partnerships with more than 20 legal tech companies. Robert Mahari is Anthropic's first \"Head of Claude for Legal,\" responsible for deploying and expanding the Claude AI model across the legal industry. Anthropic watermarks all Claude output globally with marks that \"may persist through some editing\" The legal market is drawing more attention from major tech companies, including Amazon and Microsoft.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/07/claude_education.png",
-      "fullArticleLink": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-13T02:43:18.919765Z"
-    },
-    {
-      "id": "efb3047effab32f2277c36d4959f8f3e",
-      "title": "Google's Gemini is losing market share to ChatGPT",
-      "description": "Google's Gemini is losing AI market share to ChatGPT and Claude according to new market data. Pangram reports a drop from 12 to 1.9 percent, while OpenAI holds over 50 percent of the market. Anthropic grew from 4.3 to 14.9 per cent, Similarweb and OpenRouter confirm the trend. OpenAI is currently holding over 50 per cent of the AI market.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
-      "fullArticleLink": "https://the-decoder.com/googles-gemini-is-losing-market-share-to-chatgpt-and-claude-according-to-new-market-data/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-13T02:43:08.078554Z"
-    },
-    {
-      "id": "c8124e03ce4897535d0e5d1fa3049a49",
-      "title": "Researchers can reverse-engineer LLM prompts from output text",
-      "description": "Researchers at IIT Bombay and Adobe Research have built an inverse language model that reconstructs the original prompt from an LLM's output with near-perfect accuracy. Their method, called \"Previous-Token Prediction,\" doesn't need access to model weights and works across different models. For companies relying on proprietary system prompts, this could be a serious security risk. Researchers can now reverse-engineer LLM prompts from output text with near perfect accuracy.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/prompt_extracting.png",
-      "fullArticleLink": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-08-13T02:42:46.064118Z"
-    },
-    {
-      "id": "c438dff959bb6a2518ddcad6f73c6798",
-      "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model",
-      "description": "xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5. On agentic tasks, it completes complex workflows in about 53 steps, while ClaudeOpus 5 needs 103. At a price more than 60 percent lower, the model matches OpenAI's best model and undercuts it on price.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/05/grok_xai_logo.png",
-      "fullArticleLink": "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-13T02:42:34.753798Z"
-    },
-    {
-      "id": "afc23a12a580d45a5cd6ffebce6a1b69",
-      "title": "Scaling AI agents with trustworthy data is key",
-      "description": "AI agents need data from across the enterprise, in all its structured and unstructured forms, and with the right business context. Gartner\u2019s prediction that AI agents will augment or automate 50% of business decisions by 2027 proves correct. Only half of surveyed organizations trust that the decisions their AI agents make are accurate and relevant. Within two years, 100% of respondents plan to be using agentic AI within two years.",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Google-Social-Card-cover.png?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Startup"
-      ],
-      "pubDate": "2026-08-13T02:42:17.509162Z"
-    },
-    {
-      "id": "ede20b26ebff40c1d75e30bceacacd40",
-      "title": "ProbGuard: Calibrated Safety Risk Estimation from LLM Output",
-      "description": "Large Language Model (LLM) safety has widely adopted guardrails to identify unsafe LLM outputs. We propose the first completely probabilistic architecture-agnostic guardrail to leverage the LLM early output distributional signals for estimating and calibrating the safety probability. The new guardrail reduces the average Brier score and ECE by 79.6\\% and 71.9\\% over the best baseline. It limits the attack success rate to at most 1\\% across six representative jailbreak attacks.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.10621",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-08-13T02:41:53.235559Z"
     }
   ]
 }
