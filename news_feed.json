@@ -1,6 +1,194 @@
 {
   "news": [
     {
+      "id": "02469844976f33ae36d50704e95742bb",
+      "title": "GPT-6.2 Astra solved a math theorem no other",
+      "description": "GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem. The model chose its own approach because key foundations were missing from Mathlib. Astra now leads the leaderboard with 49 of 56 tasks solved.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/gpt_lean_proof.png",
+      "fullArticleLink": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-24T09:44:50.799459Z"
+    },
+    {
+      "id": "35795d0042c3063a9efa301d622f6305",
+      "title": "Meta's Alexandr Wang warns the AI industry isn't",
+      "description": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner. Wang says current models only lack domain-specific knowledge and practical infrastructure to outperform humans in nearly every field. Wang also warns that the AI industry isn't thinking hard enough about what comes next.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/07/meta_logo-2.png",
+      "fullArticleLink": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-11-24T09:44:39.863095Z"
+    },
+    {
+      "id": "0a6db5491a836779877901036f158f38",
+      "title": "Chinese military fears AI could let the US",
+      "description": "Chinese military researchers fear AI advances could give the US an edge in the nuclear balance of power. That would undermine China's deterrence strategy, which relies on a guaranteed second-strike capability. China currently has about 620 operational warheads, and is expected to expand its arsenal to 1,000 by 2030. Experts warn that flawed AI data could trigger dangerous miscalculations during a crisis.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/03/AI-Fake-Carrier-Iran-small.png",
+      "fullArticleLink": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-24T09:44:29.959130Z"
+    },
+    {
+      "id": "98b64aa39b49b829b8bee9c2ea265310",
+      "title": "OpenAI warns that upcoming AI systems could outpace",
+      "description": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time. The metric shows that core capabilities emerge at surprisingly precise thresholds. He is pushing to make perplexity an industry-wide progress metric.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/openai_safety.png",
+      "fullArticleLink": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-24T09:44:22.626068Z"
+    },
+    {
+      "id": "477cc9a19ab03c3570c554514bffcded",
+      "title": "Anthropic's appetite for compute is pushing xAI toward",
+      "description": "SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports. After its June IPO, SpaceXSI disbanded the 60-person Gro.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wall-2.png",
+      "fullArticleLink": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-24T09:44:15.143748Z"
+    },
+    {
+      "id": "6157ef6815a1c5b033c7774edf9734b1",
+      "title": "Lottery Lottery Determines Fine-tuning Generalization . Pretraining Represent",
+      "description": "Large scale pretraining (PT) followed by fine-tuning (FT) is the central paradigm of modern deep learning. We hypothesize that a representational lottery underlies this phenomenon: the random seed dependent geometry formed during PT determines what FT can reach. We show that regularizing representational drift during FT enables naturalistic learning: only models with good representations learn the task, and they generalize.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.28777",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-24T09:44:02.242326Z"
+    },
+    {
+      "id": "4ab977db7faaec6716e3b14a9c76c06f",
+      "title": "CLAIR: Consistent LLM Adaptation via Index-free Reprogramming",
+      "description": "Time-series forecasting with pretrained large language models (LLMs) uses contextualized patch representations, raising the question of how to align them. We propose CLAIR (Consistent LLM Adaptation via Index-free Reprogramming), a teacher-guided framework that combines patch-level transport alignment (PTA) and forecast-level consistency (FC) A clean-view exponential moving average (EMA) teacher guides a mildly perturbed student, with PTA establishing soft, representation-dependent correspondences and FC encouraging agreement at corresponding future steps. PTA+FC under EMA supervision reduces horizon-averaged mean squared error (MSE) by 2.1% on ETTh1.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.28721",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-24T09:43:46.896994Z"
+    },
+    {
+      "id": "457b3f03dca4eac81705b3aeffe81f01",
+      "title": "Physical regime changes expose formula misuse in large",
+      "description": "Large language models (LLMs) are increasingly employed for scientific computing across the Earth and environmental sciences, but problems in these fields often involve distinct physical regimes. LLMs may fail to recognize these regime-dependent constraints, applying formulas outside their domains of validity and producing plausible but physically incorrect results. Reinforcement learning with verifiable rewards enables Qwen3.5-9B to match DeepSeek V4 Flash (284B), but its effectiveness is limited by the formulas available in the base model.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.28669",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-24T09:43:36.116578Z"
+    },
+    {
+      "id": "b9816a29fe372d00194172022ed8f824",
+      "title": "Bridging Teacher-Student Capability Gaps with Recurrent Computation",
+      "description": "Knowledge distillation transfers capabilities from large language models to smaller students, yet stronger teachers do not always yield better students. We hypothesize that these limitations arise in part from insufficient student capacity to absorb the teacher's knowledge. In mathematical post-training under both teacher-forced KD and on-policy distillation, recurrent students scale better with increasing teacher size. Crucially, we show that a pretrained LLM can be fine-tuned into a looped or recurrent architecture jointly with OPD, without repeating pretraining.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.28603",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-24T09:43:13.748218Z"
+    },
+    {
+      "id": "83953be912afa5a086b68388d1862706",
+      "title": "DisSparse: Pipelined Top-$p$ Sparse Attention for Long",
+      "description": "Long-context LLM inference is bottlenecked by the memory demands of the key-value (KV) cache. Dynamic sparse attention reduces this bottleneck by fetching and attending only to a critical subset of tokens. DisSparse decouples block selection from the scheduler's critical path, hides selection latency behind layer computation via a two-stream pipeline and introduces a single-pass histogram-based top-$p$ kernel.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.28522",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-24T09:43:02.870762Z"
+    },
+    {
+      "id": "e58b725039a05ba77f966519927ebc9b",
+      "title": "Don't Train It, Write It: An AI Agent",
+      "description": "AI agent can write new capabilities into a pretrained language model by adding gated attention heads and MLP neurons inside its existing layers. It has a budget of 50 model passes and sees no validation or test instance. The agent also writes exact multiplication up to 20 digits, running the model only up to 6 (100.0% on the absent lengths of the sealed test in both models).",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.28483",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-24T09:42:52.247324Z"
+    },
+    {
+      "id": "7140484c4a92cf13530a196e5160f2f7",
+      "title": "WingBench: Benchmarking How AI Agents Search for Better",
+      "description": "Wingbench grades the design each method recommends, reporting separately whether it receives a valid score and how good that score is. The differential-evolution variant does so with lower aerodynamic quality. In early search, our reflection and planning implementations do not consistently improve on it. We release the data, code, agent prompts, and analysis scripts for reproducibility. arXiv:2611.28418.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.28418",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-24T09:42:14.841418Z"
+    },
+    {
+      "id": "15da0cbca7e4582eeaebd7005195bcfa",
+      "title": "Sierra doubles valuation to $30B within six months",
+      "description": "Sierra said it has raised $1.75 billion in a Series F round that doubles the company\u2019s valuation to $30 billion. The new raise comes within six months of its previous round, which valued the company at $15 billion. Sierra said that it currently serves almost 50% of Fortune 50 companies, and its clients include BNY, HSBC, Singtel, Wells Fargo, JPMorganChase, Pearson, Next, and Cox Automotive.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-24T09:40:29.629319Z"
+    },
+    {
+      "id": "1f8997ce74a9df683210c685056a6bb2",
+      "title": "Nvidia employees greet Jensen Huang like a hero",
+      "description": "Jensen Huang returned to Nvidia\u2019s offices on Monday to an applauding crowd of hundreds of employees. The embattled Nvidia founder had stepped down earlier this month amid a series of scandals. He was reinstated after pushback from the tech community and intervention by President Donald Trump. Over 200,000 people, including around 10,000 current Nvidia employees, had signed an open letter advocating for Huang's return.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+      "fullArticleLink": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-24T09:40:19.794454Z"
+    },
+    {
+      "id": "b23fe2325ee92658e49518de21a32846",
+      "title": "Jensen Huang is reinstated at Nvidia amid scandal",
+      "description": "A handful of tech CEOs are celebrating Jensen Huang\u2019s return to Nvidia. Huang was reinstated as CEO and president of Nvidia on Monday morning. Huang had been caught in three affairs, including one with an alleged Chinese spy. Elon Musk, Binance co-founder and former CEO Changpeng Zhao (CZ) also voiced his support for Huang on X. Many other tech CEOs have refrained from commenting on the matter, given the shifting politics surrounding the controversy.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-24T09:40:05.875460Z"
+    },
+    {
       "id": "3b427d23adffaad0f51d874b6aed4d2e",
       "title": "US spies tracked Nvidia scandal figure's ties",
       "description": "US spies tracked contacts between Alice Huang and China's Ministry of State Security for over a year. The surveillance ran parallel to her secret affair with then-Nvidia CEO Jensen Huang. Federal investigators are now looking into whether a network of companies in Southeast Asia was used to smuggle AI chips into China in violation of US export controls. Jensen Huang is scheduled to testify before the US House of Representatives on December 1.",
@@ -15741,204 +15929,6 @@
         "Security"
       ],
       "pubDate": "2026-08-13T02:41:53.235559Z"
-    },
-    {
-      "id": "03edefd34614602b0a4d396f73a01d02",
-      "title": "Detecting an Effect Is Not Learning to Act",
-      "description": "Many pipelines can pay a per-example cost to acquire an auxiliary, model-derived observation -- an LLM's structured reasoning, a slow oracle, an expensive measurement -- and then must decide when the acquired signal is worth using. Even when the signal is faithful and an in-sample oracle picking the top-b examples by realized reward shows a sizable apparent gain, no deployable policy can learn when to acquire it. The apparent \"learnable structure\" is order statistics of noise.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.10441",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Startup"
-      ],
-      "pubDate": "2026-08-13T02:41:16.084477Z"
-    },
-    {
-      "id": "618c36a0317edf70cd221d19ea7d49eb",
-      "title": "AI code-testing startup Blacksmith\u2019s valuation jumps almost 10x",
-      "description": "AI code-testing startup Blacksmith's valuation jumps almost 10x in less than a year. Blacksmith helps companies build, test, and verify software before it reaches production. The startup now serves more than 5,000 customers, including Mercury, Supabase, Clerk, Ashby, and Expensify. The rise of AI coding tools such as Cursor, OpenAI's Codex, and Anthropic's Claude Code has made it significantly easier for software teams to generate code.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/blacksmith-logo.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-13T02:37:59.617437Z"
-    },
-    {
-      "id": "6a49c4b6a0a3e412228f48912489913b",
-      "title": "Made by Google \u201926: Pixel 11, Pixel Watch",
-      "description": "Made by Google 2026 event unveils Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini-powered features. The tech giant also announced a competitor to Apple\u2019s AirTag, a small tracking tag. The Pixel 11 is 40% thinner and more durable than its predecessor, Google says. Google also introduced \u201cRambler\u201d a new voice-input feature designed to better understand the way people actually talk.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Portfolio-3-1.png?resize=1200,675",
-      "fullArticleLink": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-08-13T02:37:44.705455Z"
-    },
-    {
-      "id": "2fd40c918be855216ae767e5bb820dfe",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring",
-      "description": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise. Part of the deal involved OpenAI sending employees to work with Thrive\u2019s companies to accelerate AI adoption. The firm is a spinout of Thrive Capital, one of OpenAI's major investors. The raise comes off the back of proven success for Thrive's companies, which has surpassed 70 businesses on platforms.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/holdings_all_team.jpg?resize=1200,407",
-      "fullArticleLink": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-13T02:36:43.461522Z"
-    },
-    {
-      "id": "b77f0ff8e5502479a3562eebb6197be2",
-      "title": "As AI safety concerns mount, three pioneers make",
-      "description": "As AI safety concerns mount, three pioneers make the case for staying open. Nobel Prize winner Geoffrey Hinton, World Labs CEO Fei-Fei Li, and Coursera co-founder Andrew Ng spoke out at Ai4 conference in Las Vegas. Hinton: \"Open source is great. You show people the code, and lots of people look at the lines of code and say, \u2018Oh, there's a bug\".",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/HALL1410.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-13T02:36:28.631736Z"
-    },
-    {
-      "id": "fedb51cc07b1d84a5a94c18edffe77f9",
-      "title": "AI coding startup Cognition reportedly already in talks",
-      "description": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation. Devin, maker of the AI coding agent, is reportedly already talking to investors about raising another funding round with a big leap in valuation. The company raised $1 billion at a $26 billon valuation in May. Devin is often tasked with doing long-tail grunt-work that programmers dislike, such as bringing old software up to date or moving applications off one platform and onto another.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?resize=1200,1004",
-      "fullArticleLink": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-13T02:36:15.865420Z"
-    },
-    {
-      "id": "79ba0d5b9ddaf8f20889938c97813c60",
-      "title": "Claude users are mad that Anthropic\u2019s new watermarks",
-      "description": "Anthropic recently made the decision to watermark Claude's output, inserting invisible code into the chatbot's editorial text that marks it as AI-generated. Some Claude users are mad that Anthropic's new watermarking system will catch them using it at their jobs. Anthropic rolled out this new policy to satisfy the EU AI Act\u2019s Transparency Code, which now requires tech companies to label content that has been AI generated or edited in a manner identifiable to computer systems.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-08-13T02:36:00.145163Z"
-    },
-    {
-      "id": "48f7d024bec8a7259559b2eb3b1fb323",
-      "title": "The limits of physics AI: where Siemens says",
-      "description": "Physics AI can explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Siemens says the technology has a firm limit on what it can do, but it cannot sign off a safety-critical part. The limits of physics AI are where the human stays in charge, and Sam Mahalingam, the AI expert, says he will not be able to use the technology in the future.",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/lenny-kuhne-jHZ70nRk7Ns-unsplash-scaled.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-08-12T13:34:10.368486Z"
-    },
-    {
-      "id": "f2b1b48ef779e196cd8e18305bb81670",
-      "title": "Mistral now offers EU data processing and priority",
-      "description": "Mistral is giving customers the option to route AI requests through servers in either Europe or the US. Both come with a surcharge, and the regional routing doesn't cover all features or data. Mistral now offers EU data processing and priority access, but both come with important limits. The company is also offering priority queue access during peak traffic in Europe and the US during the peak of the day, but there are limits.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/Mistral-third-party-models.webp",
-      "fullArticleLink": "https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-12T13:33:56.826638Z"
-    },
-    {
-      "id": "cfb28e3ca4dd3b2a0e0c2e4f6040a8e0",
-      "title": "Microsoft's new MAI Code 1.1 Flash gets crushed",
-      "description": "MAI Code 1.1 Flash is said to be 25 percent more token-efficient at a quarter of the cost of its predecessor. In benchmarks, it gets crushed by the cheaper Deepseek V4 Flash. The move fits a pattern: Microsoft talks up open AI, then bakes worse proprietary models into its apps to protect margins. Microsoft has released a code model for GitHub Copilot that's said to have been 25 percent better.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_logo_red_pink.png",
-      "fullArticleLink": "https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-12T13:33:43.915488Z"
-    },
-    {
-      "id": "85c109f8cd82d34349aaa8ce794a977a",
-      "title": "Nvidia's Nemotron 4 aims for one trillion parameters",
-      "description": "Nemotron 4 is a new open-weight model designed to compete with the best freely available models in the world. The largest model in the family will have at least one trillion parameters, twice the size of the current model. Nvidia has tripled its cloud spending on in-house model training to $28 billion through 2031. The earliest possible release would be this fall, with the largest model expected to be released in the fall.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
-      "fullArticleLink": "https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-12T13:33:15.820544Z"
-    },
-    {
-      "id": "3e24a4370a070892daeee4ff7816c61a",
-      "title": "MERA: Model Evolution and Routing with Skill Adaptation",
-      "description": "LLM agents execute heterogeneous sequences of model calls within a single task. Some invocations require careful reasoning, while others are structured steps such as formatting or tool-argument construction. Prior routing methods exploit this asymmetry by assigning easy invocations to a cheaper small model and difficult ones to a large model. MERA instead improves the small model itself, using a single model invocation as the unit of adaptation. The improved student is served behind a cost-calibrated router with verifier-backed fallback, and the candidate SkillBook, adapter, or router is admitted only when joint replay preserves task quality.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.10333",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-12T13:32:45.355148Z"
-    },
-    {
-      "id": "ddf07a779b47184681ffd3e0ea04904e",
-      "title": "Power law graph attention: exact generalization of scaled",
-      "description": "The Large Language Model from Power Law Decoder Representations (PLDR-LLM) and its attention, Power Law Graph Attention (PLGA) replace the fixed bilinear form of scaled dot-product attention (SDPA) The architecture is fully specified, verified against pinned reference releases. Claims are labeled theorem, conditional theorem, measurement, or conjecture. PLGA contains SDPA exactly at $G_{LM}=I$; $A_P$ are strictly entrywise positive, with Perron-Frobenius structure.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.10288",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-12T13:32:31.307460Z"
-    },
-    {
-      "id": "f7457e2bd19723dca402d47dbb94e14a",
-      "title": "Toward Human Rights Benchmarking for LLMs: A Pilot",
-      "description": "Large language models increasingly mediate legal determinations over what human rights are realized, and how. Yet, no evaluation benchmark exists to assess whether they can reason correctly about human rights law. To this end, we report our efforts to develop a robust and scalable methodology for creating HumRightsBench. We adapt the IRAC framework for legal reasoning to better suit the unique reasoning patterns of human rights work. We also produce a pilot series of authentic scenarios designed to implicate the many dimensions of real-world human rights issues.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.10268",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-12T13:32:18.906702Z"
-    },
-    {
-      "id": "78cc8b7bdbd0b95a098111d50cc07190",
-      "title": "Intrinsic Structure: Spectral Identifiability for Mechanistic Interpretability",
-      "description": "Mechanistic interpretability explains models by identifying circuits inside them, but has no way to tell whether a circuit is a property of the model or an artifact of the method that found it. We put dictionary learning for interpretability on an identifiability footing. We prove the spectrum is recoverable from $M$ calibration samples at rate $M^{-1/2}$ up to permutation. The Koopman spectrum is an identifiable, model-intrinsic fingerprint with a stated error bar, not a legible decomposition.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.10172",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-12T13:31:30.395521Z"
     }
   ]
 }
