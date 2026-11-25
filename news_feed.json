@@ -1,6 +1,193 @@
 {
   "news": [
     {
+      "id": "29cb4e682c30dad6df394a57a0a9ec93",
+      "title": "Novartis CEO says AI will shave four years",
+      "description": "Novartis CEO Vas Narasimhan is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. He says AI will speed up drug development, but it won't beat cancer in a decade.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/claude_novartis.png",
+      "fullArticleLink": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-25T08:16:23.864829Z"
+    },
+    {
+      "id": "b972be8114a84922954e8897d96c5d88",
+      "title": "Anthropic turns Claude Artifacts into standalone desktop apps",
+      "description": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows. You build one in chat without writing code, and it can add menu bar items, send notifications, and create transparent windows.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-25T08:16:16.212152Z"
+    },
+    {
+      "id": "1c7ed8e87caa39a0b585d66329daf869",
+      "title": "Beyond the Last Loop: Reinforcement Learning",
+      "description": "ELGO (Extrapolated-Loop Group-relative Optimization) adds to GRPO a dense per-token distillation term towards this distribution. The teacher is computed from an anchor copy of the model, which stays frozen and is replaced by the current model. ELGO raises the average avg@8 over five math benchmarks from 62.32 with GRPO to 64.20.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.31939",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-25T08:15:47.313136Z"
+    },
+    {
+      "id": "68731f7e5826688df7644d51383580a2",
+      "title": "Meta-Amortized Cognitive Modeling is a formative form",
+      "description": "CogFormerV2 enables researchers to specify, revise, and fit cognitive models with a single network, carrying amortization across an entire space of models all at once. Trained once in about a day on a single GPU, it delivers accurate, well-calibrated posteriors across more than 14.6 billion model configurations spanning binary, multi-alternative, and continuous decisions.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.31914",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-25T08:15:35.651225Z"
+    },
+    {
+      "id": "f6b13131e31cc3f48387de673db6d047",
+      "title": "ReJEPA: Bounded Predictive Regulation for Latent World Models",
+      "description": "Latent world models learn representations by predicting future states in an abstract embedding space rather than reconstructing raw pixels. When training across multi-frame sequences, not all frames and spatial regions are equally informative. We argue forcing a world model to minimize every prediction error may be unnecessary and harmful. We resolve this tension with a bounded predictive regulation principle that combines bounded gradients for large errors with smooth quadratic behavior near zero.",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.31910",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-11-25T08:15:22.967003Z"
+    },
+    {
+      "id": "377a4efef9339ee0b999bf62deae8cbd",
+      "title": "TQ-HQNet: A Trainability-Aware and Qubit",
+      "description": "Hybrid quantum neural networks are a promising direction for noisy intermediate-scale quantum computing. But their practical effectiveness is limited by poor trainability, rigid circuit design, and weak robustness across heterogeneous real-world tasks. This paper proposes TQ-HQNet, a Trainability-Aware and Qubit-Efficient Hybrid Quantum Neural Network for cross-domain learning on heterogeneous data.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.31908",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-25T08:15:09.426148Z"
+    },
+    {
+      "id": "2763e9b1fa6870de0f59d8b59ea1acc1",
+      "title": "Multi Agent Reinforcement Learning enhanced Federated Learning",
+      "description": "Remaining useful life (RUL) prediction is central to Prognostics and Health Management. Federated Learning (FL) addresses this by training across clients without raw data sharing. Many clients connect over lossy wireless links where UDP is preferred for low latency, making model exchange vulnerable to packet drops. We present a cooperative multi-agent reinforcement learning (MARL) framework that adapts FL to lossy channels.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.31880",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-25T08:14:56.688283Z"
+    },
+    {
+      "id": "f37c30751e5e038ca41a34a2f3d15b38",
+      "title": "Learning Compact State Abstractions for LLM Agents",
+      "description": "LLM agents commonly use the full interaction history as a proxy for state, retaining all past observations and actions regardless of whether they remain relevant. We define agent state as a compact abstraction of interaction history that preserves the competence of a fixed reference agent. The resulting programs are directly inspectable, providing an explicit account of what information is retained, updated, and discarded during interaction.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.31800",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-25T08:14:45.620771Z"
+    },
+    {
+      "id": "2fd1d6b2c0d44492f24b621f1ba9bd22",
+      "title": "Geo-SMILE: Statistical Model-Agnostic Interpretability with Local Explan",
+      "description": "Geo-SMILE is a model-agnostic framework that distinguishes substantive Feature explanation from geographic-position response through complementary perturbation branches. The Feature branch masks substantive predictors while retaining observed coordinates. The Geo branch relocates geographic units while holding substantive predictions fixed. The framework makes geographic position an explicit object of post-hoc explanation while requiring separate assessment of interpretation.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.31731",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-25T08:14:17.202659Z"
+    },
+    {
+      "id": "1e791ba8f78ee47e9b4f04be02ce7651",
+      "title": "Flagging Batch Shift in Flow Cytometry using Jeffreys",
+      "description": "Machine learning models for clinical flow cytometry are usually evaluated on data drawn from their training distribution. In routine practice, however, acquisition conditions and reagents may change, potentially making predictions unreliable without warning. We propose a model agnostic criterion for prediction reliability based on a notion of distance from the training distribution. Each patient sample is represented by a Gaussian mixture model, and its Jeffreys divergence to a reference is estimated using Monte Carlo integration.",
+      "imageUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.31321",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-11-25T08:12:14.135518Z"
+    },
+    {
+      "id": "b6d56875ce7b44481130e0245cfdbd23",
+      "title": "Pinterest will now let parents limit the AI-generated",
+      "description": "Pinterest is adding parental controls to its parental controls. Parents can now control how much AI-generated content their children are exposed to. Pinterest is one of the first major social platforms to allow parents to control AI content. Other social media platforms have focused more on limiting minors\u2019 access to specific AI-powered features, such as Snap and Meta AI chatbot chatbots.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/pinterest-header.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-11-25T08:11:42.197026Z"
+    },
+    {
+      "id": "a5613aba9d10bf4710aa41654ab6884a",
+      "title": "A Crusoe investor is betting on solar",
+      "description": "U.S. grid has gone from basically zero growth to adding several gigawatts a year. Data center investment will top $4 trillion until the end of the decade, G2VP partner Brook Porter says. Porter sees two different paths for data centers: small, on-grid facilities with their own generating capacity, and larger data centers powered by solar and long-duration energy storage.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1373266060.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-11-25T08:11:26.360181Z"
+    },
+    {
+      "id": "70e4e668b44490113c411fc1f9f9be0c",
+      "title": "Tidal to ban and remove millions of AI-generated",
+      "description": "Tidal Music will start removing fully AI-generated music on December 9. The streaming service said it will be rejecting roughly 80,000-85,000 tracks per day. The company said that over the past 90 days, more than 43% of tracks uploaded to its platform were generated by AI. The process will result in more than 29 million songs being deleted from the platform by the end of the year.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720",
+      "fullArticleLink": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-11-25T08:11:10.759917Z"
+    },
+    {
+      "id": "281e7b0eb8a2f22fabe430c5f6a63fa7",
+      "title": "UK warns AI-driven cyberattacks expose years of weak",
+      "description": "The U.K. government's cybersecurity unit says it has seen a \u201cmarked rise\u201d in AI-driven cyberattacks in recent months. Hackers increasingly rely on autonomous hacking tools to identify and exploit simple weaknesses to break into systems and networks. The NCSC says that while none of the vulnerabilities being exploited are new, the speed at which these AI tools are able to carry out simple hacks has changed.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-25T08:10:55.478533Z"
+    },
+    {
+      "id": "d7c3fae085f15ae8492cd30eba4aa9c6",
+      "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\ufffd",
+      "description": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House\u2013backed return as Nvidia's CEO and board member, could prove a giant mistake. He says the directors could face \"historic\" personal liability from a growing pile of lawsuits.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-ChatGPT.png?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-25T08:10:47.955467Z"
+    },
+    {
       "id": "3294379edc6161e9ed69944010d5622a",
       "title": "Anthropic's Claude Ship lets AI agents review, fix",
       "description": "Anthropic launches Claude Ship in beta, a tool that automatically reviews proposed code changes. The tool pairs the existing Code Review feature with two new AI agents called PR Steward and Claude Approvals. With the right policy in place, new code can be merged entirely without human involvement. It's available on the Team and Enterprise plans but billed separately based on token usage.",
@@ -15738,202 +15925,6 @@
         "Startup"
       ],
       "pubDate": "2026-08-14T02:36:00.808065Z"
-    },
-    {
-      "id": "ae02d5bda82cc078f6d3abf7324bdbf1",
-      "title": "Microsoft kills off unsuccessful AI features while merging",
-      "description": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps. Consumers will lose access to Group Chats, AI-generated podcasts in Copilot, Copilot Labs experimental features, and Deep Research. Copilot will also ditch its goofy animated character for Copilot named Mico, a floating blob that felt like an AI-ified version of Clippy. The company says the goal is to make Copilot a \"simpler, more cohesive experience,\" it's also an admission that Copilot has lost its way.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675",
-      "fullArticleLink": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-08-14T02:35:44.868574Z"
-    },
-    {
-      "id": "9a1de941a4f8ef98b8f7e35783f5e269",
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "description": "OpenAI hires new CRO as executive shake-up continues. Dali Rajic replaces Denise Dresser as chief revenue officer after just nine months on the job. Move comes as part of a broader shake up in the organization in the last month. OpenAI says its products reach more than one billion weekly active users, and two million businesses. The company says it has filed confidentially with the SEC ahead of a potential IPO, but it's not clear when that will happen.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Dali_Resized.webp?resize=1200,675",
-      "fullArticleLink": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-14T02:35:29.247121Z"
-    },
-    {
-      "id": "4f7a500cee9438e1a7f8fa27bafdbab9",
-      "title": "Anthropic set AI agents loose on the same",
-      "description": "Anthropic set AI agents loose on the same task, they started a turf war. The study comes in the wake of several high-profile incidents of AI agents from Anthropic and OpenAI breaching real-world systems. The findings provide a glimpse into potential risks that could develop as companies and governments move to implement agents working autonomously across shared codebases, markets, and computer systems. In some cases, the agents came up with a social mechanism in the form of a tournament for resolving their conflict.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600",
-      "fullArticleLink": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security"
-      ],
-      "pubDate": "2026-08-14T02:35:12.340537Z"
-    },
-    {
-      "id": "b377fa89f3ad152d5e1d6e4218e33c19",
-      "title": "IBM partners with OpenAI to bolster enterprise",
-      "description": "IBM partners with OpenAI to bolster enterprise AI push. IBM and OpenAI will jointly market AI offerings and develop industry-specific solutions for sectors including financial services, government, telecommunications, and retail. IBM said it would integrate OpenAI's latest models into IBM Consulting Advantage, its AI platform for consultants, to help clients deploy AI across core business operations. The deal comes less than a year after IBM announced a similar alliance with Anthropic.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-14T02:34:56.698179Z"
-    },
-    {
-      "id": "459413c052960c038377ef0c38b4807a",
-      "title": "OpenAI introduces \u2018Ultrafast\u2019 mode that makes GPT-5",
-      "description": "AI lab OpenAI has rolled out a new mode called Ultrafast for its latest model, GPT-5.6 Sol. The company says that Ultrafast can work at 14x the speed of standard processing, delivering up to 750 output tokens per second. Ultrafast is currently being released in preview, but it's only available to a small group of customers. OpenAI suggests that this high-octane version can be deployed across a number of different corporate workflows, most notably incident response, customer service and support.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-14T02:34:42.316181Z"
-    },
-    {
-      "id": "7261e6583d8e84ce7ddde3811fc833db",
-      "title": "Databricks wanted to raise $1B, investors wanted $15B",
-      "description": "Databricks wanted to raise $1B, investors wanted $15B; it settled on $5B at a $190B valuation. The AI big-data company has already raised $20 billion over the past 20 months. The company's AI chatbot tool Genie, that can do business analysis on the spot, \"is insanely popular,\" CEO Ali Ghodsi says. The $5 billion round was led by Coatue and several others, including Blackstone, MGX.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
-      "fullArticleLink": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-14T02:34:26.011348Z"
-    },
-    {
-      "id": "539d991b17b150c976ddb39134ec7dc7",
-      "title": "Writer introduces new AI model and upgraded harness",
-      "description": "Writer introduces new AI model and upgraded harness to contain token costs. Palmyra X6 is a post-training variation on Zai's open source model GLM-5.2. The company estimates the new model, combined with changes to the companies harness infrastructure, will cut costs for its customers by as much as 50% for basic tasks. Writer CEO May Habib: \"I think the enterprise is absolutely sick of chasing the next benchmark\".",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-08-14T02:34:10.985009Z"
-    },
-    {
-      "id": "17346b57eb8c81589582dec2c2403977",
-      "title": "Okta targets AI agent token costs with MCP",
-      "description": "Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the resulting prompt overhead the \u201ctool tax\u201d: tokens consumed as a model considers tools, including tools, such as the tool list.",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/okta-ai-agent-token-costs-mcp-model-context-protocol-agentic-cyber-security-agents-infosec-server-governance-enterprise.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-13T13:43:43.941134Z"
-    },
-    {
-      "id": "d5a54d5944c7b9f1b5a648f0796c24ff",
-      "title": "AI tools for breast cancer detection fall short",
-      "description": "About half of 215 surveyed members of the Society of Breast Imaging already use FDA-approved AI tools for breast cancer detection. Only 35 percent report lower recall rates, while 59 percent had expected them. The gap between promise and reality runs through every category measured, according to the survey. The results fall short of expectations, with only 35 percent of radiologists having expected them, the survey found. The survey was conducted by The Decoder.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/radiology_AI-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-13T13:43:29.769512Z"
-    },
-    {
-      "id": "f186cb38530e6ac05a266b89c64fc446",
-      "title": "Anthropic brings Claude Cowork to its Chrome extension",
-      "description": "Anthropic's Claude Cowork extension now runs directly in the side panel of the Chrome Web Store. The extension already existed, but a full Cowork session now runs inside the panel. Anthropic lists a few use cases: pulling metrics from analytics dashboards, organizing Google Drive, or logging sales calls in Salesforce. The update is available now for all paid plans through the Google Web Store, with no extra setup.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/08/ClaudeBrowsing.png",
-      "fullArticleLink": "https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-13T13:43:15.937777Z"
-    },
-    {
-      "id": "30e4ea0b1964bf616e419137a51f0823",
-      "title": "Top AI lab researchers warned about automated",
-      "description": "IAPS fellow Severin Field interviewed 25 researchers from OpenAI, Anthropic, Google Deepmind, Meta, and US universities about recursive self-improvement. Several of the milestones those researchers named have already been hit, Field says in a new blog post. He takes stock of the progress made by the researchers in a blog post on The Decade, which he says has already fallen on some of their predicted milestones.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2025/02/Huginn-RM-title-1200x673.png",
-      "fullArticleLink": "https://the-decoder.com/top-ai-lab-researchers-warned-about-automated-ai-research-and-several-of-their-predicted-milestones-have-already-fallen/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-13T13:43:04.318616Z"
-    },
-    {
-      "id": "5622801067d7c9d3fca9c7eb3ef3fad7",
-      "title": "Fable 5's slow adoption suggests corporate willingness",
-      "description": "Anthropic's Fable 5 is considered the most powerful AI model on the market, but U.S. companies are barely buying it. The model's steep price tag suggests corporate AI spending may have hit a ceiling, at least as long as performance gains don't translate into measurable everyday value. The slow adoption suggests corporate willingness to pay for frontier AI has reached a ceiling. The Decoder.com: Fable.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/01/openai_anthropic-2.jpeg",
-      "fullArticleLink": "https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-13T13:42:51.341918Z"
-    },
-    {
-      "id": "599ea52fc1f6bec35e8ff8a758bd5015",
-      "title": "How kids feel about AI, in their own",
-      "description": "How kids feel about artificial intelligence, in their own words, in MIT Technology Review. Teens are over four times more likely to be using AI in innocuous ways than potentially harmful ones. Pew Research Center found that 57% of teens in the US had used chatbots to search for information, 54% tapped them to help with schoolwork, 47% had used them for fun or entertainment. Some are even using it to build things, whether it\u2019s a character, a tech platform, or a tutor to help other kids study.",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600",
-      "fullArticleLink": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Startup"
-      ],
-      "pubDate": "2026-08-13T13:42:30.075781Z"
-    },
-    {
-      "id": "d2a0ce9daf7ca39cb35144709954ef89",
-      "title": "Transferable Above-Ground Biomass (AGB) Estimation Model from Multi",
-      "description": "Spatially continuous quantification of forest above-ground biomass (AGB) is what makes carbon accounting credible and mitigation strategies actionable. This paper presents an operational framework centered on a single globally trained convolutional neural network (CNN) The global model combines optical (Sentinel-2), C-band SAR, L-Band SAR (ALOS-2 PALSAR-2) data and terrain (DEM) data.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.11638",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-13T13:42:16.155200Z"
-    },
-    {
-      "id": "82e1d7631b227c8c17725f75e359881c",
-      "title": "A Local Sinkhorn Framework for Conditional Distribution Reconstruction",
-      "description": "In this paper, we propose a local Sinkhorn divergence framework for conditional distribution reconstruction of multidimensional random fields. The proposed framework provides a scalable alternative to exact local optimal transport. It offers a practical compromise between geometric fidelity, statistical efficiency, and computational scalability for uncertainty quantification and probabilistic scientific machine learning. arXiv:2608.11613v1 Announcement: Proposal a differentiable and computationally efficient local distribution matching objective to train stochastic networks.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.11613",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-13T13:41:49.968498Z"
     }
   ]
 }
