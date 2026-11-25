@@ -1,6 +1,203 @@
 {
   "news": [
     {
+      "id": "7e3bae2ad55db8fab1a90c1f9a0314f2",
+      "title": "Anthropic study shows the hardest part of adopting",
+      "description": "Anthropic studied nearly 300 AI deployments across 58 US companies. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The researchers say the biggest hurdles stem from outdated company structures.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/ai_office_paper-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-25T21:42:30.876278Z"
+    },
+    {
+      "id": "8b12331aa040ab2654008fb8d23013a7",
+      "title": "AI agents now control part of Deepmind's compute",
+      "description": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents' internal chains of thought untrained.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp",
+      "fullArticleLink": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-25T21:42:23.379199Z"
+    },
+    {
+      "id": "3eeb2522ad1d8d8b88f18da654905ee4",
+      "title": "Amazon and Meta are in talks to end",
+      "description": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. Amazon's ad business generates $68.6 billion a year. Muse already commands 51 percent of all agentic shopping orders.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/met_muse_gadget_logo.jpg",
+      "fullArticleLink": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-25T21:42:14.793824Z"
+    },
+    {
+      "id": "b43f8734d8d18e8082013f3c9858c752",
+      "title": "OpenAI wants companies to trust it with sensitive",
+      "description": "OpenAI is testing a new feature called \"Private Inference\" It lets companies run queries on its most powerful models without OpenAI being able to access the data. CEO Sam Altman said the company is now piloting the offering with its first enterprise customers. For now, Private Inference targets business customers, whose data OpenAI already doesn't use for training. Google is pursuing a similar approach with Private AI Compute.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
+      "fullArticleLink": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-25T21:42:03.959902Z"
+    },
+    {
+      "id": "f39e8840d1f42e5d4076f1da56b7e81a",
+      "title": "Anthropic CEO Dario Amodei says letting AI govern",
+      "description": "Dario Amodei said it was \"absurd\" to suggest people should \"surrender human free will\" to AI systems. He rejected handing power to AI as firmly as he rejected autocracy, he wrote. Some Anthropic employees believed humanity would safely hand authority to superintelligent systems, he said. He said end-to-end automation could bring risks, including serious job disruption and AI building new models without human oversight.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_amodei.png",
+      "fullArticleLink": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
+      "type": "news",
+      "categories": [
+        "Robotics",
+        "Security"
+      ],
+      "pubDate": "2026-11-25T21:41:51.595570Z"
+    },
+    {
+      "id": "1aae243379e5449ba3bb4da721b20607",
+      "title": "US chip-access curbs and anti-distillation measures reportedly already",
+      "description": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba. Deepseek researchers internally estimate they're already up to nine months behind US models.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/us_china-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-25T21:41:44.884092Z"
+    },
+    {
+      "id": "20ed3c7d1f7fda5ed91c2f8f30f32daf",
+      "title": "AI is straining America\u2019s open records systems",
+      "description": "Data brokers have mined public records for decades, but AI has intensified investors\u2019 interest. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data from thousands of agencies and turn it into AI-powered \u201csignals\u201d that help businesses sell to governments. Many places have seen double-digit annual increases in recent years.",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600",
+      "fullArticleLink": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-25T21:41:29.504054Z"
+    },
+    {
+      "id": "8be4da479e90c5ba244a3f59f7b384c4",
+      "title": "Calibrated Reading of Latent Reasoning and Communication",
+      "description": "Calibrated Latent Reader predicts reasoning outcomes and message content through task-conditioned interactions between states and candidate answers. On two CODI models, CLR improves accuracy over MLP and attention probes by 4-18 percentage points for final-answer prediction and reference-value membership. On synthetic Qwen3-4B communications, comparing decoded facts with public commitments detects 93.1% of message substitutions at a nominal 5% false-positive rate.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.32143",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-25T21:41:17.908691Z"
+    },
+    {
+      "id": "5f3b6a876d9dca778e4239503a61c08c",
+      "title": "Fix How It Acts, Not How It Thinks",
+      "description": "Open-weight LLMs are competent software engineers, but they sometimes fail at tasks they are otherwise able to do. Such updates, typically learned with LoRA adapters, are often too small to survive merging into a released checkpoint. Instead of increasing the size of the update, we directly train on the surviving part. The loss optimizes only the model's actions and keeps its reasoning close to the base model.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.32064",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-25T21:40:56.956390Z"
+    },
+    {
+      "id": "358b6244fe39596856d6c61132286903",
+      "title": "Structure-Aware Transformers for Hierarchical Authorization in Personal",
+      "description": "Personal AI agents can carry out complex, multi-step tasks on users' behalf. Manually reviewing each request is time-consuming, while indiscriminate approval poses privacy and security risks. We propose the Parent-gated Authorization Transformer for Hierarchies (PATH) to predict users' authorization preferences for personal AI agents. PATH is a novel neural network architecture that combines hierarchy-aware attention masks with a parent- gated probability formulation to ensure hierarchy-consistent predictions.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.32018",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-25T21:40:14.770429Z"
+    },
+    {
+      "id": "4621f767e4cf4e2625086690a9e1b4c9",
+      "title": "Nvidia's Megaspeed is the latest in a series",
+      "description": "Nvidia reinstated CEO Jensen Huang on Monday after being accused of smuggling its chips into China. U.S. Attorney General Todd Blanche has suggested Nvidia isn\u2019t a target of an investigation, but California\u2019s attorney general and Congress are pressing ahead. Nvidia and other chip sellers need assurances that end users of their chips are obeying export-control rules. But they also cannot ignore other information that might call the reliability of those assurances into question.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249127237.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-25T21:37:41.184721Z"
+    },
+    {
+      "id": "45abf29e29695a7072c66397361d6a3b",
+      "title": "AI data centers are becoming harder to build",
+      "description": "Anita Verma-Lallian's company assembles data center sites for developers, hyperscalers, AI labs, and neoclouds. She also partners with investor Chamath Palihapitiya, who has been predicting an industry shakeout. On this episode of TechCrunch\u2019s \u2060Equity podcast, Rebecca Bellan talks about who bears the risk when Nvidia gets pickier.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Anita-Verma-Lallian-2.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-25T21:37:17.934708Z"
+    },
+    {
+      "id": "bac2d3e3f4a61316a68697a9d429d94c",
+      "title": "Anthropic\u2019s Dario Amodei calls accusations of surrendering human",
+      "description": "Anthropic CEO Dario Amodei says we should not \u201csurrender human free will\u201d to AI systems. The statement comes after a growing chorus of AI rivals suggested that human agency could be at risk if AI is developed irresponsibly. Anthropic is laying the groundwork for RSI by incorporating AI into an increasing share of its own research and development.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-25T21:36:38.446779Z"
+    },
+    {
+      "id": "dc74c9891a120b226443b8e088f2f517",
+      "title": "Jensen Huang broke Nvidia\u2019s code of conduct",
+      "description": "Nvidia CEO Jensen Huang recently admitted to violating its code of conduct. He said the code applies to everyone, but not everyone is exempt from it. Experts say most codes are better understood as a reflection of corporate culture. The biggest risk is that employees will feel embarrassed or even angry about the company they work for. Huang's return hasn't created a morale problem so far, but sidestepping the code could end up costing Nvidia something harder to measure.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-25T21:36:24.053968Z"
+    },
+    {
+      "id": "68617ed988fe883b1ce72e5c6ee8c834",
+      "title": "OpenAI says heavy ChatGPT users may hit limits",
+      "description": "OpenAI has started rolling out a unified Chat and Work experience in ChatGPT to a small group of Pro subscribers. Some users have expressed concerns that the merger could restrict their usage. A spokesperson told TechCrunch that while most users are not expected to face more frequent usage resets, a small fraction of its heaviest users may hit their limits sooner. The changes come as AI companies face mounting infrastructure costs and growing demand for increasingly capable models.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-11-25T21:36:11.232632Z"
+    },
+    {
       "id": "29cb4e682c30dad6df394a57a0a9ec93",
       "title": "Novartis CEO says AI will shave four years",
       "description": "Novartis CEO Vas Narasimhan is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. He says AI will speed up drug development, but it won't beat cancer in a decade.",
@@ -15741,190 +15938,6 @@
         "LLM"
       ],
       "pubDate": "2026-08-14T13:27:49.645782Z"
-    },
-    {
-      "id": "45826476b288adeba7eb8d2d4a45da17",
-      "title": "Training Under Challenge: Executable Certificates and Challenge-Closed Optimality",
-      "description": "A flat training curve does not reveal whether a neural network has reached a global optimum, is locally trapped, is representation-limited, or is mismatched to its trainer. We introduce Training Under Challenge, an executable-certificate framework. We define a resource-indexed challenge-power modulus that characterizes the largest gap compatible with passage. We prove the converse frontier: without coverage, a first-order ReLU trainer can reach infinitely many exact conditional head optima while converging to a non-global point.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12655",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-14T13:27:36.413634Z"
-    },
-    {
-      "id": "0bf25f4380c8f1f912b351def8efcc9a",
-      "title": "CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution",
-      "description": "CAKE is a compiler-agent co-design in which agents author CAKE IR, a typed, hardware-explicit schedule representation. CAKE exposes warp roles, memory movement, synchronization, and pipelines. The harness itself evolves: recurring failures become verifier rules, IR primitives, model calibrations, and reusable optimization tactics. Dispatcher-backed KNN and KMeans improve performance by 1.42x to 2.12x across more than 400 shapes.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12629",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-14T13:27:24.151324Z"
-    },
-    {
-      "id": "ece928cb20d41cff56cb9a7dbcc37752",
-      "title": "When Random Low-Dimensional Reparameterizations Train Neural Networks, they",
-      "description": "Neural networks can often be trained or fine-tuned through random low-dimensional reparameterization. This raises a practical question: how large must the latent search space be to reach a low-loss region? We express the known accessibility transition in an equivalent conic form, centered for compact convex targets at the statistical dimension of the polar cone. Building on this analysis, we introduce Random Mapping Networks (RaMaN) which instantiate the predicted latent dimension using structured Hadamard or seed-regenerated Gaussian maps.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12597",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-14T13:26:58.208945Z"
-    },
-    {
-      "id": "52786fe1577a2db070ff23c3982e8418",
-      "title": "Scaling Automatic Research Agents via World Models",
-      "description": "World Model RL (WMRL) replaces environment execution with a world model to remove this bottleneck. Empirically, WMRL accelerates training by 3-4x on various tasks at different agent scales, while exceeding the performance of standard RL baselines. Our post-trained 4B and 9B agents outperform much larger open-weight agents of 48B and 120B on held-out benchmarks. We further equip WMRL with two mitigations, Online Debiasing and Inverse-Variance Denoising.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12564",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-14T13:26:17.085718Z"
-    },
-    {
-      "id": "5624057ebf41dcbbbf7b469583eab2a6",
-      "title": "Dual Spatial-Temporal attribution: Architecture-Aligned Post-Hoc Explain",
-      "description": "Deep learning detectors for anomalies in dynamic graphs have reached strong accuracy, yet they remain opaque. When an edge is flagged, the analyst receives a score but no reason. We present a strictly post-hoc explainability framework, X-AddGraph, built on a Dual Spatial-Temporal attribution (DSTA) mechanism. On UCI Message benchmark, our trained AddGraph baseline reaches an average per-snapshot AUC of 0.8705, exceeding the originally published result. X-addGraph reproduces every score identically while adding explanations where none existed.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12441",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-14T13:25:27.679260Z"
-    },
-    {
-      "id": "7bcc3f2fa3a37cf9fad79fd4635925c4",
-      "title": "March: Scaling Recurrent Memory with Content-Routed State Anchors",
-      "description": "Transformers owe much of their strong long-context retrieval capability to a token-level memory that grows with context length. This flexibility incurs a quadratic computation complexity during training and a key--value cache that grows linearly during autoregressive inference. Memory-Anchor Routing across Context History (MARCH) is a network architecture that effectively scales state-space models beyond a fixed-size dimension.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12435",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-14T13:25:16.118928Z"
-    },
-    {
-      "id": "26329c78bec0bfd3037553bcadd3dabf",
-      "title": "LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory",
-      "description": "Large language models (LLMs) have achieved remarkable breakthroughs across various applications. However, their architectures remain inefficient in pretraining due to two main limitations. To overcome these limitations, we propose LoKiFormer, a novel LLM architecture that augments the standard decoder with two dedicated modules: Local Fusion Attention (LFA), which incorporates a convolutional fusion to attention, explicitly capturing local patterns and allowing attention to operate on more informative representations.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12419",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-14T13:25:04.514964Z"
-    },
-    {
-      "id": "af8739b4c6199c5ae83a1d8357f81bc4",
-      "title": "Gemini 3.7 Flash lands with coding gains",
-      "description": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents. According to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price. Google undercuts its three-week-old predecessor's price by 50% in comparison to the previous model.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/gemini_flash.png",
-      "fullArticleLink": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-14T02:40:30.377771Z"
-    },
-    {
-      "id": "364ea948593ced6cbc9a93d297159fd6",
-      "title": "Suno Studio 2.0's new chat feature lets you",
-      "description": "Suno Studio 2.0 turns its AI music platform into a full production tool for Premier subscribers. A chat feature creates instruments and plugins via text, while MIDI import and 32-bit export come without limits. That unlimited export clashes with Suno's own recently announced download caps designed to combat AI music spam on streaming platforms. The company also recently announced a crackdown on AI music music spam in the form of AI music.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/suno_ai_logo.png",
-      "fullArticleLink": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-14T02:40:19.199321Z"
-    },
-    {
-      "id": "a4eb45031e80760bf6634238440b8488",
-      "title": "TradingMoE: Routing the Right Experts in Evolving Markets",
-      "description": "Large language models (LLMs) have shown strong potential for financial analysis and trading, but direct trading remains challenging because the predictive capabilities required can vary across assets, decision fields, and market conditions. We propose TradingMoE, a trading-oriented sparse MoE that augments a frozen dense LLM with lightweight residual experts. We introduce a Query-Key router that represents the expertise required by each token under the current market context as a low-dimensional query. We further propose a sparse expert selection update mechanism that samples a few inactive experts during training and estimates whether they should replace the weakest expert.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.11785",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-14T02:40:01.183242Z"
-    },
-    {
-      "id": "012d9ae151821a391bd19ec99565f664",
-      "title": "MOON: Multi-Objective OrthoNormalized Updates for Multitask Learning",
-      "description": "Multi-objective optimization (MOO) has demonstrated significant success in multi-task learning by mitigating task conflicts through gradient manipulation. We propose MOON (Multi-Objective OrthoNormalized Updates), which performs gradient manipulation under spectral--nuclear norm geometry. Empirical results across various benchmarks show that MOON consistently improves both optimization efficiency and final multi-Task performance. Theoretically, for smooth non-convex objectives, we establish convergence of the averaged Pareto-stationarity measure at rates of.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.11749",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-14T02:39:48.782304Z"
-    },
-    {
-      "id": "46843b9ac90109a7b47a7160638309fe",
-      "title": "GCPO: Diagnosing and Constraining Subspace Geometry in Rollout",
-      "description": "On-policy rollout methods such as GRPO are central to post-training of large language models. Yet they frequently suffer from training instabilities, cross-task capability degradation, and response-length inflation. To address this, we propose GCPO (Geometrically Constrained Policy Optimization) which applies hard bilateral orthogonal projections to constrain updates to the complementary subspaces, preventing such excursions by construction. This summary.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.11674",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-14T02:39:26.134582Z"
-    },
-    {
-      "id": "326f249b4c421cb8f33e3b16325db48d",
-      "title": "Robust Ambiguity Detection (RAD) From Model- and Feature-Space",
-      "description": "Robust Ambiguity Detection (RAD) framework is advanced for quantifying predictive ambiguity using two complementary metrics: Model-Space Consistency. RAD scores provide an interpretable characterisation of the sources of ambiguity and the actions a user may consider in response. We demonstrate a downstream application of RAD where samples are ranked by their RAD Pareto-Rank and the most ambiguous are abstained from prediction, achieving performance comparable to existing rejection-based approaches.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.11541",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-14T02:38:38.656048Z"
-    },
-    {
-      "id": "5dbfddfc7726399d74b1b8c2b0d79a73",
-      "title": "Defending against Model Extraction for GNNs with Model",
-      "description": "Graph Neural Networks (GNNs) serve as the backbone for high-stakes applications in Machine-Learning-as-a-Service (MLaaS) Still, their black-box deployment exposes them to Model Extraction (ME) attacks. Existing defenses suffer from a critical ''Euclidean bias'': they transfer image-based strategies (e.g., random noise) to graphs, ignoring the complex topological dependencies between nodes.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.11495",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-08-14T02:38:15.652902Z"
-    },
-    {
-      "id": "7e37825fb53ff2ee9198f836abd133ec",
-      "title": "Nvidia\u2019s new $500B plan is risky but brilliant",
-      "description": "Nvidia's new $500B plan is risky but brilliant, especially for aging GPUs. Nvidia wants to ensure an ecosystem of used AI hardware flourishes, helping sustain demand for Nvidia hardware as it ages. The dangerous part for Nvidia is that this creates something financiers call \"wrong way\" risk. Should this plan work, Nvidia will have found new sources of money for AI data center builds, after many of the traditional methods have begun to wear thin.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-14T02:36:00.808065Z"
     }
   ]
 }
