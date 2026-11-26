@@ -1,6 +1,196 @@
 {
   "news": [
     {
+      "id": "fe316c0b6037d85a30d9536bf266f071",
+      "title": "MIT team discovers that unrealistic training data makes",
+      "description": "MIT researchers have developed a method that lets AI climate models get by with a single training run instead of the usual six to eight. An algorithm generates deliberately unrealistic scenarios with extreme CO2 or methane swings that make the model more robust.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/mit_climate.png",
+      "fullArticleLink": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-26T08:06:28.628084Z"
+    },
+    {
+      "id": "5927fe5af83356cf57d0ed7f4a7b7abe",
+      "title": "Trigger-Invariant Contrastive Unlearning for Backdoor Removal",
+      "description": "Backdoor attacks pose a severe threat to modern NLP models by embedding hidden triggers that induce malicious behavior at inference time. Trigger-Invariant Contrastive Unlearning (TICU) constructs clean and trigger-inserted counterfactual pairs, then fine-tunes the model so that both inputs produce consistent output distributions and aligned hidden representations. TICU also retains the supervised classification loss on clean data and constrains parameter drift from the original model.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33571",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-26T08:06:06.362818Z"
+    },
+    {
+      "id": "c55c65ba04d61988215df419ef52e210",
+      "title": "Deletion You Can Check: Auditing LLM Unlearning",
+      "description": "A common indication that a fine-tuned model has forgotten a deleted record is a membership-inference score near chance (ROC-AUC) This reading is sound only if the comparison population represents how the record should behave after a valid deletion. Exact retraining validates the membership reference: it lies within the prespecified chance band on ArxivMIA but reaches $0.122$ on BookMIA.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33525",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-26T08:05:44.145315Z"
+    },
+    {
+      "id": "fd2cbf90a5a80887f793c8ac4e9a383e",
+      "title": "Evaluation and Restoration of Safety in Reasoning-Tuned LLMs",
+      "description": "Open-source LLMs that are optimized for reasoning aim to democratize AI by bringing high-capability models to users with limited resources. Increasing reasoning across multiple model families increases the unsafe rate in all cases. ESPG is simple to implement, requires no GPU memory beyond that of inference, yet makes the model significantly safer. The study thus establishes a path towards safe post-training of open-source AI models.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33515",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-26T08:05:33.836530Z"
+    },
+    {
+      "id": "992c3a768db141d6028ac7c2af3b11a2",
+      "title": "Scalpel and Brush: Pruning and Targeted Weight Editing",
+      "description": "We unify repair and pruning as sparse weight edits to optimize a metric we specify. Masks that remove 12.5-15% of MLP neurons shrink the model by 9.4-11.2% with mean BLEU loss of at most 0.01 on both hidden splits. Pruning search with the same evaluation limit removes 15.9% of neurons versus 14-21.4% for agent runs passing the hidden check. On seven-class GoEmotions classification, edits raise macro-F1 from 0.100 to 0.396-0.451.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33426",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Startup"
+      ],
+      "pubDate": "2026-11-26T08:05:07.565993Z"
+    },
+    {
+      "id": "9fba3560bfa1797bb78796ecbead786a",
+      "title": "Discovering Explicit Magnetic Core-Loss Equations via Symbolic Sparse",
+      "description": "Compact core loss equations are essential tools in magnetic component design. Empirical models such as the Steinmetz Equation (SE) yield compact expressions of limited accuracy. This paper bridges the gap with a Symbolic Sparse Identification (SSI) framework. SSI provides an explicit and physically guided approach for high-frequency magnetic characterization and design, authors say.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33364",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-26T08:04:58.062469Z"
+    },
+    {
+      "id": "b208677743837d59fc5ca5015d475547",
+      "title": "The Marauder's Map: B\\'{e}zier Manifolds Reve",
+      "description": "Deep learning studies degeneracy through mode connectivity, which connects same-task networks by low-loss curves, sheets, or volumes. Real biological systems exhibit a more flexible form of degeneracy in which specialized circuits continually adapt towards new competencies through localized changes while preserving existing function. The resulting manifold forms a navigable \"Marauder's Map\" that connects specialist models through a shared geometry of competent solutions.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33353",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-26T08:04:46.636362Z"
+    },
+    {
+      "id": "3e411bc6f5876b6e9bcef0920124b2e7",
+      "title": "Understanding Failure Patterns in LLM-based Mathematical Optimization Modeling",
+      "description": "Industrial optimization involves complex constraints, making optimization modeling difficult to automate. Large language models have been explored for generating optimization models from natural language. Their reliability in end-to-end settings remains limited, often producing non-executable, infeasible, or feasible but incorrect solutions. Findings highlight limitations of current dataset designs and suggest the importance of data that better capture constraint completeness and formulation accuracy to enhance reliability.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33351",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-26T08:04:36.714323Z"
+    },
+    {
+      "id": "8239b9d158453ec877e50f3fd44c9299",
+      "title": "FlowersBench: A FluidFlower-Inspired Dataset for Benchmark",
+      "description": "Machine learning surrogates are emerging as a computationally efficient tool for uncertainty quantification in geological carbon storage. We introduce FlowersBench, a benchmark dataset of 5,000 two-dimensional, reservoir-scale CO$_2$ storage simulations. The geometries are sampled from an in-house structural generator inspired by the FluidFlower experiments and Case B of the 11th Society of Petroleum Engineers Comparative Solution Project.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33335",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-26T08:04:25.607889Z"
+    },
+    {
+      "id": "d3764795fa6e637b4015ba9f9e788039",
+      "title": "Sequential Testing on Complex and High Dimensional Data",
+      "description": "We propose two general, distribution-free test statistics for binary Sequential Hypothesis Testing (SHT) and Sequential Change Point Detection (SCPD) respectively. The proposed statistics monitor the errors of a predictive or reconstructive machine learning model trained solely on null/pre-change data, relying on imperfect generalization. Under mild assumptions on the model's errors, we establish rigorous analytical guarantees. Extensive evaluations in target tracking, chaotic dynamical systems, and real-world network security datasets, demonstrate that our framework consistently satisfies prescribed constraints.",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33238",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-11-26T08:03:49.880460Z"
+    },
+    {
+      "id": "b79b898563f4b791a1ba31ec05fad8a7",
+      "title": "Resource-Efficient Multimodal Fusion for Early Rice Blast Forecasting",
+      "description": "Resource-efficient artificial intelligence has become increasingly important for sustainable agriculture. Early estimation of rice blast can enhance food security by optimizing crop management practices while reducing excessive pesticide use. The proposed framework outperforms state-of-the-art methods, achieving a validation accuracy of 96.93% and an F1-score of 95.79%. In addition to its predictive performance, the lightweight multimodal architecture substantially reduces computational complexity, inference latency, and carbon emissions.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33237",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security"
+      ],
+      "pubDate": "2026-11-26T08:03:38.159754Z"
+    },
+    {
+      "id": "0cb60670470dc60d8652bbb8147585c9",
+      "title": "Amazon and Meta reportedly in talks to lift",
+      "description": "Amazon and Meta are reportedly discussing a potential deal that would allow Meta's AI agent Muse to connect directly to Amazon\u2019s store. The talks would mark a significant reversal from just two months ago, when Muse users discovered they were unable to purchase products on Amazon and instead received an error message when attempting to check out. In October, Amazon CEO Andy Jassy argued that few customers were making purchases through outside shopping agents.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+      "fullArticleLink": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "type": "news",
+      "categories": [
+        "Startup"
+      ],
+      "pubDate": "2026-11-26T08:02:19.460738Z"
+    },
+    {
+      "id": "a07adeabc9e7c59f3622f6d81b45a33c",
+      "title": "Character.AI\u2019s plan to auction off users\u2019 private chats",
+      "description": "A coalition of 42 state attorneys general is intervening in Character.ai\u2019s bankruptcy proceedings. They want to stop the chatbot maker from selling off sensitive user data. The AGs claim the data includes chat histories from more than 21 million U.S. accounts, more than 2.1 million of which belong to minors. Only one anonymous bidder has been disclosed so far: Smirks and Pangs Acquisition LLC.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-26T08:02:05.499281Z"
+    },
+    {
+      "id": "fd530c75c77acc00d3ff2e054f01d526",
+      "title": "Want to buy your kid an AI toy",
+      "description": "New York Governor Kathy Hochul signed a bill banning the sale of AI toys for the next five years. The bill explicitly targets toys with embedded or integrated AI chatbots, like talking stuffed animals, dolls, and robots that rely on the internet to keep kids yapping. About a quarter of American parents with kids under eight either own an AI toy or are considering giving their child one this holiday season.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2237660127.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Robotics",
+        "Security",
+        "Startup"
+      ],
+      "pubDate": "2026-11-26T08:01:51.166489Z"
+    },
+    {
+      "id": "bf17d49ef61f9fcb5cbc8ce767753e0c",
+      "title": "S&P considers Nvidia credit downgrade over governance",
+      "description": "S&P Global Ratings is considering downgrading Nvidia\u2019s investment-grade rating. The rating agency cites concerns about the company's management and governance practices. The agency expects to finish its review within 90 days and could cut the rating from AA to AA-. A downgrade could raise Nvidia's borrowing costs or force it to post more collateral. A downgrade would likely prompt lenders to demand even larger guarantees from Nvidia.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "fullArticleLink": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-26T08:01:40.378014Z"
+    },
+    {
       "id": "7e3bae2ad55db8fab1a90c1f9a0314f2",
       "title": "Anthropic study shows the hardest part of adopting",
       "description": "Anthropic studied nearly 300 AI deployments across 58 US companies. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The researchers say the biggest hurdles stem from outdated company structures.",
@@ -15744,200 +15934,6 @@
         "Hardware"
       ],
       "pubDate": "2026-08-15T01:48:59.413185Z"
-    },
-    {
-      "id": "4d9136a1de8ef09cee61f6763294ed6d",
-      "title": "The Objective Is the Bottleneck: Latent World Models",
-      "description": "Cross-entropy-method planning minimises squared latent distance, which tracks true distance at r = 0.426, saturates by about eighty arena units and decreases beyond a hundred and twenty. The pathology is the method's, not one reimplementation's. It is present in the authors' released weights, and across four checkpoints long-horizon success rank-orders exactly with metric quality and inversely with prediction accuracy.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12959",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-15T01:48:23.342519Z"
-    },
-    {
-      "id": "57b8773002973afb66d799097f0f41c0",
-      "title": "CardioState-JEPA: Delay-Aware Cross-Modal Learning",
-      "description": "Electrocardiography (ECG), photoplethysmography (PPG), and phonocardiography (PCG) provide complementary views of the same cardiac cycle. We introduce CardioState-JEPA, a cardiac foundation model to learn a single shared representation jointly across ECG, PPG, and PCG, built on a physiology-aware joint-embedding predictive architecture. The model maps heterogeneous waveforms into a common token space.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12944",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-15T01:48:11.164922Z"
-    },
-    {
-      "id": "81e5cc10e8e1ab9793207cb3636bb1ec",
-      "title": "Meta\u2019s \u2018open\u2019 AI, and a $250M",
-      "description": "Equity takes a look at Meta's open-weight AI model Glimmer, Mark Zuckerberg\u2019s 6,500-word manifesto. Find out why people don't have to have twice as many hours to make sure they don\u2019t have the same energy as many others. Learn about the true cost of the AI industry's energy needs and a $250M acquisition gone very wrong. Read the full transcript of this episode of the Equity podcast.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-15T01:45:09.824910Z"
-    },
-    {
-      "id": "0fccedf8ea195bfb949e8a73d9fa413e",
-      "title": "Hyperscalers might regret embracing natural gas if new",
-      "description": "Hyperscalers like Amazon, Google, Meta, and Microsoft are betting that natural gas will power the data centers behind their lofty AI ambitions. But a new research report suggests they may regret their newfound affinity for the fossil fuel. Natural gas prices could triple in some parts of the U.S. in the coming years, according to Noreva, an energy research firm. Cheap gas has pushed hyperscalers to lock up part of the market.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-08-15T01:44:53.228709Z"
-    },
-    {
-      "id": "042796346f67c2669c5cbfa732f34119",
-      "title": "Kog is going deeper to squeeze more inference",
-      "description": "French startup Kog is going deeper to squeeze more inference out of GPUs. CEO Ga\u00ebl Delalleau is confident the same approach can work just as well with LLMs, whose size can be a challenge for inference chips. Kog's demo showed an impressive 3,000 per-request tokens per second (TPS) - but with a purpose-built small model with only some 2 billion parameters, the now open sourced Laneformer 2B.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/Kog-CEO-Gael-Dellalleau-at-AMD-AI-DevDay.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-15T01:44:37.345683Z"
-    },
-    {
-      "id": "d0a06ebad8a62813c06f0091c01ce040",
-      "title": "Does Mark Zuckerberg really believe AI is \u2018for",
-      "description": "Meta released Glimmer, an open-weight AI model anyone can download and run on their own hardware. Mark Zuckerberg argued AI should be \u201cfor everyone\u201d rather than controlled by a handful of labs. TechCrunch's Equity podcast hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan take a look at Zuckerberg\u2019s 6,500-word AI manifesto, and more of the week's headlines.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-15T01:44:21.998000Z"
-    },
-    {
-      "id": "0e0aa648101264aa2f9a823cf309735c",
-      "title": "Google will now allow users to remove visible",
-      "description": "Google will now allow users to remove visible watermark from its AI generations. Users will be able to go to Settings > Media Watermark to turn the visible mark on or off. The change reflects an evolving approach to labeling AI-generated media, as visible watermarks can often make content less useful for professional and creative work. Google is also open sourcing a new library called Credentio to let developers embed a local validation mechanism in their apps.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "fullArticleLink": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-15T01:44:08.521667Z"
-    },
-    {
-      "id": "a49722b6b09c38a73ca30c82696a4f12",
-      "title": "Google AI health coach to use Abbott glucose",
-      "description": "Abbott and Google are linking continuous glucose monitoring data with Google\u2019s AI-powered health coaching tools. Users will be able to view glucose trends alongside data from the Google Health app. Under a multiyear agreement, data from Abbott's Lingo continuous glucose monitor will be integrated into the Google app. Google's Gemini-powered service will access to another source of personal health information from Abbott\u2019S Lingo.",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Google-AI-health-coach-to-use-Abbott-glucose-data-scaled-e1786677715851.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-14T13:29:51.232587Z"
-    },
-    {
-      "id": "6d4228dfe746f34cd6b73e4128d083bf",
-      "title": "Zhipu AI releases GLM-5.3, claims it's the strongest",
-      "description": "GLM-5.3 helped security teams find 2,436 vulnerabilities across 269 projects. The model weights are set to go open source in two weeks. It is the most powerful open-weights coding model, with a 50 percent improvement over its predecessor through post-training alone. The new model weights will go open-source in the next two weeks, according to Zhipu AI's own benchmarks, with the model weights going open source.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/04/zhipu-ai-logo-wall.jpg",
-      "fullArticleLink": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-08-14T13:29:37.812954Z"
-    },
-    {
-      "id": "4e325eb27e622df5ea5871355a0edb5f",
-      "title": "Claude Code now runs daily maintenance on Anthropic's",
-      "description": "Anthropic is testing whether Claude Code can handle daily maintenance of its own apps. Anthropic created 388 pull requests, and 46 percent were merged after human review. In a few weeks, the AI created 388 pulled requests and merged 46 percent of those requests. Inventor Boris Cherny sees this as \"early signs of life\" that this might be possible, Cherny says. The algorithm now runs daily maintenance on Anthropic's software with 46 percent merge rate.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/claude_logo-1.png",
-      "fullArticleLink": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-14T13:29:25.561939Z"
-    },
-    {
-      "id": "ae87b21bb098e9ab1933fddaf5753c33",
-      "title": "HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment",
-      "description": "Large language models (LLMs) remain vulnerable to harmful requests and jailbreak attacks. Parameter-efficient safety alignment methods based on prompt tuning typically rely on a single global prompt or externally selected prompt modules. HiRoute trains a lightweight hierarchical router on representations extracted from a frozen LLM to jointly detect harmful intent and predict multi-label risk scores. It then freezes both the backbone model and the router and uses preference optimization with alternating gradient updates. At inference time, benign inputs bypass the safety branch, whereas risky inputs are processed using the shared prompt.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12821",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security"
-      ],
-      "pubDate": "2026-08-14T13:29:09.095486Z"
-    },
-    {
-      "id": "b68875ba0570474dc6e4b7b20c777fd7",
-      "title": "CoMedBench: A Multi-Source Benchmark of Synthetic Medical Data",
-      "description": "CoMedBench is a reproducible benchmark that evaluates a family of generators under a common clinical-validity framework and one shared training and evaluation engine. The benchmark spans 37 dataset-task pairs across two modalities consists of 20 static tabular and 17 temporal ICU time-series. The reference generator CoMed-CTGAN retains a mean AUROC utility (the synthetic-to-real performance ratio) of 90.6% (AUROC) on tabular tasks.",
-      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12805",
-      "type": "news",
-      "categories": [
-        "Security"
-      ],
-      "pubDate": "2026-08-14T13:28:55.333553Z"
-    },
-    {
-      "id": "2a27db66df3b21c08c93f8f9f9c2073d",
-      "title": "Perturbation-based Regional Interpretability through Subtraction Mapping (PR",
-      "description": "PRISM (Perturbation-based Regional Interpretability through Subtraction Mapping) is a falsifiable test of functional-specialization claims in transformer language models. PRISM maps the seven clinical Philadelphia Naming Test categories, subtracts error classes pairwise, and treats each perturbation seed as a subject in a group analysis. Both substrates recover a robust phonemic-favoring dissociation, a deep layer cluster and a frontal-perisylvian cortical cluster.",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12717",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-14T13:28:30.554611Z"
-    },
-    {
-      "id": "7555fee3a8f396e51cf33967a5dd6862",
-      "title": "Federated Compositional Muon Optimizer for Matrix-Wise Models",
-      "description": "Muon, a more recently developed optimizer, is useful for matrix-wise models in AI areas. We propose a variance reduced variant of Muon (FedCoMuon-VR) based on a momentum-based variance reduced technique. In theory, we analyze the convergence properties of our algorithms under the non-i.i.d. and non-convex settings. In particular, we prove that our FedCoMuons-VR obtains a lower sample complexity of $O(\\epsilon^{-3)$ than the existing FedMuon algorithms. Extensive numerical experiments show that our proposed methods are competitive with existing compositional baselines.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12710",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-14T13:28:15.064689Z"
-    },
-    {
-      "id": "08ce058c977d95c979850a65a438c94e",
-      "title": "The Impact of Temporal Context Length and Encoding",
-      "description": "Self-supervised electrocardiogram (ECG) models are often trained on a few seconds of ECG signal and, increasingly, on discretized token sequences. It remains unclear whether these choices sacrifice information needed for rhythm inference and longitudinal consistency in real-world ambulatory recordings. We present a controlled study on the Icentia11k single-lead dataset that varies (i) the input horizon and (ii) the front-end representation (continuous convolutional patch embeddings).",
-      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12695",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-14T13:27:49.645782Z"
     }
   ]
 }
