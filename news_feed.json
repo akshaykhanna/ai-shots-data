@@ -1,6 +1,192 @@
 {
   "news": [
     {
+      "id": "b574226bf39473a2dadf8fb55554d672",
+      "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand",
+      "description": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls. Dealers are already seeking buyers for thousands of B300 chips. Loans and major deals are now on the line for Southeast Asia's data centers.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
+      "fullArticleLink": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+      "type": "news",
+      "categories": [
+        "Hardware"
+      ],
+      "pubDate": "2026-11-26T21:28:04.572925Z"
+    },
+    {
+      "id": "bb93564626c3b791cf84b79b9a18e30d",
+      "title": "Microsoft details how state-backed hackers use ARTEX",
+      "description": "ARTEX AI framework runs cyberattacks with specialized agents and almost no human involvement. State-backed groups from China and North Korea, along with criminal organizations, are already using the system. Microsoft recommends deception techniques like honeypots and faked success signals as defenses.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/microsoft_human_touch.png",
+      "fullArticleLink": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+      "type": "news",
+      "categories": [
+        "Security"
+      ],
+      "pubDate": "2026-11-26T21:27:56.721290Z"
+    },
+    {
+      "id": "26356c66f9164ec9433f4435252fdbe3",
+      "title": "FCC clears SpaceX to deploy up to 1",
+      "description": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040. Google and Blue Origin are also working on AI infrastructure in space.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/SpaceX-xAI-Satellite-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-26T21:27:48.062934Z"
+    },
+    {
+      "id": "b78fe7f8673be46e5758ea28b563a3cc",
+      "title": "Chinese AI developer is turning to Google",
+      "description": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The effects now reach beyond previously known delays, after the US closed the cloud loophole for Nvidia chips. The company released the 750-billion-parameter GLM-5.4 on Monday and says a new design lets it keep up with systems that have 2 to 3 trillion parameters.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/us_china-1200x675.png",
+      "fullArticleLink": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware"
+      ],
+      "pubDate": "2026-11-26T21:27:36.302523Z"
+    },
+    {
+      "id": "99f43e8e47f63aa9d7aeffe01fb29c3e",
+      "title": "GPT-6.2 Astra users now hit limits 40% faster",
+      "description": "GPT-6.2 Astra and Sol users now hit limits 40% faster than last week. As an apology, subscribers get an extra reset and business users get free Fast Mode. OpenAI is also testing a Chat and Work mode merger.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/10/openai.png",
+      "fullArticleLink": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-26T21:27:28.066380Z"
+    },
+    {
+      "id": "cea9562a905f9d3302df654ef2319b34",
+      "title": "Former OpenAI researcher says the proof matters less",
+      "description": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. He's also \"virtually certain\" that AI labs are sitting on \"one or more bombshells\" in cryptography.",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/09/math_geometry_openai_hodge-1200x670.png",
+      "fullArticleLink": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-26T21:27:20.018655Z"
+    },
+    {
+      "id": "5d7d012f2c55ab603e1af40e072cc88b",
+      "title": "DLaR: Dynamic Stochasticity Control for Latent Reasoning",
+      "description": "Dynamic Stochasticity Control for Latent Reasoning (DLaR) is a framework with two complementary mechanisms that operate at different temporal granularities within the GRPO reinforcement learning framework. DLaR achieves the highest average performance across model scales, reaching 27.9%/50.6% on Llama-3.2-1B and 46.8%/68.2% on Qwen2.5-1.5B.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33962",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-26T21:27:04.194737Z"
+    },
+    {
+      "id": "f0d1dce71ca7ce7bee1675bd0aaa81aa",
+      "title": "CondUQ: Calibrated Conditional Uncertainty Quantification Using Distribution Match",
+      "description": "condUQ is built on top of an existing system without modifying it and applies even when the system is a black box. It maps the observable factors to a latent quality index (QI) such that errors sharing the same QI follow a common, approximately Gaussian conditional distribution. CondUQ substantially reduces the discrepancy between the modeled and empirical error distributions compared with a single global model.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33939",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Security"
+      ],
+      "pubDate": "2026-11-26T21:26:41.997288Z"
+    },
+    {
+      "id": "d0353777152bb680048cd0f9892d2589",
+      "title": "InstructTTS-OPD: On-Policy Distillation for Multi-Objective",
+      "description": "Reinforcement learning has become the standard way to post-train such generative models toward human preferences. When the three objectives are optimized together under a single scalar reward, training tends to be unstable. We propose conflict-aware velocity fusion, which projects the quality target off the direction that opposes the primary objective before fusing, and show that it markedly reduces the instruction-following/quality trade-off.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33937",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-26T21:26:29.552105Z"
+    },
+    {
+      "id": "87b40ba7236ac882833ade4c76591f35",
+      "title": "Voronoi Networks is a network of networks",
+      "description": "Nearest-neighbor methods are local, simple, and interpretable, but their non-parametric form makes them memory-intensive, expensive at inference, and difficult to integrate into differentiable neural architectures. We introduce Random Voronoi Networks (RVNs) a family of structured three-layer MLPs. RVFs produce a highly effective data encoding strategy, providing performance boosts to downstream deep learning models.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33875",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-26T21:26:06.678077Z"
+    },
+    {
+      "id": "25bdc35c9d79ecbea9472c1ac832bd37",
+      "title": "Self-supervised Clipped-objective Reinforcement Leaning Framework for Risk",
+      "description": "Portfolio management involves balancing diverse financial assets, a critical yet challenging task in quantitative trading. Deep reinforcement learning has emerged as an active research domain for solving complex sequential decision-making problems over the past decade. This paper presents a Self-supervised Clipped-objective Portfolio Management framework (SC) which addresses these limitations through a two-phase architecture. Extensive evaluations on three major index datasets from China's A-share market demonstrate that SCP's superior performance in balancing risk-return trade-offs.",
+      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33652",
+      "type": "news",
+      "categories": [
+        "General AI"
+      ],
+      "pubDate": "2026-11-26T21:25:42.314714Z"
+    },
+    {
+      "id": "785575128e4af8862859ae9a192f53ef",
+      "title": "Semantic Density Does Not Predict Agent-Memory Collapse",
+      "description": "Persistent textual memory can improve LLM agents, but repeated updates can erode task performance. We ask whether memory-store statistics warn before held-out accuracy declines. We registered mean pairwise cosine similarity ($\\rho$) and 13 additional geometry, retrieval, and graph statistics on 805 snapshots from 13 memory methods across ALFWorld, AppWorld, ScienceWorld, WebShop, and ARC-AGI settings.",
+      "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+      "fullArticleLink": "https://arxiv.org/abs/2611.33184",
+      "type": "news",
+      "categories": [
+        "LLM"
+      ],
+      "pubDate": "2026-11-26T21:24:23.765542Z"
+    },
+    {
+      "id": "a9159d83297384d3860be9cea7f4abb7",
+      "title": "Octopuses Use a Multi-Step process to Squeeze into",
+      "description": "Octopuses are the masters of contortion, being able to squeeze through just about any opening wider than their beaks. Scientists are interested in this ability because it could aid in the design of biologically inspired robots. The research team hopes to apply the insights gained from the octopus in this experiment to the control of soft robots designed to search disaster debris or explore difficult terrain.",
+      "imageUrl": "https://media.wired.com/photos/6afdf964ad9e100370243ebe/191:100/w_1280,c_limit/521341010",
+      "fullArticleLink": "https://www.wired.com/story/octopuses-use-a-multi-step-process-to-squeeze-into-tiny-spaces/",
+      "type": "news",
+      "categories": [
+        "Robotics"
+      ],
+      "pubDate": "2026-11-26T21:23:12.593585Z"
+    },
+    {
+      "id": "ed1460477a2635ba1fc93d7032cd6549",
+      "title": "Grand Theft Auto VI proves why efficiency isn\u2019t",
+      "description": "\"Grand Theft Auto VI\" is the highest-rated game of all time on Metacritic and made $3.79 billion on release day. Some fans craved GTA VI because of what it represents in the emerging era of AI. Anthropic became the first major AI lab to go public on Thursday. The promise of AI technology is that we will be able to automate so much work that we can expand our capabilities.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?resize=1200,675",
+      "fullArticleLink": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "type": "news",
+      "categories": [
+        "LLM",
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-26T21:22:56.229490Z"
+    },
+    {
+      "id": "4c9ff179b519e288765f4f0fecb79317",
+      "title": "Nvidia hits pause on chip shipments to Southeast",
+      "description": "WSJ: Nvidia has halted server shipments to Malaysia, Singapore, Thailand, and Indonesia for an unspecified period. Chinese companies have been tapping Nvidia chips remotely from data centers there. The think tank Institute for Progress estimates remote data centers supply about 24% of China\u2019s AI computing power. The US Commerce Department closed a loophole the Commerce Department reportedly closed earlier this month.",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
+      "fullArticleLink": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "type": "news",
+      "categories": [
+        "Hardware",
+        "Startup"
+      ],
+      "pubDate": "2026-11-26T21:22:46.948953Z"
+    },
+    {
       "id": "fe316c0b6037d85a30d9536bf266f071",
       "title": "MIT team discovers that unrealistic training data makes",
       "description": "MIT researchers have developed a method that lets AI climate models get by with a single training run instead of the usual six to eight. An algorithm generates deliberately unrealistic scenarios with extreme CO2 or methane swings that make the model more robust.",
@@ -15744,196 +15930,6 @@
         "Startup"
       ],
       "pubDate": "2026-08-16T01:51:48.893979Z"
-    },
-    {
-      "id": "73cbb223a27a0a6dd5fe734f2eb53d41",
-      "title": "Anthropic shares more details about how Claude\u2019s new",
-      "description": "Anthropic shares more details about how Claude\u2019s new watermarks will work. The company revealed earlier this week that it would be doing this watermarking to comply with the EU AI Act. Anthropic said it will be using the SynthID-Text approach that the Google DeepMind team outlined in 2024. It also said that Claude won\u2019t be the only AI chatbot to generate watermarked text, as other major model developers have signed the same Code of Practice.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
-      "fullArticleLink": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-16T01:51:31.075818Z"
-    },
-    {
-      "id": "a17d0cbb65ba7f318d2a56ec10b44891",
-      "title": "Woman claims stepfather used Grok to transform childhood",
-      "description": "A woman claims her stepfather used Grok to create more than 7,000 explicit images of her. The woman also said that her step-father was found dead of suicide two days after the images were uncovered in a law enforcement raid. The teenagers who\u2019d filed lawsuit accused xAI of failing to take basic precautions to prevent Grok from being used to create explicit images. They are seeking class action status for their suit.",
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "fullArticleLink": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Security",
-        "Startup"
-      ],
-      "pubDate": "2026-08-16T01:51:18.083865Z"
-    },
-    {
-      "id": "eb5bb4240827373125a6aeb26989b11d",
-      "title": "New benchmark confirms AI models still perform poorly",
-      "description": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see\" separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin. Many supposed reasoning errors actually happen as early as the image-reading stage. Many real reasoning errors happen as well as the reasoning errors, according to Moonshot's Perception Benchmark. The benchmark is a benchmark for how well multi-engineers can \"see,\" separate from logic.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/perceptionbench-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-15T12:54:48.568178Z"
-    },
-    {
-      "id": "4ec954fb1fb2c7aadffb937a1bf3b948",
-      "title": "The \"tragedy of the cognitive commons\" explains how",
-      "description": "A new research paper frames AI adoption as a \"tragedy of the cognitive commons\" Every company that cuts entry-level jobs benefits individually, but the collective expertise of entire professions erodes. The consequences may not become visible until 2030 to 2045, when today's missing junior talent should have become tomorrow's experienced workforce. Today's missing young talent should've become the experienced workforce, according to the paper. The paper argues that rational AI adoption could destroy entire professions.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/ai_jobs_young_people_cognitive_decline.png",
-      "fullArticleLink": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-15T12:54:36.607945Z"
-    },
-    {
-      "id": "8abd923c9cdb7383c50624ef626b6333",
-      "title": "World Labs turns one real-world robot task into",
-      "description": "From a single real-world task, the system generates thousands of controlled variations. The trained models then ran for one hour each on five different robot platforms without human intervention. How well the results hold up in more complex everyday situations remains to be seen. World Labs, founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments. The results remain a mystery as to whether they will hold up more complex situations.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/worldlabs-r2s2r-06-scenix-brand.jpg",
-      "fullArticleLink": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/",
-      "type": "news",
-      "categories": [
-        "Robotics",
-        "Startup"
-      ],
-      "pubDate": "2026-08-15T12:54:24.878149Z"
-    },
-    {
-      "id": "fd929727e40719a0fceecc642a1cf099",
-      "title": "Plaintiff hid invisible AI instructions in court filings",
-      "description": "A plaintiff in Connecticut embedded invisible prompt injections in court filings to manipulate a potential AI review system. Judge Spader compared the attempt to secretly tampering with a jury and revoked the plaintiff's electronic filing privileges. Connecticut doesn't use AI to review filings, but the intent alone was enough to warrant sanctions. The court stressed that Connecticut. filings, however, it was not necessary to do so.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/trojanisches-pferd-prompt-injection-1200x670.png",
-      "fullArticleLink": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-15T12:54:13.418284Z"
-    },
-    {
-      "id": "b59bbdfdda5eb5d9d098aedc28f4df19",
-      "title": "AI-generated books are flooding Amazon and tanking sales",
-      "description": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. Revenue per book is dropping for human-written titles too, in seven of eight genres. The findings could give copyright plaintiffs the market-harm data their cases against AI companies have been missing. Findings could help copyright plaintiffs get the data they've been missing in court cases against the AI companies.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/AI-generated-books-dilute-Amazon-Kindle-Nano-Banana-Pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-15T12:54:02.586689Z"
-    },
-    {
-      "id": "893e4fe5644ed7889115a4413ba6ca17",
-      "title": "Samsung health AI models analyse wearable biosignal data",
-      "description": "Samsung Research America\u2019s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. The company discussed its Connected Care vision at the Health Forum during Galaxy Unpacked in July 2026. Samsung described a future of the Connected Health Forum at the end of the year.",
-      "imageUrl": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/samsung-galaxy-watch-health-AI-models-analyse-wearable-biosignal-data-ecg-heart-digital-foundation-artificial-intelligence.jpg",
-      "fullArticleLink": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-15T01:50:37.949196Z"
-    },
-    {
-      "id": "4aff58fd6db060d9a322b65b27b761f4",
-      "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches",
-      "description": "OpenAI is launching \"Ultrafast,\" a new inference mode that delivers GPT-5.6 Sol at up to 750 output tokens per second. Ultrafast mode is powered by Cerebras hardware from their $10 billion partnership. Together with \"Standard\" and \"Fast,\" Ultrafast creates a three-tier pricing structure that turns inference speed into its own product. The U.S. tech giant is launching a new \"ultrafast\" inference mode.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/openai_ultrafast.png",
-      "fullArticleLink": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Hardware"
-      ],
-      "pubDate": "2026-08-15T01:50:23.630246Z"
-    },
-    {
-      "id": "f07d42c202ccf63eb27601bfdc949917",
-      "title": "Study contradicts Anthropic and OpenAI claims that autonomous",
-      "description": "AI agents using Claude Opus 4.8 and GPT-5.6 Sol were given six days, $3,000 in API credits, and GPU access to independently write AI research papers. The original authors of unpublished NeurIPS papers rated the results as \"Reject\" According to the study, frontier models can handle the full research engineering process but fall short on research judgment, creative problem-solving.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/ai-assisted-science-rejected-papers-nano-banana-pro.jpg",
-      "fullArticleLink": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/",
-      "type": "news",
-      "categories": [
-        "LLM",
-        "Robotics",
-        "Hardware",
-        "Security"
-      ],
-      "pubDate": "2026-08-15T01:50:11.595724Z"
-    },
-    {
-      "id": "57e8da1836beb2080fbb88603e3f44c3",
-      "title": "OpenAI's Computer History turns your clicks and keystrokes",
-      "description": "OpenAI's Computer History records clicks, keystrokes, and app switches on Mac and turns them into a searchable timeline for ChatGPT and Codex. The data is stored locally as unencrypted Markdown files. OpenAI says it's not used for AI training, but memories that feed into chats may still end up as training data. The company says it doesn't use it for training purposes, but it may still be useful.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/computer_history.png",
-      "fullArticleLink": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-15T01:49:59.730390Z"
-    },
-    {
-      "id": "3cc389ce23d0b3b5a26bddd145445ffe",
-      "title": "Alibaba's Qwen team releases Qwen 3.8 models",
-      "description": "Alibaba's AI team Qwen has released new open model weights under the Apache 2.0 license. The dense 27-billion-parameter model is designed to outperform the larger Qwen 3.7 Plus in coding and office tasks. With this release, Qwen is targeting developers building local and agent-based applications. The Qwen model natively processes up to 262,000 tokens of context in a single hour.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/qwen_logo-2.png",
-      "fullArticleLink": "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-15T01:49:47.759600Z"
-    },
-    {
-      "id": "723be7d410a95bd8e4faec68450aa11d",
-      "title": "Anthropic announces watermark detection API that will let",
-      "description": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks the randomness during word selection without affecting text quality, Anthropic says. The approach has limits with fact-heavy text, code, and heavy rewriting, the company says, but it can be used to detect text that is written by the AI.",
-      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
-      "fullArticleLink": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
-      "type": "news",
-      "categories": [
-        "LLM"
-      ],
-      "pubDate": "2026-08-15T01:49:36.219806Z"
-    },
-    {
-      "id": "9f6e80456c41a5a83f57fe40c427c750",
-      "title": "Relational Deep Learning is a form of deep",
-      "description": "Relational Deep Learning (RDL) models multi-tabular databases as temporal heterogeneous graphs to enable end-to-end representation learning. We present multiple incremental training regimes for fine-tuning the models and demonstrate that transfer learning is both feasible and highly effective in the RDL setting. We show that our models consistently outperform the standard, expensive, from-scratch trained baselines. arXiv:2608.13023v1.",
-      "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780efad99a?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.13023",
-      "type": "news",
-      "categories": [
-        "General AI"
-      ],
-      "pubDate": "2026-08-15T01:49:10.536131Z"
-    },
-    {
-      "id": "a0633e3489c2f1c101fb168d8967b29c",
-      "title": "Balanced Adaptive Prototype Selection for Scalable TabPFN Inference",
-      "description": "Paper introduces Balanced Adaptive Prototype Selection (BAPS) framework for constructing compact, information-preserving contexts for scalable TabPFN inference. Without modifying or retraining the pretrained model, BAPS preserves representative structure, informative decision boundaries, local density, class balance, and feature-space diversity. Experiments on the million-row HIGGS and SUSY datasets show that 512 prototypes retain strong predictive performance and reliable calibration.",
-      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
-      "fullArticleLink": "https://arxiv.org/abs/2608.12989",
-      "type": "news",
-      "categories": [
-        "Hardware"
-      ],
-      "pubDate": "2026-08-15T01:48:59.413185Z"
     }
   ]
 }
